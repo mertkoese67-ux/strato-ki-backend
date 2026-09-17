@@ -1,7 +1,12 @@
 {
   "name": "strato-ki-backend",
   "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.20.0"
   }
 }
+
