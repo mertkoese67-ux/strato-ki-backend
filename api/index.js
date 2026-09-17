@@ -1,62 +1,51 @@
-import Anthropic from "@anthropic-ai/sdk";
+const express = require("express");
+const cors = require("cors");
+const OpenAI = require("openai");
 
-const client = new Anthropic({
+const app = express();
+app.use(cors());
+app.use(express.json({ limit: "25mb" }));
+
+const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-export default async function handler(req, res) {
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Nur POST erlaubt" });
-  }
+app.get("/", (req, res) => {
+  res.json({ status: "ok" });
+});
 
+app.post("/api/ki-analyse", async (req, res) => {
   try {
-    const { messages, image } = req.body;
+    const { messages, image, imageMediaType } = req.body;
+    const prompt = messages || "Analysiere dieses Dokument und extrahiere alle Buchhaltungsdaten.";
 
-    if (image) {
-      const response = await client.messages.create({
-        model: "claude-3-5-sonnet-20241022",
-        max_tokens: 1024,
-        messages: [
+    const content = image
+      ? [
+          { type: "text", text: prompt },
           {
-            role: "user",
-            content: [
-              {
-                type: "text",
-                text: messages || "Analysiere dieses Dokument und extrahiere alle Buchhaltungsdaten",
-              },
-              {
-                type: "image",
-                source: {
-                  type: "base64",
-                  media_type: "image/jpeg",
-                  data: image,
-                },
-              },
-            ],
+            type: "image_url",
+            image_url: {
+              url: `data:${imageMediaType || "image/jpeg"};base64,${image}`,
+            },
           },
-        ],
-      });
+        ]
+      : prompt;
 
-      return res.status(200).json({
-        success: true,
-        message: response.content[0].text,
-      });
-    }
-
-    const response = await client.messages.create({
-      model: "claude-3-5-sonnet-20241022",
-      max_tokens: 1024,
-      messages: [{ role: "user", content: messages }],
+    const response = await client.chat.completions.create({
+      model: "gpt-4o",
+      max_tokens: 1500,
+      messages: [{ role: "user", content }],
     });
 
-    return res.status(200).json({
+    res.json({
       success: true,
-      message: response.content[0].text,
+      message: response.choices[0].message.content,
     });
   } catch (error) {
     console.error("API Fehler:", error);
-    return res.status(500).json({
-      error: error.message || "Unbekannter Fehler",
-    });
+    res.status(500).json({ error: error.message });
   }
-}
+});
+
+const port = process.env.PORT || 3000;
+app.listen(port, () => console.log(`Läuft auf Port ${port}`));
