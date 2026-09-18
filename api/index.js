@@ -100,7 +100,7 @@ app.post("/api/ki-analyse", async (req, res) => {
           ];
 
     const antwort = await client.chat.completions.create({
-      model: "gpt-4o",
+      model: "gpt-4o-mini",
       max_tokens: 3000,
       response_format: { type: "json_object" },
       messages: [{ role: "user", content: inhalt }],
