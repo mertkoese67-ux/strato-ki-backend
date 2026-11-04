@@ -2,6 +2,8 @@
 // Amadeus Leisure IBE (Schmetterling, Agentur taid=46850).
 // Reine Funktion, keine Netzwerkzugriffe. Parameter am 04.11.2026 lesend verifiziert
 // (siehe docs/IBE-Analyse-2026-11.md).
+// Getestet nur: 2 Erwachsene + 1 Kind, ein Abflughafen, feste Dauer, mit/ohne brand.
+// Mehrere Kinder, mehrere Abflughaefen, Dauerspannen und Zimmer/Verpflegung sind ungetestet.
 //
 // Wichtig: Kinder muessen IMMER zusaetzlich als `child` (Alter, kommagetrennt)
 // uebergeben werden. Nur `talloc` reicht nicht - die IBE ignoriert dann das Kind.
@@ -22,7 +24,8 @@ function isoDatum(d) {
  *                                     Spanne als "6,9"
  * @param {string[]} [a.abflug]    IATA-Codes (depap), z.B. ["PAD","HAJ"]
  * @param {number} a.erwachsene    Anzahl Erwachsene (adult)
- * @param {number[]} [a.kinder]    Kinderalter am Rueckreisetag (child)
+ * @param {number[]} [a.kinder]    Kinderalter (child). UNGEPRUEFT: ob die IBE das Alter bei
+ *                                 Hin- oder Rueckreise erwartet und ob es preislich korrekt wirkt.
  * @param {string} [a.veranstalter] Veranstaltercode (brand), z.B. "ANEX" - optional
  * @param {object} [a.utm]         utm_* fuer die eigene Auswertung auf haydiweg.de
  *                                 (werden vom Loader NICHT an die IBE weitergegeben)

@@ -1,5 +1,7 @@
 # IBE-Prüfung haydiweg.de/buchen/ – Bericht
 
+> **Korrekturhinweis (Nachprüfung):** Nach erneuter Durchsicht der Rohdaten habe ich folgende Aussagen korrigiert. (1) Test 3 war **nicht identisch** mit Test 1: Preis, Termin und Flüge waren gleich, das Zimmer war ein anderes. (2) Der Abstand zwischen Test 1 und Test 3 betrug etwa **3 Minuten**, nicht 10. (3) `brand` und das exakte Datum wurden zwar übernommen, ihre Wirkung ist damit aber nicht belegt, weil ANEX und der 14.06. auch ohne diese Vorgaben das Ergebnis waren. (4) Die Belegung ist nur **indirekt** belegt (Preis pro Person × 3 = Gesamtpreis); das Kinderalter wurde nicht geprüft. Einzelheiten stehen in `docs/belege/testprotokoll-2026-11-04.md`.
+
 Stand: 04.11.2026 · Methode: ausschließlich lesende Abrufe der öffentlich ausgelieferten Seiten und Skripte, dazu drei einzelne Seitenaufrufe des Testangebots in einem Headless-Browser (so wie ein Besucher). Ich habe keine Buchungsschritte geklickt, keine Formulare abgeschickt, keine Daten verändert, keine Schutzmaßnahmen umgangen und kein externes Unternehmen kontaktiert.
 
 ---
@@ -17,7 +19,7 @@ Stand: 04.11.2026 · Methode: ausschließlich lesende Abrufe der öffentlich aus
 
 | Merkmal | Nachweis |
 |---|---|
-| Produkt | **Amadeus Leisure IBE („ALIBE“)**, Ausprägung *Advanced*. Belege: `<app-root-alibe>`, Marker „AMADEUS-IBE“, Fonts `amadeus-ibe-icons`, API-Parameter `mandator=man-advanced`. |
+| Produkt | **Amadeus Leisure IBE („ALIBE“)**. Ausprägung vermutlich *Advanced*; das schließe ich nur aus dem Parameternamen `mandator=man-advanced`. Belege: `<app-root-alibe>`, Marker „AMADEUS-IBE“, Fonts `amadeus-ibe-icons`, API-Parameter `mandator=man-advanced`. |
 | Betreiber, Mandant | Schmetterling, über `/api/config`: `customer=schmetterling`, `mandator=alibe`, `kid=890002`, `giataUser=944412`, `environment=prd`. |
 | Hosts | `pauschalreise.schmetterling.de` (Pauschalreise) und `eigenanreise.schmetterling.de` (nur Hotel). |
 | Agenturkennung | `taid=46850`, im Loader fest gesetzt. |
@@ -37,9 +39,9 @@ Stand: 04.11.2026 · Methode: ausschließlich lesende Abrufe der öffentlich aus
 * Höhe und Scrollen werden per `postMessage` abgestimmt: `iberesized`, `scroll`, `parent-scroll`, `parent-resize`. Nachrichten anderer Herkunft werden ignoriert. Die Umsetzung ist sauber.
 
 ### Auffälligkeiten im Website-Code (ohne Änderung, nur zur Info)
-1. **Widerspruch bei den Filtern.** Laut Loader-Kommentar sind `dfl` (nur Direktflug) und `trans` (mit Transfer) bewusst nicht gesetzt, „sonst fällt ein Teil der Angebote weg“. Die Suchmaske setzt aber fest `dfl=1` und `trans=1`. Wer über die Suchmaske sucht, sieht deshalb weniger Angebote.
+1. **Widerspruch bei den Filtern.** Laut Loader-Kommentar sind `dfl` (nur Direktflug) und `trans` (mit Transfer) bewusst nicht gesetzt, „sonst fällt ein Teil der Angebote weg“. Die Suchmaske setzt aber fest `dfl=1` und `trans=1`. Wer über die Suchmaske sucht, sieht deshalb vermutlich weniger Angebote. Das folgt aus dem Code und ist nicht getestet.
 2. **Die Suchmaske umgeht die Buchungsseite.** Sie öffnet die IBE direkt in einem neuen Tab auf schmetterling.de und nicht über `haydiweg.de/buchen/`.
-3. **Reisedauer prüfen.** Die Maske rechnet „1 Woche → `dur=6`“. Im Test ergab `dur=7` die Anzeige „8 Tage, 7 Übernachtungen“. „1 Woche“ in der Maske sucht also Reisen mit 6 Nächten, nicht die übliche Woche mit 7 Nächten.
+3. **Reisedauer prüfen.** Die Maske rechnet „1 Woche → `dur=6`“. Im Test ergab `dur=7` die Anzeige „8 Tage, 7 Übernachtungen“. „1 Woche“ in der Maske sucht demnach vermutlich Reisen mit 6 Nächten, nicht die übliche Woche mit 7 Nächten. Die Maske selbst habe ich nicht getestet.
 4. Die meisten Ziele in der Suchmaske haben noch **keine `rid`**. Wer sie wählt, sucht ohne Einschränkung auf das Ziel. Die Konsole warnt bereits darauf hin.
 5. `utm_campaign` setzt der Loader auf `suchmaske` (mit `ddate`) oder `buchungsseite`. Eigene Flyer-UTMs erscheinen deshalb nur im Analytics von haydiweg.de, **nicht in der IBE-Auswertung**.
 
@@ -63,9 +65,9 @@ Testhotel: *Quattro Family Club Dem* (`aid=156021`, GIATA 419100). Ich habe drei
 
 | Test | URL-Parameter (an haydiweg.de/buchen/) | Ergebnis |
 |---|---|---|
-| 1 | `aid=156021&ddate=2027-06-01&rdate=2027-06-30&dur=7&depap=PAD&talloc=2-8&adult=2&child=8` | ✅ Hotel korrekt. Zeitraum korrekt; der günstigste Termin Mo 14.06. bis Mo 21.06.27 wurde vorgewählt. ✅ „8 Tage, 7 Übernachtungen“. ✅ Hin- und Rückflug Paderborn-Lippstadt ↔ Antalya, direkt. ✅ „Bester Familienpreis inkl. Kinderrabatt“, Familienzimmer, All Inclusive Plus. **Gesamtpreis 1.992,00 €** (664 € p. P.), günstigstes von 55 Veranstaltern. Die IBE meldete automatisch eine Verfügbarkeitsprüfung „AVAILABLE / bookable“. |
-| 2 | wie 1, aber exakter Termin `ddate=2027-06-14&rdate=2027-06-21`, `brand=ANEX`, **ohne `child`** | ✅ Exakter Termin und Veranstalter ANEX wurden übernommen. ❌ **Das Kind wurde nicht übernommen** (nur 2 Erwachsene, Zimmer „Doppelz. Nur für Männer“, 1.716 €). Daraus folgt: `talloc` allein reicht nicht, `child` ist Pflicht. |
-| 3 | Link aus `tools/ibe-deeplink.js` (wie Test 1 plus Flyer-UTM) | ✅ Identisches Ergebnis wie Test 1 (1.992,00 €). Der Preis war nach etwa 10 Minuten unverändert. |
+| 1 | `aid=156021&ddate=2027-06-01&rdate=2027-06-30&dur=7&depap=PAD&talloc=2-8&adult=2&child=8` | ✅ Hotel korrekt. Zeitraum korrekt; der günstigste Termin Mo 14.06. bis Mo 21.06.27 wurde vorgewählt. ✅ „8 Tage, 7 Übernachtungen“. ✅ Hin- und Rückflug Paderborn-Lippstadt ↔ Antalya, direkt. ✅ „Bester Familienpreis inkl. Kinderrabatt“, Familienzimmer, All Inclusive Plus. **Gesamtpreis 1.992,00 €** (664 € p. P. × 3 Personen), günstigstes von 55 Veranstaltern (ANEX). Die IBE meldete automatisch eine Verfügbarkeitsprüfung „AVAILABLE / bookable“. ⚠️ Die Belegung ist nur indirekt über den Preis belegt; das Kinderalter wurde nicht geprüft. |
+| 2 | wie 1, aber exakter Termin `ddate=2027-06-14&rdate=2027-06-21`, `brand=ANEX`, **ohne `child`** | ⚪ Exakter Termin und Veranstalter ANEX wurden übernommen. Das ist **nicht aussagekräftig**, weil Test 1 ohne diese Vorgaben zum selben Ergebnis kam. ❌ **Das Kind wurde nicht übernommen** (nur 2 Erwachsene, Zimmer „Doppelz. Nur für Männer“, 1.716 €). Daraus folgt: `talloc` allein reicht nicht, `child` ist Pflicht. |
+| 3 | Link aus `tools/ibe-deeplink.js` (wie Test 1 plus Flyer-UTM) | ✅ Gleicher Preis (1.992,00 €), gleicher Termin, gleiche Flüge, etwa 3 Minuten nach Test 1. ⚠️ **Anderes Zimmer** („Doppelzimmer Run of House“ statt „FZ Landblick Hauptgebäude“). Dieselbe URL liefert also nicht zwingend exakt dasselbe Angebot. |
 
 Fazit: Ein direkter Angebotslink, der Hotel, Reisedatum, Abflughafen und Belegung übernimmt, **funktioniert über die eigene Domain** und mit der eigenen Agenturkennung. Bedingung: `adult` und `child` werden immer mitgesetzt. Den Generator dafür habe ich in `tools/ibe-deeplink.js` angelegt; er greift nicht aufs Netz zu.
 
@@ -84,7 +86,7 @@ Nicht geprüft habe ich, ob ein **einzelnes, eingefrorenes Angebot** (`offerId` 
 ### Eignung für eine Prüfung alle 6 Stunden
 Annahme: 8 neue Flyer pro Tag, jeder etwa 14 Tage aktiv. Dann laufen rund 110 Angebote gleichzeitig. Bei 4 Prüfungen am Tag sind das etwa **450 Seitenaufrufe pro Tag**. Jeder Aufruf löst rund 10 bis 12 Anfragen an das IBE-Backend aus, darunter eine **echte Verfügbarkeitsanfrage beim Veranstalter** (`availabilitycheck`).
 
-Diese Last erzeugt Kosten beim Betreiber und verschlechtert das Verhältnis von Suchen zu Buchungen („Look-to-Book“). Außerdem ist es wahrscheinlich, dass der Imperva-Schutz die Zugriffe sperrt. Das kann im schlimmsten Fall auch echte Kunden an der gemeinsamen IP treffen. Eine 6-stündliche Vollautomatik ist daher **nicht ohne Freigabe** zu empfehlen.
+Diese Last erzeugt Kosten beim Betreiber und verschlechtert das Verhältnis von Suchen zu Buchungen („Look-to-Book“). Außerdem besteht das Risiko, dass der Imperva-Schutz die Zugriffe sperrt. Das ist eine Einschätzung, getestet habe ich es nicht. Das kann im schlimmsten Fall auch echte Kunden an der gemeinsamen IP treffen. Eine 6-stündliche Vollautomatik ist daher **nicht ohne Freigabe** zu empfehlen.
 
 ### Bildrechte
 * Die Hotelbilder und -texte in der IBE stammen von GIATA bzw. den Veranstaltern; die Texte tragen den Vermerk „© GIATA GmbH 1996 – 2026“.
@@ -97,13 +99,15 @@ Diese Last erzeugt Kosten beim Betreiber und verschlechtert das Verhältnis von 
 
 ### ✅ Nachweislich funktionsfähig
 * IBE-Einbindung per iFrame auf `/buchen/` mit fester Agenturkennung `taid=46850`, Höhenanpassung und Scroll-Abstimmung.
-* Angebots-Deeplink über `haydiweg.de/buchen/?aid=…&ddate=…&rdate=…&dur=…&depap=…&adult=…&child=…&talloc=…`. Hotel, Zeitraum, Dauer, Abflughafen und Belegung inklusive Kinderpreis werden korrekt übernommen. Dreimal getestet, reproduzierbar.
-* Mit `brand=…` lässt sich der Veranstalter festlegen; ein exaktes Datum (`ddate` gleich Hinreisetag, `rdate` gleich Rückreisetag) wird ebenfalls übernommen.
+* Angebots-Deeplink über `haydiweg.de/buchen/?aid=…&ddate=…&rdate=…&dur=…&depap=…&adult=…&child=…&talloc=…`. Hotel, Zeitraum, Dauer und Abflughafen werden übernommen; die Personenzahl (3, davon mindestens 1 Kind) indirekt über den Preis. Getestet mit einem Hotel und einer Belegung, zweimal mit gleichem Preis.
 * Die IBE zeigt beim Aufruf den aktuellen Gesamtpreis und prüft die Verfügbarkeit selbst. Der Kunde sieht also immer den tagesaktuellen Preis.
-* Der Deeplink-Generator `tools/ibe-deeplink.js` erzeugt Links, die verifiziert funktionieren.
+* Der Deeplink-Generator `tools/ibe-deeplink.js` erzeugt einen funktionierenden Link für die getestete Kombination.
 
 ### 🟡 Technisch möglich, aber noch nicht bestätigt
 * Automatisches Auslesen des angezeigten Preises per Headless-Browser über den öffentlichen Deeplink. Technisch belegt, **Erlaubnis ungeklärt**.
+* Wirkung von `brand` (Veranstalter) und exaktem Termin: Die Werte werden übernommen, ihre Wirkung ist nicht belegt.
+* Ob das Kinderalter korrekt in den Preis eingeht; mehrere Kinder, mehrere Abflughäfen, Dauerspannen.
+* Dass dieselbe URL immer exakt dasselbe Angebot zeigt: Im Test wechselte das Zimmer.
 * Festlegen von Zimmer und Verpflegung im Link (`rcode`, Board-Filter): Die Parameter existieren im Code, ich habe sie nicht getestet.
 * Dauerhafte Links auf ein einzelnes, exaktes Angebot (`offerId`, `availableOffer`): Die Token sind wahrscheinlich kurzlebig. Ungetestet, weil dafür die Buchungsstrecke nötig wäre.
 * Stabilität der Parameternamen über künftige IBE-Releases: Sie sind nur aus dem Code abgelesen und nicht vertraglich zugesichert.
