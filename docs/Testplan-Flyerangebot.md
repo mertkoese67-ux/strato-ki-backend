@@ -1,6 +1,6 @@
 # Testplan: Ein reales Veranstalter-Flyerangebot Ende-zu-Ende prüfen
 
-Status: **Entwurf, noch nicht durchgeführt.** In dieser Sitzung liegt noch **kein Veranstalter-Flyer** vor. Für den Start brauche ich einen Flyer als PDF oder Bild.
+Status: **Abschnitte 1 bis 4 am 04.11.2026 mit dem TUI-Flyer „Magic Life Redsina“ durchgeführt. Ergebnis: T4 nicht bestanden.** Einzelheiten in `docs/belege/testprotokoll-flyer-tui-redsina-2026-11-04.md`. Offen sind T1 (KI-Extraktion) und die Abschnitte 5 und 6.
 
 Ziel: Für **ein** reales Flyerangebot belegen, ob sich die Kette „Flyer → Daten → Link → richtige Reise in der IBE → Preisvergleich“ ohne Kontakt zu Schmetterling oder Amadeus und ohne Produktivänderung umsetzen lässt.
 
