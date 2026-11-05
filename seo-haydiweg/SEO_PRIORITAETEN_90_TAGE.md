@@ -28,7 +28,7 @@
 | 13 | „Beste Reiseziele 2024“ auf **2027** aktualisieren, neue URL `/reise-blog/beste-reiseziele/` + 301; danach Snippet-Eintrag einkommentieren |
 | 14 | `/tuerkei-urlaub-side/` → `/urlaubsziele/tuerkei-urlaub-buchen/side/` (301), Hotels in Side ergänzen |
 | 15 | **Neue Regionsseiten** Alanya und Belek (meiste gefilmte Hotels) – mit eigenen Videos, Vergleichstabelle, FAQ; Titel nach Muster „Alanya Urlaub {saison}: Orte, Hotels & Reisezeit \| haydi-weg“ |
-| 16 | **Frühbucher-Seite** `/fruehbucher/` (Sommer 2027) – ohne eigene Rabattversprechen |
+| 16 | ~~Frühbucher-Seite~~ → entfällt, wird durch Blogartikel #11 abgedeckt (siehe `SEO_KEYWORD_ZUORDNUNG.csv`) |
 | 17 | Interne Verlinkung nach den Regeln in `SEO_LANDINGPAGE_STRATEGIE.md` Abschnitt 5 (Blog → Ziel → Hotel → Buchung) |
 | 18 | Google-Unternehmensprofil: Fotos, Leistungen, 1 Beitrag pro Woche (Hotelvideo) |
 

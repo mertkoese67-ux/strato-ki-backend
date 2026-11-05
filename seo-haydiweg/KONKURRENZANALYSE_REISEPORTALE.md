@@ -110,7 +110,7 @@
 |---|---|---|
 | **Positionierung** | Masse, Preis, Deals | Beratung, Türkei-Kompetenz, eigene Hotelvideos |
 | **Beweis** | Mengen-Zahlen (Mio. Bewertungen, Tausende Hotels) | Persönliche Belege: 5,0 bei Google, seit 2014, 14–15 Hotels selbst gefilmt |
-| **Titelbeispiel Türkei** | „Türkei Pauschalreisen 2026: Hotel inkl. Flug & Transfer \| Urlaubsguru“ | „Türkei Urlaub 2027: Regionen, Hotels & Preise \| haydi-weg“ – Informations- **und** Buchungsnutzen |
+| **Titelbeispiel Türkei** | „Türkei Pauschalreisen 2026: Hotel inkl. Flug & Transfer \| Urlaubsguru“ | „Türkei Urlaub 2027: All Inclusive, Regionen & Hotels \| haydi-weg“ – Informations- **und** Buchungsnutzen |
 | **Hotelseiten** | Bewertungen anderer Gäste | „Hotelvideo & Erfahrungen“ – eigenes Material |
 | **Lokal** | nicht vorhanden | „Reisebüro Minden: persönliche Beratung seit 2014“ |
 | **Cashback** | „+ 800 € Cashback“ (Höchstbetrag) | „30 bis 1.000 € zurück“ – ehrliche Staffel, nur auf der Cashback- und Buchungsseite |

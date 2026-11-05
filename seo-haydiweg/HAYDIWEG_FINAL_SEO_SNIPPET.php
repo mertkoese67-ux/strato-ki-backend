@@ -164,8 +164,8 @@ if ( ! function_exists( 'hw_seo_settings' ) ) :
 				// Vorher: Türkei Urlaub buchen – All Inclusive & Regionen | haydi-weg
 				2012 => array(
 					'path'        => '/urlaubsziele/tuerkei-urlaub-buchen/',
-					'title'       => 'Türkei Urlaub {saison}: Regionen, Hotels & Preise | haydi-weg',
-					'description' => 'Side, Alanya, Belek oder Kemer? Regionen, beste Reisezeit und All-Inclusive-Preise im Überblick, dazu 14 Hotels, die wir selbst getestet haben.',
+					'title'       => 'Türkei Urlaub {saison}: All Inclusive, Regionen & Hotels | haydi-weg',
+					'description' => 'Side, Alanya, Belek oder Kemer? Regionen, beste Reisezeit und All Inclusive im Überblick, dazu 14 Hotels, die wir selbst getestet haben.',
 				),
 				// Vorher: Ägypten Urlaub buchen – Hurghada & Rotes Meer | haydi-weg
 				2022 => array(

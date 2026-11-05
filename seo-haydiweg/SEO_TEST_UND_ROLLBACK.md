@@ -49,7 +49,7 @@ Als Administrator eingeloggt jede URL mit `?hw_seo_preview=1` öffnen, dann **Re
 | # | URL (mit `?hw_seo_preview=1`) | Erwarteter `<title>` | Description |
 |---|---|---|---|
 | 1 | `https://haydiweg.de/` | Urlaub buchen mit persönlicher Beratung \| haydi-weg | neu |
-| 2 | `/urlaubsziele/tuerkei-urlaub-buchen/` | Türkei Urlaub 2027: Regionen, Hotels & Preise \| haydi-weg | neu |
+| 2 | `/urlaubsziele/tuerkei-urlaub-buchen/` | Türkei Urlaub 2027: All Inclusive, Regionen & Hotels \| haydi-weg | neu |
 | 3 | `/urlaubsziele/aegypten-urlaub-buchen/` | Ägypten Urlaub 2027: Hurghada & All Inclusive \| haydi-weg | neu |
 | 4 | `/urlaubsziele/spanien-urlaub-buchen/` | Spanien Urlaub 2027: Mallorca & Kanaren \| haydi-weg | neu |
 | 5 | `/reise-blog/checkliste-urlaub/` | Checkliste Urlaub: Packliste & To-dos vor Abreise \| haydi-weg | **unverändert** (Rank Math) |

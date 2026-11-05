@@ -16,10 +16,10 @@ Bewertet nach vorhandener Kompetenz (Hotels gefilmt?) und Suchintention. **Nur S
 | **1** | `/urlaubsziele/tuerkei-urlaub-buchen/antalya-lara/` | Mardan Palace, Swandor Topkapi gefilmt; „Antalya Urlaub“ ist eines der wichtigsten Türkei-Keywords | Lara vs. Konyaaltı vs. Altstadt, Transferzeiten, eigene Hotels, Reisezeit, FAQ |
 | **1** | `/urlaubsziele/tuerkei-urlaub-buchen/alanya/` | 6 Hotels gefilmt (Quattro ×2, Rubi ×2, Selene, Serenity) | Konaklı/Avsallar/Türkler/Zentrum im Vergleich, Strandtypen, Hotels nach Urlaubsart |
 | **1** | `/urlaubsziele/tuerkei-urlaub-buchen/belek/` | 4 Hotels gefilmt (Ela, Selectum ×2, Spice) | Golf, Sandstrand, Familien-Resorts, Transfer |
-| **2** | `/urlaubsziele/tuerkei-urlaub-buchen/kemer/` | 3 Hotels gefilmt (Mirage, NG Phaselis, Swandor Kemer) | Göynük/Kiriş/Tekirova, Berge + Meer, Steg-Strände |
+| **2** | `/urlaubsziele/tuerkei-urlaub-buchen/kemer/` | 3 Hotels gefilmt (Mirage, NG Phaselis, Swandor Kemer) | Göynük/Kiriş/Tekirova, Berge + Meer, Steg-Strände. **Abstimmung Blog:** Blogartikel #35 „Urlaub in Kemer“ zielt auf dasselbe Keyword → Empfehlung: Inhalt von #35 als diese Seite nutzen (siehe `SEO_ABGLEICH_BLOGSTRATEGIE.md`) |
 | **2** | `/urlaubsziele/tuerkei-urlaub-buchen/side/` | **Bestehende** `/tuerkei-urlaub-side/` dorthin umziehen (301), statt neu zu bauen | wie heute + eigene Hotels |
-| **2** | `/fruehbucher/` | Saison-Keyword mit hoher Relevanz ab Oktober; alle Wettbewerber haben „Frühbucher 2027“ | Wann lohnt Frühbuchen, was Frühbucher konkret bedeutet (Veranstalterkonditionen *ohne* eigene Rabattversprechen), Beratungsangebot |
-| **3** | `/tuerkei/adults-only-hotels/` (Beitrag) | WhatsApp-Vorlage „Adults-Only-Hotel“ existiert schon; Selene (ab 16) gefilmt | Vergleich wie beim Aquapark-Artikel |
+| ~~2~~ | ~~`/fruehbucher/`~~ **gestrichen** (Abstimmung Blog, 05.11.2026) | „Frühbucher {saison}“ wird allein vom Blogartikel #11 besetzt (jahresneutraler Slug). Eine zweite Frühbucher-URL würde mit ihm konkurrieren. | – |
+| ~~3~~ | ~~`/tuerkei/adults-only-hotels/`~~ **an das Blog-Projekt übergeben** | Wird durch Blogartikel #31 „Adults-Only-Hotels in der Türkei“ abgedeckt (muss Selene Beach & Spa verlinken) | – |
 | **3** | Hurghada, Mallorca, Kreta | **Erst** wenn eigene Hotels besucht/gefilmt wurden. Bis dahin decken die Länderseiten diese Begriffe in H2-Abschnitten ab. | – |
 
 **Nicht bauen:** eigene Seiten für jedes der 30 Ziele, „Pauschalreisen {Land}“ zusätzlich zu „{Land} Urlaub buchen“ (wäre Kannibalisierung), Städte-Seiten rund um Minden.
@@ -50,7 +50,7 @@ H1-Vorschlag: **„Urlaub buchen mit persönlicher Beratung – dein Reisebüro 
 | Regionen (neu) | Antalya Urlaub, Alanya Urlaub, Belek Urlaub, Kemer Urlaub | + „Hotels“, „All Inclusive“, „beste Reisezeit“ |
 | `/pauschalreisen/` | Pauschalreisen buchen | Pauschalreise, Flug und Hotel |
 | `/last-minute-urlaub/` | Last Minute Urlaub | Last Minute Türkei/Ägypten |
-| `/fruehbucher/` (neu) | Frühbucher 2027 | Sommerurlaub 2027 früh buchen |
+| Blogartikel #11 (Slug `fruehbucher`) | Frühbucher 2027 | Sommerurlaub 2027 früh buchen – *keine eigene Landingpage* |
 | `/reisebuero-minden-urlaub-buchen/` | Reisebüro Minden | Reiseberatung Minden, Türkei Reisebüro |
 | `/cashback/` | Reise Cashback | Urlaub mit Cashback |
 | `/urlaub-empfehlungen/` | Türkei Hotels Erfahrungen | Hotelvideos Türkei |
@@ -119,7 +119,7 @@ Konkrete Regeln:
 1. **Türkei-Cluster** (Türkei-Seite + 4 Regionen + 15 Hotelvideos + Aquapark-Vergleich) – hier ist echte Kompetenz vorhanden, und Hotelnamen-Suchen sind kaufnah.
 2. **Hotelseiten** – Suchende nach „{Hotel} Erfahrungen“ stehen kurz vor der Buchung; eigenes Video ist ein klares Klickargument.
 3. **Lokal: „Reisebüro Minden“** – die Konkurrenz in den Ergebnissen ist schwach formuliert (TUI-Filialseite, Verzeichnisse).
-4. **Saisonseiten Winter/Weihnachten/Silvester** jetzt (Nov/Dez) und **Sommer 2027 / Frühbucher / Sommerferien** ab Dezember.
+4. **Saisonseiten Winter/Weihnachten/Silvester** jetzt (Nov/Dez) und **Sommer 2027 / Frühbucher / Sommerferien** ab Dezember (über die Blogartikel #11, #13, #16, #29 – siehe Keyword-Zuordnung).
 5. **Ägypten** als Winterziel (die Startseite bewirbt es bereits).
 
 ## 10. Lokale SEO für das Reisebüro in Minden
@@ -139,3 +139,13 @@ Konkrete Regeln:
 ## Cashback-Regel für alle Texte
 
 Cashback wird nur dort beworben, wo die Bedingungen erreichbar sind: **Startseite** (verlinkt), **/cashback/** (vollständig), **/buchen/** (mit Staffel). In Titeln steht immer **„30 bis 1.000 €“** oder es steht nichts; die Formulierung „bis zu 1.000 €“ allein wird in neuen Titeln nicht verwendet, weil der Höchstbetrag erst ab 19.900 € Reisepreis gilt. Bestehende Descriptions mit „bis zu 1.000 € Cashback“ (z. B. Last Minute alt, Zypern, Herbstferien alt) wurden entweder ersetzt oder sind in `SEO_META_DESCRIPTIONS.csv` als „beibehalten“ markiert. **Empfehlung:** Auch dort bei der nächsten Überarbeitung „Cashback ab 700 € Reisepreis“ ergänzen.
+
+---
+
+## Nachtrag 05.11.2026: Abstimmung mit der Blogstrategie (Projekt 1)
+
+- Verbindliche Keyword-Zuordnung für alle 89 Seiten, 5 geplante Regionsseiten und 36 Blogartikel: **`SEO_KEYWORD_ZUORDNUNG.csv`**
+- Regeln für das Blog: **`SEO_VORGABEN_FUER_BLOG.md`**
+- Befunde und offene Entscheidungen: **`SEO_ABGLEICH_BLOGSTRATEGIE.md`**
+- Geändert aufgrund des Abgleichs: Türkei-Seitentitel ohne „Preise“ (Blog #25 besetzt „türkei urlaub kosten“), Landingpage `/fruehbucher/` gestrichen (Blog #11), Adults-only-Beitrag an Blog #31 übergeben, Kemer-Konflikt mit Blog #35 dokumentiert.
+- **Neue Blog-Kategorien** (Ägypten, Spanien, Griechenland, Dubai, Fernreisen, Reiseplanung): Archive erst indexieren, wenn sie ≥ 5 veröffentlichte Beiträge und einen eigenen Einleitungstext haben; Titelmuster „{Thema}-Ratgeber: Tipps & Reiseinfos | haydi-weg“, damit sie nicht mit den Zielgebietsseiten („{Land} Urlaub …“) konkurrieren.
