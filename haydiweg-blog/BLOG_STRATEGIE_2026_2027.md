@@ -53,13 +53,15 @@ Bei Reiseinhalten wirkt das Aktualisieren stärker als reine Menge: Einreise, Fe
           └──────────────┴──── verlinken einander + auf /buchen/ und WhatsApp ───┘
 ```
 
+> **Änderung vom 05.11.2026:** Das Auswärtige Amt rät aktuell von nicht notwendigen Reisen in die VAE ab (Iran-Konflikt, mögliche Luftraumsperrungen auch im Transit, „Stand 05.11.2026“, geprüft). Die drei Dubai-Artikel bleiben deshalb als Entwürfe erhalten, werden aber **zurückgestellt**. Ihre Termine übernehmen **R1 Alanya** (Türkei, 6 eigene Videohotels), **R2 Zypern im Frühling** und **R3 Madeira oder Kanaren**. Damit bleibt es bei 36 Veröffentlichungen. Gleichzeitig verschiebt sich das Gewicht noch stärker zur Türkei, also zur eigenen Kernkompetenz. Die Malediven-Artikel weisen auf mögliche Einschränkungen bei Umsteigeverbindungen über den Golf hin.
+
 | Cluster | Pillar | Artikel (Nr.) | Anzahl |
 |---|---|---|---|
-| **Türkei** (Kern) | /urlaubsziele/tuerkei-urlaub-buchen/ + **Hub-Artikel 12 „Türkische Riviera: welche Region?“** | 04, 06, 08, 12, 14, 23, 25, 28, 31, 35 | 10 |
+| **Türkei** (Kern) | /urlaubsziele/tuerkei-urlaub-buchen/ + **Hub-Artikel 12 „Türkische Riviera: welche Region?“** | 04, 06, 08, 12, 14, 23, 25, 28, 31, 35, **R1** | 11 |
 | **Ägypten** | /urlaubsziele/aegypten-urlaub-buchen/ | 02, 03, 07, 20, 26 | 5 |
-| **Spanien & Kanaren** | /urlaubsziele/spanien-urlaub-buchen/ | 01, 21 (auch Türkei), 34 | 3 |
-| **Griechenland** | /urlaubsziele/griechenland-urlaub-buchen/ | 18, 30, 36 | 3 |
-| **Dubai & VAE** | /urlaubsziele/dubai-urlaub-buchen/ | 05, 10, 27 | 3 |
+| **Spanien, Kanaren & Portugal** | /urlaubsziele/spanien-urlaub-buchen/, /urlaubsziele/portugal-urlaub-buchen/ | 01, 21 (auch Türkei), 34, **R3** | 4 |
+| **Griechenland & Zypern** | /urlaubsziele/griechenland-urlaub-buchen/, /urlaubsziele/zypern-urlaub-buchen/ | 18, 30, 36, **R2** | 4 |
+| ~~Dubai & VAE~~ (zurückgestellt) | /urlaubsziele/dubai-urlaub-buchen/ | ~~05, 10, 27~~ | 0 (+3 in Reserve) |
 | **Fernreisen** | /urlaubsziele/ (+ Malediven-, DomRep-Seite) | 15, 19, 22, 33 | 4 |
 | **Reiseplanung & Buchung** | /pauschalreisen/ + /familienurlaub/ | 09, 11, 13, 16, 17, 24, 29, 32 | 8 |
 
