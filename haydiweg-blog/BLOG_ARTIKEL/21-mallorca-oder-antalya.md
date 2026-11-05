@@ -113,7 +113,7 @@ Die Türkische Riviera ist bekannt für große All-inclusive-Resorts mit mehrere
 
 Auf Mallorca gibt es ebenfalls All-inclusive-Hotels, die Auswahl ist aber gemischter. Viele Urlauber buchen Halbpension oder Frühstück und essen abends in den Orten. Laut Auswärtigem Amt gelten seit 2020 in einigen Touristenzentren der Balearen, darunter Playa de Palma, Arenal und Magaluf, strenge Regeln gegen Alkoholmissbrauch. Dazu gehören auch Einschränkungen beim All-inclusive-Angebot für alkoholische Getränke in Hotels.
 
-Auf den Balearen wird zudem eine Touristensteuer pro Übernachtung erhoben, geregelt im balearischen Gesetz 2/2016. Ihre Höhe hängt von Unterkunftsart und Saison ab und wird in der Regel vor Ort bezahlt [PRÜFEN: aktuelle Sätze 2027 bei der Steuerbehörde ATIB]. Wenn dich der Unterschied zwischen den Verpflegungsarten genauer interessiert, findest du Ideen auf unserer Seite [Sommerurlaub All Inclusive](https://haydiweg.de/sommerurlaub-all-inclusive/).
+Auf den Balearen wird zudem eine Touristensteuer pro Übernachtung erhoben, geregelt im balearischen Gesetz 2/2016. Sie wird pro Tag des Aufenthalts fällig, ihre Höhe hängt von der Art der Unterkunft ab, in der Nebensaison gibt es Ermäßigungen. Kinder unter 16 Jahren sind laut Gesetz befreit. Die Steuer wird in der Regel vor Ort bezahlt [PRÜFEN: aktuelle Sätze 2027, eine Erhöhung ist angekündigt]. Wenn dich der Unterschied zwischen den Verpflegungsarten genauer interessiert, findest du Ideen auf unserer Seite [Sommerurlaub All Inclusive](https://haydiweg.de/sommerurlaub-all-inclusive/).
 
 <!-- BILD: sandstrand-lara-antalya-sonnenschirme.webp | ALT: Langer Sandstrand mit Sonnenschirmen und Hotels vor Bergen, Symbolbild für die Küste bei Antalya | QUELLE: Mediathek-ID 4763 -->
 
@@ -178,4 +178,4 @@ Du schwankst noch? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=H
 - Türkei: Reise- und Sicherheitshinweise (Stand 05.11.2026), Auswärtiges Amt, https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962, abgerufen am 05.11.2026
 - Ferienordnung für Nordrhein-Westfalen für die Schuljahre bis 2029/30, Ministerium für Schule und Bildung NRW, https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30, abgerufen am 05.11.2026
 - Mardan Palace (Lage, Aquapark laut Hotel), haydi-weg Hotelseite, https://haydiweg.de/hotel/mardan-palace/, abgerufen am 05.11.2026
-- Ley 2/2016 del impuesto sobre estancias turísticas en las Illes Balears (Hinweis auf Rechtsgrundlage), Agencia Tributaria de las Illes Balears (ATIB), https://www.atib.es/, abgerufen am 05.11.2026 [PRÜFEN: konkrete Unterseite mit aktuellen Sätzen ergänzen]
+- Normativa reguladora del impuesto sobre estancias turísticas de las Illes Balears (Ley 2/2016, Stand 2025), Ministerio de Hacienda, https://www.hacienda.gob.es/SGFAL/FinanciacionTerritorial/Autonomica/TributosPropios/Normativa/2025/Impuesto-sobre-estancias-turisticas-BALEARES-2025-nuevo-formato.pdf, abgerufen am 05.11.2026

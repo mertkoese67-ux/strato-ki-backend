@@ -2,7 +2,7 @@
 nr: 36
 titel_h1: "Familienurlaub in Griechenland: Kreta, Rhodos, Kos oder Korfu?"
 seo_title: "Familienurlaub Griechenland: Welche Insel? | haydi-weg"
-meta_description: "Familienurlaub in Griechenland: Kreta, Rhodos, Kos und Korfu im Vergleich – Strände, Transfer, Hitze im Sommer und welche Insel zum Alter deiner Kinder passt."
+meta_description: "Familienurlaub in Griechenland: Kreta, Rhodos, Kos und Korfu im Vergleich – Strände, Transfer, Sommerhitze und welche Insel zu deinen Kindern passt."
 slug: "griechische-inseln-fuer-familien"
 ziel_url: "https://haydiweg.de/griechenland/griechische-inseln-fuer-familien/"
 wp_kategorie: "Griechenland"
