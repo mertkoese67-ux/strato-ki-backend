@@ -26,6 +26,7 @@ redaktionelle_pruefung:
   - "Offizielle VAE-Seiten zur Visumbefreiung (u.ae, ICP, GDRFA Dubai) waren am 05.11.2026 nicht abrufbar (404/403/503). Visumregel stützt sich auf das Auswärtige Amt; vor Veröffentlichung mit u.ae/ICP abgleichen."
   - "Medikamente: EDE-Seite ohne Stand-Datum. Die Mengengrenze von drei Monaten gilt laut EDE für kontrollierte Arzneimittel; ältere MOHAP-Dokumente nennen abweichende Werte. Vor Veröffentlichung prüfen."
   - "Zollfreimengen und AFSEH-Deklarationsgrenze laut AA; mit Dubai Customs abgleichen."
+  - "H1 laut Redaktionsplan ('Einreise nach Dubai'); Fokus-Keyword wörtlich in Einstieg, H2 und Meta."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
