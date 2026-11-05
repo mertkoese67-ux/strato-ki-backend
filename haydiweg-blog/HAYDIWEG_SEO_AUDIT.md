@@ -1,4 +1,6 @@
-# SEO-Istbericht haydiweg.de
+# SEO-Istbericht haydiweg.de – Blickwinkel Blog & Inhalte (Projekt 1)
+
+> **Einordnung:** Für Seiten-SEO (Titel, Meta-Descriptions, Snippet) ist das Audit aus Projekt 2 (`seo-haydiweg/HAYDIWEG_SEO_AUDIT.md`) maßgeblich. Dieses Dokument bewertet die Website aus Sicht der Blogstrategie. Befunde zu einzelnen Seiten sind als Hinweise an Projekt 2 zu verstehen. Siehe SEO_ABSTIMMUNG_MIT_PROJEKT_2.md.
 
 Stand: 05.11.2026 · Methode: Crawl aller 89 URLs aus der XML-Sitemap und der öffentlichen WordPress-REST-API, nur lesend, mit 0,3 Sekunden Pause zwischen Abrufen. Dazu kamen Labormessungen mit Chromium (Mobil-Emulation Pixel 7) und Google-Autocomplete als Nachfragesignal.
 

@@ -1,0 +1,91 @@
+{
+ "artikel": [
+  {
+   "datei": "01-welche-kanareninsel-im-winter.md",
+   "nr": "01",
+   "titel": "Welche Kanareninsel im Winter? Teneriffa, Gran Canaria, Fuerteventura und Lanzarote im Vergleich",
+   "woerter": 2582,
+   "soll": 2200,
+   "seo_title_len": 52,
+   "meta_len": 150,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/spanien/mallorca-im-fruehling/"
+   ],
+   "externe_quellen": 10,
+   "faq": 6,
+   "pruefen_marker": 0,
+   "medienpruefung": 5,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {},
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "02-aegypten-im-winter-wetter-baden.md",
+   "nr": "02",
+   "titel": "Ägypten im Januar, Dezember und Februar: Wetter, Wassertemperatur und Baden im Winter",
+   "woerter": 2074,
+   "soll": 1800,
+   "seo_title_len": 53,
+   "meta_len": 146,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/aegypten/familienurlaub-aegypten/",
+    "https://haydiweg.de/aegypten/hurghada-oder-marsa-alam/",
+    "https://haydiweg.de/aegypten/hurghada-oder-sharm-el-sheikh/"
+   ],
+   "externe_quellen": 6,
+   "faq": 6,
+   "pruefen_marker": 4,
+   "medienpruefung": 3,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {},
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "16-sommerferien-2027.md",
+   "nr": "16",
+   "titel": "Sommerferien 2027: Alle Termine nach Bundesland und Tipps für die Urlaubsbuchung",
+   "woerter": 1954,
+   "soll": 1900,
+   "seo_title_len": 57,
+   "meta_len": 149,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/fruehbucher-2027/",
+    "https://haydiweg.de/reiseplanung/osterferien-2027/",
+    "https://haydiweg.de/reiseplanung/pfingstferien-2027/"
+   ],
+   "externe_quellen": 8,
+   "faq": 5,
+   "pruefen_marker": 2,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {},
+   "status": "BESTANDEN"
+  }
+ ],
+ "textueberschneidung": [],
+ "fokus_keyword_doppelt": {}
+}

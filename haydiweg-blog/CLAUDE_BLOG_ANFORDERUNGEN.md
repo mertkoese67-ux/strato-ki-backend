@@ -33,6 +33,16 @@ Eigene Empfehlungen sind mit **[V]** (Vorschlag) gekennzeichnet.
 | WordPress | Nur autorisierte Zugänge, nur Entwürfe, **keine Veröffentlichung ohne ausdrückliche Freigabe**, keine Plugin-, Theme- oder Datenbankänderungen. Die Buchungsstrecke (IBE) darf nicht beeinträchtigt werden |
 | Daten | Keine erfundenen Suchvolumina, Rankings, CTRs oder Prognosen |
 
+### Ergänzung vom 05.11.2026 [M]: Zusammenspiel mit dem SEO-Projekt
+
+| Anforderung | Umsetzung |
+|---|---|
+| Die SEO-Strategie (Projekt 2) gibt die übergeordneten Regeln vor, der Blog richtet sich danach | Rangfolge festgelegt in SEO_ABSTIMMUNG_MIT_PROJEKT_2.md |
+| Keine doppelten SEO-Titel, keine konkurrierenden Keywords, keine widersprüchlichen Änderungen | Abgleichskript `_arbeitsdaten/seo_abgleich.py` plus Abgrenzungstabelle |
+| Zunächst nur analysieren und vorbereiten. Nichts veröffentlichen, keine Snippets aktivieren, keine produktiven Einstellungen ändern | eingehalten. Die Importdatei enthält nur Entwürfe |
+| Ergebnisse in separaten Dateien, am Ende eine kurze Übergabedatei | Ordner `haydiweg-blog/`, Übergabe in `UEBERGABE_BLOG_AN_SEO.md` |
+| Kein Zugriff auf den anderen Chat voraussetzen | Status geprüft und dokumentiert: Die Sitzung ist sichtbar, ihre Ergebnisdateien sind nicht zugänglich |
+
 ## 3. Aus der Website abgeleitete Standards [W]
 
 Diese Punkte sind auf der Website schon umgesetzt und sehen nach bewussten Entscheidungen aus. Bitte bestätige sie oder korrigiere sie.
