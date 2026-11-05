@@ -1,7 +1,7 @@
 ---
 nr: 13
 titel_h1: "Osterferien 2027: Termine aller Bundesländer und warme Reiseziele für die Ferien"
-seo_title: "Osterferien 2027: Termine aller Bundesländer | haydi-weg"
+seo_title: "Osterferien 2027: Termine & warme Reiseziele | haydi-weg"
 meta_description: "Osterferien 2027 für alle 16 Bundesländer: Termine laut KMK, Feiertage rund um Ostern am 28. März und warme Reiseziele für den frühen Osterurlaub."
 slug: "osterferien-2027"
 ziel_url: "https://haydiweg.de/reiseplanung/osterferien-2027/"

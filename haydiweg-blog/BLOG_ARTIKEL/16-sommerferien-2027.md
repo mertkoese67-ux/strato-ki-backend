@@ -1,7 +1,7 @@
 ---
 nr: 16
 titel_h1: "Sommerferien 2027: Alle Termine nach Bundesland und Tipps für die Urlaubsbuchung"
-seo_title: "Sommerferien 2027: Termine aller Bundesländer | haydi-weg"
+seo_title: "Sommerferien 2027: Alle Termine & Buchungstipps"
 meta_description: "Sommerferien 2027 in allen 16 Bundesländern: Termine laut KMK, Überschneidungen von NRW und Niedersachsen und Tipps, wann du den Sommerurlaub buchst."
 slug: "sommerferien-2027"
 ziel_url: "https://haydiweg.de/reiseplanung/sommerferien-2027/"

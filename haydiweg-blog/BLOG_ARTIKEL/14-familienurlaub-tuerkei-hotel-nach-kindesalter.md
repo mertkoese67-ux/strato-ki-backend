@@ -41,7 +41,7 @@ schema: ["BlogPosting", "FAQPage"]
 
 # Familienurlaub in der Türkei: Welches Hotel passt zu welchem Alter deiner Kinder?
 
-Familienurlaub Türkei all inclusive: Bei der Hotelwahl zählt vor allem das Alter deiner Kinder. Babys und Kleinkinder brauchen flache Becken, Babyausstattung und Betreuung ab dem ersten Lebensjahr, Kinder von 4 bis 12 einen guten Miniclub und Rutschen, Teenager ein eigenes Programm. Unter den Hotels, die wir gefilmt haben, nehmen laut Hotel zum Beispiel das Ela Excellence (ab 0 Jahren) und das NG Phaselis Bay (ab 1 Jahr mit Eltern) schon die Kleinsten auf.
+Beim Familienurlaub in der Türkei mit All Inclusive zählt bei der Hotelwahl vor allem das Alter deiner Kinder. Babys und Kleinkinder brauchen flache Becken, Babyausstattung und Betreuung ab dem ersten Lebensjahr, Kinder von 4 bis 12 einen guten Miniclub und Rutschen, Teenager ein eigenes Programm. Unter den Hotels, die wir gefilmt haben, nehmen laut Hotel zum Beispiel das Ela Excellence (ab 0 Jahren) und das NG Phaselis Bay (ab 1 Jahr mit Eltern) schon die Kleinsten auf.
 
 Viele Türkei-Hotels nennen sich familienfreundlich. Die Unterschiede liegen im Detail: Ab welchem Alter nimmt der Kinderclub Kinder auf? Wie tief ist das Kinderbecken? Gibt es Babynahrung? Und haben Teenager mehr als eine Tischtennisplatte?
 
@@ -102,7 +102,7 @@ Im [Serenity Queen](https://haydiweg.de/hotel/serenity-queen-hotel-alanya/) ist 
 
 ### Quattro Family Club Dem (Alanya)
 
-Das [Quattro Family Club Dem](https://haydiweg.de/hotel/quattro-family-club-dem-alanya/) in Konakli ist ein kleineres Familienhotel mit 269 Zimmern auf rund 33.000 m² Gartenanlage. Laut Hotel gibt es drei Pools, einer mit vier Rutschen, dazu zwei Kinderbecken, Mini-Club, Spielplatz und Spieleraum. Familienzimmer bieten bis zu 40 m² für fünf Personen. Wer keine riesige Anlage möchte, findet hier eine überschaubare Alternative.
+Das [Quattro Family Club Dem](https://haydiweg.de/hotel/quattro-family-club-dem-alanya/) in Konakli ist eine überschaubarere Familienanlage. [PRÜFEN: Zimmerzahl und Grundstücksgröße auf der Hotelseite uneinheitlich, daher hier nicht genannt] Laut Hotel gibt es drei Pools, einer mit vier Rutschen, dazu zwei Kinderbecken, Mini-Club, Spielplatz und Spieleraum. Familienzimmer bieten bis zu 40 m² für fünf Personen. Wer keine riesige Anlage möchte, findet hier eine überschaubare Alternative.
 
 ## Schulkinder (8 bis 12 Jahre)
 

@@ -38,7 +38,7 @@ schema: ["BlogPosting", "FAQPage"]
 
 # Familienurlaub Ägypten: Regionen, Hotels und was Eltern wissen sollten
 
-Familienurlaub Ägypten: Das funktioniert gut, wenn drei Dinge passen: die Reisezeit, der Strand und das Hotel. Für Familien mit kleinen Kindern ist die Region Hurghada mit Makadi Bay meist die einfachste Wahl, am angenehmsten sind Frühjahr und Herbst. Den Hochsommer mit Tageswerten um 35 °C solltest du mit Kleinkindern eher meiden.
+Ein Familienurlaub in Ägypten funktioniert gut, wenn drei Dinge passen: die Reisezeit, der Strand und das Hotel. Für Familien mit kleinen Kindern ist die Region Hurghada mit Makadi Bay meist die einfachste Wahl, am angenehmsten sind Frühjahr und Herbst. Den Hochsommer mit Tageswerten um 35 °C solltest du mit Kleinkindern eher meiden.
 
 Am Roten Meer gibt es viele große All-inclusive-Anlagen mit Kinderclub, Pools und Rutschen. Das macht den Urlaub für Eltern planbar. Gleichzeitig gibt es Punkte, die du vorher kennen solltest: Riffstrände, Hygiene beim Essen und Trinken, die medizinische Versorgung und die Dokumente für jedes Kind.
 

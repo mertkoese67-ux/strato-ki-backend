@@ -36,7 +36,7 @@ schema: ["BlogPosting", "FAQPage"]
 
 # Was kostet ein Türkei-Urlaub? Die wichtigsten Kostenfaktoren für deine Reise
 
-Türkei Urlaub Kosten: Wovon hängt der Preis ab? Vor allem von fünf Dingen: Reisezeit, Hotel und Verpflegung, Region, Alter der Kinder und Buchungszeitpunkt. Am stärksten wirken die Schulferien: Dieselbe Woche im selben Hotel kostet im Juli meist deutlich mehr als in der Nebensaison. Dazu kommen Nebenkosten wie Ausflüge, Trinkgeld, Extras im Hotel und Handykosten, weil die Türkei nicht unter die EU-Roaming-Regeln fällt.
+Was ein Türkei-Urlaub kostet, hängt vor allem von fünf Dingen ab: Reisezeit, Hotel und Verpflegung, Region, Alter der Kinder und Buchungszeitpunkt. Am stärksten wirken die Schulferien: Dieselbe Woche im selben Hotel kostet im Juli meist deutlich mehr als in der Nebensaison. Dazu kommen Nebenkosten wie Ausflüge, Trinkgeld, Extras im Hotel und Handykosten, weil die Türkei nicht unter die EU-Roaming-Regeln fällt.
 
 Wir nennen in diesem Ratgeber bewusst keine Pauschalpreise. Preise ändern sich täglich und hängen von Termin, Abflughafen und Belegung ab. Stattdessen zeigen wir dir, welche Stellschrauben es gibt und wie du dein Budget realistisch planst.
 

@@ -1,7 +1,7 @@
 ---
 nr: 29
 titel_h1: "Pfingstferien 2027: Termine und Reiseideen für Baden-Württemberg, Bayern und Co."
-seo_title: "Pfingstferien 2027: Termine aller Bundesländer | haydi-weg"
+seo_title: "Pfingstferien 2027: Termine in BW, Bayern & Co."
 meta_description: "Pfingstferien 2027: zwei Wochen in Baden-Württemberg und Bayern, kurze Ferien in den anderen Ländern. Alle Termine laut KMK und passende Reiseideen."
 slug: "pfingstferien-2027"
 ziel_url: "https://haydiweg.de/reiseplanung/pfingstferien-2027/"
