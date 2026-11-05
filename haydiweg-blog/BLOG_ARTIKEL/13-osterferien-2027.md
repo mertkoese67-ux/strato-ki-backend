@@ -28,6 +28,7 @@ redaktionelle_pruefung:
   - "KMK-Übersicht Schuljahr 2026/2027 hat Stand 09.10.2025; vor Veröffentlichung am 07.12.2026 erneut mit kmk.org abgleichen."
   - "Termine für NRW, Niedersachsen, Bayern und Baden-Württemberg zusätzlich bei den Kultusministerien geprüft (übereinstimmend); die übrigen zwölf Länder nur über die KMK-Übersicht."
   - "Klimaaussagen zu Ägypten, Kanaren, Türkei und Mittelmeer Ende März/Anfang April sind bewusst qualitativ gehalten; bei Bedarf mit DWD- oder nationalen Wetterdienstdaten belegen."
+  - "Orthodoxes Osterdatum 2027 (2. Mai, rechnerisch ermittelt) mit offizieller Quelle bestätigen."
   - "Geplante Links #16, #29 und #30 erst aktivieren, wenn die Artikel veröffentlicht sind."
 schema: ["BlogPosting", "FAQPage"]
 ---
@@ -43,7 +44,7 @@ Weil Ostern so früh im Jahr liegt, ist es am Mittelmeer vielerorts noch Frühli
 **Das Wichtigste in Kürze**
 
 - Ostersonntag ist am 28. März 2027, Karfreitag am 26. März, Ostermontag am 29. März.
-- Zwölf Bundesländer starten am 22. März in die Osterferien, darunter NRW, Niedersachsen und Bayern.
+- Zehn Bundesländer starten am 22. März in die Osterferien, darunter NRW, Niedersachsen und Bayern.
 - Hamburg hat keine Osterferien im engeren Sinn, sondern Frühjahrsferien vom 1. bis 12. März 2027.
 - Ende März sind Ägypten am Roten Meer und die Kanaren die verlässlichsten Ziele für Sonne und Wärme.
 - Grundlage ist die Übersicht der Kultusministerkonferenz (KMK). Verbindlich ist die Ferienordnung deines Landes.
@@ -83,16 +84,22 @@ Rechnet man Wochenenden und Feiertage mit, ergeben sich 2027 diese freien Zeitr�
 
 | Bundesland | Frei am Stück | Tage |
 |---|---|---|
-| Nordrhein-Westfalen, Niedersachsen, Bremen, Brandenburg, Thüringen | Sa, 20.03. – So, 04.04. | 16 |
-| Bayern, Berlin, Hessen, Rheinland-Pfalz | Sa, 20.03. – So, 04.04. | 16 |
+| Bayern, Berlin, Brandenburg, Bremen, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Thüringen | Sa, 20.03. – So, 04.04. | 16 |
 | Mecklenburg-Vorpommern | Mi, 24.03. – So, 04.04. | 12 |
 | Baden-Württemberg | Do, 25.03. – So, 04.04. | 11 |
 | Sachsen | Fr, 26.03. – So, 04.04. | 10 |
 | Sachsen-Anhalt | Sa, 20.03. – Mo, 29.03. | 10 |
 | Saarland | Fr, 26.03. – So, 11.04. | 17 |
 | Schleswig-Holstein | Fr, 26.03. – So, 11.04. | 17 |
+| Hamburg | Fr, 26.03. – Mo, 29.03. (Frühjahrsferien schon Sa, 27.02. – So, 14.03.) | 4 |
 
 In Sachsen-Anhalt endet die Ferienwoche am Samstag vor Ostern. Mit Ostersonntag und Ostermontag kommen aber noch zwei freie Tage dazu, sodass ihr bis Montag, 29. März, verreisen könnt.
+
+## Osterferien 2027 in NRW und Niedersachsen
+
+Unser Reisebüro sitzt in Minden, direkt an der Grenze zwischen Nordrhein-Westfalen und Niedersachsen. Zu Ostern 2027 ist die Lage für Familien aus beiden Ländern einfach: Die Osterferien laufen in NRW und in Niedersachsen exakt gleich, vom 22. März bis 3. April. Wenn Kinder in verschiedenen Ländern zur Schule gehen oder zwei Familien zusammen verreisen möchten, passt das 2027 also ohne Kompromiss.
+
+Der Nachteil: Weil auch Bremen, Brandenburg, Thüringen und weitere Länder am selben Wochenende starten, sind die Flughäfen in Hannover, Paderborn und Düsseldorf am 20. und 21. März gut gefüllt. Wer nicht unbedingt am ersten Ferientag fliegen muss, hat mit einem Abflug am Montag oder Dienstag oft mehr Auswahl bei Flugzeiten. In Niedersachsen sind außerdem schon am 1. und 2. Februar Halbjahresferien, in NRW gibt es keine Winterferien.
 
 ## Warme Reiseziele für die Osterferien 2027
 
@@ -114,13 +121,13 @@ Die Türkische Riviera rund um Antalya ist Ende März schon angenehm mild, eine 
 
 ### Griechenland und Städtereisen
 
-Griechenland ist zu Ostern ein schönes Ziel für Kultur und Natur. Welche Insel im Frühling zu dir passt, klären wir im Artikel [Griechenland im Frühling](https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/)<!-- geplant #30 -->. Beachte: Das orthodoxe Osterfest fällt nicht immer auf denselben Tag wie das westliche. [PRÜFEN: Datum des orthodoxen Osterfests 2027 mit Quelle ergänzen, falls erwähnt] Weitere Ziele für den Frühling stellen wir auf unserer Seite [Reiseziele im April](https://haydiweg.de/reisethemen/reiseziele-april/) vor.
+Griechenland ist zu Ostern ein schönes Ziel für Kultur und Natur. Welche Insel im Frühling zu dir passt, klären wir im Artikel [Griechenland im Frühling](https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/)<!-- geplant #30 -->. Beachte: Das orthodoxe Osterfest, das in Griechenland gefeiert wird, fällt 2027 nicht auf den 28. März, sondern nach unserer Berechnung auf den 2. Mai. [PRÜFEN: orthodoxes Osterdatum 2027 mit offizieller griechischer Quelle bestätigen] Weitere Ziele für den Frühling stellen wir auf unserer Seite [Reiseziele im April](https://haydiweg.de/reisethemen/reiseziele-april/) vor.
 
 ## Osterurlaub 2027 planen: Darauf solltest du achten
 
-Ostern 2027 liegt fast drei Wochen früher als Ostern 2026 (5. April). Für Familien heißt das: Die Ferien beginnen schon kurz nach den Halbjahreszeugnissen, und viele planen ihren Osterurlaub erst spät. Wer ein bestimmtes Hotel oder ein Familienzimmer möchte, sollte trotzdem schon im Winter vergleichen.
+Ostern 2027 liegt gut eine Woche früher als Ostern 2026 (5. April), und die Ferien beginnen in vielen Ländern schon am 22. März. Wer ein bestimmtes Hotel oder ein Familienzimmer möchte, sollte deshalb schon im Winter vergleichen und nicht bis kurz vor den Ferien warten.
 
-- **Abflugtage:** Am ersten Ferienwochenende (20./21. März) starten Familien aus zwölf Bundesländern gleichzeitig. Ein Abflug mitten in der Woche kann entspannter sein.
+- **Abflugtage:** Am ersten Ferienwochenende (20./21. März) starten Familien aus zehn Bundesländern gleichzeitig. Ein Abflug mitten in der Woche kann entspannter sein.
 - **Rückreise:** Plane den Rückflug so, dass ihr vor dem ersten Schultag etwas Puffer habt.
 - **Kinderdokumente:** Jedes Kind braucht ein eigenes Ausweisdokument. Was dein Ziel verlangt, steht in den Reise- und Sicherheitshinweisen des Auswärtigen Amts.
 - **Ostern im Zielland:** In christlich geprägten Ländern können am Karfreitag und an Ostern Geschäfte, Museen oder Ausflüge eingeschränkt sein.
