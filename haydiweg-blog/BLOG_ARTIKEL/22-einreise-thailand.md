@@ -161,7 +161,7 @@ Die Botschaft schreibt, dass alle Nicht-Thailänder die TDAC ausfüllen müssen.
 
 Du planst Thailand und möchtest sichergehen, dass Dokumente, Reisedauer und Route passen? In unserer [Online-Buchung](https://haydiweg.de/buchen/) findest du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Lieber persönlich besprechen? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20Thailand-Reise.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/).
+Lieber persönlich besprechen? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20Thailand-Reise.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/).
 
 ## Quellen
 

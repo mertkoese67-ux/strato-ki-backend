@@ -28,7 +28,7 @@ redaktionelle_pruefung:
   - "Aussage der Verbraucherzentrale NRW, dass All Inclusive kein definierter Begriff ist, stammt aus einem t-online-Artikel von 2015 – aktuelle Primärquelle (Verbraucherzentrale) suchen oder Zitat so belassen."
   - "Mardan Palace: Hotelseite nennt im Kopf 'Ultra All Inclusive', in der Detailbeschreibung 'Golden Inclusive' – Bezeichnung auf der Hotelseite vereinheitlichen."
   - "Mediathek-ID 7345 (Patisserie.webp): eindeutige Hotelzuordnung prüfen, Datei ist auf mehreren Hotelseiten eingebunden."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
   - "Marktaussagen zur Verbreitung von All Inclusive in Türkei und Ägypten sind Erfahrungswerte ohne Statistik – so belassen oder abschwächen."
   - "Leistungen der genannten Hotels (À-la-carte, Getränke, Gebühren) laut Hotelseiten Stand 05.11.2026 – vor Veröffentlichung kurz gegenprüfen."
 schema: ["BlogPosting", "FAQPage"]
@@ -200,7 +200,7 @@ Meist nicht. Getränke zum Abendessen, auch Wasser, zahlst du bei Halbpension of
 
 Im [Buchungsportal](https://haydiweg.de/buchen/) kannst du dasselbe Hotel mit verschiedenen Verpflegungsarten nebeneinander vergleichen. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du willst wissen, ob sich der Aufpreis für deine Reise lohnt? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20%C3%BCberlege%20zwischen%20All%20Inclusive%20und%20Halbpension.%20K%C3%B6nnt%20ihr%20mir%20passende%20Angebote%20vergleichen%3F), wir vergleichen die Angebote gern für dich.
+Du willst wissen, ob sich der Aufpreis für deine Reise lohnt? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20%C3%BCberlege%20zwischen%20All%20Inclusive%20und%20Halbpension.%20K%C3%B6nnt%20ihr%20mir%20passende%20Angebote%20vergleichen%3F), wir vergleichen die Angebote gern für dich.
 
 ## Quellen
 

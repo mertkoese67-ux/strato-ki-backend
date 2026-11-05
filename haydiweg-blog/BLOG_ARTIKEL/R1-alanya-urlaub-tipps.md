@@ -41,7 +41,7 @@ redaktionelle_pruefung:
   - "Alanya auf der UNESCO-Tentativliste: whc.unesco.org war nicht abrufbar (HTTP 403); Eintrag nur über Sekundärquellen (worldheritagesite.org) bestätigt."
   - "Seilbahn zur Burg: Betrieb und Talstation nicht mit offizieller Quelle geprüft."
   - "Mediathek-ID 4760 (Kleopatra-Strand) und 6494 (Quattro_Beach_3): Motiv und Rechte vor Einbindung prüfen."
-  - "WhatsApp-Nummer 4915792326450 laut Styleguide/Kontaktseite verwendet; auf anderen Seiten steht noch 4915563462222 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer 4915792326450 laut Styleguide/Kontaktseite verwendet; auf anderen Seiten steht noch 4915792326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 

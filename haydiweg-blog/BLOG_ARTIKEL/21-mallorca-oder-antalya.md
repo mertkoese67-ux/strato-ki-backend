@@ -167,7 +167,7 @@ Wenn du an die Schulferien gebunden bist und ein bestimmtes Hotel oder Familienz
 
 Am einfachsten entscheidest du, wenn du beide Ziele für deinen Reisezeitraum nebeneinander siehst. In unserer [Online-Buchung](https://haydiweg.de/buchen/) kannst du Hotels auf Mallorca und an der Türkischen Riviera vergleichen. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback](https://haydiweg.de/cashback/) gemäß Teilnahmebedingungen.
 
-Du schwankst noch? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20f%C3%BCr%20den%20Sommer%202027%20zwischen%20Mallorca%20und%20Antalya.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F), wer mitreist und wann ihr fliegen könnt. Wir schauen gemeinsam, welches Ziel und welches Hotel besser zu euch passt.
+Du schwankst noch? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20f%C3%BCr%20den%20Sommer%202027%20zwischen%20Mallorca%20und%20Antalya.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F), wer mitreist und wann ihr fliegen könnt. Wir schauen gemeinsam, welches Ziel und welches Hotel besser zu euch passt.
 
 ## Quellen
 

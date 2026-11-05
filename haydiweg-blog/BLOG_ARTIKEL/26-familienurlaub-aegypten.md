@@ -208,7 +208,7 @@ In den meisten Fällen ja. In Hotelzonen wie Makadi Bay gibt es außerhalb der A
 
 Familienhotels in Hurghada, Makadi Bay und Marsa Alam kannst du direkt in unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichen. Gib dabei alle Mitreisenden mit dem Alter der Kinder an. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback](https://haydiweg.de/cashback/) gemäß Teilnahmebedingungen.
 
-Du willst wissen, ob ein Hotel Sandstrand, beheizten Pool oder einen Kinderclub für dein Kind hat? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20%C3%84gypten.%20K%C3%B6nnt%20ihr%20uns%20beraten%3F) oder nutze unser [Kontaktformular](https://haydiweg.de/kontakt/). Wir fragen die Details beim Veranstalter für dich an.
+Du willst wissen, ob ein Hotel Sandstrand, beheizten Pool oder einen Kinderclub für dein Kind hat? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20%C3%84gypten.%20K%C3%B6nnt%20ihr%20uns%20beraten%3F) oder nutze unser [Kontaktformular](https://haydiweg.de/kontakt/). Wir fragen die Details beim Veranstalter für dich an.
 
 ## Quellen
 

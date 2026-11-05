@@ -170,7 +170,7 @@ Wenn du an Schulferien gebunden bist und ein bestimmtes Hotel, ein Familienzimme
 
 ## Deinen Sommerurlaub 2027 finden
 
-Du kennst jetzt deine Ferientermine? Dann kannst du deinen Sommerurlaub direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du lieber erst mit uns sprichst, welches Hotel zu deiner Familie passt, schreib uns [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Sommerferien%202027.).
+Du kennst jetzt deine Ferientermine? Dann kannst du deinen Sommerurlaub direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du lieber erst mit uns sprichst, welches Hotel zu deiner Familie passt, schreib uns [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Sommerferien%202027.).
 
 ## Quellen
 

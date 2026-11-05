@@ -30,7 +30,7 @@ redaktionelle_pruefung:
   - "Trinkgeld: keine amtliche Quelle; nur allgemeine, vorsichtige Hinweise ohne Beträge."
   - "Kinderpreise/'Kind kostenlos': allgemeine Aussage ohne Veranstalterquelle – Formulierung bewusst vorsichtig."
   - "Aussage, dass Nebensaison und Zeiten außerhalb der Schulferien meist günstiger sind, ist Erfahrungswissen ohne Statistik."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
@@ -187,7 +187,7 @@ Meist außerhalb der Schulferien, also in der Vor- und Nachsaison oder im Winter
 
 Im [Buchungsportal](https://haydiweg.de/buchen/) siehst du aktuelle Preise vieler Veranstalter für deinen Termin, mit bis zu 1.000 € Cashback für berechtigte Online-Buchungen gemäß den Teilnahmebedingungen.
 
-Du willst Termine oder Hotels vergleichen, ohne selbst lange zu suchen? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20plane%20einen%20T%C3%BCrkei-Urlaub%20und%20m%C3%B6chte%20die%20Kosten%20f%C3%BCr%20unseren%20Reisezeitraum%20vergleichen.), wir rechnen gern mehrere Varianten für dich durch.
+Du willst Termine oder Hotels vergleichen, ohne selbst lange zu suchen? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20plane%20einen%20T%C3%BCrkei-Urlaub%20und%20m%C3%B6chte%20die%20Kosten%20f%C3%BCr%20unseren%20Reisezeitraum%20vergleichen.), wir rechnen gern mehrere Varianten für dich durch.
 
 ## Quellen
 

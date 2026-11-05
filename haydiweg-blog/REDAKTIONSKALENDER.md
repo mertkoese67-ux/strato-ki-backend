@@ -6,6 +6,8 @@ Warum 07:30 Uhr? Die Uhrzeit selbst ist kein Rankingfaktor. Sie ist so gewählt,
 
 Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **C** = ergänzend.
 
+> **Änderung 05.11.2026:** Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab. Die Dubai-Artikel 05, 10 und 27 sind deshalb ~~durchgestrichen~~ und **zurückgestellt**. Ihre Termine übernehmen die Ersatzartikel **R1 Alanya**, **R2 Zypern im Frühling** und **R3 Madeira oder Kanaren**. Es bleibt bei 36 Veröffentlichungen. Sobald der Hinweis aufgehoben ist, können die Dubai-Entwürfe nach erneuter Prüfung in Phase 2 erscheinen.
+
 
 ## KW 46 (11/2026)
 
@@ -20,7 +22,8 @@ Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **
 | Nr | Datum | Titel | Primäres Keyword | Cluster | Prio | Länge |
 |---|---|---|---|---|---|---|
 | 04 | Mo 16.11.2026 07:30 | [Einreise in die Türkei: Mit Personalausweis, Reisepass oder Kinderreisepass?](BLOG_ARTIKEL/04-einreise-tuerkei-personalausweis-reisepass.md) | einreise türkei personalausweis | Türkei | A | ~1700 |
-| 05 | Mi 18.11.2026 07:30 | [Dubai im Winter: Wetter, Baden und was du von Dezember bis März erwarten kannst](BLOG_ARTIKEL/05-dubai-im-winter-wetter-baden.md) | dubai im januar | Dubai & VAE | B | ~1700 |
+| R1 | Mi 18.11.2026 07:30 | [Urlaub in Alanya: Für wen sich die Region lohnt – Strände, Orte und Hotels](BLOG_ARTIKEL/R1-alanya-urlaub-tipps.md) | alanya urlaub | Türkei | A | ~1800 |
+| 05 | Mi 18.11.2026 07:30 | ~~Dubai im Winter: Wetter, Baden und was du von Dezember bis März erwarten kannst~~ – zurückgestellt ([Entwurf](BLOG_ARTIKEL/05-dubai-im-winter-wetter-baden.md)) | dubai im januar | Dubai & VAE | B | ~1700 |
 | 06 | Fr 20.11.2026 07:30 | [Türkei im Winter: Lohnt sich die Türkische Riviera von Dezember bis Februar?](BLOG_ARTIKEL/06-tuerkei-im-winter.md) | türkei im januar | Türkei | B | ~1700 |
 
 ## KW 48 (11/2026)
@@ -35,7 +38,8 @@ Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **
 
 | Nr | Datum | Titel | Primäres Keyword | Cluster | Prio | Länge |
 |---|---|---|---|---|---|---|
-| 10 | Mo 30.11.2026 07:30 | [Einreise nach Dubai: Was deutsche Urlauber 2027 wissen müssen](BLOG_ARTIKEL/10-einreise-dubai-vae.md) | einreise dubai | Dubai & VAE | B | ~1500 |
+| R2 | Mo 30.11.2026 07:30 | [Zypern im Frühling: Wie warm ist es zu Ostern und welche Region passt?](BLOG_ARTIKEL/R2-zypern-im-fruehling.md) | zypern im april | Zypern (neu) | B | ~1600 |
+| 10 | Mo 30.11.2026 07:30 | ~~Einreise nach Dubai: Was deutsche Urlauber 2027 wissen müssen~~ – zurückgestellt ([Entwurf](BLOG_ARTIKEL/10-einreise-dubai-vae.md)) | einreise dubai | Dubai & VAE | B | ~1500 |
 | 11 | Mi 02.12.2026 07:30 | [Frühbucher 2027: Ab wann buchen und wann sich Frühbucherangebote wirklich lohnen](BLOG_ARTIKEL/11-fruehbucher-2027.md) | frühbucher 2027 | Reiseplanung & Buchung | A | ~1900 |
 | 12 | Fr 04.12.2026 07:30 | [Türkische Riviera: Lara, Belek, Side, Alanya oder Kemer – welche Region passt zu dir?](BLOG_ARTIKEL/12-tuerkische-riviera-regionen-vergleich.md) | türkische riviera regionen | Türkei | A | ~2600 |
 
@@ -77,7 +81,8 @@ Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **
 |---|---|---|---|---|---|---|
 | 25 | Mo 04.01.2027 07:30 | [Was kostet ein Türkei-Urlaub? Die wichtigsten Kostenfaktoren für deine Reise](BLOG_ARTIKEL/25-tuerkei-urlaub-kosten.md) | türkei urlaub kosten | Türkei | A | ~2000 |
 | 26 | Mi 06.01.2027 07:30 | [Familienurlaub in Ägypten: Regionen, Hotels und was Eltern wissen sollten](BLOG_ARTIKEL/26-familienurlaub-aegypten.md) | familienurlaub ägypten | Ägypten | A | ~2000 |
-| 27 | Fr 08.01.2027 07:30 | [Was kostet ein Dubai-Urlaub? Kostenfaktoren, Spartipps und versteckte Ausgaben](BLOG_ARTIKEL/27-dubai-urlaub-kosten.md) | dubai urlaub kosten | Dubai & VAE | B | ~1800 |
+| R3 | Fr 08.01.2027 07:30 | [Madeira oder Kanaren? Welche Insel im Winter und Frühling besser zu dir passt](BLOG_ARTIKEL/R3-madeira-oder-kanaren.md) | madeira oder kanaren | Portugal (neu) / Spanien | B | ~1700 |
+| 27 | Fr 08.01.2027 07:30 | ~~Was kostet ein Dubai-Urlaub? Kostenfaktoren, Spartipps und versteckte Ausgaben~~ – zurückgestellt ([Entwurf](BLOG_ARTIKEL/27-dubai-urlaub-kosten.md)) | dubai urlaub kosten | Dubai & VAE | B | ~1800 |
 
 ## KW 2 (01/2027)
 
@@ -105,7 +110,7 @@ Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **
 
 ## Saisonlogik
 
-- **November:** Wintersonne (Kanaren, Ägypten, Dubai, Türkei im Winter) und Einreisethemen für Winterreisende. Diese Nachfrage ist jetzt akut.
+- **November:** Wintersonne (Kanaren, Ägypten, Türkei im Winter; Dubai zurückgestellt) und Einreisethemen für Winterreisende. Diese Nachfrage ist jetzt akut.
 - **Anfang/Mitte Dezember:** Frühbucher 2027, Osterferien 2027, Sommerferien 2027, Familienurlaub Türkei. Diese Seiten müssen indexiert sein, bevor nach Weihnachten die Hauptbuchungszeit beginnt.
 - **Zwischen den Jahren:** Vergleiche für die Sommerplanung (Mallorca oder Antalya), Urlaub mit Baby, Brückentage 2027.
 - **Januar:** Kostenartikel, Familienziele und Frühlingsziele (Ostern 2027 = 28.03.) zur Hauptbuchungszeit.

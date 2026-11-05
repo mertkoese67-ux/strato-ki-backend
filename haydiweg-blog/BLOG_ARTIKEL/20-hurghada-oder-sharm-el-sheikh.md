@@ -187,7 +187,7 @@ Im Dezember liegen die Tageshöchstwerte an beiden Orten laut WMO im Mittel bei 
 
 Wenn du weißt, welche Seite des Roten Meeres zu dir passt, kannst du Hotels in Hurghada und Sharm El Sheikh direkt in unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichen. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback](https://haydiweg.de/cashback/) gemäß Teilnahmebedingungen.
 
-Du bist noch unentschieden oder willst wissen, ob ein Hotel Sandstrand oder Riff hat? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Hurghada%20und%20Sharm%20El%20Sheikh.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F), wir fragen die Details gern beim Veranstalter für dich an.
+Du bist noch unentschieden oder willst wissen, ob ein Hotel Sandstrand oder Riff hat? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Hurghada%20und%20Sharm%20El%20Sheikh.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F), wir fragen die Details gern beim Veranstalter für dich an.
 
 ## Quellen
 

@@ -137,7 +137,7 @@ Kreta und Rhodos liegen im Frühling vorn, mit rund 20 °C im April und 24 °C i
 
 Wenn du deinen Termin kennst, kannst du Osterangebote für Kreta, Rhodos und andere Inseln in unserer [Online-Buchung vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du möchtest wissen, welche Hotels zu Ostern schon geöffnet haben? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20%C3%BCber%20Ostern%202027%20nach%20Griechenland.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6) mit Reisezeit und Personen, wir schauen für dich nach.
+Du möchtest wissen, welche Hotels zu Ostern schon geöffnet haben? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20%C3%BCber%20Ostern%202027%20nach%20Griechenland.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6) mit Reisezeit und Personen, wir schauen für dich nach.
 
 ## Quellen
 

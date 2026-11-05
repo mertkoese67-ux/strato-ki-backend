@@ -191,7 +191,7 @@ Als beste Reisezeit für Bali gilt die Trockenzeit von etwa April bis Oktober. W
 
 Du schwankst noch zwischen Bali und Thailand oder möchtest beides mit einer Rundreise verbinden? In unserer [Online-Buchung](https://haydiweg.de/buchen/) findest du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Fernreisen planen viele lieber gemeinsam mit uns. [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Bali%20und%20Thailand.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder nimm über die [Kontaktseite](https://haydiweg.de/kontakt/) Kontakt auf.
+Fernreisen planen viele lieber gemeinsam mit uns. [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Bali%20und%20Thailand.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder nimm über die [Kontaktseite](https://haydiweg.de/kontakt/) Kontakt auf.
 
 ## Quellen
 

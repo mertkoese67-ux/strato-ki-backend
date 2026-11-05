@@ -4,7 +4,7 @@
    "datei": "01-welche-kanareninsel-im-winter.md",
    "nr": "01",
    "titel": "Welche Kanareninsel im Winter? Teneriffa, Gran Canaria, Fuerteventura und Lanzarote im Vergleich",
-   "woerter": 2582,
+   "woerter": 2608,
    "soll": 2200,
    "seo_title_len": 52,
    "meta_len": 150,
@@ -20,11 +20,21 @@
    ],
    "externe_quellen": 10,
    "faq": 6,
-   "pruefen_marker": 0,
+   "pruefen_marker": 3,
    "medienpruefung": 5,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C029O&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C429I&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C447A&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C649I&k=coo": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600200_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600350_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600400_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -53,7 +63,317 @@
    "medienpruefung": 3,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1269": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_624630_kt.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "03-hurghada-oder-marsa-alam.md",
+   "nr": "03",
+   "titel": "Hurghada oder Marsa Alam? Unterschiede, Reisezeit und für wen sich welche Region lohnt",
+   "woerter": 2138,
+   "soll": 2000,
+   "seo_title_len": 48,
+   "meta_len": 151,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/aegypten/aegypten-im-winter-wetter-baden/",
+    "https://haydiweg.de/aegypten/familienurlaub-aegypten/",
+    "https://haydiweg.de/aegypten/hurghada-oder-sharm-el-sheikh/"
+   ],
+   "externe_quellen": 4,
+   "faq": 6,
+   "pruefen_marker": 4,
+   "medienpruefung": 5,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_624630_kt.pdf": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "05-dubai-im-winter-wetter-baden.md",
+   "nr": "05",
+   "titel": "Dubai im Januar und im Winter: Wetter, Baden und was du von Dezember bis März erwarten kannst",
+   "woerter": 1982,
+   "soll": 1700,
+   "seo_title_len": 54,
+   "meta_len": 146,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/dubai/dubai-urlaub-kosten/",
+    "https://haydiweg.de/dubai/einreise-dubai-vae/"
+   ],
+   "externe_quellen": 4,
+   "faq": 5,
+   "pruefen_marker": 4,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "07-einreise-aegypten-visum-personalausweis.md",
+   "nr": "07",
+   "titel": "Einreise Ägypten: Visum, Personalausweis und Ablauf am Flughafen",
+   "woerter": 2113,
+   "soll": 1700,
+   "seo_title_len": 49,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/aegypten/aegypten-im-winter-wetter-baden/",
+    "https://haydiweg.de/aegypten/hurghada-oder-marsa-alam/"
+   ],
+   "externe_quellen": 2,
+   "faq": 6,
+   "pruefen_marker": 6,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [
+    "Euro-Beträge prüfen (2): einfaches Touristenvisum dort 35 Euro plus 3 Eu | sind es laut Auswärtigem Amt 35 Euro plus 3 Eu"
+   ],
+   "ext_status": {
+    "https://visa2egypt.gov.eg/eVisa/FAQ": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "09-all-inclusive-oder-halbpension.md",
+   "nr": "09",
+   "titel": "All Inclusive oder Halbpension? Wann sich welche Verpflegung wirklich lohnt",
+   "woerter": 2122,
+   "soll": 1900,
+   "seo_title_len": 58,
+   "meta_len": 152,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/familienurlaub-tuerkei-hotel-nach-kindesalter/",
+    "https://haydiweg.de/tuerkei/tuerkei-urlaub-kosten/"
+   ],
+   "externe_quellen": 8,
+   "faq": 6,
+   "pruefen_marker": 2,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.t-online.de/leben/reisen/reisetipps/id_73237916/all-inclusive-das-kann-es-im-urlaub-bedeuten.html": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "10-einreise-dubai-vae.md",
+   "nr": "10",
+   "titel": "Einreise nach Dubai: Was deutsche Urlauber 2027 wissen müssen",
+   "woerter": 1694,
+   "soll": 1500,
+   "seo_title_len": 57,
+   "meta_len": 153,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 5,
+   "geplante_links": [
+    "https://haydiweg.de/dubai/dubai-im-winter-wetter-baden/",
+    "https://haydiweg.de/dubai/dubai-urlaub-kosten/"
+   ],
+   "externe_quellen": 3,
+   "faq": 5,
+   "pruefen_marker": 2,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.ede.gov.ae/en/w/issue-of-permit-to-import-medicines-for-personal-use": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "11-fruehbucher-2027.md",
+   "nr": "11",
+   "titel": "Frühbucher 2027: Ab wann buchen und wann sich Frühbucherangebote wirklich lohnen",
+   "woerter": 2038,
+   "soll": 1900,
+   "seo_title_len": 54,
+   "meta_len": 147,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 8,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/osterferien-2027/",
+    "https://haydiweg.de/reiseplanung/sommerferien-2027/",
+    "https://haydiweg.de/tuerkei/tuerkei-urlaub-kosten/"
+   ],
+   "externe_quellen": 9,
+   "faq": 6,
+   "pruefen_marker": 1,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651g.html [<urlopen error [Errno 104] Connection re]"
+   ],
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651f.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651g.html": "<urlopen error [Errno 104] Connection re",
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651r.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651t.html": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.verbraucherzentrale.de/urteilsdatenbank/reise-mobilitaet/reisepreisanzahlungen-von-40-und-restpreisfaelligkeit-45-tage-vor-reiseantritt-sind-unzulaessig-14043": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "13-osterferien-2027.md",
+   "nr": "13",
+   "titel": "Osterferien 2027: Termine aller Bundesländer und warme Reiseziele für die Ferien",
+   "woerter": 1877,
+   "soll": 1800,
+   "seo_title_len": 56,
+   "meta_len": 146,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/",
+    "https://haydiweg.de/reiseplanung/pfingstferien-2027/",
+    "https://haydiweg.de/reiseplanung/sommerferien-2027/"
+   ],
+   "externe_quellen": 7,
+   "faq": 6,
+   "pruefen_marker": 2,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "14-familienurlaub-tuerkei-hotel-nach-kindesalter.md",
+   "nr": "14",
+   "titel": "Familienurlaub in der Türkei: Welches Hotel passt zu welchem Alter deiner Kinder?",
+   "woerter": 2376,
+   "soll": 2300,
+   "seo_title_len": 51,
+   "meta_len": 149,
+   "kw_abdeckung": {
+    "H1": false,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/urlaub-mit-baby-tuerkei/"
+   ],
+   "externe_quellen": 10,
+   "faq": 6,
+   "pruefen_marker": 2,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [
+    "Fokus-Keyword fehlt in: H1"
+   ],
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202930": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "15-bali-oder-thailand.md",
+   "nr": "15",
+   "titel": "Bali oder Thailand? Reisezeit, Strände und Reisestil im Vergleich",
+   "woerter": 2049,
+   "soll": 2100,
+   "seo_title_len": 52,
+   "meta_len": 152,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 8,
+   "geplante_links": [
+    "https://haydiweg.de/fernreisen/einreise-thailand/",
+    "https://haydiweg.de/fernreisen/malediven-urlaub-kosten/"
+   ],
+   "externe_quellen": 5,
+   "faq": 6,
+   "pruefen_marker": 6,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://tdac.immigration.go.th/": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/indonesiensicherheit-212396": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/thailandsicherheit-201558": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/Thailand/CSV/": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-5-WMO-Normals-9120/Indonesia/CSV/StasiunMeteorologiIGustiNgurahRai_97230.csv": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -82,7 +402,759 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/Sommerferienregelung_2025-2030_2022-09-21.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "17-pauschalreise-oder-selbst-buchen.md",
+   "nr": "17",
+   "titel": "Pauschalreise oder selbst buchen? Wann sich das Paket wirklich lohnt",
+   "woerter": 1884,
+   "soll": 1900,
+   "seo_title_len": 58,
+   "meta_len": 151,
+   "kw_abdeckung": {
+    "H1": false,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/fruehbucher-2027/",
+    "https://haydiweg.de/reiseplanung/reiseruecktrittsversicherung-sinnvoll/"
+   ],
+   "externe_quellen": 12,
+   "faq": 6,
+   "pruefen_marker": 1,
+   "medienpruefung": 3,
+   "issues": [],
+   "warnungen": [
+    "Fokus-Keyword fehlt in: H1",
+    "Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651g.html [<urlopen error [Errno 104] Connection re]"
+   ],
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651a.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651g.html": "<urlopen error [Errno 104] Connection re",
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651i.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651j.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651k.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651o.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651q.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651r.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651w.html": 200,
+    "https://www.verbraucherzentrale.de/pauschalreisecheck-hilfe-bei-aerger-mit-dem-reiseveranstalter-100823": 200,
+    "https://www.verbraucherzentrale.de/wissen/reise-mobilitaet/urlaub-buchen/onlinereisebueros-so-vermeiden-sie-probleme-bei-der-urlaubsbuchung-11306": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "18-kreta-oder-rhodos.md",
+   "nr": "18",
+   "titel": "Kreta oder Rhodos? Strände, Reisezeit und welche Insel zu dir passt",
+   "woerter": 1901,
+   "soll": 2000,
+   "seo_title_len": 45,
+   "meta_len": 147,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/",
+    "https://haydiweg.de/griechenland/griechische-inseln-fuer-familien/"
+   ],
+   "externe_quellen": 7,
+   "faq": 6,
+   "pruefen_marker": 5,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://en.wikipedia.org/wiki/Heraklion": 200,
+    "https://en.wikipedia.org/wiki/Rhodes": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.visitgreece.gr/islands/crete/": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/rhodes/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "19-malediven-urlaub-kosten.md",
+   "nr": "19",
+   "titel": "Was kostet ein Malediven-Urlaub? Die Kostenfaktoren ehrlich erklärt",
+   "woerter": 1959,
+   "soll": 1900,
+   "seo_title_len": 49,
+   "meta_len": 141,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/fernreisen/bali-oder-thailand/"
+   ],
+   "externe_quellen": 6,
+   "faq": 5,
+   "pruefen_marker": 6,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): https://www.mira.gov.mv/Pages/View/whatisgreentax [403]"
+   ],
+   "ext_status": {
+    "https://atolltimes.mv/post/business/10365": 200,
+    "https://miadhu.mv/en/articles/14008": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/maledivensicherheit-220382": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.mira.gov.mv/Pages/View/whatisgreentax": 403,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/Maldives/CSV/Hulhule_43555.csv": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "20-hurghada-oder-sharm-el-sheikh.md",
+   "nr": "20",
+   "titel": "Hurghada oder Sharm El Sheikh? Der Vergleich für Badeurlaub, Familien und Schnorchler",
+   "woerter": 2132,
+   "soll": 1900,
+   "seo_title_len": 56,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/aegypten/aegypten-im-winter-wetter-baden/",
+    "https://haydiweg.de/aegypten/einreise-aegypten-visum-personalausweis/",
+    "https://haydiweg.de/aegypten/familienurlaub-aegypten/",
+    "https://haydiweg.de/aegypten/hurghada-oder-marsa-alam/"
+   ],
+   "externe_quellen": 4,
+   "faq": 6,
+   "pruefen_marker": 3,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1269": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "21-mallorca-oder-antalya.md",
+   "nr": "21",
+   "titel": "Mallorca oder Antalya? Was für deinen Sommerurlaub 2027 besser passt",
+   "woerter": 2198,
+   "soll": 1900,
+   "seo_title_len": 47,
+   "meta_len": 150,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/spanien/mallorca-im-fruehling/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/"
+   ],
+   "externe_quellen": 8,
+   "faq": 6,
+   "pruefen_marker": 4,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1236": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/spanien-node/spaniensicherheit-210534": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_083060_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.hacienda.gob.es/SGFAL/FinanciacionTerritorial/Autonomica/TributosPropios/Normativa/2025/Impuesto-sobre-estancias-turisticas-BALEARES-2025-nuevo-formato.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "22-einreise-thailand.md",
+   "nr": "22",
+   "titel": "Einreise nach Thailand: Visum, digitale Ankunftskarte und Bargeld-Regeln",
+   "woerter": 1559,
+   "soll": 1500,
+   "seo_title_len": 54,
+   "meta_len": 153,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/fernreisen/bali-oder-thailand/"
+   ],
+   "externe_quellen": 4,
+   "faq": 5,
+   "pruefen_marker": 1,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://berlin.thaiembassy.org/de/page/thailand-digital-arrival-card-tdac-verpflichtend-a": 200,
+    "https://frankfurt.thaiembassy.org/de/page/einreisen-ohne-visa-visa-exemption": 200,
+    "https://tdac.immigration.go.th/": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/thailandsicherheit-201558": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "23-urlaub-mit-baby-tuerkei.md",
+   "nr": "23",
+   "titel": "Urlaub mit Baby in der Türkei: Hotelwahl, Gesundheit und was ins Gepäck gehört",
+   "woerter": 1904,
+   "soll": 1900,
+   "seo_title_len": 56,
+   "meta_len": 155,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/einreise-tuerkei-personalausweis-reisepass/",
+    "https://haydiweg.de/tuerkei/familienurlaub-tuerkei-hotel-nach-kindesalter/"
+   ],
+   "externe_quellen": 8,
+   "faq": 6,
+   "pruefen_marker": 1,
+   "medienpruefung": 3,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://bundespolizei.de/sicher-auf-reisen/mit-dem-flugzeug/was-darf-ich-mitnehmen/fluessigkeiten-an-bord": 200,
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.bfs.de/SharedDocs/FAQs/BfS/DE/opt/uv/kinder.html": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "24-brueckentage-2027.md",
+   "nr": "24",
+   "titel": "Brückentage 2027: Mit wenig Urlaubstagen mehr freie Zeit für deine Reisen",
+   "woerter": 1898,
+   "soll": 1700,
+   "seo_title_len": 53,
+   "meta_len": 153,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 8,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/osterferien-2027/",
+    "https://haydiweg.de/reiseplanung/pfingstferien-2027/",
+    "https://haydiweg.de/reiseplanung/sommerferien-2027/"
+   ],
+   "externe_quellen": 7,
+   "faq": 5,
+   "pruefen_marker": 0,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.gesetze-bayern.de/Content/Document/BayFTG-1": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2027_28.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "25-tuerkei-urlaub-kosten.md",
+   "nr": "25",
+   "titel": "Was kostet ein Türkei-Urlaub? Die wichtigsten Kostenfaktoren für deine Reise",
+   "woerter": 2056,
+   "soll": 2000,
+   "seo_title_len": 53,
+   "meta_len": 150,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/all-inclusive-oder-halbpension/",
+    "https://haydiweg.de/reiseplanung/fruehbucher-2027/",
+    "https://haydiweg.de/tuerkei/familienurlaub-tuerkei-hotel-nach-kindesalter/"
+   ],
+   "externe_quellen": 9,
+   "faq": 6,
+   "pruefen_marker": 4,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.forbes.com.tr/ekonomi/tuik-eylul-enflasyonunu-acikladi-eylul-2026-tuketici-fiyat-endeksi-tuik": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202930": 200,
+    "https://www.turizmekonomi.com/turkiye-cuts-accommodation-tax-to-1": 200,
+    "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/internationales-roaming-bei-wlan-und-mobilfunk-kostenfallen-vermeiden-27954": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "26-familienurlaub-aegypten.md",
+   "nr": "26",
+   "titel": "Familienurlaub Ägypten: Regionen, Hotels und was Eltern wissen sollten",
+   "woerter": 2165,
+   "soll": 2000,
+   "seo_title_len": 48,
+   "meta_len": 149,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/aegypten/aegypten-im-winter-wetter-baden/",
+    "https://haydiweg.de/aegypten/einreise-aegypten-visum-personalausweis/",
+    "https://haydiweg.de/aegypten/hurghada-oder-marsa-alam/",
+    "https://haydiweg.de/aegypten/hurghada-oder-sharm-el-sheikh/"
+   ],
+   "externe_quellen": 4,
+   "faq": 6,
+   "pruefen_marker": 2,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "27-dubai-urlaub-kosten.md",
+   "nr": "27",
+   "titel": "Was kostet ein Dubai-Urlaub? Kostenfaktoren, Spartipps und versteckte Ausgaben",
+   "woerter": 2060,
+   "soll": 1800,
+   "seo_title_len": 55,
+   "meta_len": 154,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/dubai/dubai-im-winter-wetter-baden/",
+    "https://haydiweg.de/dubai/einreise-dubai-vae/"
+   ],
+   "externe_quellen": 6,
+   "faq": 5,
+   "pruefen_marker": 3,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523": 200,
+    "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv": 200,
+    "https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-mohammed-approves-second-larger-aed15-billion-economic-incentives-package/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "29-pfingstferien-2027.md",
+   "nr": "29",
+   "titel": "Pfingstferien 2027: Termine und Reiseideen für Baden-Württemberg, Bayern und Co.",
+   "woerter": 1666,
+   "soll": 1500,
+   "seo_title_len": 58,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/brueckentage-2027/",
+    "https://haydiweg.de/reiseplanung/sommerferien-2027/"
+   ],
+   "externe_quellen": 8,
+   "faq": 6,
+   "pruefen_marker": 1,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.gesetze-bayern.de/Content/Document/BayFTG-1": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "30-griechenland-im-fruehling-welche-insel.md",
+   "nr": "30",
+   "titel": "Griechenland im April und zu Ostern: Welche Insel ist im Frühling schon warm?",
+   "woerter": 1774,
+   "soll": 1600,
+   "seo_title_len": 55,
+   "meta_len": 146,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 8,
+   "geplante_links": [
+    "https://haydiweg.de/griechenland/griechische-inseln-fuer-familien/",
+    "https://haydiweg.de/griechenland/kreta-oder-rhodos/",
+    "https://haydiweg.de/reiseplanung/osterferien-2027/",
+    "https://haydiweg.de/spanien/welche-kanareninsel-im-winter/"
+   ],
+   "externe_quellen": 7,
+   "faq": 5,
+   "pruefen_marker": 7,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://bimcal.com/calendar/orthodox-easter": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_166410_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/rhodes/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "31-adults-only-hotels-tuerkei.md",
+   "nr": "31",
+   "titel": "Adults-Only-Hotels in der Türkei: Für wen sie sich lohnen und worauf du achten solltest",
+   "woerter": 1618,
+   "soll": 1700,
+   "seo_title_len": 58,
+   "meta_len": 145,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/side-oder-belek/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/"
+   ],
+   "externe_quellen": 4,
+   "faq": 6,
+   "pruefen_marker": 2,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
    "ext_status": {},
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "32-reiseruecktrittsversicherung-sinnvoll.md",
+   "nr": "32",
+   "titel": "Reiserücktrittsversicherung sinnvoll? Wann sie sich lohnt und worauf du achten solltest",
+   "woerter": 1841,
+   "soll": 1700,
+   "seo_title_len": 60,
+   "meta_len": 155,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/fruehbucher-2027/",
+    "https://haydiweg.de/reiseplanung/pauschalreise-oder-selbst-buchen/"
+   ],
+   "externe_quellen": 4,
+   "faq": 5,
+   "pruefen_marker": 3,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651e.html [<urlopen error [Errno 104] Connection re]"
+   ],
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651e.html": "<urlopen error [Errno 104] Connection re",
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.test.de/presse/pressemitteilungen/Reiseruecktrittsversicherung-Besser-nicht-zusammen-mit-der-Reise-abschliessen-6266796-0/": 200,
+    "https://www.verbraucherzentrale-niedersachsen.de/node/121314": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "33-dominikanische-republik-regionen.md",
+   "nr": "33",
+   "titel": "Punta Cana, Bayahibe oder Puerto Plata? Die Regionen der Dominikanischen Republik im Vergleich",
+   "woerter": 1829,
+   "soll": 1800,
+   "seo_title_len": 57,
+   "meta_len": 151,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/fernreisen/malediven-urlaub-kosten/"
+   ],
+   "externe_quellen": 4,
+   "faq": 5,
+   "pruefen_marker": 4,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://news.caricoos.org/2026/09/02/outlook-of-sargassum-blooms-august-31-2026/": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit-206146": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-4-WMO-Normals-9120/DominicanRepublic/CSV/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "34-mallorca-im-fruehling.md",
+   "nr": "34",
+   "titel": "Mallorca im April und zu Ostern: Wie warm ist es und was kannst du unternehmen?",
+   "woerter": 1792,
+   "soll": 1600,
+   "seo_title_len": 57,
+   "meta_len": 140,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/reiseplanung/osterferien-2027/",
+    "https://haydiweg.de/spanien/mallorca-oder-antalya/",
+    "https://haydiweg.de/spanien/welche-kanareninsel-im-winter/"
+   ],
+   "externe_quellen": 7,
+   "faq": 5,
+   "pruefen_marker": 5,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://amp.majorcadailybulletin.com/holiday/life-style/2026/03/04/140631/almond-blossom-route-mallorca-where-and-when-see-it.html": 200,
+    "https://whc.unesco.org/en/list/1371/": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=B228&k=bal": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=B278&k=bal": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.ultimahora.es/noticias/local/2025/05/08/2382123/cambio-climatico-efectos-mar-1.html": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "36-griechische-inseln-fuer-familien.md",
+   "nr": "36",
+   "titel": "Familienurlaub in Griechenland: Kreta, Rhodos, Kos oder Korfu?",
+   "woerter": 1902,
+   "soll": 1900,
+   "seo_title_len": 54,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/",
+    "https://haydiweg.de/griechenland/kreta-oder-rhodos/",
+    "https://haydiweg.de/reiseplanung/sommerferien-2027/"
+   ],
+   "externe_quellen": 9,
+   "faq": 5,
+   "pruefen_marker": 3,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/griechenland-node/griechenlandsicherheit/211534": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_166410_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/kos/": 200,
+    "https://www.visitgreece.gr/islands/ionian-islands/corfu/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "R1-alanya-urlaub-tipps.md",
+   "nr": "37",
+   "titel": "Alanya Urlaub: Für wen sich die Region lohnt – Strände, Orte und Hotels",
+   "woerter": 2312,
+   "soll": 1800,
+   "seo_title_len": 51,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/adults-only-hotels-tuerkei/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/"
+   ],
+   "externe_quellen": 10,
+   "faq": 5,
+   "pruefen_marker": 4,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (2): https://dhmi.gov.tr/AIPDocuments/LT_AD_2_LTFG_en.pdf [<urlopen error [Errno 104] Connection re], https://www.worldheritagesite.org/tentative/id/1405 [403]"
+   ],
+   "ext_status": {
+    "https://dhmi.gov.tr/AIPDocuments/LT_AD_2_LTFG_en.pdf": "<urlopen error [Errno 104] Connection re",
+    "https://whc.unesco.org/en/tentativelists/1405/": 200,
+    "https://www.turkishmuseums.com/blog/detail/5-must-have-experiences-in-alanya/10099/4": 200,
+    "https://www.worldheritagesite.org/tentative/id/1405": 403
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "R2-zypern-im-fruehling.md",
+   "nr": "38",
+   "titel": "Zypern im April und zu Ostern: Wie warm ist es und welche Region passt?",
+   "woerter": 2020,
+   "soll": 1600,
+   "seo_title_len": 58,
+   "meta_len": 143,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/griechenland/griechenland-im-fruehling-welche-insel/",
+    "https://haydiweg.de/reiseplanung/brueckentage-2027/",
+    "https://haydiweg.de/reiseplanung/osterferien-2027/"
+   ],
+   "externe_quellen": 9,
+   "faq": 5,
+   "pruefen_marker": 3,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1442": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1884": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=202": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/zypernsicherheit-210258": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_176000_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_176090_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.officeholidays.com/countries/cyprus/2027": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "R3-madeira-oder-kanaren.md",
+   "nr": "39",
+   "titel": "Madeira oder Kanaren? Welche Insel im Winter und Frühling besser zu dir passt",
+   "woerter": 1979,
+   "soll": 1700,
+   "seo_title_len": 59,
+   "meta_len": 153,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/spanien/welche-kanareninsel-im-winter/"
+   ],
+   "externe_quellen": 10,
+   "faq": 5,
+   "pruefen_marker": 6,
+   "medienpruefung": 6,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://theportugalpost.com/posts/madeira-airport-closes-again-as-strong-winds-divert-flights-march-sees-160-cancellations": 200,
+    "https://whc.unesco.org/en/list/934/": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1234": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=304": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_085210_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_085220_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600200_kt.pdf": 200,
+    "https://www.ipma.pt/bin/file.data/climate-normal/cn_91-20_FUNCHAL.pdf": 200
+   },
    "status": "BESTANDEN"
   }
  ],

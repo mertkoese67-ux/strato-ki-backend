@@ -167,7 +167,7 @@ Nein, Heiligabend (Freitag, 24. Dezember) und Silvester (Freitag, 31. Dezember) 
 
 ## Deine Reise für die Brückentage finden
 
-Du hast deine freien Tage eingetragen? Dann such dir den passenden Kurztrip oder deine Pauschalreise direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du nicht weißt, wohin es für vier oder neun Tage gehen soll, schreib uns [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20die%20Br%C3%BCckentage%202027%20f%C3%BCr%20eine%20Reise%20nutzen.).
+Du hast deine freien Tage eingetragen? Dann such dir den passenden Kurztrip oder deine Pauschalreise direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du nicht weißt, wohin es für vier oder neun Tage gehen soll, schreib uns [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20die%20Br%C3%BCckentage%202027%20f%C3%BCr%20eine%20Reise%20nutzen.).
 
 ## Quellen
 

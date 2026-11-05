@@ -31,7 +31,7 @@ redaktionelle_pruefung:
   - "Mindestalter-Regeln (ab 16 bzw. Check-in nur mit volljährigem Gast) laut Hotelseite Selene, Stand 05.11.2026 – vor Veröffentlichung gegenprüfen."
   - "Mediathek-IDs 6548/6549 tragen keinen Alt-Text – Motiv Rooftop-Pool bestätigen."
   - "Keine Autocomplete-Daten zu 'adults only' in der Arbeitsdatei; FAQ basieren auf Nebenkeywords des Redaktionsplans."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
@@ -160,7 +160,7 @@ Wer Ruhe als oberstes Ziel hat, wählt ein reines Adults-only-Hotel. Wer die Aus
 
 ## Dein Adults-only-Hotel anfragen
 
-Du suchst ein Hotel ohne Kinder in der Türkei, das zu deinem Stil passt? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20ein%20Adults-Only-Hotel%20in%20der%20T%C3%BCrkei.%20K%C3%B6nnt%20ihr%20mir%20passende%20Hotels%20vorschlagen%3F), wir schlagen dir passende Hotels vor und klären Mindestalter und Extras.
+Du suchst ein Hotel ohne Kinder in der Türkei, das zu deinem Stil passt? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20ein%20Adults-Only-Hotel%20in%20der%20T%C3%BCrkei.%20K%C3%B6nnt%20ihr%20mir%20passende%20Hotels%20vorschlagen%3F), wir schlagen dir passende Hotels vor und klären Mindestalter und Extras.
 
 Lieber selbst suchen? Im [Buchungsportal](https://haydiweg.de/buchen/) findest du Angebote vieler Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 

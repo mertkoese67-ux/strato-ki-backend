@@ -1,0 +1,69 @@
+| Nr | Wörter (Soll) | Title | Meta | KW H1/Einst./H2/Meta | int. Links | Quellen | FAQ | [PRÜFEN] | Medienprüf. | Status |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 01 | 2608 (2200) | 52 | 150 | ✓/✓/✓/✓ | 7 | 10 | 6 | 3 | 5 | BESTANDEN |
+| 02 | 2074 (1800) | 53 | 146 | ✓/✓/✓/✓ | 9 | 6 | 6 | 4 | 3 | BESTANDEN |
+| 03 | 2138 (2000) | 48 | 151 | ✓/✓/✓/✓ | 7 | 4 | 6 | 4 | 5 | BESTANDEN |
+| 05 | 1982 (1700) | 54 | 146 | ✓/✓/✓/✓ | 9 | 4 | 5 | 4 | 1 | BESTANDEN |
+| 07 | 2113 (1700) | 49 | 148 | ✓/✓/✓/✓ | 6 | 2 | 6 | 6 | 4 | BESTANDEN |
+| 09 | 2122 (1900) | 58 | 152 | ✓/✓/✓/✓ | 9 | 8 | 6 | 2 | 1 | BESTANDEN |
+| 10 | 1694 (1500) | 57 | 153 | ✓/✓/✓/✓ | 5 | 3 | 5 | 2 | 1 | BESTANDEN |
+| 11 | 2038 (1900) | 54 | 147 | ✓/✓/✓/✓ | 8 | 9 | 6 | 1 | 4 | BESTANDEN |
+| 13 | 1877 (1800) | 56 | 146 | ✓/✓/✓/✓ | 9 | 7 | 6 | 2 | 2 | BESTANDEN |
+| 14 | 2376 (2300) | 51 | 149 | ✗/✓/✓/✓ | 9 | 10 | 6 | 2 | 0 | BESTANDEN |
+| 15 | 2049 (2100) | 52 | 152 | ✓/✓/✓/✓ | 8 | 5 | 6 | 6 | 1 | BESTANDEN |
+| 16 | 1954 (1900) | 57 | 149 | ✓/✓/✓/✓ | 9 | 8 | 5 | 2 | 2 | BESTANDEN |
+| 17 | 1884 (1900) | 58 | 151 | ✗/✓/✓/✓ | 6 | 12 | 6 | 1 | 3 | BESTANDEN |
+| 18 | 1901 (2000) | 45 | 147 | ✓/✓/✓/✓ | 6 | 7 | 6 | 5 | 4 | BESTANDEN |
+| 19 | 1959 (1900) | 49 | 141 | ✓/✓/✓/✓ | 6 | 6 | 5 | 6 | 2 | BESTANDEN |
+| 20 | 2132 (1900) | 56 | 148 | ✓/✓/✓/✓ | 7 | 4 | 6 | 3 | 2 | BESTANDEN |
+| 21 | 2198 (1900) | 47 | 150 | ✓/✓/✓/✓ | 9 | 8 | 6 | 4 | 0 | BESTANDEN |
+| 22 | 1559 (1500) | 54 | 153 | ✓/✓/✓/✓ | 6 | 4 | 5 | 1 | 1 | BESTANDEN |
+| 23 | 1904 (1900) | 56 | 155 | ✓/✓/✓/✓ | 9 | 8 | 6 | 1 | 3 | BESTANDEN |
+| 24 | 1898 (1700) | 53 | 153 | ✓/✓/✓/✓ | 8 | 7 | 5 | 0 | 2 | BESTANDEN |
+| 25 | 2056 (2000) | 53 | 150 | ✓/✓/✓/✓ | 9 | 9 | 6 | 4 | 1 | BESTANDEN |
+| 26 | 2165 (2000) | 48 | 149 | ✓/✓/✓/✓ | 9 | 4 | 6 | 2 | 2 | BESTANDEN |
+| 27 | 2060 (1800) | 55 | 154 | ✓/✓/✓/✓ | 6 | 6 | 5 | 3 | 2 | BESTANDEN |
+| 29 | 1666 (1500) | 58 | 148 | ✓/✓/✓/✓ | 7 | 8 | 6 | 1 | 2 | BESTANDEN |
+| 30 | 1774 (1600) | 55 | 146 | ✓/✓/✓/✓ | 8 | 7 | 5 | 7 | 4 | BESTANDEN |
+| 31 | 1618 (1700) | 58 | 145 | ✓/✓/✓/✓ | 9 | 4 | 6 | 2 | 1 | BESTANDEN |
+| 32 | 1841 (1700) | 60 | 155 | ✓/✓/✓/✓ | 7 | 4 | 5 | 3 | 2 | BESTANDEN |
+| 33 | 1829 (1800) | 57 | 151 | ✓/✓/✓/✓ | 6 | 4 | 5 | 4 | 0 | BESTANDEN |
+| 34 | 1792 (1600) | 57 | 140 | ✓/✓/✓/✓ | 7 | 7 | 5 | 5 | 4 | BESTANDEN |
+| 36 | 1902 (1900) | 54 | 148 | ✓/✓/✓/✓ | 6 | 9 | 5 | 3 | 2 | BESTANDEN |
+| 37 | 2312 (1800) | 51 | 148 | ✓/✓/✓/✓ | 9 | 10 | 5 | 4 | 0 | BESTANDEN |
+| 38 | 2020 (1600) | 58 | 143 | ✓/✓/✓/✓ | 7 | 9 | 5 | 3 | 2 | BESTANDEN |
+| 39 | 1979 (1700) | 59 | 153 | ✓/✓/✓/✓ | 6 | 10 | 5 | 6 | 6 | BESTANDEN |
+
+Textüberschneidungen (Jaccard 6-Wort-Shingles > 0,08): keine
+Doppelte Fokus-Keywords: keine
+
+07-einreise-aegypten-visum-personalausweis.md:
+  Hinweis: Euro-Beträge prüfen (2): einfaches Touristenvisum dort 35 Euro plus 3 Eu | sind es laut Auswärtigem Amt 35 Euro plus 3 Eu
+
+11-fruehbucher-2027.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651g.html [<urlopen error [Errno 104] Connection re]
+
+14-familienurlaub-tuerkei-hotel-nach-kindesalter.md:
+  Hinweis: Fokus-Keyword fehlt in: H1
+
+17-pauschalreise-oder-selbst-buchen.md:
+  Hinweis: Fokus-Keyword fehlt in: H1
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651g.html [<urlopen error [Errno 104] Connection re]
+
+18-kreta-oder-rhodos.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]
+
+19-malediven-urlaub-kosten.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): https://www.mira.gov.mv/Pages/View/whatisgreentax [403]
+
+30-griechenland-im-fruehling-welche-insel.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]
+
+32-reiseruecktrittsversicherung-sinnvoll.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): https://www.gesetze-im-internet.de/bgb/__651e.html [<urlopen error [Errno 104] Connection re]
+
+36-griechische-inseln-fuer-familien.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]
+
+R1-alanya-urlaub-tipps.md:
+  Hinweis: Externe Links nicht erreichbar/blockiert (2): https://dhmi.gov.tr/AIPDocuments/LT_AD_2_LTFG_en.pdf [<urlopen error [Errno 104] Connection re], https://www.worldheritagesite.org/tentative/id/1405 [403]

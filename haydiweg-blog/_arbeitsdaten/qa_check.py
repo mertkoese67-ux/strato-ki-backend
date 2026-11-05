@@ -69,7 +69,7 @@ def main():
             if k not in fm or fm[k] in (None, "", []):
                 issues.append(f"Feld fehlt: {k}")
         nr = f"{int(fm.get('nr', 0)):02d}"
-        p = plan.get(nr, {})
+        p = plan.get(nr) or plan.get({"37": "R1", "38": "R2", "39": "R3"}.get(nr, ""), {})
         st, md = str(fm.get("seo_title", "")), str(fm.get("meta_description", ""))
         if len(st) > 60: issues.append(f"SEO-Title {len(st)} Zeichen (>60)")
         if not 120 <= len(md) <= 160: issues.append(f"Meta-Description {len(md)} Zeichen (Soll 130–155)")
@@ -93,7 +93,7 @@ def main():
             (issues if wc < 0.7 * soll else warns).append(f"Wortzahl {wc} (Plan {soll})")
         links = re.findall(r"\]\((https?://[^)\s]+)\)", body)
         internal = [l for l in links if "haydiweg.de" in l]
-        external = [l for l in links if "haydiweg.de" not in l and "wa.me" not in l]
+        external = [l.rstrip(".,;") for l in re.findall(r"https?://[^\s)\]>\"'<]+", re.sub(r"<!--.*?-->", "", body, flags=re.S)) if "haydiweg.de" not in l and "wa.me" not in l]
         bad = [l for l in internal if l.split("#")[0] not in allowed and l.split("#")[0] not in planned]
         if bad: issues.append("Unbekannte interne URLs: " + ", ".join(bad))
         uniq_int = {l.split("#")[0] for l in internal if "/buchen/" not in l}

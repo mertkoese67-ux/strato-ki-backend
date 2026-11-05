@@ -153,7 +153,7 @@ Laut Auswärtigem Amt sind für deutsche Kinder Reisepass, Personalausweis oder 
 
 Du kennst euren Reisezeitraum? Dann kannst du Familienhotels auf Kreta, Rhodos, Kos und Korfu in unserer [Online-Buchung vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Wenn du dir bei Strand, Zimmer oder Kinderclub unsicher bist, [schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20Griechenland.%20Reisezeitraum%3A%20%E2%80%A6%20Erwachsene%3A%20%E2%80%A6%20Kinder%20%28Alter%29%3A%20%E2%80%A6) mit Reisezeitraum und dem Alter der Kinder. Wir schlagen dir passende Hotels vor.
+Wenn du dir bei Strand, Zimmer oder Kinderclub unsicher bist, [schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20Griechenland.%20Reisezeitraum%3A%20%E2%80%A6%20Erwachsene%3A%20%E2%80%A6%20Kinder%20%28Alter%29%3A%20%E2%80%A6) mit Reisezeitraum und dem Alter der Kinder. Wir schlagen dir passende Hotels vor.
 
 ## Quellen
 

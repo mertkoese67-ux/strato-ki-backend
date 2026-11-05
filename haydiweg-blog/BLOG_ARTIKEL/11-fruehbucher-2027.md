@@ -178,7 +178,7 @@ Nach einem Urteil des Bundesgerichtshofs braucht eine Anzahlung von mehr als 20 
 
 ## Deinen Frühbucher-Urlaub 2027 finden
 
-Du weißt, wann du reisen möchtest? Dann kannst du Frühbucher-Angebote vieler Veranstalter bei uns [online vergleichen und buchen](https://haydiweg.de/buchen/), mit bis zu 1.000 € Cashback für berechtigte Online-Buchungen gemäß Teilnahmebedingungen. Wenn du Fragen zu Hotel, Zimmer oder Stornobedingungen hast, schreib uns [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20f%C3%BCr%202027%20als%20Fr%C3%BChbucher%20buchen%20und%20h%C3%A4tte%20gern%20eine%20Beratung.). Wir beraten dich persönlich.
+Du weißt, wann du reisen möchtest? Dann kannst du Frühbucher-Angebote vieler Veranstalter bei uns [online vergleichen und buchen](https://haydiweg.de/buchen/), mit bis zu 1.000 € Cashback für berechtigte Online-Buchungen gemäß Teilnahmebedingungen. Wenn du Fragen zu Hotel, Zimmer oder Stornobedingungen hast, schreib uns [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20f%C3%BCr%202027%20als%20Fr%C3%BChbucher%20buchen%20und%20h%C3%A4tte%20gern%20eine%20Beratung.). Wir beraten dich persönlich.
 
 ## Quellen
 

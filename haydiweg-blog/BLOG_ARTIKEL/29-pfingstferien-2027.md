@@ -151,7 +151,7 @@ Längere Pfingstferien haben 2027 nur Baden-Württemberg, Bayern und Sachsen-Anh
 
 ## Deinen Pfingsturlaub 2027 finden
 
-Du weißt jetzt, wie viele Tage du hast? Dann kannst du deinen Pfingsturlaub bei uns [online suchen und vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du Fragen zu Hotel, Flug oder Reisezeit hast, schreib uns [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Pfingstferien%202027.).
+Du weißt jetzt, wie viele Tage du hast? Dann kannst du deinen Pfingsturlaub bei uns [online suchen und vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Wenn du Fragen zu Hotel, Flug oder Reisezeit hast, schreib uns [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Pfingstferien%202027.).
 
 ## Quellen
 

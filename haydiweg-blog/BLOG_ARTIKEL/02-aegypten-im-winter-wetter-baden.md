@@ -179,7 +179,7 @@ Ab Ende März steigen die Tageswerte in Hurghada auf über 25 °C, im April laut
 
 Wenn du weißt, welcher Monat zu dir passt, kannst du Hotels am Roten Meer direkt in unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichen. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback](https://haydiweg.de/cashback/) gemäß Teilnahmebedingungen.
 
-Du bist dir unsicher, ob Hurghada, Makadi Bay oder Marsa Alam für deinen Reisetermin passt, oder ob das Hotel einen beheizten Pool hat? Dann [schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20%C3%84gypten-Urlaub%20im%20Winter.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F). Wir fragen die Details gern beim Veranstalter für dich an.
+Du bist dir unsicher, ob Hurghada, Makadi Bay oder Marsa Alam für deinen Reisetermin passt, oder ob das Hotel einen beheizten Pool hat? Dann [schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20%C3%84gypten-Urlaub%20im%20Winter.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F). Wir fragen die Details gern beim Veranstalter für dich an.
 
 ## Quellen
 

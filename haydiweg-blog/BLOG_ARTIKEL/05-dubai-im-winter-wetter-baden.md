@@ -164,7 +164,7 @@ Die Einreise ist grundsätzlich möglich. Das Auswärtige Amt rät aber mit Stan
 
 Du möchtest Dubai im Winter erleben oder Stadt und Strand kombinieren? In unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichst du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Wenn du unsicher bist, welcher Monat und welches Emirat zu dir passen, oder Fragen zur aktuellen Lage hast, schreib uns: [Per WhatsApp beraten lassen](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20Dubai-Urlaub%20im%20Winter.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F).
+Wenn du unsicher bist, welcher Monat und welches Emirat zu dir passen, oder Fragen zur aktuellen Lage hast, schreib uns: [Per WhatsApp beraten lassen](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20Dubai-Urlaub%20im%20Winter.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F).
 
 ## Quellen
 

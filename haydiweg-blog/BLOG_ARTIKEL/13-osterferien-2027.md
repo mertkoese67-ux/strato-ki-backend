@@ -171,7 +171,7 @@ Ostersonntag ist am 28. März 2027. Karfreitag fällt auf den 26. März, Ostermo
 
 ## Deinen Osterurlaub 2027 finden
 
-Wenn deine Ferientermine feststehen, kannst du deinen Osterurlaub direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Du bist unsicher, welches Ziel Ende März zu euch passt? Schreib uns [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Osterferien%202027.), wir beraten dich gern.
+Wenn deine Ferientermine feststehen, kannst du deinen Osterurlaub direkt bei uns [online suchen und buchen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/). Du bist unsicher, welches Ziel Ende März zu euch passt? Schreib uns [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20einen%20Urlaub%20in%20den%20Osterferien%202027.), wir beraten dich gern.
 
 ## Quellen
 

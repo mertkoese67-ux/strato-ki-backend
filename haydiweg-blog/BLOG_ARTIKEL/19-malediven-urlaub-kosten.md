@@ -181,7 +181,7 @@ Die Green Tax ist eine Umweltabgabe pro Person und Nacht. Laut Presseberichten b
 
 Bei den Malediven ist die Wahl der Insel wichtiger als fast alles andere. In unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichst du Pauschalreisen verschiedener Veranstalter mit Live-Preisen. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den Teilnahmebedingungen.
 
-Wenn du unsicher bist, welche Insel, welcher Transfer und welche Verpflegung zu deinem Budget passen, [schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20Malediven-Urlaub%20und%20h%C3%A4tte%20gern%20eine%20Inselberatung.) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/).
+Wenn du unsicher bist, welche Insel, welcher Transfer und welche Verpflegung zu deinem Budget passen, [schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20Malediven-Urlaub%20und%20h%C3%A4tte%20gern%20eine%20Inselberatung.) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/).
 
 ## Quellen
 

@@ -30,7 +30,7 @@ redaktionelle_pruefung:
   - "Ela Excellence: Everland Kids World 'Betreuung schon für Babys' laut Hotelseite – genaues Mindestalter und Bedingungen beim Hotel bestätigen."
   - "Hotelleistungen (Babyausstattung, Babynahrung) laut Hotelseiten Stand 05.11.2026, teils 'auf Anfrage' – vor Veröffentlichung gegenprüfen."
   - "Kein eindeutig zugeordnetes Bild vom Babybecken in der Mediathek (Dateien ohne Alt-Text) – Bildauswahl durch Redaktion."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
@@ -169,7 +169,7 @@ Nein. Das Auswärtige Amt rät, nie Leitungswasser zu trinken und es möglichst 
 
 ## Dein babyfreundliches Hotel finden
 
-Du willst wissen, welches Hotel zu euch und dem Alter deines Babys passt? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20wir%20planen%20einen%20T%C3%BCrkei-Urlaub%20mit%20Baby%20%28%E2%80%A6%20Monate%29.%20Welches%20Hotel%20passt%20zu%20uns%3F), wir schlagen dir babyfreundliche Hotels vor und fragen Babybett und Babynahrung beim Veranstalter an.
+Du willst wissen, welches Hotel zu euch und dem Alter deines Babys passt? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20wir%20planen%20einen%20T%C3%BCrkei-Urlaub%20mit%20Baby%20%28%E2%80%A6%20Monate%29.%20Welches%20Hotel%20passt%20zu%20uns%3F), wir schlagen dir babyfreundliche Hotels vor und fragen Babybett und Babynahrung beim Veranstalter an.
 
 Lieber selbst schauen? Im [Buchungsportal](https://haydiweg.de/buchen/) findest du Angebote vieler Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den Teilnahmebedingungen.
 

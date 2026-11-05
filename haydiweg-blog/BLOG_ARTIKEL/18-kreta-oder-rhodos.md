@@ -168,7 +168,7 @@ Kreta ist mit 8.340 km² die größte griechische Insel, Rhodos die viertgrößt
 
 Du hast dich entschieden oder möchtest beide Inseln für deinen Termin vergleichen? In unserer [Online-Buchung](https://haydiweg.de/buchen/) siehst du Angebote vieler Veranstalter nebeneinander, für berechtigte Online-Buchungen mit [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Wenn du lieber eine persönliche Einschätzung möchtest, [schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Kreta%20und%20Rhodos.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6), wann du reisen möchtest, wer mitkommt und was dir wichtig ist.
+Wenn du lieber eine persönliche Einschätzung möchtest, [schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20schwanke%20zwischen%20Kreta%20und%20Rhodos.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6), wann du reisen möchtest, wer mitkommt und was dir wichtig ist.
 
 ## Quellen
 

@@ -191,7 +191,7 @@ Laut Auswärtigem Amt sollen die bisherigen Ein- und Ausreisekarten aus Papier s
 
 Wenn du deine Reise ans Rote Meer planst, kannst du Hotels und Flüge direkt in unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichen. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback](https://haydiweg.de/cashback/) gemäß Teilnahmebedingungen.
 
-Du bist unsicher, ob dein Ausweis reicht oder wie die Einreise mit Kindern läuft? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20%C3%84gypten-Reise%20und%20habe%20eine%20Frage%20zur%20Einreise.) oder über unser [Kontaktformular](https://haydiweg.de/kontakt/). Wir gehen die Einreise vor dem Abflug gern mit dir durch. Verbindlich bleiben die Hinweise des Auswärtigen Amts.
+Du bist unsicher, ob dein Ausweis reicht oder wie die Einreise mit Kindern läuft? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20%C3%84gypten-Reise%20und%20habe%20eine%20Frage%20zur%20Einreise.) oder über unser [Kontaktformular](https://haydiweg.de/kontakt/). Wir gehen die Einreise vor dem Abflug gern mit dir durch. Verbindlich bleiben die Hinweise des Auswärtigen Amts.
 
 ## Quellen
 

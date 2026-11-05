@@ -35,7 +35,7 @@ redaktionelle_pruefung:
   - "Mediathek-ID 7341 (Kids-Club-1.webp) ist auf der Seite Swandor Kemer eingebunden – Zuordnung bestätigen."
   - "Kinderclub-Zeiten und Altersgrenzen können je Saison wechseln – kurz vor Veröffentlichung Hotelseiten gegenprüfen."
   - "Hinweis zu Kinderfestpreisen ist allgemein formuliert – keine Zahlen nennen."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
@@ -187,7 +187,7 @@ Jedes Kind braucht ein eigenes Dokument: Personalausweis oder Reisepass. Neue Ki
 
 ## Das passende Familienhotel finden
 
-Du kennst jetzt die Unterschiede, aber die Auswahl bleibt groß? Schreib uns das Alter deiner Kinder und euren Reisezeitraum [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20der%20T%C3%BCrkei.%20Unsere%20Kinder%20sind%20%E2%80%A6%20Jahre%20alt.%20K%C3%B6nnt%20ihr%20uns%20Hotels%20vorschlagen%3F), wir schlagen dir passende Familienhotels vor.
+Du kennst jetzt die Unterschiede, aber die Auswahl bleibt groß? Schreib uns das Alter deiner Kinder und euren Reisezeitraum [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20wir%20suchen%20ein%20Familienhotel%20in%20der%20T%C3%BCrkei.%20Unsere%20Kinder%20sind%20%E2%80%A6%20Jahre%20alt.%20K%C3%B6nnt%20ihr%20uns%20Hotels%20vorschlagen%3F), wir schlagen dir passende Familienhotels vor.
 
 Lieber selbst suchen? Im [Buchungsportal](https://haydiweg.de/buchen/) findest du Angebote vieler Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den Teilnahmebedingungen.
 

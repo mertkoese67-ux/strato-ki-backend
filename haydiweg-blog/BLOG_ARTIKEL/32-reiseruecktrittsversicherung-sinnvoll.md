@@ -164,7 +164,7 @@ Nein. Versichert sind nur die Gründe, die in den Bedingungen stehen, und sie m�
 
 Wenn du eine Reise suchst, kannst du Angebote vieler Veranstalter in unserer [Online-Buchung vergleichen](https://haydiweg.de/buchen/). Lies vor der Buchung die Reise- und Stornobedingungen des jeweiligen Veranstalters. Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du hast schon gebucht und eine Frage zu den Stornobedingungen deines Veranstalters? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20habe%20eine%20Frage%20zur%20Absicherung%20meiner%20Reise%20%28Reiser%C3%BCcktritt%29.%20Meine%20Buchung%2FReise%3A%20%E2%80%A6) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/). Wir erklären dir, welche Kosten wann anfallen würden.
+Du hast schon gebucht und eine Frage zu den Stornobedingungen deines Veranstalters? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20habe%20eine%20Frage%20zur%20Absicherung%20meiner%20Reise%20%28Reiser%C3%BCcktritt%29.%20Meine%20Buchung%2FReise%3A%20%E2%80%A6) oder nutze unsere [Kontaktseite](https://haydiweg.de/kontakt/). Wir erklären dir, welche Kosten wann anfallen würden.
 
 ## Quellen
 

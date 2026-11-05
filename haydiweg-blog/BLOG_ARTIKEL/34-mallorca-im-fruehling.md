@@ -158,7 +158,7 @@ Die Mandelbäume blühen meist von Ende Januar bis in den Februar, je nach Winte
 
 Wenn dein Termin feststeht, kannst du Mallorca-Angebote für Ostern direkt in unserer [Online-Buchung vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du suchst ein Hotel mit beheiztem Pool oder eine ruhige Lage für Wanderungen? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20im%20Fr%C3%BChling%20nach%20Mallorca.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6), wir schauen gemeinsam, was zu deinem Termin passt.
+Du suchst ein Hotel mit beheiztem Pool oder eine ruhige Lage für Wanderungen? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20im%20Fr%C3%BChling%20nach%20Mallorca.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6), wir schauen gemeinsam, was zu deinem Termin passt.
 
 ## Quellen
 

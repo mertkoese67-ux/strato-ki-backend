@@ -167,7 +167,7 @@ Nur wenn dein Tarif das vorsieht oder wenn am Zielort unvermeidbare, außergewö
 
 Du möchtest wissen, was dein Wunschtermin in Dubai kostet? In unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichst du Pauschalreisen verschiedener Veranstalter mit Live-Preisen. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den Teilnahmebedingungen.
 
-Du möchtest lieber gemeinsam abwägen, welche Lage und Verpflegung zu deinem Budget passt? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20ein%20Dubai-Paket%20aus%20Flug%20und%20Hotel%20vergleichen.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder besuche uns über die [Kontaktseite](https://haydiweg.de/kontakt/).
+Du möchtest lieber gemeinsam abwägen, welche Lage und Verpflegung zu deinem Budget passt? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20ein%20Dubai-Paket%20aus%20Flug%20und%20Hotel%20vergleichen.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F) oder besuche uns über die [Kontaktseite](https://haydiweg.de/kontakt/).
 
 ## Quellen
 

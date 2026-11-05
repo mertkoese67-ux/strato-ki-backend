@@ -51,6 +51,18 @@ def to_html(body):
 
 
 items, terms_cat, terms_tag = [], {}, {}
+items_hold = []
+HOLD = {5, 10, 27}  # Dubai: AA rät von Reisen in die VAE ab (Stand 05.11.2026)
+# Kontrolliertes Schlagwort-Vokabular: bestehende Tags + Tags, die in mind. 2 Artikeln vorkommen
+from collections import Counter
+EXISTING_TAGS = {"Aquapark", "Belek", "Familienurlaub", "Kemer", "Lara", "Side"}
+_tc = Counter()
+for _p in glob.glob(os.path.join(ROOT, "BLOG_ARTIKEL", "*.md")):
+    _m = re.match(r"^---\n(.*?)\n---\n", open(_p, encoding="utf-8").read(), re.S)
+    if _m:
+        for _t in set(yaml.safe_load(_m.group(1)).get("schlagwoerter") or []):
+            _tc[_t] += 1
+ALLOWED_TAGS = {t for t, n in _tc.items() if n >= 2} | EXISTING_TAGS
 for path in sorted(glob.glob(os.path.join(ROOT, "BLOG_ARTIKEL", "*.md"))):
     raw = open(path, encoding="utf-8").read()
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", raw, re.S)
@@ -63,7 +75,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, "BLOG_ARTIKEL", "*.md"))):
         f"<!doctype html><meta charset=utf-8><title>{html.escape(fm['titel_h1'])}</title><h1>{html.escape(fm['titel_h1'])}</h1>\n" + content)
     cat = fm["wp_kategorie"]
     terms_cat[CATS.get(cat, slugify(cat))] = cat
-    tags = fm.get("schlagwoerter") or []
+    tags = [t for t in (fm.get("schlagwoerter") or []) if t in ALLOWED_TAGS]
     for t in tags:
         terms_tag[slugify(t)] = t
     dt = datetime.fromisoformat(str(fm["veroeffentlichung"]))
@@ -82,7 +94,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, "BLOG_ARTIKEL", "*.md"))):
     cats = f'\n\t\t<category domain="category" nicename="{CATS.get(cat, slugify(cat))}">{cdata(cat)}</category>'
     cats += "".join(f'\n\t\t<category domain="post_tag" nicename="{slugify(t)}">{cdata(t)}</category>' for t in tags)
     excerpt = fm["meta_description"]
-    items.append(f"""
+    (items_hold if nr in HOLD else items).append(f"""
 	<item>
 		<title>{cdata(fm['titel_h1'])}</title>
 		<dc:creator>{cdata('admin')}</dc:creator>
@@ -104,8 +116,9 @@ for path in sorted(glob.glob(os.path.join(ROOT, "BLOG_ARTIKEL", "*.md"))):
 
 cat_xml = "".join(f"\n\t<wp:category><wp:category_nicename>{cdata(n)}</wp:category_nicename><wp:category_parent>{cdata('')}</wp:category_parent><wp:cat_name>{cdata(c)}</wp:cat_name></wp:category>" for n, c in sorted(terms_cat.items()))
 tag_xml = "".join(f"\n\t<wp:tag><wp:tag_slug>{cdata(n)}</wp:tag_slug><wp:tag_name>{cdata(t)}</wp:tag_name></wp:tag>" for n, t in sorted(terms_tag.items()))
-xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
-<!-- haydi-weg Blog-Entwürfe – alle Beiträge mit Status ENTWURF. Erzeugt {datetime.now():%Y-%m-%d %H:%M}. -->
+def wxr(its, note):
+    return f"""<?xml version="1.0" encoding="UTF-8" ?>
+<!-- haydi-weg Blog-Entwürfe – {note} Alle Beiträge mit Status ENTWURF. Erzeugt {datetime.now():%Y-%m-%d %H:%M}. -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
 <channel>
@@ -117,9 +130,10 @@ xml = f"""<?xml version="1.0" encoding="UTF-8" ?>
 	<wp:base_site_url>https://haydiweg.de</wp:base_site_url>
 	<wp:base_blog_url>https://haydiweg.de</wp:base_blog_url>
 	<wp:author><wp:author_login>{cdata('admin')}</wp:author_login><wp:author_display_name>{cdata('admin')}</wp:author_display_name></wp:author>{cat_xml}{tag_xml}
-{''.join(items)}
+{''.join(its)}
 </channel>
 </rss>
 """
-open(os.path.join(OUT, "haydiweg-blog-entwuerfe.xml"), "w", encoding="utf-8").write(xml)
-print(f"{len(items)} Entwürfe, {len(terms_cat)} Kategorien, {len(terms_tag)} Schlagwörter -> {OUT}")
+open(os.path.join(OUT, "haydiweg-blog-entwuerfe.xml"), "w", encoding="utf-8").write(wxr(items, "Redaktionsplan 09.11.2026-31.01.2027."))
+open(os.path.join(OUT, "haydiweg-blog-entwuerfe-zurueckgestellt-dubai.xml"), "w", encoding="utf-8").write(wxr(items_hold, "ZURUECKGESTELLT (Dubai, AA-Hinweis) - erst nach Aufhebung importieren."))
+print(f"{len(items)} Entwürfe (+{len(items_hold)} zurückgestellt), {len(terms_cat)} Kategorien, {len(terms_tag)} Schlagwörter -> {OUT}")

@@ -187,7 +187,7 @@ Am wärmsten ist das Meer laut DWD-Klimatafeln im Spätsommer und Herbst, etwa v
 
 Wenn du schon weißt, welche Insel es sein soll, kannst du Kanaren-Angebote für Januar und Februar direkt in unserer [Online-Buchung vergleichen](https://haydiweg.de/buchen/). Für berechtigte Online-Buchungen gibt es [bis zu 1.000 € Cashback gemäß Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du bist noch unsicher zwischen zwei Inseln? Dann [schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20eine%20Kanareninsel%20f%C3%BCr%20den%20Winter.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%20%28Alter%20der%20Kinder%29%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6) mit Reisezeit, Personen und dem, was dir wichtig ist. Wir geben dir eine ehrliche Insel-Empfehlung.
+Du bist noch unsicher zwischen zwei Inseln? Dann [schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20eine%20Kanareninsel%20f%C3%BCr%20den%20Winter.%20Reisezeitraum%3A%20%E2%80%A6%20Personen%20%28Alter%20der%20Kinder%29%3A%20%E2%80%A6%20Wichtig%20ist%20mir%3A%20%E2%80%A6) mit Reisezeit, Personen und dem, was dir wichtig ist. Wir geben dir eine ehrliche Insel-Empfehlung.
 
 ## Quellen
 

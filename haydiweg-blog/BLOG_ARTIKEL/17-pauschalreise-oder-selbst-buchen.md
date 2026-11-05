@@ -28,7 +28,7 @@ redaktionelle_pruefung:
   - "Kein eigenes Foto aus dem Reisebüro in der Mediathek gefunden – Foto anfertigen oder Motiv ersetzen."
   - "Rolle haydi-weg als Vermittler entspricht dem Hinweis auf den Hotelseiten ('Veranstalter und Vertragspartner ist der jeweilige Reiseveranstalter') – mit AGB abgleichen."
   - "H1 laut Redaktionsplan enthält das Fokus-Keyword nicht wörtlich; Keyword steht in SEO-Title, Meta, erstem Absatz und H2."
-  - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "WhatsApp-Nummer: Styleguide nennt 4915792326450, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
 schema: ["BlogPosting", "FAQPage"]
 ---
 
@@ -165,7 +165,7 @@ Nicht automatisch. Eine Pauschalreise liegt vor, wenn ein Veranstalter mindesten
 
 Im [Buchungsportal](https://haydiweg.de/buchen/) vergleichst du Pauschalreisen vieler Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du möchtest lieber persönlich sprechen? Komm in unser Reisebüro in Minden, schreib uns über das [Kontaktformular](https://haydiweg.de/kontakt/) oder [per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20eine%20Pauschalreise%20vergleichen%20und%20mich%20beraten%20lassen.).
+Du möchtest lieber persönlich sprechen? Komm in unser Reisebüro in Minden, schreib uns über das [Kontaktformular](https://haydiweg.de/kontakt/) oder [per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20eine%20Pauschalreise%20vergleichen%20und%20mich%20beraten%20lassen.).
 
 ## Quellen
 

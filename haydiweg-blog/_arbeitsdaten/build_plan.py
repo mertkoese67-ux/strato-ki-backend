@@ -385,28 +385,68 @@ for a in A:
         "Status": "Entwurf erstellt – Freigabe offen", "Datei": f"BLOG_ARTIKEL/{nr:02d}-{slug}.md",
     })
 
+# --- Anpassung 05.11.2026: Auswärtiges Amt rät von nicht notwendigen Reisen in die VAE ab (Stand 05.11.2026).
+# Dubai-Artikel 05/10/27 werden zurückgestellt (Entwürfe bleiben erhalten), Ersatzartikel R1–R3 übernehmen die Termine.
+HOLD = "ZURÜCKGESTELLT – Auswärtiges Amt rät von nicht notwendigen Reisen in die VAE ab (Stand 05.11.2026). Freigabe erst, wenn der Hinweis aufgehoben ist; Termin wird von Ersatzartikel belegt"
+for r in rows:
+    if r["Nr"] in ("05", "10", "27"):
+        r["Status"] = HOLD
+RES = [
+ ("R1", 37, "2026-11-18", "Türkei", "tuerkei", "alanya-urlaub-tipps", "Urlaub in Alanya: Für wen sich die Region lohnt – Strände, Orte und Hotels",
+  "alanya urlaub", "alanya oder side; konakli; avsallar; türkler; alanya strand", "Informational/kommerziell", "A Information", "Türkei", "A", 1800,
+  L("h_quattro","h_quattro_fam","h_rubi_sign","h_rubi_spa","h_selene","h_serenity","tr","buchen"), "[geplant #12] " + B + "/tuerkei/tuerkische-riviera-regionen-vergleich/ ; [geplant #31] " + B + "/tuerkei/adults-only-hotels-tuerkei/",
+  "Eigene Stills der 6 gefilmten Alanya-Hotels; Burg von Alanya", "Gefilmte Alanya-Hotels ansehen + WhatsApp",
+  "Ersatz für #05. Sechs eigene Videohotels in Alanya, bisher ohne Regionalartikel – stärkste Experience-Basis des Clusters."),
+ ("R2", 38, "2026-11-30", "Zypern", "zypern", "zypern-im-fruehling", "Zypern im Frühling: Wie warm ist es zu Ostern und welche Region passt?",
+  "zypern im april", "zypern im märz; zypern im mai; zypern ostern; ayia napa oder paphos", "Informational/Saisonal", "C Saisonal", "Zypern (neu)", "B", 1600,
+  L("zy","apr","ostern","buchen"), "[geplant #13] " + B + "/reiseplanung/osterferien-2027/",
+  "Küste bei Paphos im Frühling (Medienprüfung)", "Zypern-Osterangebote vergleichen",
+  "Ersatz für #10. Stützt die bisher kaum verlinkte Zielgebietsseite Zypern; Osterbuchungen laufen ab Dezember."),
+ ("R3", 39, "2027-01-08", "Portugal", "portugal", "madeira-oder-kanaren", "Madeira oder Kanaren? Welche Insel im Winter und Frühling besser zu dir passt",
+  "madeira oder kanaren", "madeira oder teneriffa; madeira im winter; madeira baden; madeira wandern", "Vergleich", "B Vergleich", "Portugal (neu) / Spanien", "B", 1700,
+  L("es","buchen") + " ; " + B + "/urlaubsziele/portugal-urlaub-buchen/", "[geplant #01] " + B + "/spanien/welche-kanareninsel-im-winter/",
+  "Levada-Wanderweg Madeira (Medienprüfung)", "Madeira- und Kanaren-Angebote vergleichen",
+  "Ersatz für #27. Stützt die Zielgebietsseite Portugal; Winter-/Frühlingssonne mit Abgrenzung zu #01."),
+]
+for (rid, nr, d, cat, cslug, slug, titel, kw, neben, intent, typ, cluster, prio, wc, links, newl, bild, cta, why) in RES:
+    dt = date.fromisoformat(d)
+    rows.append({
+        "Nr": rid, "Datum": dt.strftime("%d.%m.%Y"), "Wochentag": WD[dt.weekday()], "Uhrzeit": "07:30",
+        "Titel (H1)": titel, "Slug": slug, "Ziel-URL": f"{B}/{cslug}/{slug}/", "WP-Kategorie": cat,
+        "Primäres Keyword": kw, "Nebenkeywords": neben, "Suchintention": intent, "Content-Typ": typ, "Themencluster": cluster,
+        "SEO-Priorität": prio, "Geplante Länge (Wörter)": wc, "Interne Links (bestehend)": links, "Interne Links (neue Artikel)": newl,
+        "Bildmotive": bild, "Call-to-Action": cta, "Begründung": why, "Status": "Entwurf erstellt – Freigabe offen (Ersatztermin)",
+        "Datei": f"BLOG_ARTIKEL/{rid}-{slug}.md"})
+
+def _key(r):
+    return (date.fromisoformat("-".join(reversed(r["Datum"].split(".")))), 0 if r["Nr"].startswith("R") else 1)
+
 out = os.path.join(os.path.dirname(__file__), "..")
 with open(os.path.join(out, "REDAKTIONSPLAN_3_MONATE.csv"), "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0].keys()), delimiter=";")
-    w.writeheader(); w.writerows(rows)
+    w.writeheader(); w.writerows(sorted(rows, key=_key))
 
 # Kalender-Markdown
 md = ["# Redaktionskalender haydi-weg: 09.11.2026 bis 31.01.2027", "",
       "36 Artikel in 12 Wochen, regulär **Montag, Mittwoch, Freitag um 07:30 Uhr**. Ausnahmen: Freitag, 25.12. (1. Weihnachtstag) wird auf **Sonntag, 27.12., 10:00 Uhr** verlegt, Freitag, 01.01. (Neujahr) auf **Samstag, 02.01., 10:00 Uhr**.", "",
       "Warum 07:30 Uhr? Die Uhrzeit selbst ist kein Rankingfaktor. Sie ist so gewählt, dass der Beitrag vor der Tagesspitze live ist, im Feed und in Social Media morgens geteilt werden kann und bei Fehlern noch am selben Werktag korrigiert werden kann.", "",
       "Legende Priorität: **A** = höchste strategische Bedeutung, **B** = wichtig, **C** = ergänzend.", ""]
+md += ["> **Änderung 05.11.2026:** Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab. Die Dubai-Artikel 05, 10 und 27 sind deshalb ~~durchgestrichen~~ und **zurückgestellt**. Ihre Termine übernehmen die Ersatzartikel **R1 Alanya**, **R2 Zypern im Frühling** und **R3 Madeira oder Kanaren**. Es bleibt bei 36 Veröffentlichungen. Sobald der Hinweis aufgehoben ist, können die Dubai-Entwürfe nach erneuter Prüfung in Phase 2 erscheinen.", ""]
 cur = None
-for r in rows:
+for r in sorted(rows, key=_key):
     dt = date.fromisoformat("-".join(reversed(r["Datum"].split("."))))
     wk = dt.isocalendar()[1]
     if wk != cur:
         cur = wk
         md += ["", f"## KW {wk} ({dt.strftime('%m/%Y')})", "",
                "| Nr | Datum | Titel | Primäres Keyword | Cluster | Prio | Länge |", "|---|---|---|---|---|---|---|"]
-    md.append(f"| {r['Nr']} | {r['Wochentag']} {r['Datum']} {r['Uhrzeit']} | [{r['Titel (H1)']}]({r['Datei']}) | {r['Primäres Keyword']} | {r['Themencluster']} | {r['SEO-Priorität']} | ~{r['Geplante Länge (Wörter)']} |")
+    t = f"[{r['Titel (H1)']}]({r['Datei']})"
+    if r["Status"].startswith("ZURÜCK"):
+        t = f"~~{r['Titel (H1)']}~~ – zurückgestellt ([Entwurf]({r['Datei']}))"
+    md.append(f"| {r['Nr']} | {r['Wochentag']} {r['Datum']} {r['Uhrzeit']} | {t} | {r['Primäres Keyword']} | {r['Themencluster']} | {r['SEO-Priorität']} | ~{r['Geplante Länge (Wörter)']} |")
 
 md += ["", "## Saisonlogik", "",
-"- **November:** Wintersonne (Kanaren, Ägypten, Dubai, Türkei im Winter) und Einreisethemen für Winterreisende. Diese Nachfrage ist jetzt akut.",
+"- **November:** Wintersonne (Kanaren, Ägypten, Türkei im Winter; Dubai zurückgestellt) und Einreisethemen für Winterreisende. Diese Nachfrage ist jetzt akut.",
 "- **Anfang/Mitte Dezember:** Frühbucher 2027, Osterferien 2027, Sommerferien 2027, Familienurlaub Türkei. Diese Seiten müssen indexiert sein, bevor nach Weihnachten die Hauptbuchungszeit beginnt.",
 "- **Zwischen den Jahren:** Vergleiche für die Sommerplanung (Mallorca oder Antalya), Urlaub mit Baby, Brückentage 2027.",
 "- **Januar:** Kostenartikel, Familienziele und Frühlingsziele (Ostern 2027 = 28.03.) zur Hauptbuchungszeit.",

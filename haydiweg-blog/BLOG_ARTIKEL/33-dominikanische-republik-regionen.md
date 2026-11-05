@@ -166,7 +166,7 @@ Die Nordküste ist ganzjährig warm, im Winter aber regenreicher als der Osten. 
 
 Du weißt jetzt, welche Küste zu dir passt? In unserer [Online-Buchung](https://haydiweg.de/buchen/) vergleichst du Pauschalreisen verschiedener Veranstalter in allen Regionen der Dominikanischen Republik. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Du bist noch unsicher zwischen zwei Regionen? [Schreib uns per WhatsApp](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20suche%20ein%20Karibik-Angebot%20in%20der%20Dominikanischen%20Republik.%20Welche%20Region%20passt%20zu%20mir%3F), wir helfen dir bei der Wahl.
+Du bist noch unsicher zwischen zwei Regionen? [Schreib uns per WhatsApp](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20suche%20ein%20Karibik-Angebot%20in%20der%20Dominikanischen%20Republik.%20Welche%20Region%20passt%20zu%20mir%3F), wir helfen dir bei der Wahl.
 
 ## Quellen
 

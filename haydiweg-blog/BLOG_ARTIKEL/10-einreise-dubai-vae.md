@@ -161,7 +161,7 @@ Normale, nicht kontrollierte Medikamente für den Eigenbedarf darfst du mitnehme
 
 Du möchtest nach Dubai und dir ist wichtig, dass Dokumente, Medikamente und Reiseschutz passen? In unserer [Online-Buchung](https://haydiweg.de/buchen/) findest du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den [Teilnahmebedingungen](https://haydiweg.de/cashback/).
 
-Lieber persönlich? Schreib uns, wir gehen deine Fragen mit dir durch: [Per WhatsApp fragen](https://wa.me/4915563462222?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20Dubai-Reise%20und%20habe%20Fragen%20zur%20Einreise.%20K%C3%B6nnt%20ihr%20mir%20helfen%3F).
+Lieber persönlich? Schreib uns, wir gehen deine Fragen mit dir durch: [Per WhatsApp fragen](https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20Dubai-Reise%20und%20habe%20Fragen%20zur%20Einreise.%20K%C3%B6nnt%20ihr%20mir%20helfen%3F).
 
 ## Quellen
 
