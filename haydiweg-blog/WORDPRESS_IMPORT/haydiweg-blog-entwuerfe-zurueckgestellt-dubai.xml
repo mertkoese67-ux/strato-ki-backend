@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- haydi-weg Blog-Entwürfe – ZURUECKGESTELLT (Dubai, AA-Hinweis) - erst nach Aufhebung importieren. Alle Beiträge mit Status ENTWURF. Erzeugt 2026-11-05 02:34. -->
+<!-- haydi-weg Blog-Entwürfe – ZURUECKGESTELLT (Dubai, AA-Hinweis) - erst nach Aufhebung importieren. Alle Beiträge mit Status ENTWURF. Erzeugt 2026-11-05 02:53. -->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
 <channel>
@@ -52,6 +52,7 @@
 	<wp:tag><wp:tag_slug><![CDATA[side]]></wp:tag_slug><wp:tag_name><![CDATA[Side]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:tag_slug><![CDATA[teneriffa]]></wp:tag_slug><wp:tag_name><![CDATA[Teneriffa]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:tag_slug><![CDATA[thailand]]></wp:tag_slug><wp:tag_name><![CDATA[Thailand]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[tuerkei]]></wp:tag_slug><wp:tag_name><![CDATA[Türkei]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:tag_slug><![CDATA[vereinigte-arabische-emirate]]></wp:tag_slug><wp:tag_name><![CDATA[Vereinigte Arabische Emirate]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:tag_slug><![CDATA[wandern]]></wp:tag_slug><wp:tag_name><![CDATA[Wandern]]></wp:tag_name></wp:tag>
 	<wp:tag><wp:tag_slug><![CDATA[winterurlaub]]></wp:tag_slug><wp:tag_name><![CDATA[Winterurlaub]]></wp:tag_name></wp:tag>

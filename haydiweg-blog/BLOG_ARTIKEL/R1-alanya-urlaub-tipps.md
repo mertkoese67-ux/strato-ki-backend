@@ -1,7 +1,7 @@
 ---
 nr: 37
 titel_h1: "Alanya Urlaub: Für wen sich die Region lohnt – Strände, Orte und Hotels"
-seo_title: "Alanya Urlaub: Orte, Strände und Hotels | haydi-weg"
+seo_title: "Alanya Urlaub: Welcher Ortsteil passt zu dir? | haydi-weg"
 meta_description: "Alanya Urlaub erklärt: Konakli, Avsallar oder Türkler, Kleopatra-Strand, Anreise über Gazipaşa oder Antalya und sechs Hotels, die wir gefilmt haben."
 slug: "alanya-urlaub-tipps"
 ziel_url: "https://haydiweg.de/tuerkei/alanya-urlaub-tipps/"

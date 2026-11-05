@@ -24,7 +24,17 @@
    "medienpruefung": 5,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C029O&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C249I&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C429I&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C447A&k=coo": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=C649I&k=coo": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600200_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600350_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600400_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -53,7 +63,14 @@
    "medienpruefung": 3,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1269": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_624630_kt.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -82,7 +99,45 @@
    "medienpruefung": 5,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_624630_kt.pdf": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "04-einreise-tuerkei-personalausweis-reisepass.md",
+   "nr": "04",
+   "titel": "Einreise in die Türkei: Mit Personalausweis, Reisepass oder Kinderreisepass?",
+   "woerter": 2031,
+   "soll": 1700,
+   "seo_title_len": 48,
+   "meta_len": 144,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 6,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/tuerkei-urlaub-kosten/",
+    "https://haydiweg.de/tuerkei/urlaub-mit-baby-tuerkei/"
+   ],
+   "externe_quellen": 3,
+   "faq": 6,
+   "pruefen_marker": 5,
+   "medienpruefung": 4,
+   "issues": [],
+   "warnungen": [
+    "Euro-Beträge prüfen (1): i der Ausreise brauchst du ab 10.000 Euro eine Zol"
+   ],
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.stuttgart.de/organigramm/leistungen/personalausweis-ausstellung-fuer-unter-16-jaehrige-beantragen": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -110,7 +165,46 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "06-tuerkei-im-winter.md",
+   "nr": "06",
+   "titel": "Türkei im Winter: Lohnt sich die Riviera im Dezember, Januar und Februar?",
+   "woerter": 1996,
+   "soll": 1700,
+   "seo_title_len": 59,
+   "meta_len": 146,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/",
+    "https://haydiweg.de/tuerkei/wassertemperatur-tuerkei-monate/"
+   ],
+   "externe_quellen": 11,
+   "faq": 5,
+   "pruefen_marker": 4,
+   "medienpruefung": 3,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://muze.gov.tr/muze-detay?SectionId=SDO01&DistId=SDO": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.kemer.bel.tr/en/historical-places/tahtali-mountain.html": 200,
+    "https://www.mgm.gov.tr/FILES/resmi-istatistikler/denizSuyu/2025-Akdeniz.pdf": 200,
+    "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?m=ANTALYA": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -140,7 +234,41 @@
    "warnungen": [
     "Euro-Beträge prüfen (2): einfaches Touristenvisum dort 35 Euro plus 3 Eu | sind es laut Auswärtigem Amt 35 Euro plus 3 Eu"
    ],
-   "ext_status": {},
+   "ext_status": {
+    "https://visa2egypt.gov.eg/eVisa/FAQ": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "08-side-oder-belek.md",
+   "nr": "08",
+   "titel": "Side oder Belek? Der ehrliche Vergleich für deinen Türkei-Urlaub",
+   "woerter": 2146,
+   "soll": 2200,
+   "seo_title_len": 51,
+   "meta_len": 150,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/alanya-urlaub-tipps/",
+    "https://haydiweg.de/tuerkei/familienurlaub-tuerkei-hotel-nach-kindesalter/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/"
+   ],
+   "externe_quellen": 5,
+   "faq": 5,
+   "pruefen_marker": 6,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://muze.gov.tr/muze-detay?SectionId=SDO01&DistId=SDO": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -168,7 +296,9 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.t-online.de/leben/reisen/reisetipps/id_73237916/all-inclusive-das-kann-es-im-urlaub-bedeuten.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -196,7 +326,11 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.ede.gov.ae/en/w/issue-of-permit-to-import-medicines-for-personal-use": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -225,7 +359,49 @@
    "medienpruefung": 4,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651f.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651g.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651r.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651t.html": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.verbraucherzentrale.de/urteilsdatenbank/reise-mobilitaet/reisepreisanzahlungen-von-40-und-restpreisfaelligkeit-45-tage-vor-reiseantritt-sind-unzulaessig-14043": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "12-tuerkische-riviera-regionen-vergleich.md",
+   "nr": "12",
+   "titel": "Regionen der Türkischen Riviera: Lara, Belek, Side, Alanya oder Kemer – welche passt zu dir?",
+   "woerter": 2609,
+   "soll": 2600,
+   "seo_title_len": 52,
+   "meta_len": 154,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 9,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/alanya-urlaub-tipps/",
+    "https://haydiweg.de/tuerkei/familienurlaub-tuerkei-hotel-nach-kindesalter/",
+    "https://haydiweg.de/tuerkei/kemer-urlaub-tipps/",
+    "https://haydiweg.de/tuerkei/side-oder-belek/"
+   ],
+   "externe_quellen": 14,
+   "faq": 5,
+   "pruefen_marker": 1,
+   "medienpruefung": 2,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://muze.gov.tr/muze-detay?SectionId=SDO01&DistId=SDO": 200,
+    "https://www.kemer.bel.tr/en/historical-places/phaselis-ancient-city.html": 200,
+    "https://www.kemer.bel.tr/en/historical-places/tahtali-mountain.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -254,7 +430,14 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -283,7 +466,11 @@
    "warnungen": [
     "Fokus-Keyword fehlt in: H1"
    ],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202930": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -311,7 +498,13 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://tdac.immigration.go.th/": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/indonesiensicherheit-212396": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/thailandsicherheit-201558": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/Thailand/CSV/": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-5-WMO-Normals-9120/Indonesia/CSV/StasiunMeteorologiIGustiNgurahRai_97230.csv": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -320,7 +513,7 @@
    "titel": "Sommerferien 2027: Alle Termine nach Bundesland und Tipps für die Urlaubsbuchung",
    "woerter": 1954,
    "soll": 1900,
-   "seo_title_len": 57,
+   "seo_title_len": 47,
    "meta_len": 149,
    "kw_abdeckung": {
     "H1": true,
@@ -340,7 +533,14 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/Sommerferienregelung_2025-2030_2022-09-21.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -370,7 +570,20 @@
    "warnungen": [
     "Fokus-Keyword fehlt in: H1"
    ],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651a.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651g.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651i.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651j.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651k.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651o.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651q.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651r.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651w.html": 200,
+    "https://www.verbraucherzentrale.de/pauschalreisecheck-hilfe-bei-aerger-mit-dem-reiseveranstalter-100823": 200,
+    "https://www.verbraucherzentrale.de/wissen/reise-mobilitaet/urlaub-buchen/onlinereisebueros-so-vermeiden-sie-probleme-bei-der-urlaubsbuchung-11306": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -397,8 +610,17 @@
    "pruefen_marker": 5,
    "medienpruefung": 4,
    "issues": [],
-   "warnungen": [],
-   "ext_status": {},
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://en.wikipedia.org/wiki/Heraklion": 200,
+    "https://en.wikipedia.org/wiki/Rhodes": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.visitgreece.gr/islands/crete/": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/rhodes/": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -424,8 +646,17 @@
    "pruefen_marker": 6,
    "medienpruefung": 2,
    "issues": [],
-   "warnungen": [],
-   "ext_status": {},
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): https://www.mira.gov.mv/Pages/View/whatisgreentax [403]"
+   ],
+   "ext_status": {
+    "https://atolltimes.mv/post/business/10365": 200,
+    "https://miadhu.mv/en/articles/14008": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/maledivensicherheit-220382": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.mira.gov.mv/Pages/View/whatisgreentax": 403,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/Maldives/CSV/Hulhule_43555.csv": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -455,7 +686,11 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1269": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -483,7 +718,15 @@
    "medienpruefung": 0,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1236": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/spanien-node/spaniensicherheit-210534": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_083060_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.hacienda.gob.es/SGFAL/FinanciacionTerritorial/Autonomica/TributosPropios/Normativa/2025/Impuesto-sobre-estancias-turisticas-BALEARES-2025-nuevo-formato.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -510,7 +753,12 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://berlin.thaiembassy.org/de/page/thailand-digital-arrival-card-tdac-verpflichtend-a": 200,
+    "https://frankfurt.thaiembassy.org/de/page/einreisen-ohne-visa-visa-exemption": 200,
+    "https://tdac.immigration.go.th/": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/thailandsicherheit-201558": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -538,7 +786,12 @@
    "medienpruefung": 3,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://bundespolizei.de/sicher-auf-reisen/mit-dem-flugzeug/was-darf-ich-mitnehmen/fluessigkeiten-an-bord": 200,
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.bfs.de/SharedDocs/FAQs/BfS/DE/opt/uv/kinder.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -567,7 +820,13 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.gesetze-bayern.de/Content/Document/BayFTG-1": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2027_28.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -596,7 +855,13 @@
    "medienpruefung": 1,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit-201962": 200,
+    "https://www.forbes.com.tr/ekonomi/tuik-eylul-enflasyonunu-acikladi-eylul-2026-tuketici-fiyat-endeksi-tuik": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-fuer-nordrhein-westfalen-fuer-die-schuljahre-bis-202930": 200,
+    "https://www.turizmekonomi.com/turkiye-cuts-accommodation-tax-to-1": 200,
+    "https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/internationales-roaming-bei-wlan-und-mobilfunk-kostenfallen-vermeiden-27954": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -626,7 +891,11 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1270": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/aegypten-node/aegyptensicherheit-212622": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -654,7 +923,46 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523": 200,
+    "https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv": 200,
+    "https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-mohammed-approves-second-larger-aed15-billion-economic-incentives-package/": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "28-wassertemperatur-tuerkei-monate.md",
+   "nr": "28",
+   "titel": "Wassertemperatur in der Türkei: Ab wann ist das Meer warm genug zum Baden?",
+   "woerter": 1602,
+   "soll": 1500,
+   "seo_title_len": 54,
+   "meta_len": 153,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/tuerkei-im-winter/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/"
+   ],
+   "externe_quellen": 7,
+   "faq": 5,
+   "pruefen_marker": 1,
+   "medienpruefung": 0,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_173000_kt.pdf": 200,
+    "https://www.mgm.gov.tr/FILES/resmi-istatistikler/denizSuyu/2025-Akdeniz.pdf": 200,
+    "https://www.mgm.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?m=ANTALYA": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -663,7 +971,7 @@
    "titel": "Pfingstferien 2027: Termine und Reiseideen für Baden-Württemberg, Bayern und Co.",
    "woerter": 1666,
    "soll": 1500,
-   "seo_title_len": 58,
+   "seo_title_len": 47,
    "meta_len": 148,
    "kw_abdeckung": {
     "H1": true,
@@ -682,7 +990,15 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://km.baden-wuerttemberg.de/de/service/ferien": 200,
+    "https://www.gesetze-bayern.de/Content/Document/BayFTG-1": 200,
+    "https://www.kalenderpedia.de/feiertage/feiertage-2027.html": 200,
+    "https://www.km.bayern.de/termine/ferien-und-feiertage": 200,
+    "https://www.kmk.org/fileadmin/Dateien/pdf/Ferienkalender/FER2026_27.pdf": 200,
+    "https://www.mk.niedersachsen.de/download/190413/MK_SVBl_12_22_Amtl._Teil.pdf": 200,
+    "https://www.schulministerium.nrw/service/ferienordnung-nrw-bis-2029-30": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -711,8 +1027,17 @@
    "pruefen_marker": 7,
    "medienpruefung": 4,
    "issues": [],
-   "warnungen": [],
-   "ext_status": {},
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://bimcal.com/calendar/orthodox-easter": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_166410_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/rhodes/": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -768,7 +1093,12 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://www.gesetze-im-internet.de/bgb/__651e.html": 200,
+    "https://www.gesetze-im-internet.de/bgb/__651h.html": 200,
+    "https://www.test.de/presse/pressemitteilungen/Reiseruecktrittsversicherung-Besser-nicht-zusammen-mit-der-Reise-abschliessen-6266796-0/": 200,
+    "https://www.verbraucherzentrale-niedersachsen.de/node/121314": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -795,7 +1125,11 @@
    "medienpruefung": 0,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://news.caricoos.org/2026/09/02/outlook-of-sargassum-blooms-august-31-2026/": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit-206146": 200,
+    "https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-4-WMO-Normals-9120/DominicanRepublic/CSV/": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -824,7 +1158,47 @@
    "medienpruefung": 4,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://amp.majorcadailybulletin.com/holiday/life-style/2026/03/04/140631/almond-blossom-route-mallorca-where-and-when-see-it.html": 200,
+    "https://whc.unesco.org/en/list/1371/": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=B228&k=bal": 200,
+    "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=B278&k=bal": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.ultimahora.es/noticias/local/2025/05/08/2382123/cambio-climatico-efectos-mar-1.html": 200
+   },
+   "status": "BESTANDEN"
+  },
+  {
+   "datei": "35-kemer-urlaub-tipps.md",
+   "nr": "35",
+   "titel": "Kemer Urlaub: Für wen sich die Region zwischen Bergen und Meer lohnt",
+   "woerter": 1952,
+   "soll": 1800,
+   "seo_title_len": 50,
+   "meta_len": 148,
+   "kw_abdeckung": {
+    "H1": true,
+    "Einstieg": true,
+    "H2": true,
+    "Meta": true
+   },
+   "interne_links": 7,
+   "geplante_links": [
+    "https://haydiweg.de/tuerkei/side-oder-belek/",
+    "https://haydiweg.de/tuerkei/tuerkische-riviera-regionen-vergleich/",
+    "https://haydiweg.de/tuerkei/wassertemperatur-tuerkei-monate/"
+   ],
+   "externe_quellen": 6,
+   "faq": 5,
+   "pruefen_marker": 1,
+   "medienpruefung": 1,
+   "issues": [],
+   "warnungen": [],
+   "ext_status": {
+    "https://www.kemer.bel.tr/en/historical-places": 200,
+    "https://www.kemer.bel.tr/en/historical-places/phaselis-ancient-city.html": 200,
+    "https://www.kemer.bel.tr/en/historical-places/tahtali-mountain.html": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -852,8 +1226,19 @@
    "pruefen_marker": 3,
    "medienpruefung": 2,
    "issues": [],
-   "warnungen": [],
-   "ext_status": {},
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion [<urlopen error [SSL: CERTIFICATE_VERIFY_]"
+   ],
+   "ext_status": {
+    "http://www.hnms.gr/emy/en/climatology/climatology_city?perifereia=Crete&poli=Heraklion": "<urlopen error [SSL: CERTIFICATE_VERIFY_",
+    "https://www.auswaertiges-amt.de/de/service/konsularinfo/reisepaesse-und-personalausweise": 200,
+    "https://www.auswaertiges-amt.de/de/service/laender/griechenland-node/griechenlandsicherheit/211534": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_166410_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_167540_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.visitgreece.gr/islands/dodecanese/kos/": 200,
+    "https://www.visitgreece.gr/islands/ionian-islands/corfu/": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -862,7 +1247,7 @@
    "titel": "Alanya Urlaub: Für wen sich die Region lohnt – Strände, Orte und Hotels",
    "woerter": 2312,
    "soll": 1800,
-   "seo_title_len": 51,
+   "seo_title_len": 57,
    "meta_len": 148,
    "kw_abdeckung": {
     "H1": true,
@@ -880,8 +1265,15 @@
    "pruefen_marker": 4,
    "medienpruefung": 0,
    "issues": [],
-   "warnungen": [],
-   "ext_status": {},
+   "warnungen": [
+    "Externe Links nicht erreichbar/blockiert (1): https://www.worldheritagesite.org/tentative/id/1405 [403]"
+   ],
+   "ext_status": {
+    "https://dhmi.gov.tr/AIPDocuments/LT_AD_2_LTFG_en.pdf": 200,
+    "https://whc.unesco.org/en/tentativelists/1405/": 200,
+    "https://www.turkishmuseums.com/blog/detail/5-must-have-experiences-in-alanya/10099/4": 200,
+    "https://www.worldheritagesite.org/tentative/id/1405": 403
+   },
    "status": "BESTANDEN"
   },
   {
@@ -910,7 +1302,16 @@
    "medienpruefung": 2,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://worldweather.wmo.int/en/city.html?cityId=1442": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1884": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=202": 200,
+    "https://www.auswaertiges-amt.de/de/reiseundsicherheit/zypernsicherheit-210258": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_176000_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_176090_kt.pdf": 200,
+    "https://www.kmk.org/service/ferienregelung/ferienkalender.html": 200,
+    "https://www.officeholidays.com/countries/cyprus/2027": 200
+   },
    "status": "BESTANDEN"
   },
   {
@@ -937,7 +1338,16 @@
    "medienpruefung": 6,
    "issues": [],
    "warnungen": [],
-   "ext_status": {},
+   "ext_status": {
+    "https://theportugalpost.com/posts/madeira-airport-closes-again-as-strong-winds-divert-flights-march-sees-160-cancellations": 200,
+    "https://whc.unesco.org/en/list/934/": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=1234": 200,
+    "https://worldweather.wmo.int/en/city.html?cityId=304": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_085210_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_085220_kt.pdf": 200,
+    "https://www.dwd.de/DWD/klima/beratung/ak/ak_600200_kt.pdf": 200,
+    "https://www.ipma.pt/bin/file.data/climate-normal/cn_91-20_FUNCHAL.pdf": 200
+   },
    "status": "BESTANDEN"
   }
  ],
