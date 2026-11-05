@@ -6,7 +6,7 @@ Verbindlich für alle 36 Entwürfe. Abgeleitet aus dem bestehenden Beitrag „T�
 
 - haydi-weg ist ein Reisebüro in Minden (Königstraße 52, 32423 Minden), Inhaberin Hatice Köse. Es vermittelt Pauschalreisen verschiedener Veranstalter und berät online, per WhatsApp und vor Ort.
 - Das Reisebüro hat eine Online-Buchungsstrecke (IBE) unter https://haydiweg.de/buchen/ und bietet **„bis zu 1.000 € Cashback“ für berechtigte Online-Buchungen gemäß Teilnahmebedingungen**: https://haydiweg.de/cashback/. Die Teilnahmebedingungen werden nicht ausgeschmückt und es werden keine Beträge pro Reise genannt.
-- WhatsApp: `https://wa.me/4915563462222?text=<URL-kodierter Text>`
+- WhatsApp: `https://wa.me/4915792326450?text=<URL-kodierter Text>` (Nummer laut Kontaktseite: 0157 92326450. Auf vielen Inhaltsseiten steht noch 4915563462222. Welche Nummer gilt, klärt die Inhaberin)
 - Wir haben **eigene Hotelvideos** von den Hotels, die auf haydiweg.de eine Seite unter /hotel/ haben (Liste in `interne_url_liste.txt`). Nur bei diesen Hotels darfst du schreiben „haben wir gefilmt“ oder „unser Hotelvideo“. Fakten zu diesen Hotels nimmst du von unserer Hotelseite (WebFetch) und kennzeichnest sie als „laut Hotel“.
 - **Verboten:** erfundene Besuche, persönliche Erlebnisse („Als wir in Hurghada waren …“), Kundenstimmen, Bewertungen, Preise in Euro, Rabattprozente, Rankings („Platz 1“), Suchvolumina, Behauptungen wie „Testsieger“.
 

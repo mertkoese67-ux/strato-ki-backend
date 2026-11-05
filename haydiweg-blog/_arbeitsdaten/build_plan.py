@@ -303,7 +303,7 @@ A = [
   L("gr","apr","ostern","buchen"),
   "Frühlingsblüte auf Kreta / Kapelle am Meer (Medienprüfung)",
   "Osterurlaub in Griechenland vergleichen",
-  "Ostern 2027 ist früh (28.03.) – realistische Temperatur-Einordnung verhindert Enttäuschung und stärkt Vertrauen; griechisches Ostern 2027 fällt auf denselben Tag (redaktionell prüfen)."),
+  "Ostern 2027 ist früh (28.03.) – realistische Temperatur-Einordnung verhindert Enttäuschung und stärkt Vertrauen; orthodoxes Ostern 2027 ist erst am 02.05. (westliches Ostern 28.03.), d. h. Osterferien und griechische Osterfeiertage fallen auseinander."),
  (31,"2027-01-18","07:30","Türkei","adults-only-hotels-tuerkei",
   "Adults-Only-Hotels in der Türkei: Für wen sie sich lohnen und worauf du achten solltest",
   "adults only türkei","adults only hotel türkei; hotel ohne kinder türkei; adults only alanya; adults only belek",
