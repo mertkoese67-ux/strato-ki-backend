@@ -29,6 +29,7 @@ redaktionelle_pruefung:
   - "Mardan Palace: Hotelseite nennt im Kopf 'Ultra All Inclusive', in der Detailbeschreibung 'Golden Inclusive' – Bezeichnung auf der Hotelseite vereinheitlichen."
   - "Mediathek-ID 7345 (Patisserie.webp): eindeutige Hotelzuordnung prüfen, Datei ist auf mehreren Hotelseiten eingebunden."
   - "WhatsApp-Nummer: Styleguide nennt 4915563462222, Website-Footer zeigt 0157 92326450 – gültige Nummer bestätigen."
+  - "Marktaussagen zur Verbreitung von All Inclusive in Türkei und Ägypten sind Erfahrungswerte ohne Statistik – so belassen oder abschwächen."
   - "Leistungen der genannten Hotels (À-la-carte, Getränke, Gebühren) laut Hotelseiten Stand 05.11.2026 – vor Veröffentlichung kurz gegenprüfen."
 schema: ["BlogPosting", "FAQPage"]
 ---
@@ -137,13 +138,13 @@ Welche Hotels nach Alter der Kinder passen, zeigen wir in unserem Ratgeber [Fami
 
 ## Nach Reiseziel: Wo welche Verpflegung üblich ist
 
-**Türkei:** An der Türkischen Riviera dominieren große Resorts, und die Hotels, die wir gefilmt haben, arbeiten nach ihren Hotelseiten mit All-Inclusive-Konzepten. Halbpension findest du eher in kleineren Stadthotels, etwa in Antalya, Side oder Alanya.
+**Türkei:** An der Türkischen Riviera prägen große Strandresorts das Angebot. Alle Türkei-Hotels mit ausführlicher Hotelseite bei uns, von Lara bis Alanya, arbeiten laut diesen Seiten mit All-Inclusive-Konzepten. Halbpension findest du eher bei kleineren Hotels in den Orten. [PRÜFEN: allgemeine Marktaussage ohne Statistik]
 
-**Ägypten:** In Hurghada, Makadi Bay oder Marsa Alam liegen viele Hotels in abgeschlossenen Anlagen. Auch dort ist All Inclusive weit verbreitet. Mehr dazu auf unserer Seite zum [Ägypten-Urlaub](https://haydiweg.de/urlaubsziele/aegypten-urlaub-buchen/).
+**Ägypten:** In Hurghada, Makadi Bay oder Marsa Alam liegen viele Hotels in abgeschlossenen Anlagen. Auch dort ist ein großer Teil der Angebote mit All Inclusive buchbar. [PRÜFEN: allgemeine Marktaussage ohne Statistik] Mehr dazu auf unserer Seite zum [Ägypten-Urlaub](https://haydiweg.de/urlaubsziele/aegypten-urlaub-buchen/).
 
 **Mittelmeerinseln und Städte:** Auf Madeira, Malta oder Mallorca findest du oft beide Varianten. Wohnst du zentral, ist Halbpension meist die flexiblere Wahl.
 
-**Dubai:** Hier buchen viele Reisende nur Frühstück oder Halbpension, weil sie unterwegs sind. Bei Strandhotels mit langem Aufenthalt am Hotel kann All Inclusive sinnvoll sein.
+**Dubai:** Wer viel in der Stadt unterwegs ist, nutzt die Verpflegung im Hotel kaum. Dann reicht oft Frühstück oder Halbpension. Bei einem reinen Strandurlaub im Resort kann All Inclusive sinnvoll sein.
 
 Welche Kostenfaktoren außer der Verpflegung den Reisepreis bestimmen, erklären wir im Ratgeber [Was kostet ein Türkei-Urlaub?](https://haydiweg.de/tuerkei/tuerkei-urlaub-kosten/)<!-- geplant #25 -->.
 
