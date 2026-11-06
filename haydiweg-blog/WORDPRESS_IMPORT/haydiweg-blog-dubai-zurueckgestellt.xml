@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- haydi-weg Blog – Dubai-Artikel, zurückgestellt (Entwurf). Erzeugt 06.11.2026 02:13. -->
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+	<title>haydi-weg</title>
+	<link>https://haydiweg.de</link>
+	<description>haydi-weg Reise-Blog</description>
+	<language>de-DE</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://haydiweg.de</wp:base_site_url>
+	<wp:base_blog_url>https://haydiweg.de</wp:base_blog_url>
+	<wp:author><wp:author_login><![CDATA[burak-mert-koese]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[Burak Mert Köse]]></wp:author_display_name><wp:author_first_name><![CDATA[Burak Mert]]></wp:author_first_name><wp:author_last_name><![CDATA[Köse]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_login><![CDATA[emre-koese]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[Emre Köse]]></wp:author_display_name><wp:author_first_name><![CDATA[Emre]]></wp:author_first_name><wp:author_last_name><![CDATA[Köse]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_login><![CDATA[leon-sulemani]]></wp:author_login><wp:author_email><![CDATA[]]></wp:author_email><wp:author_display_name><![CDATA[Leon Sulemani]]></wp:author_display_name><wp:author_first_name><![CDATA[Leon]]></wp:author_first_name><wp:author_last_name><![CDATA[Sulemani]]></wp:author_last_name></wp:author>
+	<wp:category><wp:category_nicename><![CDATA[aegypten]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Ägypten]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[dubai]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Dubai]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[fernreisen]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Fernreisen]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[griechenland]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Griechenland]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[portugal]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Portugal]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[reiseplanung]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Reiseplanung]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[spanien]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Spanien]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[tuerkei]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Türkei]]></wp:cat_name></wp:category>
+	<wp:category><wp:category_nicename><![CDATA[zypern]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Zypern]]></wp:cat_name></wp:category>
+	<wp:tag><wp:tag_slug><![CDATA[adults-only]]></wp:tag_slug><wp:tag_name><![CDATA[Adults Only]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[aegypten]]></wp:tag_slug><wp:tag_name><![CDATA[Ägypten]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[alanya]]></wp:tag_slug><wp:tag_name><![CDATA[Alanya]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[all-inclusive]]></wp:tag_slug><wp:tag_name><![CDATA[All Inclusive]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[aquapark]]></wp:tag_slug><wp:tag_name><![CDATA[Aquapark]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[belek]]></wp:tag_slug><wp:tag_name><![CDATA[Belek]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[dubai]]></wp:tag_slug><wp:tag_name><![CDATA[Dubai]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[einreise]]></wp:tag_slug><wp:tag_name><![CDATA[Einreise]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[familienurlaub]]></wp:tag_slug><wp:tag_name><![CDATA[Familienurlaub]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[ferientermine-2027]]></wp:tag_slug><wp:tag_name><![CDATA[Ferientermine 2027]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[fernreisen]]></wp:tag_slug><wp:tag_name><![CDATA[Fernreisen]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[fruehling]]></wp:tag_slug><wp:tag_name><![CDATA[Frühling]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[griechenland]]></wp:tag_slug><wp:tag_name><![CDATA[Griechenland]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[hurghada]]></wp:tag_slug><wp:tag_name><![CDATA[Hurghada]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[kanaren]]></wp:tag_slug><wp:tag_name><![CDATA[Kanaren]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[kemer]]></wp:tag_slug><wp:tag_name><![CDATA[Kemer]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[korfu]]></wp:tag_slug><wp:tag_name><![CDATA[Korfu]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[kreta]]></wp:tag_slug><wp:tag_name><![CDATA[Kreta]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[lara]]></wp:tag_slug><wp:tag_name><![CDATA[Lara]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[makadi-bay]]></wp:tag_slug><wp:tag_name><![CDATA[Makadi Bay]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[mallorca]]></wp:tag_slug><wp:tag_name><![CDATA[Mallorca]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[ostern]]></wp:tag_slug><wp:tag_name><![CDATA[Ostern]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[pauschalreise]]></wp:tag_slug><wp:tag_name><![CDATA[Pauschalreise]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[reisedokumente]]></wp:tag_slug><wp:tag_name><![CDATA[Reisedokumente]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[reisekosten]]></wp:tag_slug><wp:tag_name><![CDATA[Reisekosten]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[reiseplanung]]></wp:tag_slug><wp:tag_name><![CDATA[Reiseplanung]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[reisezeit]]></wp:tag_slug><wp:tag_name><![CDATA[Reisezeit]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[rhodos]]></wp:tag_slug><wp:tag_name><![CDATA[Rhodos]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[schnorcheln]]></wp:tag_slug><wp:tag_name><![CDATA[Schnorcheln]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[side]]></wp:tag_slug><wp:tag_name><![CDATA[Side]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[teneriffa]]></wp:tag_slug><wp:tag_name><![CDATA[Teneriffa]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[thailand]]></wp:tag_slug><wp:tag_name><![CDATA[Thailand]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[tuerkei]]></wp:tag_slug><wp:tag_name><![CDATA[Türkei]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[vereinigte-arabische-emirate]]></wp:tag_slug><wp:tag_name><![CDATA[Vereinigte Arabische Emirate]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[wandern]]></wp:tag_slug><wp:tag_name><![CDATA[Wandern]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug><![CDATA[winterurlaub]]></wp:tag_slug><wp:tag_name><![CDATA[Winterurlaub]]></wp:tag_name></wp:tag>
+
+	<item>
+		<title><![CDATA[Dubai im Januar und im Winter: Wetter, Baden und was du von Dezember bis März erwarten kannst]]></title>
+		<dc:creator><![CDATA[emre-koese]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<p><strong>Dubai im Januar</strong> heißt: tagsüber im Mittel rund 24 °C, nachts um 15 °C und fast immer Sonne. Zum Sonnenbaden ist das angenehm, zum Schwimmen im Meer ist es vielen eher frisch. Dezember und Februar sind ähnlich mild, ab März wird es spürbar wärmer.</p>
+<p>Damit ist der Winter die klassische Hauptsaison für Dubai. Du kannst draußen Stadt, Wüste und Strand verbinden, ohne in der Mittagshitze zu stehen, wie sie von Mai bis September herrscht. Wer vor allem lange im Meer schwimmen möchte, plant eher Ende Februar bis April oder wählt ein Hotel mit beheiztem Pool.</p>
+<p>Bevor du buchst, beachte bitte die aktuelle Lage: Das Auswärtige Amt rät derzeit von nicht notwendigen Reisen in die Vereinigten Arabischen Emirate ab (Stand 05.11.2026). Was das für deine Planung bedeutet, erklären wir weiter unten.</p>
+<p><strong>Das Wichtigste in Kürze</strong></p>
+<ul>
+<li>Dezember bis Februar: im Mittel 24 bis 27 °C am Tag und 15 bis 17 °C in der Nacht (WMO-Klimanormalwerte 1991–2020, Flughafen Dubai).</li>
+<li>Regen ist selten: Selbst in den „nassesten“ Monaten zählt die Statistik nur rund 3 Tage mit mindestens 1 mm.</li>
+<li>Das Meer ist im Januar und Februar am kühlsten, ungefähr 20 bis 23 °C [PRÜFEN: Wassertemperatur ohne amtliche Quelle].</li>
+<li>Abends brauchst du eine Jacke oder einen Pullover, vor allem in der Wüste.</li>
+<li>Aktuell: Das Auswärtige Amt rät von nicht notwendigen Reisen in die VAE ab.</li>
+</ul>
+<h2>Aktuelle Lage: Hinweis des Auswärtigen Amts</h2>
+<p>Das Auswärtige Amt schreibt in seinen Reise- und Sicherheitshinweisen (Stand 05.11.2026): „Von nicht notwendigen Reisen in die Vereinigten Arabischen Emirate wird abgeraten.“ Begründet wird das mit der sehr wechselhaften Lage in der Region. Kurzfristige Flugeinschränkungen bis hin zu Luftraumsperrungen sind laut AA möglich, auch für Reisende, die nur umsteigen.</p>
+<p>Außerdem meldet das AA gesperrte Strände bzw. Strandabschnitte in Umm al Quwain, Sharjah und Ras Al Khaimah, weil Öl aus einem Tanker ausgetreten ist [PRÜFEN: Aktualität der Strandsperrungen]. Dubai selbst wird dabei nicht genannt.</p>
+<p>Unser ehrlicher Rat: Wenn du einen Winterurlaub in Dubai planst, lies die Hinweise des AA kurz vor der Buchung und noch einmal vor der Abreise. Eine Pauschalreise gibt dir mehr Sicherheit als selbst zusammengestellte Bausteine. Nach § 651h Abs. 3 BGB darf der Reiseveranstalter keine Entschädigung verlangen, wenn am Zielort „unvermeidbare, außergewöhnliche Umstände“ die Reise erheblich beeinträchtigen. Ob das bei dir zutrifft, ist allerdings eine Frage des Einzelfalls. Die Einreiseregeln erklären wir in unserem Beitrag zur Einreise nach Dubai.</p>
+<h2>Dubai im Januar: Wetter, Temperaturen und Regen</h2>
+<p>Der Januar ist laut den Klimanormalwerten der Weltorganisation für Meteorologie (WMO, Zeitraum 1991–2020, Station Dubai International Airport) der kühlste Monat. Im Mittel erreicht die Tageshöchsttemperatur 24,4 °C, nachts fällt sie auf 15,3 °C. Die Sonne scheint im Januar im Mittel rund 250 Stunden, also etwa 8 Stunden am Tag.</p>
+<p>Regen ist auch im Winter die Ausnahme. Für den Januar nennt die WMO-Statistik rund 21 mm Niederschlag an knapp 3 Tagen. Wenn es regnet, dann oft kurz und kräftig. Da die Stadt auf Regen wenig ausgelegt ist, können Straßen dann zeitweise unter Wasser stehen.</p>
+<p>Was viele unterschätzen: Die kühlen Abende. Der tiefste in diesem Zeitraum gemessene Januarwert am Flughafen lag bei 8,6 °C. In der Wüste kann es nachts noch kühler werden. Pack also eine Jacke ein, wenn du eine Wüstentour oder ein Abendessen draußen geplant hast.</p>
+<h3>Klimatabelle Dubai für den Winter</h3>
+<table>
+<thead>
+<tr>
+<th>Monat</th>
+<th>Tag (Mittel)</th>
+<th>Nacht (Mittel)</th>
+<th>Niederschlag</th>
+<th>Regentage (≥ 1 mm)</th>
+<th>Sonnenstunden</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>November</td>
+<td>30,7 °C</td>
+<td>21,1 °C</td>
+<td>6 mm</td>
+<td>1,9</td>
+<td>268</td>
+</tr>
+<tr>
+<td>Dezember</td>
+<td>26,5 °C</td>
+<td>17,3 °C</td>
+<td>15 mm</td>
+<td>3,4</td>
+<td>257</td>
+</tr>
+<tr>
+<td>Januar</td>
+<td>24,4 °C</td>
+<td>15,3 °C</td>
+<td>21 mm</td>
+<td>2,8</td>
+<td>253</td>
+</tr>
+<tr>
+<td>Februar</td>
+<td>26,1 °C</td>
+<td>16,4 °C</td>
+<td>10 mm</td>
+<td>2,4</td>
+<td>251</td>
+</tr>
+<tr>
+<td>März</td>
+<td>28,9 °C</td>
+<td>18,6 °C</td>
+<td>22 mm</td>
+<td>3,4</td>
+<td>288</td>
+</tr>
+<tr>
+<td>April</td>
+<td>33,7 °C</td>
+<td>22,3 °C</td>
+<td>3 mm</td>
+<td>1,5</td>
+<td>316</td>
+</tr>
+</tbody>
+</table>
+<p>Quelle: WMO Climate Normals 1991–2020, Station Dubai International Airport (41194), bereitgestellt von NOAA NCEI. Das sind langjährige Mittelwerte. Einzelne Wochen können deutlich wärmer, kühler oder nasser sein.</p>
+<h2>Dubai im Januar baden: Wie warm ist das Meer?</h2>
+<p>Am Persischen Golf kühlt das Wasser im Winter deutlich ab. Gängige Klimaportale geben für Januar und Februar meist etwa 20 bis 23 °C an, für Dezember und März etwas mehr [PRÜFEN: keine amtliche Messreihe abgerufen; langjährige Mittelwerte, schwanken von Jahr zu Jahr]. Das ist ungefähr so warm wie das Mittelmeer im Frühsommer.</p>
+<p>Für Abgehärtete ist ein Bad im Meer gut machbar, vor allem mittags bei Sonne. Familien mit kleinen Kindern und alle, die gern lange im Wasser bleiben, achten eher auf einen beheizten Pool. Frag das am besten vor der Buchung nach, denn das unterscheidet sich von Hotel zu Hotel.</p>
+<p>Die Strände selbst sind auch im Winter gut nutzbar: zum Liegen, Spazieren und für Wassersport mit Neoprenanzug. Achte auf die Flaggen und Hinweise der Badeaufsicht. Laut Auswärtigem Amt solltest du Strände meiden, die auch von Tieren genutzt werden. Außerdem empfiehlt es Sonnenschutz, und zwar auch im Winter.</p>
+<h2>Dubai im Dezember: Lichter, Feiertage und volle Hotels</h2>
+<p>Der Dezember ist im Mittel etwas wärmer als der Januar, mit rund 26 bis 27 °C am Tag. Für viele ist er der angenehmste Wintermonat, weil das Meer noch nicht ganz so frisch ist. Rund um Weihnachten und Silvester ist Dubai stark gefragt, und das merkst du an Verfügbarkeit und Preisen.</p>
+<p>Wer Silvester in Dubai verbringen möchte, sollte früh planen. Einen Überblick über weitere Ziele für den Jahreswechsel findest du in unserem Ratgeber zum <a href="https://haydiweg.de/silvester-urlaub/">Silvesterurlaub</a>. Für Weihnachten lohnt ein Blick auf unsere Seite zum <a href="https://haydiweg.de/urlaub-ueber-weihnachten/">Urlaub über Weihnachten</a>.</p>
+<p>Weitere warme Ziele für den letzten Monat des Jahres stellen wir in den <a href="https://haydiweg.de/reisethemen/reiseziele-dezember/">Reisezielen im Dezember</a> vor.</p>
+<h2>Dubai im Februar und März: wärmer, aber Ramadan beachten</h2>
+<p>Im Februar steigen die Temperaturen wieder, im März erreichen sie im Mittel knapp 29 °C. Ende Februar bis Anfang April gilt deshalb als guter Kompromiss aus angenehmer Luft und wärmerem Wasser. Der März bringt statistisch aber auch etwas mehr Regen.</p>
+<p>Für 2027 ist ein Punkt wichtig: Der Fastenmonat Ramadan beginnt nach astronomischen Berechnungen voraussichtlich am 8. Februar 2027 und dauert bis etwa 9. März; das Fest des Fastenbrechens wird für den 10. März erwartet (Gulf News, Stand 01.09.2026) [PRÜFEN: offizielle Daten erst nach Mondsichtung]. Das Auswärtige Amt weist darauf hin, dass du im Ramadan mit Einschränkungen im Alltag und einer erhöhten Sensibilität in religiösen Fragen rechnen musst. Empfohlen wird dezente Kleidung.</p>
+<p>Für Urlauber heißt das konkret: Hotels laufen weiter, viele Restaurants öffnen aber später oder anders als gewohnt. Essen, Trinken und Rauchen in der Öffentlichkeit tagsüber solltest du vermeiden. Dafür erlebst du abends eine besondere Stimmung beim Fastenbrechen. Wer das nicht möchte, plant die Reise vor oder nach dem Ramadan.</p>
+<h2>Beste Reisezeit für Dubai: Was passt zu wem?</h2>
+<p>Für Dubai gibt es keine „perfekte“ Woche, aber klare Unterschiede je nach Reisestil:</p>
+<table>
+<thead>
+<tr>
+<th>Reisestil</th>
+<th>Gute Monate</th>
+<th>Warum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stadt, Shopping, Ausflüge</td>
+<td>Dezember bis Februar</td>
+<td>Mildeste Tage, angenehm für längere Wege zu Fuß</td>
+</tr>
+<tr>
+<td>Baden im Meer</td>
+<td>Ende Februar bis April, Oktober bis November</td>
+<td>Wärmeres Wasser, Luft noch erträglich</td>
+</tr>
+<tr>
+<td>Wüstentour</td>
+<td>Dezember bis März</td>
+<td>Tagsüber mild; abends warm anziehen</td>
+</tr>
+<tr>
+<td>Familien mit kleinen Kindern</td>
+<td>November, Februar bis März</td>
+<td>Weder zu heiß noch zu frisch zum Planschen</td>
+</tr>
+</tbody>
+</table>
+<p>Im Hochsommer (Juni bis August) liegen die mittleren Tageshöchstwerte laut WMO-Daten bei rund 40 bis 42 °C. Für einen Badeurlaub mit viel Zeit im Freien raten wir dann ab.</p>
+<p>Auf unserer <a href="https://haydiweg.de/urlaubsziele/dubai-urlaub-buchen/">Zielgebietsseite Dubai und Emirate</a> findest du außerdem den Vergleich mit Ras Al Khaimah, Abu Dhabi und Fujairah. Fujairah liegt am Golf von Oman und hat ein etwas anderes Badeklima.</p>
+<h2>Was du für den Winter in Dubai einpacken solltest</h2>
+<ul>
+<li><strong>Leichte Kleidung für den Tag</strong> plus Pullover oder leichte Jacke für Abende, Wüste und klimatisierte Räume.</li>
+<li><strong>Schulter- und kniebedeckende Kleidung</strong> für Moscheen, Souks und ganz allgemein außerhalb von Strand und Pool. Das Auswärtige Amt nennt Kleidungsvorschriften ausdrücklich.</li>
+<li><strong>Sonnenschutz</strong>, Sonnenbrille und Kopfbedeckung, denn die Wintersonne ist kräftig.</li>
+<li><strong>Badeschuhe</strong> für steinige Abschnitte und für die Ostküste.</li>
+<li><strong>Medikamente nur mit Nachweis</strong>: Für manche gängigen Arzneimittel gelten in den VAE strenge Regeln. Details stehen in unserem Beitrag zur Einreise nach Dubai.</li>
+</ul>
+<p>Eine allgemeine Packliste findest du in unserer <a href="https://haydiweg.de/reise-blog/checkliste-urlaub/">Checkliste für den Urlaub</a>.</p>
+<h2>Unsere ehrliche Empfehlung: Für wen passt Dubai im Winter?</h2>
+<p><strong>Dubai im Winter passt gut</strong>, wenn du Sonne ohne Hitze suchst und Stadt, Wüste und Strand verbinden möchtest. Für eine Woche mit vielen Aktivitäten ist der Januar ideal, auch wenn das Meer frisch ist.</p>
+<p><strong>Eher nicht passend</strong> ist Dubai im Januar, wenn du dir vor allem warmes Meer wie in der Karibik wünschst. Dann sind Ziele mit tropischem Wasser die bessere Wahl. Einige davon stellen wir in den <a href="https://haydiweg.de/reisethemen/reiseziele-januar/">Reisezielen im Januar</a> vor.</p>
+<p><strong>Wichtig für alle:</strong> Behalte die Sicherheitshinweise des Auswärtigen Amts im Blick. Solange von nicht notwendigen Reisen abgeraten wird, solltest du flexibel planen. Was ein Aufenthalt kostet und welche Gebühren dazukommen, erklären wir im Beitrag Was kostet ein Dubai-Urlaub?.</p>
+<h2>Häufige Fragen</h2>
+<h3>Kann man in Dubai im Januar baden?</h3>
+<p>Ja, aber das Meer ist mit grob 20 bis 23 °C eher frisch. Sonnenbaden am Strand ist bei rund 24 °C Lufttemperatur gut möglich. Wer lange schwimmen möchte, achtet auf ein Hotel mit beheiztem Pool.</p>
+<h3>Wie ist das Wetter in Dubai im Januar?</h3>
+<p>Mild und meist sonnig: Im Mittel sind es tagsüber 24 °C und nachts 15 °C. Regen fällt im langjährigen Mittel nur an knapp 3 Tagen im Monat. Abends brauchst du eine Jacke.</p>
+<h3>Ist Dubai im Dezember oder im Februar besser?</h3>
+<p>Beide Monate sind ähnlich mild. Im Dezember ist das Meer noch etwas wärmer, dafür sind die Feiertage stark gefragt. Im Februar 2027 fällt voraussichtlich der Beginn des Ramadan in den Monat. Das solltest du bei der Planung bedenken.</p>
+<h3>Wann ist die beste Reisezeit für Dubai?</h3>
+<p>Für Stadt und Ausflüge eignen sich Dezember bis Februar am besten. Für einen Badeurlaub sind Ende Februar bis April und Oktober bis November angenehmer, weil das Wasser wärmer ist. Von Juni bis August ist es für die meisten zu heiß.</p>
+<h3>Kann man derzeit nach Dubai reisen?</h3>
+<p>Die Einreise ist grundsätzlich möglich. Das Auswärtige Amt rät aber mit Stand 05.11.2026 von nicht notwendigen Reisen in die VAE ab und warnt vor möglichen Flugeinschränkungen. Prüfe die Hinweise vor der Buchung und vor der Abreise.</p>
+<h2>Deinen Winterurlaub in Dubai finden</h2>
+<p>Du möchtest Dubai im Winter erleben oder Stadt und Strand kombinieren? In unserer <a href="https://haydiweg.de/buchen/">Online-Buchung</a> vergleichst du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den <a href="https://haydiweg.de/cashback/">Teilnahmebedingungen</a>.</p>
+<p>Wenn du unsicher bist, welcher Monat und welches Emirat zu dir passen, oder Fragen zur aktuellen Lage hast, schreib uns: <a href="https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20interessiere%20mich%20f%C3%BCr%20einen%20Dubai-Urlaub%20im%20Winter.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F" rel="noopener" target="_blank">Per WhatsApp beraten lassen</a>.</p>
+<h2>Quellen</h2>
+<ul>
+<li>Vereinigte Arabische Emirate: Reise- und Sicherheitshinweise, Auswärtiges Amt, <a href="https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332" rel="noopener" target="_blank">https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332</a> (Stand 05.11.2026), abgerufen am 05.11.2026</li>
+<li>World Meteorological Organization Climate Normals 1991–2020, Station Dubai International Airport (41194), bereitgestellt von NOAA National Centers for Environmental Information, <a href="https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv" rel="noopener" target="_blank">https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv</a>, abgerufen am 05.11.2026</li>
+<li>When does Ramadan 2027 begin? Everything you need to know, Gulf News, <a href="https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523" rel="noopener" target="_blank">https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523</a>, abgerufen am 05.11.2026</li>
+<li>§ 651h BGB – Rücktritt vor Reisebeginn, Bundesministerium der Justiz, <a href="https://www.gesetze-im-internet.de/bgb/__651h.html" rel="noopener" target="_blank">https://www.gesetze-im-internet.de/bgb/__651h.html</a>, abgerufen am 05.11.2026</li>
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kann man in Dubai im Januar baden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, aber das Meer ist mit grob 20 bis 23 °C eher frisch. Sonnenbaden am Strand ist bei rund 24 °C Lufttemperatur gut möglich. Wer lange schwimmen möchte, achtet auf ein Hotel mit beheiztem Pool."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie ist das Wetter in Dubai im Januar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mild und meist sonnig: Im Mittel sind es tagsüber 24 °C und nachts 15 °C. Regen fällt im langjährigen Mittel nur an knapp 3 Tagen im Monat. Abends brauchst du eine Jacke."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ist Dubai im Dezember oder im Februar besser?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beide Monate sind ähnlich mild. Im Dezember ist das Meer noch etwas wärmer, dafür sind die Feiertage stark gefragt. Im Februar 2027 fällt voraussichtlich der Beginn des Ramadan in den Monat. Das solltest du bei der Planung bedenken."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wann ist die beste Reisezeit für Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Für Stadt und Ausflüge eignen sich Dezember bis Februar am besten. Für einen Badeurlaub sind Ende Februar bis April und Oktober bis November angenehmer, weil das Wasser wärmer ist. Von Juni bis August ist es für die meisten zu heiß."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann man derzeit nach Dubai reisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die Einreise ist grundsätzlich möglich. Das Auswärtige Amt rät aber mit Stand 05.11.2026 von nicht notwendigen Reisen in die VAE ab und warnt vor möglichen Flugeinschränkungen. Prüfe die Hinweise vor der Buchung und vor der Abreise."
+      }
+    }
+  ]
+}
+</script>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Dubai im Januar: rund 24 °C am Tag, kühle Nächte und frisches Meer. Wetter, Baden und Tipps für Dezember bis März mit Klimadaten und Reisehinweis.]]></excerpt:encoded>
+		<wp:post_date><![CDATA[2027-12-31 07:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dubai-im-winter-wetter-baden]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="winterurlaub"><![CDATA[Winterurlaub]]></category>
+		<category domain="post_tag" nicename="reisezeit"><![CDATA[Reisezeit]]></category>
+		<category domain="post_tag" nicename="vereinigte-arabische-emirate"><![CDATA[Vereinigte Arabische Emirate]]></category>
+		<wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Dubai im Januar & Winter: Wetter und Baden | haydi-weg]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Dubai im Januar: rund 24 °C am Tag, kühle Nächte und frisches Meer. Wetter, Baden und Tipps für Dezember bis März mit Klimadaten und Reisehinweis.]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[dubai im januar,dubai im dezember,dubai im februar,dubai wetter januar,dubai im januar baden]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_redaktionsplan_nr</wp:meta_key><wp:meta_value><![CDATA[05]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_beitragsbild_vorschlag</wp:meta_key><wp:meta_value><![CDATA[dubai-palm-jumeirah-ausblick-winter.webp | ALT: Blick von oben auf die Palmeninsel Palm Jumeirah mit Hotels und Strand in Dubai | Mediathek-ID 3218]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_thumbnail_id</wp:meta_key><wp:meta_value><![CDATA[3218]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Einreise nach Dubai: Was deutsche Urlauber 2027 wissen müssen]]></title>
+		<dc:creator><![CDATA[emre-koese]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<p><strong>Einreise Dubai</strong>, kurz beantwortet: Deutsche Urlauber brauchen einen regulären, biometrischen Reisepass, der bei der Ankunft noch mindestens sechs Monate gültig ist. Ein Visum ist für touristische Aufenthalte bis zu 90 Tagen innerhalb von 180 Tagen nicht nötig. Mit dem Personalausweis oder einem vorläufigen Reisepass kommst du nicht ins Land.</p>
+<p>Das klingt einfach, und für die meisten ist es das auch. Die eigentlichen Stolperfallen liegen woanders: bei Medikamenten, bei CBD-Produkten, beim Fotografieren und bei offenen Rechnungen aus früheren Aufenthalten. Diese Punkte erklären wir hier Schritt für Schritt, mit Verweis auf das Auswärtige Amt und die zuständige Behörde der Vereinigten Arabischen Emirate (VAE).</p>
+<p>Ein Hinweis vorab: Das Auswärtige Amt rät derzeit von nicht notwendigen Reisen in die VAE ab (Stand 05.11.2026). Bitte prüfe die Lage vor der Buchung und vor der Abreise.</p>
+<p><strong>Das Wichtigste in Kürze</strong></p>
+<ul>
+<li>Erlaubt sind Reisepass und Kinderreisepass, nicht erlaubt sind Personalausweis und vorläufiger Reisepass.</li>
+<li>Der Pass muss bei Einreise noch mindestens sechs Monate gültig sein.</li>
+<li>Für Urlaub bis 90 Tage (innerhalb von 180 Tagen) brauchst du kein Visum.</li>
+<li>Kontrollierte Medikamente nur mit Rezept und ärztlichem Bericht mitnehmen, höchstens für drei Monate.</li>
+<li>CBD-Öl gilt in den VAE als Droge.</li>
+</ul>
+<h2>Aktuelle Lage: Was das Auswärtige Amt sagt</h2>
+<p>In den Reise- und Sicherheitshinweisen des Auswärtigen Amts heißt es: „Von nicht notwendigen Reisen in die Vereinigten Arabischen Emirate wird abgeraten.“ Grund ist die sehr wechselhafte Lage in der Region. Das AA schreibt, dass es ohne Vorwarnung zu Flugeinschränkungen bis hin zu Luftraumsperrungen kommen kann. Das gilt ausdrücklich auch für Transitreisende.</p>
+<p>Das AA empfiehlt unter anderem, sich in die Krisenvorsorgeliste „Elefand“ einzutragen, den Anweisungen der Behörden zu folgen und das Handy immer geladen zu halten. Fotografieren und Filmen im Zusammenhang mit dem militärischen Konflikt ist streng verboten und wird strafrechtlich verfolgt.</p>
+<p>Wenn du trotzdem planst, ist eine Pauschalreise sinnvoll. Nach § 651h Abs. 3 BGB darf der Veranstalter beim Rücktritt keine Entschädigung verlangen, wenn am Zielort „unvermeidbare, außergewöhnliche Umstände“ die Reise erheblich beeinträchtigen. Ob das zutrifft, wird im Einzelfall entschieden.</p>
+<h2>Einreise Dubai für Deutsche: Welche Dokumente gelten?</h2>
+<p>Laut Auswärtigem Amt gelten für die Einreise in die VAE diese Dokumente:</p>
+<table>
+<thead>
+<tr>
+<th>Dokument</th>
+<th>Zugelassen?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reisepass (biometrisch)</td>
+<td>Ja</td>
+</tr>
+<tr>
+<td>Kinderreisepass</td>
+<td>Ja (bestehende Pässe bleiben gültig)</td>
+</tr>
+<tr>
+<td>Vorläufiger Reisepass</td>
+<td>Nein</td>
+</tr>
+<tr>
+<td>Personalausweis</td>
+<td>Nein</td>
+</tr>
+<tr>
+<td>Vorläufiger Personalausweis</td>
+<td>Nein</td>
+</tr>
+</tbody>
+</table>
+<p>Der Pass muss bei der Einreise für Aufenthalte bis 90 Tage noch mindestens sechs Monate gültig sein. Rechne am besten vom Rückreisetag zurück und plane einen Puffer ein.</p>
+<p>Seit Januar 2024 werden in Deutschland keine neuen Kinderreisepässe mehr ausgestellt. Bereits ausgestellte Kinderreisepässe behalten aber ihre Gültigkeit. Für ein Kind, das noch keinen Pass hat, beantragst du also einen regulären Reisepass. Plane dafür einige Wochen Vorlauf ein.</p>
+<h3>Geschlechtseintrag im Pass</h3>
+<p>Das AA weist auf eine Besonderheit hin: Eingereist werden nur Personen, deren Geschlecht im Pass mit „M“ oder „F“ eingetragen ist. Wer einen anderen Eintrag hat, sollte sich vor der Reise bei der Botschaft der VAE in Berlin erkundigen.</p>
+<h3>Pass verloren: Ausreise ja, Wiedereinreise nein</h3>
+<p>Geht dein Pass in Dubai verloren, stellt die deutsche Vertretung vor Ort nur einen Reiseausweis oder einen vorläufigen Reisepass aus. Damit kannst du ausreisen, aber nicht wieder einreisen. Bei Rundreisen mit Stopps in mehreren Ländern ist das wichtig. Mach vor der Reise eine Kopie oder ein Foto der Passseite.</p>
+<h2>Einreise Dubai mit Visum oder ohne?</h2>
+<p>Für touristische Aufenthalte, Geschäftsreisen ohne Arbeitsaufnahme und Besuche brauchst du laut Auswärtigem Amt kein Visum, sofern du nicht länger als 90 Tage innerhalb von 180 Tagen bleibst. Einen Antrag vorab gibt es dafür nicht. Arbeiten ist während des visumfreien Aufenthalts nicht erlaubt.</p>
+<p>Überschreitest du die erlaubte Dauer, drohen Geldstrafen und Ausweisung, bei längerer Überschreitung auch Haft. Die offiziellen Regierungsseiten der VAE zur Visumbefreiung waren beim Abruf am 05.11.2026 nicht erreichbar [PRÜFEN: Visumregel mit u.ae oder ICP abgleichen]. Im Zweifel empfiehlt das AA, bei der Botschaft der VAE nachzufragen.</p>
+<h2>Dubai: Einfuhrbestimmungen für Medikamente</h2>
+<p>Das ist der Punkt, bei dem Urlauber am häufigsten unsicher sind. Und zu Recht: Laut Auswärtigem Amt ist die Einfuhr mancher gängiger Medikamente ohne ärztliche Verschreibung in die VAE verboten. CBD-Öl und Lebensmittel mit Hanfgeschmack gelten dort als Drogen.</p>
+<h3>Was die zuständige Behörde vorschreibt</h3>
+<p>Für kontrollierte Medikamente (Betäubungsmittel und psychotrope Stoffe) ist die Emirates Drug Establishment (EDE) zuständig. Laut deren offizieller Seite gilt für Reisende:</p>
+<ul>
+<li><strong>Genehmigung freiwillig:</strong> Du kannst vorab online eine Einfuhrerlaubnis beantragen. Das ist kostenlos und dauert laut EDE einen Arbeitstag.</li>
+<li><strong>Ohne Genehmigung erlaubt</strong>, wenn du ein Rezept oder einen ärztlichen Bericht dabeihast und die Menge den Bedarf von drei Monaten nicht übersteigt [PRÜFEN: Mengengrenze, ältere MOHAP-Angaben weichen ab].</li>
+<li><strong>Rezept:</strong> höchstens drei Monate alt, gestempelt von der behandelnden Einrichtung. Es muss deinen vollen Namen, das Medikament, die Dosis, die Darreichungsform, die Therapiedauer, das Ausstellungsdatum und den Namen des Arztes enthalten.</li>
+<li><strong>Ärztlicher Bericht:</strong> höchstens ein Jahr alt und gestempelt. Er muss Diagnose und Behandlungsplan enthalten.</li>
+<li><strong>Transit:</strong> Wer den Flughafen beim Umsteigen nicht verlässt, braucht keine Genehmigung.</li>
+<li>Medikamente, die weder Betäubungsmittel noch psychotrope Stoffe sind, darfst du ohne vorherige Anmeldung mitnehmen.</li>
+</ul>
+<h3>Unser praktischer Rat</h3>
+<p>Lass dir für alle regelmäßig eingenommenen Medikamente eine ärztliche Bescheinigung auf Englisch ausstellen, wie es auch das AA empfiehlt. Trag die Medikamente in der Originalverpackung im Handgepäck. Betrifft dich ein starkes Schmerzmittel, ein Schlafmittel, ein ADHS-Präparat oder ein Psychopharmakon, kläre vorab mit deiner Ärztin oder deinem Arzt, ob das Mittel in den VAE als kontrolliert gilt. Bei Unsicherheit ist der Antrag bei der EDE die sicherere Wahl.</p>
+<h2>Zoll, Bargeld und Alkohol</h2>
+<p>Laut Auswärtigem Amt gelten diese Regeln:</p>
+<ul>
+<li><strong>Bargeld und Wertsachen:</strong> Wer Bargeld, Schmuck, Edelsteine oder Waren im Wert von mehr als 60.000 Dirham (AED) mitführt, muss das vorab online über die App bzw. Plattform AFSEH anmelden.</li>
+<li><strong>Zollfreie Mengen ab 18 Jahren:</strong> bis zu vier Liter Alkohol oder zwei Kartons Bier sowie bis zu 400 Zigaretten im Wert von höchstens 2.000 AED.</li>
+<li><strong>Verboten:</strong> Drogen, Waffen, Falschgeld und pornografische Artikel. Schon freizügige Titelbilder von Zeitschriften können laut AA als Pornografie gelten.</li>
+<li><strong>Alkohol vor Ort:</strong> nur in lizenzierten Hotels, Restaurants, Bars und Geschäften. Trunkenheit in der Öffentlichkeit ist strafbar. Im Emirat Sharjah gilt ein vollständiges Alkoholverbot.</li>
+</ul>
+<h2>Was du in Dubai beachten solltest</h2>
+<p>Die Einreise ist nur der Anfang. Diese Regeln aus den Hinweisen des Auswärtigen Amts solltest du kennen:</p>
+<ul>
+<li><strong>Drogen:</strong> Schon kleinste Mengen werden drastisch bestraft. Bluttests können auch Konsum nachweisen, der vor der Einreise stattgefunden hat.</li>
+<li><strong>Fotos:</strong> Militärische Anlagen, Häfen, Flughäfen, Paläste, Botschaften und weitere Einrichtungen darfst du nicht fotografieren. Auch wer Fotos anderer Menschen ohne deren Einverständnis veröffentlicht, riskiert Geldstrafen bis 500.000 AED und Haft.</li>
+<li><strong>Online-Verhalten:</strong> Beleidigende Gesten, kritische Bewertungen oder Kritik an den VAE im Netz können laut AA zu Ausreisesperren führen.</li>
+<li><strong>Alte Schulden:</strong> Offene oder strittige Forderungen aus früheren Geschäften in den VAE können noch Jahre später zur Festnahme bei der Einreise oder im Transit führen.</li>
+<li><strong>Kleidung:</strong> Außerhalb von Strand und Pool gilt dezente Kleidung, im Ramadan besonders.</li>
+</ul>
+<h2>Gesundheit: Impfungen und Versicherung</h2>
+<p>Für die direkte Einreise aus Deutschland sind laut AA keine Impfungen vorgeschrieben. Empfohlen werden die Standardimpfungen nach STIKO und eine Impfung gegen Hepatitis A, je nach Reise auch Hepatitis B und Typhus. Die medizinische Versorgung ist laut AA mit Deutschland vergleichbar. Empfohlen wird eine Auslandskrankenversicherung, die auch einen Rücktransport abdeckt.</p>
+<p>Alles Weitere für die Reisevorbereitung findest du in unserer <a href="https://haydiweg.de/reise-blog/checkliste-urlaub/">Checkliste für den Urlaub</a>.</p>
+<h2>Unsere ehrliche Empfehlung</h2>
+<p>Die Einreise in Dubai ist für deutsche Urlauber mit gültigem Reisepass formal unkompliziert. Wer regelmäßig Medikamente nimmt, sollte sich aber früh kümmern. CBD-Produkte gehören nicht ins Gepäck. Bei Mitteln, deren Einstufung du nicht sicher kennst, fragst du vorher nach oder lässt sie zu Hause.</p>
+<p>Solange das Auswärtige Amt von nicht notwendigen Reisen abrät, solltest du flexibel bleiben und die Hinweise regelmäßig prüfen. Wie das Wetter in den Wintermonaten ist, liest du in Dubai im Winter: Wetter und Baden. Welche Kosten auf dich zukommen, erklärt unser Beitrag Was kostet ein Dubai-Urlaub?. Einen Überblick über alle Emirate gibt unsere <a href="https://haydiweg.de/urlaubsziele/dubai-urlaub-buchen/">Zielgebietsseite Dubai</a>.</p>
+<h2>Häufige Fragen</h2>
+<h3>Kann ich mit dem Personalausweis nach Dubai einreisen?</h3>
+<p>Nein. Laut Auswärtigem Amt sind Personalausweis und vorläufiger Personalausweis für die Einreise in die VAE nicht zugelassen. Du brauchst einen Reisepass oder, für Kinder, einen noch gültigen Kinderreisepass.</p>
+<h3>Brauchen Deutsche ein Visum für Dubai?</h3>
+<p>Nein, für touristische Aufenthalte bis 90 Tage innerhalb von 180 Tagen nicht. Voraussetzung ist ein gültiger biometrischer Reisepass. Arbeiten ist mit dieser Befreiung nicht erlaubt.</p>
+<h3>Reicht ein vorläufiger Reisepass für Dubai?</h3>
+<p>Nein. Das Auswärtige Amt listet den vorläufigen Reisepass ausdrücklich als nicht zugelassen. Beantrage rechtzeitig einen regulären Reisepass, denn die Ausstellung dauert einige Wochen.</p>
+<h3>Was gilt beim Umsteigen in Dubai?</h3>
+<p>Wer den Flughafen nicht verlässt, braucht für kontrollierte Medikamente laut EDE keine Genehmigung. Ein Rezept solltest du trotzdem dabeihaben. Das AA warnt, dass Drogendelikte und alte Schulden auch im Transit zur Festnahme führen können. Auch Flugeinschränkungen betreffen Transitreisende.</p>
+<h3>Welche Medikamente darf man nach Dubai mitnehmen?</h3>
+<p>Normale, nicht kontrollierte Medikamente für den Eigenbedarf darfst du mitnehmen. Für Betäubungsmittel und psychotrope Stoffe brauchst du ein aktuelles Rezept und einen ärztlichen Bericht, die Menge darf drei Monate Bedarf nicht übersteigen. CBD-Produkte sind verboten.</p>
+<h2>Deine Dubai-Reise mit Beratung planen</h2>
+<p>Du möchtest nach Dubai und dir ist wichtig, dass Dokumente, Medikamente und Reiseschutz passen? In unserer <a href="https://haydiweg.de/buchen/">Online-Buchung</a> findest du Pauschalreisen verschiedener Veranstalter. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den <a href="https://haydiweg.de/cashback/">Teilnahmebedingungen</a>.</p>
+<p>Lieber persönlich? Schreib uns, wir gehen deine Fragen mit dir durch: <a href="https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20plane%20eine%20Dubai-Reise%20und%20habe%20Fragen%20zur%20Einreise.%20K%C3%B6nnt%20ihr%20mir%20helfen%3F" rel="noopener" target="_blank">Per WhatsApp fragen</a>.</p>
+<h2>Quellen</h2>
+<ul>
+<li>Vereinigte Arabische Emirate: Reise- und Sicherheitshinweise, Auswärtiges Amt, <a href="https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332" rel="noopener" target="_blank">https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332</a> (Stand 05.11.2026), abgerufen am 05.11.2026</li>
+<li>Issue of Permit to Import Medicines for Personal Use, Emirates Drug Establishment (EDE), <a href="https://www.ede.gov.ae/en/w/issue-of-permit-to-import-medicines-for-personal-use" rel="noopener" target="_blank">https://www.ede.gov.ae/en/w/issue-of-permit-to-import-medicines-for-personal-use</a>, abgerufen am 05.11.2026</li>
+<li>§ 651h BGB – Rücktritt vor Reisebeginn, Bundesministerium der Justiz, <a href="https://www.gesetze-im-internet.de/bgb/__651h.html" rel="noopener" target="_blank">https://www.gesetze-im-internet.de/bgb/__651h.html</a>, abgerufen am 05.11.2026</li>
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Kann ich mit dem Personalausweis nach Dubai einreisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Laut Auswärtigem Amt sind Personalausweis und vorläufiger Personalausweis für die Einreise in die VAE nicht zugelassen. Du brauchst einen Reisepass oder, für Kinder, einen noch gültigen Kinderreisepass."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Brauchen Deutsche ein Visum für Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein, für touristische Aufenthalte bis 90 Tage innerhalb von 180 Tagen nicht. Voraussetzung ist ein gültiger biometrischer Reisepass. Arbeiten ist mit dieser Befreiung nicht erlaubt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Reicht ein vorläufiger Reisepass für Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein. Das Auswärtige Amt listet den vorläufigen Reisepass ausdrücklich als nicht zugelassen. Beantrage rechtzeitig einen regulären Reisepass, denn die Ausstellung dauert einige Wochen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was gilt beim Umsteigen in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wer den Flughafen nicht verlässt, braucht für kontrollierte Medikamente laut EDE keine Genehmigung. Ein Rezept solltest du trotzdem dabeihaben. Das AA warnt, dass Drogendelikte und alte Schulden auch im Transit zur Festnahme führen können. Auch Flugeinschränkungen betreffen Transitreisende."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Medikamente darf man nach Dubai mitnehmen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Normale, nicht kontrollierte Medikamente für den Eigenbedarf darfst du mitnehmen. Für Betäubungsmittel und psychotrope Stoffe brauchst du ein aktuelles Rezept und einen ärztlichen Bericht, die Menge darf drei Monate Bedarf nicht übersteigen. CBD-Produkte sind verboten."
+      }
+    }
+  ]
+}
+</script>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Einreise Dubai für Deutsche: Reisepass statt Personalausweis, 90 Tage ohne Visum, strenge Medikamenten-Regeln. Alles Wichtige mit Quellen, Stand 11/2026.]]></excerpt:encoded>
+		<wp:post_date><![CDATA[2027-12-31 07:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[einreise-dubai-vae]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="einreise"><![CDATA[Einreise]]></category>
+		<category domain="post_tag" nicename="vereinigte-arabische-emirate"><![CDATA[Vereinigte Arabische Emirate]]></category>
+		<category domain="post_tag" nicename="reisedokumente"><![CDATA[Reisedokumente]]></category>
+		<wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Einreise Dubai 2027: Pass, Visum, Medikamente | haydi-weg]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Einreise Dubai für Deutsche: Reisepass statt Personalausweis, 90 Tage ohne Visum, strenge Medikamenten-Regeln. Alles Wichtige mit Quellen, Stand 11/2026.]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[einreise dubai,einreise dubai für deutsche,einreise dubai visum,einreise dubai mit personalausweis,dubai einfuhrbestimmungen medikamente]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_redaktionsplan_nr</wp:meta_key><wp:meta_value><![CDATA[10]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_beitragsbild_vorschlag</wp:meta_key><wp:meta_value><![CDATA[dubai-skyline-wolkenkratzer-abendlicht.webp | ALT: Wolkenkratzer und Stadtlichter von Dubai am Abend über dem Wasser | Mediathek-ID 2746]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_thumbnail_id</wp:meta_key><wp:meta_value><![CDATA[2746]]></wp:meta_value></wp:postmeta>
+	</item>
+	<item>
+		<title><![CDATA[Was kostet ein Dubai-Urlaub? Kostenfaktoren, Spartipps und versteckte Ausgaben]]></title>
+		<dc:creator><![CDATA[emre-koese]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<p>Wie hoch deine Dubai-Urlaub-Kosten ausfallen, hängt vor allem von vier Dingen ab: Reisezeit, Lage und Kategorie des Hotels, Verpflegung und davon, wie viel du vor Ort unternimmst. Dazu kommen Ausgaben, die viele erst im Hotel bemerken, zum Beispiel der Tourism Dirham pro Zimmer und Nacht und die hohen Preise für Alkohol. Feste Preise nennen wir hier bewusst nicht, weil sie sich täglich ändern. Aktuelle Angebote siehst du live in unserer <a href="https://haydiweg.de/buchen/">Online-Buchung</a>.</p>
+<p>Wer die Kostenfaktoren kennt, kann gezielt sparen, ohne auf das zu verzichten, was ihm wichtig ist. Genau darum geht es in diesem Beitrag.</p>
+<p>Bitte beachte vorab: Das Auswärtige Amt rät derzeit von nicht notwendigen Reisen in die Vereinigten Arabischen Emirate ab (Stand 05.11.2026). Vor jeder Buchung lohnt deshalb ein Blick auf die aktuellen Hinweise. Dazu mehr im Abschnitt zur Stornierung.</p>
+<p><strong>Das Wichtigste in Kürze</strong></p>
+<ul>
+<li>Der größte Hebel ist die Reisezeit: Die Wintermonate und die Feiertage sind am stärksten gefragt.</li>
+<li>Strandlage kostet mehr als Stadtlage. Ein Hotel nahe der Metro spart Taxikosten.</li>
+<li>All Inclusive ist in Dubai seltener als in der Türkei oder in Ägypten, und Alkohol ist teuer.</li>
+<li>Pro Zimmer und Nacht kommt in Dubai der Tourism Dirham von 7 bis 20 Dirham hinzu (Stand August 2026).</li>
+<li>Eine Pauschalreise bündelt Flug, Hotel und Transfer und gibt dir mehr Rechte bei Störungen.</li>
+</ul>
+<h2>Dubai Urlaub Kosten: Die wichtigsten Faktoren im Überblick</h2>
+<table>
+<thead>
+<tr>
+<th>Kostenfaktor</th>
+<th>Treibt den Preis nach oben</th>
+<th>Hält den Preis eher niedrig</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reisezeit</td>
+<td>Weihnachten, Silvester, Schulferien im Winter</td>
+<td>Spätherbst, Frühjahr, Sommer (sehr heiß)</td>
+</tr>
+<tr>
+<td>Flug</td>
+<td>Kurzfristig, Wunschtermin ohne Flexibilität</td>
+<td>Flexibler Abflughafen und Reisetag</td>
+</tr>
+<tr>
+<td>Hotellage</td>
+<td>Direkt am Strand, Palm Jumeirah, Marina</td>
+<td>Stadtlage mit Metro-Anschluss</td>
+</tr>
+<tr>
+<td>Hotelkategorie</td>
+<td>Luxusresort, Meerblick, Suite</td>
+<td>Solides Mittelklassehotel</td>
+</tr>
+<tr>
+<td>Verpflegung</td>
+<td>All Inclusive in Strandresorts, Alkohol</td>
+<td>Frühstück oder Halbpension, Essen in einfachen Lokalen</td>
+</tr>
+<tr>
+<td>Aktivitäten</td>
+<td>Viele bezahlte Attraktionen und Touren</td>
+<td>Strand, Souks, Spaziergänge, Abra-Fahrt</td>
+</tr>
+</tbody>
+</table>
+<h2>Reisezeit: der größte Hebel für die Kosten</h2>
+<p>Dubai hat seine Hauptsaison im Winter, wenn es mild ist. Dann ist die Nachfrage hoch, besonders rund um Weihnachten, Silvester und in den Schulferien. Wer in dieser Zeit reist, zahlt meist deutlich mehr als im Spätherbst oder im späten Frühjahr. Wie sich das Wetter von Dezember bis März entwickelt, erklären wir in Dubai im Winter: Wetter und Baden.</p>
+<p>Im Sommer sind Hotels oft günstiger. Dafür liegen die mittleren Tageshöchstwerte laut den Klimanormalwerten der WMO bei rund 40 bis 42 °C. Draußen verbringst du dann kaum Zeit, und das Geld fließt schnell in Indoor-Attraktionen. Für einen klassischen Bade- und Stadturlaub ist der Sommer deshalb nur bedingt günstiger.</p>
+<p>Der Fastenmonat Ramadan (2027 voraussichtlich ab dem 8. Februar, [PRÜFEN: offizieller Beginn erst nach Mondsichtung]) kann sich ebenfalls auf Angebote auswirken. Für manche Reisende ist er eine ruhigere Alternative. Andere stört, dass Restaurants tagsüber eingeschränkt öffnen.</p>
+<h2>Flug und Hotel: wo das meiste Geld hingeht</h2>
+<h3>Flug</h3>
+<p>Ein großer Teil des Reisepreises ist der Flug. Direktflüge sind bequemer, Verbindungen mit Umstieg oft günstiger. Wer beim Abflughafen und beim Reisetag flexibel ist, findet eher ein gutes Angebot. Bei einer Pauschalreise sind Flug, Hotel und meist auch der Transfer im Preis enthalten.</p>
+<h3>Lage des Hotels</h3>
+<p>Strandhotels an der Dubai Marina, in Jumeirah oder auf der Palm Jumeirah kosten meist mehr als Hotels in der Stadt. Ein Stadthotel in Deira, Bur Dubai oder Downtown kann günstiger sein. Dafür fährst du zum Strand. Liegt das Hotel nahe einer Metrostation, sparst du auf Dauer Taxikosten.</p>
+<p>Eine Alternative ist das Nachbaremirat Ras Al Khaimah. Laut unserer <a href="https://haydiweg.de/urlaubsziele/dubai-urlaub-buchen/">Zielgebietsseite Dubai und Emirate</a> sind Ras Al Khaimah und Fujairah im Schnitt günstiger als Dubai. Dafür liegen sie weiter von den Sehenswürdigkeiten entfernt.</p>
+<h3>Kategorie und Zimmer</h3>
+<p>Zwischen einem soliden Mittelklassehotel und einem Luxusresort liegen große Preisunterschiede. Auch innerhalb eines Hotels machen Meerblick, Club-Etage oder Suite viel aus. Frag dich ehrlich, wie viel Zeit du im Hotel verbringst. Wer viel unterwegs ist, braucht selten das teuerste Zimmer.</p>
+<h2>Verpflegung und Essen: Was kostet Essen in Dubai?</h2>
+<p>Beim Thema Essen in Dubai ist die Spannweite enorm. Von einfachen Imbissen mit libanesischer, indischer oder pakistanischer Küche bis zum Restaurant im Hotel ist alles dabei. Wer gern auswärts isst, kann in einfachen Lokalen günstig essen. Im Hotel und in angesagten Restaurants zahlst du deutlich mehr.</p>
+<p>All Inclusive ist in Dubai seltener als in der Türkei oder in Ägypten. In der Stadt sind Frühstück oder Halbpension üblich, weil viele Gäste mittags und abends unterwegs sind. Einen ausführlichen Vergleich der Verpflegungsarten findest du auf unserer <a href="https://haydiweg.de/urlaubsziele/dubai-urlaub-buchen/">Zielgebietsseite Dubai</a>.</p>
+<h3>Alkohol: der unterschätzte Kostenpunkt</h3>
+<p>Alkohol gibt es laut Auswärtigem Amt nur in lizenzierten Hotels, Restaurants, Bars und Geschäften. Die Preise sind spürbar höher als in Deutschland. Im Nachbaremirat Sharjah gilt ein vollständiges Alkoholverbot. Wer abends gern Wein oder Cocktails trinkt, sollte das bei der Wahl der Verpflegung einplanen. Bei All Inclusive lohnt der Blick, welche Getränke enthalten sind.</p>
+<h2>Versteckte Ausgaben: Was viele erst vor Ort merken</h2>
+<h3>Tourism Dirham</h3>
+<p>Hotels in Dubai erheben eine Übernachtungsabgabe, den sogenannten Tourism Dirham. Laut dem offiziellen Regierungsportal der VAE (u.ae, Stand 27.08.2026) beträgt sie je nach Hotelkategorie 7 bis 20 Dirham pro Zimmer und Nacht, für höchstens 30 aufeinanderfolgende Nächte. Die Abgabe gilt pro Zimmer, nicht pro Person.</p>
+<p>Wichtig: Der Exekutivrat von Dubai hat am 21.05.2026 im Rahmen eines Entlastungspakets angekündigt, registrierte Betriebe vorübergehend von der Erhebung des Tourism Dirham zu befreien. Ein Enddatum wurde nicht genannt, das Paket soll über 3 bis 12 Monate laufen [PRÜFEN: Gilt die Befreiung noch im Januar 2027?]. Ob und wie viel du zahlst, steht in der Regel in den Hinweisen zur Buchung oder auf der Hotelrechnung. Meist wird der Betrag vor Ort bezahlt.</p>
+<h3>Zuschläge auf Hotelrechnungen</h3>
+<p>Auf Rechnungen in Dubai tauchen oft weitere Posten auf, etwa eine Service Charge, eine Gebühr der Stadtverwaltung und die Mehrwertsteuer [PRÜFEN: keine amtliche Quelle zu Höhe und Berechnung abgerufen]. Bei Pauschalreisen sind die Zimmerpreise in der Regel bereits inklusive. Für Extras wie Restaurant, Spa oder Minibar gilt das nicht.</p>
+<h3>Weitere kleine Posten</h3>
+<ul>
+<li><strong>Mobiles Internet:</strong> Die VAE gehören nicht zur EU. Die EU-Roamingregeln gelten deshalb nicht. Prüfe vorab deinen Tarif oder nutze eine lokale Daten-Option.</li>
+<li><strong>Kartenzahlung:</strong> Karten werden fast überall akzeptiert. Je nach Bank fallen aber Gebühren für Zahlungen in Fremdwährung an. Der Dirham ist an den US-Dollar gekoppelt, der Kurs zum Euro schwankt also mit dem Dollar.</li>
+<li><strong>Strandclubs und Liegen:</strong> An öffentlichen Stränden ist vieles kostenlos. In Beach Clubs zahlst du für Liegen oft extra.</li>
+<li><strong>Trinkgeld:</strong> Es ist freiwillig. Ein paar Dirham für Hotelpersonal und Gepäckträger sind üblich.</li>
+<li><strong>Silvester und Feiertage:</strong> Manche Hotels verlangen für Gala-Dinner an Festtagen einen Aufpreis. Das steht meist in der Hotelbeschreibung.</li>
+</ul>
+<h2>Aktivitäten: Wie teuer sind Ausflüge?</h2>
+<p>Die bekannten Attraktionen wie die Aussichtsplattform im Burj Khalifa, Wasserparks oder eine Wüstensafari kosten Eintritt. Wer viele davon plant, merkt das schnell im Budget. Vergleiche die Preise auf den offiziellen Seiten der Anbieter und buche nur bei seriösen Veranstaltern.</p>
+<p>Viele schöne Erlebnisse kosten dagegen wenig oder nichts: ein Spaziergang durch das Viertel Al Fahidi, die Souks, ein Abend an der Marina oder die Überfahrt mit dem Abra-Boot über den Dubai Creek. Gerade bei einer Woche reicht oft eine Mischung aus zwei bis drei bezahlten Highlights und viel freier Zeit.</p>
+<h2>Dubai günstig: Spartipps, die wirklich etwas bringen</h2>
+<ol>
+<li><strong>Reisezeit verschieben:</strong> Spätherbst oder Frühjahr statt Feiertage. Das ist meist der größte Hebel.</li>
+<li><strong>Pauschalreise statt Einzelbuchung:</strong> Flug, Hotel und Transfer aus einer Hand. Dazu kommen die Rechte nach dem Pauschalreiserecht.</li>
+<li><strong>Stadtlage mit Metro:</strong> Ein Hotel in Metronähe statt Strandresort, wenn du ohnehin viel unterwegs bist.</li>
+<li><strong>Frühstück oder Halbpension:</strong> Mittags draußen essen, abends im Hotel oder umgekehrt.</li>
+<li><strong>Alkohol bewusst einplanen:</strong> Lieber vorher klären, was enthalten ist, als vor Ort überrascht zu werden.</li>
+<li><strong>Nachbaremirat prüfen:</strong> Ras Al Khaimah als ruhigere und oft günstigere Alternative mit Tagesausflug nach Dubai.</li>
+<li><strong>Online buchen:</strong> Für berechtigte Online-Buchungen über unsere Buchungsstrecke gibt es bis zu 1.000 € Cashback gemäß den <a href="https://haydiweg.de/cashback/">Teilnahmebedingungen</a>.</li>
+</ol>
+<h2>Stornierung: Was gilt bei einer Pauschalreise?</h2>
+<p>Viele suchen nach einem Dubai-Urlaub, den sie kostenlos stornieren können. Das hängt vom gebuchten Tarif ab. Einige Veranstalter bieten flexible Tarife mit kostenloser Umbuchung oder Stornierung bis zu einem Stichtag an, oft gegen Aufpreis.</p>
+<p>Unabhängig davon gilt § 651h BGB: Du kannst vor Reisebeginn jederzeit zurücktreten. Der Veranstalter darf dann eine angemessene Entschädigung verlangen. Keine Entschädigung darf er verlangen, wenn am Zielort „unvermeidbare, außergewöhnliche Umstände“ die Reise erheblich beeinträchtigen. Ob das zutrifft, wird im Einzelfall entschieden. Angesichts der aktuellen Hinweise des Auswärtigen Amts lohnt es sich, auf die Stornobedingungen zu achten. Was du zu Pass, Visum und Medikamenten wissen musst, steht in unserem Beitrag zur Einreise nach Dubai.</p>
+<h2>Unsere ehrliche Empfehlung: Für wen lohnt sich Dubai?</h2>
+<p><strong>Dubai lohnt sich</strong>, wenn du im Winter Sonne mit Stadt, Shopping, Wüste und Strand verbinden möchtest und bereit bist, für Lage und Komfort etwas mehr auszugeben. Für Kurzurlaube von fünf bis sieben Tagen funktioniert das gut.</p>
+<p><strong>Weniger passend</strong> ist Dubai, wenn du einen reinen All-Inclusive-Badeurlaub mit kleinem Budget suchst. Dann bieten andere Ziele oft mehr für dein Geld. Einen Vergleich findest du in unserem Ratgeber <a href="https://haydiweg.de/reise-blog/guenstige-reiseziele/">Günstige Reiseziele</a>.</p>
+<h2>Häufige Fragen</h2>
+<h3>Was kostet eine Woche Dubai?</h3>
+<p>Das hängt vor allem von Reisezeit, Hotellage, Kategorie und Verpflegung ab. Eine Woche im Januar in einem Strandhotel kostet ein Vielfaches einer Woche im Spätherbst in einem Stadthotel. Aktuelle Preise für deinen Termin siehst du in unserer Online-Buchung.</p>
+<h3>Was kostet Essen in Dubai?</h3>
+<p>Die Spanne ist groß. In einfachen Lokalen mit libanesischer oder indischer Küche isst du günstig, in Hotelrestaurants deutlich teurer. Alkohol ist der größte Preistreiber beim Essen.</p>
+<h3>Was ist der Dubai Tourism Dirham?</h3>
+<p>Der Tourism Dirham ist eine Übernachtungsabgabe der Hotels in Dubai. Laut u.ae beträgt er 7 bis 20 Dirham pro Zimmer und Nacht, für höchstens 30 Nächte. Wegen einer befristeten Befreiung, die im Mai 2026 angekündigt wurde, solltest du prüfen, ob er zu deinem Reisetermin erhoben wird.</p>
+<h3>Kann man Dubai günstig bereisen?</h3>
+<p>Ja, mit Abstrichen. Reise außerhalb der Feiertage, wähle ein Stadthotel nahe der Metro und plane Alkohol und bezahlte Attraktionen bewusst ein. Auch Ras Al Khaimah kann eine günstigere Alternative sein.</p>
+<h3>Kann ich einen Dubai-Urlaub kostenlos stornieren?</h3>
+<p>Nur wenn dein Tarif das vorsieht oder wenn am Zielort unvermeidbare, außergewöhnliche Umstände die Reise erheblich beeinträchtigen (§ 651h Abs. 3 BGB). Sonst darf der Veranstalter eine angemessene Entschädigung verlangen. Achte deshalb vor der Buchung auf die Stornobedingungen.</p>
+<h2>Dubai-Paket aus Flug und Hotel vergleichen</h2>
+<p>Du möchtest wissen, was dein Wunschtermin in Dubai kostet? In unserer <a href="https://haydiweg.de/buchen/">Online-Buchung</a> vergleichst du Pauschalreisen verschiedener Veranstalter mit Live-Preisen. Für berechtigte Online-Buchungen gibt es bis zu 1.000 € Cashback gemäß den Teilnahmebedingungen.</p>
+<p>Du möchtest lieber gemeinsam abwägen, welche Lage und Verpflegung zu deinem Budget passt? <a href="https://wa.me/4915792326450?text=Hallo%20haydi-weg%2C%20ich%20m%C3%B6chte%20ein%20Dubai-Paket%20aus%20Flug%20und%20Hotel%20vergleichen.%20K%C3%B6nnt%20ihr%20mich%20beraten%3F" rel="noopener" target="_blank">Schreib uns per WhatsApp</a> oder besuche uns über die <a href="https://haydiweg.de/kontakt/">Kontaktseite</a>.</p>
+<h2>Quellen</h2>
+<ul>
+<li>Where to stay in the UAE (Tourism Dirham), The Official Portal of the UAE Government (u.ae), <a href="https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae" rel="noopener" target="_blank">https://u.ae/en/information-and-services/visiting-and-exploring-the-uae/Arrival-and-accommodation/where-to-stay-in-the-uae</a> (Stand 27.08.2026), abgerufen am 05.11.2026</li>
+<li>Hamdan bin Mohammed approves second, larger AED1.5 billion economic incentives package, Government of Dubai – Protocol Department, <a href="https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-mohammed-approves-second-larger-aed15-billion-economic-incentives-package/" rel="noopener" target="_blank">https://www.protocol.dubai.ae/en/media-listing/news-events/hamdan-bin-mohammed-approves-second-larger-aed15-billion-economic-incentives-package/</a> (21.05.2026), abgerufen am 05.11.2026</li>
+<li>Vereinigte Arabische Emirate: Reise- und Sicherheitshinweise, Auswärtiges Amt, <a href="https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332" rel="noopener" target="_blank">https://www.auswaertiges-amt.de/de/service/laender/vereinigtearabischeemirate-node/vereinigtearabischeemiratesicherheit/202332</a> (Stand 05.11.2026), abgerufen am 05.11.2026</li>
+<li>World Meteorological Organization Climate Normals 1991–2020, Station Dubai International Airport (41194), NOAA NCEI, <a href="https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv" rel="noopener" target="_blank">https://www.ncei.noaa.gov/data/oceans/archive/arc0216/0253808/1.1/data/0-data/Region-2-WMO-Normals-9120/UAE/CSV/DubaiIntlAirport_41194.csv</a>, abgerufen am 05.11.2026</li>
+<li>When does Ramadan 2027 begin?, Gulf News, <a href="https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523" rel="noopener" target="_blank">https://gulfnews.com/uae/ramadan/when-does-ramadan-2027-begin-everything-you-need-to-know-1.500630523</a>, abgerufen am 05.11.2026</li>
+<li>§ 651h BGB – Rücktritt vor Reisebeginn, Bundesministerium der Justiz, <a href="https://www.gesetze-im-internet.de/bgb/__651h.html" rel="noopener" target="_blank">https://www.gesetze-im-internet.de/bgb/__651h.html</a>, abgerufen am 05.11.2026</li>
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Was kostet eine Woche Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Das hängt vor allem von Reisezeit, Hotellage, Kategorie und Verpflegung ab. Eine Woche im Januar in einem Strandhotel kostet ein Vielfaches einer Woche im Spätherbst in einem Stadthotel. Aktuelle Preise für deinen Termin siehst du in unserer Online-Buchung."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was kostet Essen in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die Spanne ist groß. In einfachen Lokalen mit libanesischer oder indischer Küche isst du günstig, in Hotelrestaurants deutlich teurer. Alkohol ist der größte Preistreiber beim Essen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Was ist der Dubai Tourism Dirham?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Der Tourism Dirham ist eine Übernachtungsabgabe der Hotels in Dubai. Laut u.ae beträgt er 7 bis 20 Dirham pro Zimmer und Nacht, für höchstens 30 Nächte. Wegen einer befristeten Befreiung, die im Mai 2026 angekündigt wurde, solltest du prüfen, ob er zu deinem Reisetermin erhoben wird."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann man Dubai günstig bereisen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, mit Abstrichen. Reise außerhalb der Feiertage, wähle ein Stadthotel nahe der Metro und plane Alkohol und bezahlte Attraktionen bewusst ein. Auch Ras Al Khaimah kann eine günstigere Alternative sein."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann ich einen Dubai-Urlaub kostenlos stornieren?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nur wenn dein Tarif das vorsieht oder wenn am Zielort unvermeidbare, außergewöhnliche Umstände die Reise erheblich beeinträchtigen (§ 651h Abs. 3 BGB). Sonst darf der Veranstalter eine angemessene Entschädigung verlangen. Achte deshalb vor der Buchung auf die Stornobedingungen."
+      }
+    }
+  ]
+}
+</script>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Dubai Urlaub Kosten verstehen: Reisezeit, Hotellage, Verpflegung, Tourism Dirham und Alkohol. So planst du dein Budget und sparst an der richtigen Stelle.]]></excerpt:encoded>
+		<wp:post_date><![CDATA[2027-12-31 07:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dubai-urlaub-kosten]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="dubai"><![CDATA[Dubai]]></category>
+		<category domain="post_tag" nicename="reisekosten"><![CDATA[Reisekosten]]></category>
+		<category domain="post_tag" nicename="vereinigte-arabische-emirate"><![CDATA[Vereinigte Arabische Emirate]]></category>
+		<category domain="post_tag" nicename="pauschalreise"><![CDATA[Pauschalreise]]></category>
+		<wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Dubai Urlaub Kosten: Faktoren und Spartipps | haydi-weg]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Dubai Urlaub Kosten verstehen: Reisezeit, Hotellage, Verpflegung, Tourism Dirham und Alkohol. So planst du dein Budget und sparst an der richtigen Stelle.]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[dubai urlaub kosten,dubai urlaub kosten 1 woche,dubai urlaub kosten essen,dubai tourism dirham,dubai günstig]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_redaktionsplan_nr</wp:meta_key><wp:meta_value><![CDATA[27]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_hw_beitragsbild_vorschlag</wp:meta_key><wp:meta_value><![CDATA[dubai-wolkenkratzer-und-boote.webp | ALT: Wolkenkratzer in Dubai mit vielen Booten im Vordergrund auf dem Wasser | Mediathek-ID 2745]]></wp:meta_value></wp:postmeta>
+		<wp:postmeta><wp:meta_key>_thumbnail_id</wp:meta_key><wp:meta_value><![CDATA[2745]]></wp:meta_value></wp:postmeta>
+	</item>
+</channel>
+</rss>
