@@ -32,9 +32,10 @@ const cardByTitle = (page, re) => page.locator('#panels section.card').filter({ 
   // T04 Hooks
   const hk = cardByTitle(page, /Hook-Studio/); const hookRows = await hk.locator('table tbody tr').count(); const winRows = await hk.locator('table tbody tr.win').count();
   const winBefore = await hk.locator('.note').first().textContent();
-  await hk.locator('table tbody tr').nth(2).locator('input[type=radio]').check(); await page.waitForTimeout(300);
+  const PICK = await page.evaluate(() => (V['H03'].hw.hooks.findIndex(h => h.winner) + 1) % 5);
+  await hk.locator('table tbody tr').nth(PICK).locator('input[type=radio]').check(); await page.waitForTimeout(300);
   const hk2 = cardByTitle(page, /Hook-Studio/); const winAfter = await hk2.locator('.note').first().textContent(); const winIdx = await page.evaluate(() => S['H03'].hw.hookPick);
-  check('T04', 'Hook-Studio: 5 bewertete Hooks, Sieger wechselbar und gespeichert', hookRows === 5 && winRows === 1 && winIdx === 2 && winBefore !== winAfter, `rows=${hookRows} pick=${winIdx}`);
+  check('T04', 'Hook-Studio: 5 bewertete Hooks, Sieger wechselbar und gespeichert', hookRows === 5 && winRows === 1 && winIdx === PICK && winBefore !== winAfter, `rows=${hookRows} pick=${winIdx}`);
   const scoresOk = await page.evaluate(() => DATA.filter(v => v.plan === 'main').every(v => v.hw.hooks.length === 5 && v.hw.hooks.every(h => Object.keys(h.scores).length === 7 && h.total > 0)));
   check('T04b', '195 Hooks mit je 7 Kriterien bewertet', scoresOk, '39 × 5 = 195');
   // T05 Cover
@@ -78,7 +79,7 @@ const cardByTitle = (page, re) => page.locator('#panels section.card').filter({ 
   await page.evaluate(() => { S['H03'].hw.notes = 'Testnotiz 123'; touch('H03'); }); await page.waitForTimeout(800);
   await page.reload(); await page.waitForSelector('#list .item'); await page.waitForTimeout(800);
   const persisted = await page.evaluate(() => ({ cur: CUR, vo: S['H03'] && S['H03'].vo && S['H03'].vo.name, notes: S['H03'] && S['H03'].hw && S['H03'].hw.notes, pick: S['H03'] && S['H03'].hw && S['H03'].hw.hookPick, have: have.has('H03|vo') }));
-  check('T13', 'Speicherung: Audio, Notizen und Hook-Wahl überleben das Neuladen (localStorage + IndexedDB)', persisted.vo === 'vo_test.wav' && persisted.notes === 'Testnotiz 123' && persisted.pick === 2 && persisted.have, JSON.stringify(persisted));
+  check('T13', 'Speicherung: Audio, Notizen und Hook-Wahl überleben das Neuladen (localStorage + IndexedDB)', persisted.vo === 'vo_test.wav' && persisted.notes === 'Testnotiz 123' && persisted.pick === PICK && persisted.have, JSON.stringify(persisted));
   // T10 MP3
   await page.click('#list .item[data-id="H04"]'); await page.waitForTimeout(500);
   await cardByTitle(page, /Voiceover – damit/).locator('input[type=file]').first().setInputFiles(MP3); await page.waitForTimeout(3000);
