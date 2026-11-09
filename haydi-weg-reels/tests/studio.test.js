@@ -1,4 +1,4 @@
-/* Playwright-Testsuite für das haydi-weg Reel-Studio v39 (Hauptplan v3)
+/* Playwright-Testsuite für das haydi-weg Reel-Studio v39 (Hauptplan v4 · Final-Audit)
    Aufruf: node studio.test.js [pfad-zur-html] [pfad-zur-test-wav] [pfad-zur-test-mp3]
    Erzeugt testergebnis.json neben dieser Datei. Läuft headless in Chromium. */
 const { chromium } = require('playwright');
@@ -106,7 +106,7 @@ const cardByTitle = (page, re) => page.locator('#panels section.card').filter({ 
   await cardByTitle(page, /Export/).locator('input[data-hw="import-main"]').setInputFiles(badJson); await page.waitForTimeout(400);
   check('T15b', 'Ungültige Import-Datei wird abgewiesen', /Kein Hauptplan-Format|nicht lesbar/.test(await page.locator('#toast').textContent()), await page.locator('#toast').textContent());
   // T16 Import Hauptplan-JSON (geänderter Titel) + Reset
-  const src = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'reels_hauptplan_v3.json'), 'utf8')); src.reels[3].title = 'TEST-IMPORT Matterhorn'; const impPath = path.join(require('os').tmpdir(), 'hw_import.json'); fs.writeFileSync(impPath, JSON.stringify(src));
+  const src = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'reels_hauptplan_v4.json'), 'utf8')); src.reels[3].title = 'TEST-IMPORT Matterhorn'; const impPath = path.join(require('os').tmpdir(), 'hw_import.json'); fs.writeFileSync(impPath, JSON.stringify(src));
   await cardByTitle(page, /Export/).locator('input[data-hw="import-main"]').setInputFiles(impPath); await page.waitForTimeout(1200);
   const impTitle = await page.evaluate(() => V['H04'].title); const voKept = await page.evaluate(() => S['H04'].vo && S['H04'].vo.name);
   check('T16', 'Hauptplan-JSON-Import ersetzt Inhalte, behält Studio-Zustand (Audio) je Reel-ID', impTitle === 'TEST-IMPORT Matterhorn' && voKept === 'vo_test.mp3', `title=${impTitle} vo=${voKept}`);
@@ -129,7 +129,7 @@ const cardByTitle = (page, re) => page.locator('#panels section.card').filter({ 
   check('T21b', 'Materialstatus einer Schlüsselaufnahme wird gespeichert', (await page.evaluate(() => S['H03'].hw.ksChk && S['H03'].hw.ksChk[0])) === 'geprüft & lizenziert');
   // T22 Hooks mit 4 Komponenten
   const hk3 = cardByTitle(page, /Hook-Studio/); const hkHead = (await hk3.locator('table thead th').allTextContents()).join('|');
-  const hk4 = await page.evaluate(() => { const hs = DATA.filter(v => v.plan === 'main').flatMap(v => v.hw.hooks); const types = ['Visueller Schock', 'Neugierlücke', 'Überraschende Behauptung', 'Emotionaler Konflikt', 'Erwartung gegen Realität']; return { n: hs.length, comp: hs.every(h => h.spoken && h.first_frame && h.overlay && h.question), types: DATA.filter(v => v.plan === 'main').every(v => v.hw.hooks.map(h => h.typ).join('|') === types.join('|')) }; });
+  const hk4 = await page.evaluate(() => { const hs = DATA.filter(v => v.plan === 'main').flatMap(v => v.hw.hooks); const types = ['Visueller Schock', 'Neugierlücke', 'Überraschende Behauptung', 'Erwartung gegen Realität', 'Emotionaler WOW-Moment']; return { n: hs.length, comp: hs.every(h => h.spoken && h.first_frame && h.overlay && h.question), types: DATA.filter(v => v.plan === 'main').every(v => v.hw.hooks.map(h => h.typ).join('|') === types.join('|')) }; });
   await hk3.locator('table tbody tr').first().locator('button', { hasText: 'Overlay' }).click(); await page.waitForTimeout(300);
   const ovNow = await page.evaluate(() => S['H03'].hook); const ovExp = await page.evaluate(() => V['H03'].hw.hooks[0].overlay);
   check('T22', 'Hooks: 195 mit Bild + Satz + Overlay + Frage, 5 feste Typen, Overlay ins Video übernehmbar', /Text-Overlay/.test(hkHead) && /Offene Frage/.test(hkHead) && hk4.n === 195 && hk4.comp && hk4.types && ovNow === ovExp, JSON.stringify(hk4));
@@ -138,8 +138,11 @@ const cardByTitle = (page, re) => page.locator('#panels section.card').filter({ 
   check('T23', 'Plan v3: Strukturen A–E, nie zweimal hintereinander gleich, Längen 22–42 s variabel, 4 Themenwelten, Freitag „Reisewissen“', div.structures === 'ABCDE' && !div.consecutive && div.sd >= 3.5 && div.min >= 16 && div.max <= 48 && div.tw === 4 && div.rw === 'Reisewissen', JSON.stringify(div));
   // T24 Studio-Zustand (Schema v39)
   const dl5 = await Promise.all([page.waitForEvent('download', { timeout: 10000 }).catch(() => null), cardByTitle(page, /Export/).locator('button', { hasText: 'Studio-Zustand sichern' }).click()]).then(a => a[0]);
-  let stOk = false; if (dl5) { const jj = JSON.parse(fs.readFileSync(await dl5.path(), 'utf8')); stOk = jj.meta && jj.meta.schema === 'reelstudio_state_v39'; }
+  let stOk = false; if (dl5) { const jj = JSON.parse(fs.readFileSync(await dl5.path(), 'utf8')); stOk = jj.meta && /^reelstudio_state_v(39|40)$/.test(jj.meta.schema); }
   check('T24', 'Studio-Zustand als JSON (Schema v39) exportierbar', stOk, dl5 ? dl5.suggestedFilename() : 'kein Download');
+  // T25 Scorecard-Gewichte aus den Daten (Final-Audit 25/25/20/15/5/10)
+  const wts = await page.evaluate(() => ({ w: HW.W, d: V['H03'].hw.scorecard.weights, tot: hwTotal(hwScores(V['H03'])), ref: V['H03'].hw.scorecard.total }));
+  check('T25', 'Qualitäts-Studio rechnet mit den Audit-Gewichten aus den Daten', JSON.stringify(wts.w) === JSON.stringify(wts.d) && Math.abs(wts.tot - wts.ref) < 0.011, JSON.stringify(wts));
   // T17 Specials-Regression
   await page.click('#list .chip[data-plan="special"]'); await page.waitForTimeout(200); const firstSp = await page.locator('#list .item').first().getAttribute('data-id'); await page.locator('#list .item').first().click(); await page.waitForTimeout(600);
   const spCards = await page.locator('#panels section.card').count(); const spHw = await page.locator('#panels section.card h2', { hasText: 'Hook-Studio' }).count();
