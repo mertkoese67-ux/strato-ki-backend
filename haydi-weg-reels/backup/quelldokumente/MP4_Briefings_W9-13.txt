@@ -1,0 +1,928 @@
+
+# Briefings Woche 9–13 (Reels 25–39)
+Jedes Briefing zeigt drei Noten: die Redaktionsnote, eine unabhängige Zweitbewertung (ohne Kenntnis der Redaktionsnoten erstellt) und den Konsens als Mittelwert. Kein Reel erreicht im Konsens 8/10 – deshalb hat jedes Reel eine konkrete Nacharbeit; was bereits eingearbeitet ist, steht unter „Umgesetzt“.
+
+## Woche 9 · 04.01.–08.01.2027
+
+### Reel 25 · Mo 04.01.2027 · Fakt oder Fake? #9
+Die Pyramiden sahen früher anders aus · Ägypten (Gizeh) · Cluster: Reisegeschichte · Redaktion 8,30 · Zweitbewertung 6,35 · Konsens 7,33 / 10
+
+| Feld | Inhalt |
+| Thema | Die Große Pyramide war mit poliertem weißem Kalkstein aus Tura verkleidet. Ein Erdbeben 1303 lockerte viele Verkleidungssteine; sie wurden später in Kairo verbaut, weitere im 19. Jahrhundert für die Alabaster-Moschee. Heute sieht man den gestuften Kern. An der Spitze der Chephren-Pyramide sind Reste der Verkleidung erhalten. |
+| DACH-Bedürfnis | Ägypten ist das wichtigste Winterziel; Gizeh steht bei vielen Hurghada-Urlaubern als Ausflug auf dem Plan. |
+| Emotion | Staunen |
+| Payoff | Fake: Die Große Pyramide und die Chephren-Pyramide trugen eine glatte Hülle aus poliertem weißem Kalkstein. Was wir heute sehen, ist meist der gestufte Kern – den Beweis zeigt die Spitze der Chephren-Pyramide. |
+| Länge · Aufwand | ca. 32–34 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Heute gestufter Stein – früher glatt und weiß. | 8 | Klar, aber ohne Ort. |
+| Überraschung | Die großen Pyramiden von Gizeh waren früher glatt und weiß. | 7 | Viral oft erzählt. |
+| Mystery | Schau dir die Spitze dieser Pyramide an. Sie verrät, wie Gizeh früher aussah. | 9 | Lenkt den Blick, macht neugierig. |
+| ★ Frage | Fakt oder Fake: Die Pyramiden von Gizeh sahen schon immer so aus? | 9 | Serienfrage mit Fake-Auflösung; Bildbeweis folgt. |
+| Mini-Story | 1303 bebt in Ägypten die Erde. Danach verschwindet die weiße Hülle der Pyramiden Stück für Stück. | 7 | Gute Geschichte, zu spät für die Frage. |
+
+Sieger: „Fakt oder Fake: Die Pyramiden von Gizeh sahen schon immer so aus?“ – Die Frage lenkt den Blick auf das Bild – die Spitze der Chephren-Pyramide liefert den sichtbaren Gegenbeweis, bevor die Erklärung kommt.
+Startbild 0–2 s: Zoom auf die glatte Spitze der Chephren-Pyramide. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 32–34 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook, Zoom auf die Chephren-Spitze.
+
+- Rätsel (3–10 s): „Schau genau hin: Warum ist nur ganz oben die Oberfläche glatt?“
+
+- Auflösung (10–17 s): „Fake. Die Große Pyramide und die Chephren-Pyramide waren mit poliertem weißem Kalkstein verkleidet – oben siehst du den Rest.“
+
+- Wendung (17–25 s): „1303 lockerte ein Erdbeben viele Verkleidungssteine. Sie wurden später in Kairo verbaut.“
+
+- Einordnung (25–30 s): „Was du heute siehst, ist meist der gestufte Kern.“
+
+- Schluss (30–34 s): „Nächsten Montag: Liegt der größte Wasserfall Europas in der Schweiz?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Früher glatt und weiß | Pyramiden-Totale, „weiß“ gelb |
+| 2 | Fakt oder Fake #9 | Chephren-Spitze im Detail |
+| 3 | Das verrät die Spitze | Pyramiden aus der Luft |
+
+Warum folgen: Montags „Fakt oder Fake?“ – und beim nächsten Ausflug siehst du mehr.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Pyramiden-Totale, Overlay „Fakt oder Fake?“. | Zoom auf Chephren-Spitze, Text „Siehst du den Unterschied?“ |
+| Overlay | Sahen sie immer so aus? | Siehst du die Spitze? |
+| Suchbegriffe | Pyramiden früher weiß, Pyramiden Gizeh Ausflug, Chephren Pyramide Spitze | Pyramiden weiß |
+
+Caption Instagram:
+Fakt oder Fake #9: Sahen die Pyramiden schon immer so aus? Fake – die Große Pyramide und die Chephren-Pyramide trugen eine Hülle aus poliertem Tura-Kalkstein. Ein Erdbeben 1303 lockerte die Steine, sie wurden in Kairo verbaut. Den Rest siehst du an der Chephren-Spitze. 🇪🇬
+#pyramiden #gizeh #ägypten #kairo #faktoderfake #reisewissen
+Caption TikTok: So sahen die Pyramiden aus 🇪🇬 #pyramiden #ägypten #faktoderfake
+Stock · Suche: giza pyramids aerial, great pyramids giza, pyramids timelapse · Kandidaten: Pexels 32537704 (Große Pyramiden in Gizeh); Pexels 10717893 (Pyramiden, Luft); Pexels 20284256 (Gizeh-Zeitraffer mit Chephren) · Rechte/Hürden: Clip mit gut sichtbarer Chephren-Spitze auswählen; keine KI-Rekonstruktion der weißen Pyramide ohne Kennzeichnung.
+Fakten gesichert: Verkleidung aus poliertem weißem Tura-Kalkstein; Erdbeben 1303 lockerte Steine; Wiederverwendung in Kairo, u. a. Alabaster-Moschee 19. Jh. (National Museums Scotland via Scottish Construction Now, Wikipedia) · AA: Gizeh nicht in der Teilreisewarnung (06.11.2026)
+Vor Posting prüfen: Chephren-Spitze: Quelle Wikipedia „Pyramid of Khafre“ ergänzen · Mykerinos war unten mit Granit verkleidet – nicht pauschal „alle Pyramiden waren weiß“ · Abtransport 1356 nur „überliefert“ formulieren · AA am Vortag
+Quellen: scottishconstructionnow.com · en.wikipedia.org
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 9 · Originalität 6 · Share/Save 8 · Produktion 9 → 8,30. Starkes Bild, Kernziel Ägypten; Fakt ist bekannt, der Chephren-Beweis hebt ihn. Originalität deshalb nur 6.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 5 · DACH 8 · WOW 8 · Originalität 3 · Share/Save 6 · Produktion 8 → 6,35. Stärke: Chephren-Spitze als sichtbarer Beweis, hohe Ägypten-Relevanz. Schwäche: „Pyramiden waren weiß“ ist viral ausgereizt; Auflösung schon bei Sekunde 3.
+Konsens 7,33 < 8 → Nacharbeit: Mit Chephren-Spitze als Rätsel starten („Warum ist nur die Spitze glatt?“), Auflösung später; Gizeh-Ausflugs-Tipp ergänzen. Umgesetzt in diesem Stand: Frage gedreht (Antwort Fake), Chephren-Spitze als Rätsel an den Anfang, Auflösung später; Aussage auf zwei Pyramiden begrenzt. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 26 · Mi 06.01.2027 · Was dir keiner sagt #9
+Ob dein Ballon startet, entscheidet eine Flagge · Türkei (Kappadokien) · Cluster: Mythos/Realität · Redaktion 8,55 · Zweitbewertung 7,30 · Konsens 7,93 / 10
+
+| Feld | Inhalt |
+| Thema | In Kappadokien entscheidet die türkische Luftfahrtbehörde SHGM jeden Morgen per Flagge über die Ballonstarts: Grün = Start frei, Gelb = warten, Rot = alle Flüge fallen aus, meist wegen Wind. Auch bei Grün kann der Pilot absagen; die Zahl gleichzeitiger Ballons ist behördlich begrenzt. |
+| DACH-Bedürfnis | Die Ballonfahrt ist für viele der Grund, nach Kappadokien zu reisen. Zuschauer planen klüger und sind nicht enttäuscht. |
+| Emotion | Vorbereitung, Insider-Gefühl |
+| Payoff | Grün, Gelb, Rot – die Behörde entscheidet nach Wetter. Tipp: Ballonfahrt früh im Aufenthalt einplanen, damit ein Ersatztag bleibt. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Ballonfahrt gebucht. Ob du fliegst, entscheidet morgens eine Flagge. | 9 | Spannung und Nutzen in einem Satz. |
+| Überraschung | In Kappadokien entscheidet jeden Morgen eine Behörde per Flagge, ob Ballons starten. | 8 | Gut, länger. |
+| Mystery | Grün, Gelb oder Rot – diese Farbe entscheidet über deinen Ballonflug. | 8 | Neugierig. |
+| Frage | Warum fallen in Kappadokien Ballonfahrten aus? | 7 | Suchstark, aber negativ. |
+| Mini-Story | Vier Uhr morgens, Abholung am Hotel, Kaffee am Startplatz – und dann: rote Flagge. | 8 | Starkes Szenario, aber Uhrzeit nicht belegt. |
+
+Sieger: „Ballonfahrt gebucht. Ob du fliegst, entscheidet morgens eine Flagge.“ – Der Hook verbindet Vorfreude (gebucht) mit Unsicherheit (Flagge) und löst sie mit einem echten Planungstipp.
+Startbild 0–2 s: Ballons über Feenkaminen bei Sonnenaufgang. Overlay „Grün, Gelb oder Rot?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Ballons.
+
+- System (3–12 s): Farbtafeln: „Die Luftfahrtbehörde SHGM vergibt jeden Morgen eine Flagge: Grün – Start frei. Gelb – warten. Rot – alle Flüge fallen aus.“
+
+- Grund (12–18 s): „Meist entscheidet der Wind.“
+
+- Detail (18–25 s): „Auch bei Grün darf der Pilot absagen, und wie viele Ballons gleichzeitig fahren, ist begrenzt.“
+
+- Tipp (25–31 s): „Plane die Fahrt gleich für einen der ersten Tage – dann bleibt ein Ersatztag.“
+
+- Schluss (31–35 s): „Nächsten Mittwoch: Der Filmstrand in Thailand, an dem Baden verboten ist.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Grün, Gelb oder Rot? | Ballons bei Sonnenaufgang, Farbpunkte |
+| 2 | Ballon gebucht – und dann? | Ballons am Boden vor Start |
+| 3 | Die Flaggen-Regel | Ballon-Totale über Tal |
+
+Warum folgen: Mittwochs Regeln, die deine Reiseplanung retten.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Ballon-Sonnenaufgang, drei Farbpunkte als Overlay. | Ampel-Grafik grün/gelb/rot über Ballons. |
+| Overlay | Grün, Gelb oder Rot? | Die Ballon-Ampel |
+| Suchbegriffe | Kappadokien Ballonfahrt abgesagt, Ballonfahrt Kappadokien Tipps, SHGM Flagge | Kappadokien Ballon |
+
+Caption Instagram:
+Was dir keiner sagt #9: In Kappadokien vergibt die Luftfahrtbehörde SHGM jeden Morgen eine Flagge – Grün, Gelb oder Rot. Bei Rot fallen alle Ballonfahrten aus, meist wegen Wind. Tipp: Fahrt früh im Urlaub einplanen. 🎈
+#kappadokien #cappadocia #ballonfahrt #türkei #reisetipps #wasdirkeinersagt
+Caption TikTok: Darum fällt dein Ballonflug aus 🎈 #kappadokien #ballonfahrt #türkei
+Stock · Suche: cappadocia hot air balloons sunrise, balloons over rocks sunset, balloon inflating ground · Kandidaten: Pexels 35383606 (Ballons bei Sonnenaufgang); Pexels 18156638 (Ballons über Felsen); Pexels 15173032 (fliegende Ballons) · Rechte/Hürden: Nur Clips mit Kappadokien-Angabe; keine Unfallbilder.
+Fakten gesichert: SHGM-Flaggen grün/gelb/rot, Absagen meist wegen Wind; Pilot kann auch bei Grün absagen; Zahl gleichzeitiger Ballons begrenzt (Wego 2026, istiklal 2026, tgrthaber)
+Vor Posting prüfen: Kein konkretes Ballonlimit für 2026 nennen · Behördenseite SHGM gegenlesen · Umbuchung/Erstattung bei Absage nur allgemein („beim Anbieter klären“) erwähnen
+Quellen: blog.wego.com · istiklal.com.tr
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 9 · Originalität 8 · Share/Save 9 · Produktion 9 → 8,55. Hoher Nutzwert und Originalität, sehr gutes Bild; Behördenquelle noch offen.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 7 · Spannung 6 · DACH 7 · WOW 9 · Originalität 6 · Share/Save 8 · Produktion 9 → 7,30. Stärke: Konkreter Planungsnutzen, ikonische Ballonbilder, klare Ampel-Logik. Schwäche: Ampel erklärt sich schnell, Spannungsbogen flach; zweites Kappadokien-Reel binnen vier Wochen.
+Konsens 7,93 < 8 → Nacharbeit: Ausfallhäufigkeit im Winter (mit Quelle) als Spannungspunkt einbauen; Hinweis zu Umbuchung/Erstattung bei Absage ergänzen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 27 · Fr 08.01.2027 · Reisewissen in 30 Sekunden #9
+Übernachten mitten in der Alhambra · Spanien (Granada) · Cluster: Hotelkonzept · Redaktion 8,30 · Zweitbewertung 6,15 · Konsens 7,23 / 10
+
+| Feld | Inhalt |
+| Thema | Paradores sind eine staatliche spanische Hotelkette mit knapp 100 Häusern, viele in Burgen, Palästen und Klöstern. Der erste eröffnete 1928 in der Sierra de Gredos. Der Parador de Granada liegt im Alhambra-Komplex in einem ehemaligen Franziskanerkloster aus dem 15. Jahrhundert. |
+| DACH-Bedürfnis | Spanien-Rundreisen und Städtetrips sind bei DACH-Reisenden beliebt. Das Hotelkonzept ist ein Geheimtipp mit Geschichte. |
+| Emotion | Staunen, Fernweh |
+| Payoff | In Spanien betreibt der Staat knapp 100 Hotels in historischen Gebäuden – eines davon liegt mitten in der Alhambra. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | In Spanien vermietet der Staat Zimmer in Burgen und Klöstern. | 9 | Überraschend und klar. |
+| ★ Überraschung | In Granada kannst du mitten in der Alhambra übernachten. | 9 | Konkreter WOW-Ort. |
+| Mystery | In Spanien gibt es knapp 100 Hotels, die alle dem Staat gehören. | 8 | Gut, weniger bildstark. |
+| Frage | Wusstest du, dass Spanien eine staatliche Hotelkette hat? | 6 | Abgenutzt. |
+| Mini-Story | 1928 eröffnet ein spanischer König ein Hotel in den Bergen. Heute sind es knapp 100. | 8 | Gute Erzählung, zu lang. |
+
+Sieger: „In Granada kannst du mitten in der Alhambra übernachten.“ – Die Alhambra kennt jeder; „mitten drin übernachten“ ist der stärkste Bildmoment, das Konzept folgt als Erklärung.
+Startbild 0–2 s: Alhambra mit Spiegelbecken. Overlay „Hier übernachten?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Alhambra.
+
+- Fakt (3–10 s): „Im Alhambra-Komplex liegt ein Hotel – in einem ehemaligen Franziskanerkloster aus dem 15. Jahrhundert.“
+
+- Konzept (10–20 s): „Es ist ein Parador. Paradores sind eine staatliche Hotelkette: knapp 100 Häuser, viele in Burgen, Palästen und Klöstern.“
+
+- Geschichte (20–27 s): „Der erste Parador eröffnete 1928 in der Sierra de Gredos.“
+
+- Einordnung (27–31 s): „Nicht jeder Parador ist eine Burg – manche sind moderne Bauten in der Natur.“
+
+- Schluss (31–35 s): „Nächsten Freitag: Wie man früher zu den Klöstern von Meteora kam.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Schlafen in der Alhambra | Alhambra-Spiegelbecken, „Alhambra“ gelb |
+| 2 | Spaniens Staats-Hotels | Alhambra-Innenhof |
+| 3 | Hotel im Kloster | Alhambra-Ornamente |
+
+Warum folgen: Freitags Hotelkonzepte und Orte mit Geschichte – ohne Werbung.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Alhambra-Spiegelbecken, Overlay „Hier übernachten?“. | „Hotel in der Alhambra?! 🤯“ als Text. |
+| Overlay | Schlafen in der Alhambra? | Hotel in der Alhambra?! |
+| Suchbegriffe | Parador Granada, Paradores Spanien, Übernachten Alhambra | Parador Alhambra |
+
+Caption Instagram:
+Reisewissen #9: In Granada liegt ein Hotel mitten im Alhambra-Komplex – ein Parador im ehemaligen Franziskanerkloster. Paradores: staatliche Hotelkette, knapp 100 Häuser, viele in Burgen und Klöstern, seit 1928. 🇪🇸
+#granada #alhambra #parador #spanien #hotelkonzept #reisewissen
+Caption TikTok: Spaniens Staats-Hotels 🇪🇸 #granada #alhambra #parador
+Stock · Suche: alhambra reflection pool, alhambra granada aerial, alhambra ceiling details · Kandidaten: Pexels 39243752 (Spiegelbecken); Pexels 35390620 (Alhambra-Palast); Pexels 35390775 (Ornamente) · Rechte/Hürden: Kein Clip des Parador-Gebäudes gefunden: Alhambra zeigen, aber kein beliebiges Gebäude als „das Hotel“ markieren. Keinen Preis nennen.
+Fakten gesichert: Staatliche Kette, knapp 100 Häuser (Ibiza Nr. 99 seit März 2026); erster Parador 1928 Gredos; Parador de Granada im Alhambra-Komplex, ehem. Franziskanerkloster 15. Jh. (parador.es, hosteltur)
+Vor Posting prüfen: Ob Parador Nr. 100 (Veruela) eröffnet hat
+Quellen: parador.es · paradores.es · hosteltur.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 8 → 8,30. Erstaunliches Hotelkonzept mit starkem Ort; Parador-Gebäude selbst fehlt im Material.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 5 · DACH 6 · WOW 6 · Originalität 6 · Share/Save 7 · Produktion 7 → 6,15. Stärke: Überraschender Bucket-List-Fakt, sauber belegt, Hotelkonzept passt zum Reisebüro. Schwäche: Kein Bild des Hotels – Payoff bleibt unsichtbar; zweite Hälfte Ketten-Infos ohne Spannung.
+Konsens 7,23 < 8 → Nacharbeit: Pressebild des Parador lizenzieren oder Kloster-Innenhof zeigen; Gredos-Beat streichen, konkreten Gästevorteil (belegt) ergänzen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 10 · 11.01.–15.01.2027
+
+### Reel 28 · Mo 11.01.2027 · Fakt oder Fake? #10
+Liegt der größte Wasserfall Europas in der Schweiz? · Schweiz (Schaffhausen) · Cluster: Natur-WOW · Redaktion 8,55 · Zweitbewertung 6,95 · Konsens 7,75 / 10
+
+| Feld | Inhalt |
+| Thema | Der Rheinfall bei Neuhausen ist 150 m breit, aber nur 23 m hoch. Im Sommer stürzen im Mittel rund 600 m³ Wasser pro Sekunde hinab, im Winter rund 250 m³. Nach Wassermenge gilt er als einer der größten Wasserfälle Europas, oft als der größte bezeichnet; höher sind viele andere. |
+| DACH-Bedürfnis | Der Rheinfall liegt wenige Kilometer von der deutschen Grenze – ein Tagesausflug für Süddeutschland und die Schweiz. |
+| Emotion | Staunen, Rechthaben |
+| Payoff | Kommt drauf an, wie man misst: Hoch ist er nicht (23 m). Aber nach Wassermenge gilt er als einer der größten Europas – im Sommer rund 600.000 Liter pro Sekunde. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Nur 23 Meter hoch – und trotzdem einer der größten Wasserfälle Europas. | 9 | Echte Spannung zwischen Zahl und Titel. |
+| Überraschung | Hier stürzen im Sommer rund 600.000 Liter Wasser pro Sekunde hinab. | 8 | Starke Zahl, ohne Frage. |
+| Mystery | Der vielleicht größte Wasserfall Europas liegt nicht in Norwegen. | 7 | „vielleicht“ schwächt. |
+| ★ Frage | Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz? | 9 | Serienritual, Diskussionspotenzial. |
+| Mini-Story | Du stehst auf dem Felsen mitten im Fall, und es donnert – 600 Kubikmeter pro Sekunde. | 7 | Schön, aber Ich-Perspektive ohne Clip. |
+
+Sieger: „Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz?“ – Die Frage lädt zum Widerspruch ein (Norwegen? Island?), die Auflösung „kommt drauf an“ ist ehrlich und kommentarstark.
+Startbild 0–2 s: Rheinfall von oben mit Gischt. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Rheinfall.
+
+- Spannung (3–9 s): „Hoch ist er nicht: nur 23 Meter.“
+
+- Wendung (9–17 s): „Aber 150 Meter breit – und im Sommer stürzen im Mittel rund 600.000 Liter pro Sekunde hinab.“
+
+- Auflösung (17–25 s): „Nach Wassermenge gilt er als einer der größten Wasserfälle Europas. Höher sind viele – mehr Wasser haben wenige.“
+
+- Nutzen (25–31 s): „Am meisten Wasser führt er im Sommer, im Winter etwa ein Drittel davon.“
+
+- Schluss (31–35 s): „Nächsten Montag: Machen auf den Malediven Fische Sand?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Größter Wasserfall Europas? | Rheinfall-Totale, „Europas“ gelb |
+| 2 | Nur 23 Meter hoch | Rheinfall mit Felsen |
+| 3 | Fakt oder Fake #10 | Rheinfall von oben |
+
+Warum folgen: Montags „Fakt oder Fake?“ – und du darfst in den Kommentaren widersprechen.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Drohne über Rheinfall, Overlay „Fakt oder Fake?“. | „Norwegen? Island? Nein – Schweiz?!“ als Text. |
+| Overlay | Größter Wasserfall Europas? | Europas größter Wasserfall? |
+| Suchbegriffe | Rheinfall Schaffhausen, größter Wasserfall Europas, Rheinfall Ausflug | Rheinfall |
+
+Caption Instagram:
+Fakt oder Fake #10: Liegt der größte Wasserfall Europas in der Schweiz? Kommt drauf an: nur 23 m hoch, aber 150 m breit und im Sommer rund 600 m³ Wasser pro Sekunde. Nach Wassermenge gilt der Rheinfall als einer der größten Europas. 🇨🇭
+#rheinfall #schaffhausen #schweiz #wasserfall #faktoderfake #ausflugstipp
+Caption TikTok: Kommt drauf an, wie man misst 🇨🇭 #rheinfall #schweiz #faktoderfake
+Stock · Suche: rhine falls aerial, rhine falls switzerland, rhine falls summer · Kandidaten: Pexels 29038189 (Rheinfall, Luft); Pexels 37924187 (Rheinfall dramatisch); Pexels 38371519 (Rheinfall im Sommer) · Rechte/Hürden: Keine – Material vorhanden. Winterclip nicht mit Sommerzahl kombinieren.
+Fakten gesichert: 150 m breit, 23 m hoch; Ø Sommer ca. 600 m³/s, Winter ca. 250 m³/s; mittlere Wasserführung 373 m³/s (Wikipedia-Daten, Schwarzwaldportal) · „einer der größten und wasserreichsten Wasserfälle Europas“ (Europeana/Badisches Landesmuseum, Schwarzwaldportal)
+Vor Posting prüfen: Nicht absolut „der größte“ sagen, nur „gilt als“/„einer der größten“
+Quellen: schwarzwaldportal.com · doc.surf
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 10 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 9 → 8,55. DACH-nah, kommentarstark, sehr gutes Bild; Originalität mittel.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 7 · Spannung 7 · DACH 8 · WOW 7 · Originalität 5 · Share/Save 5 · Produktion 9 → 6,95. Stärke: Diskussionsfrage mit DACH-Bezug, ehrliche „kommt drauf an“-Auflösung. Schwäche: Rheinfall-Superlativ ist DACH-Zuschauern geläufig; 23 m Höhe wirkt im Bild wenig spektakulär.
+Konsens 7,75 < 8 → Nacharbeit: Vergleich mit Quelle einbauen (z. B. Dettifoss), Nahaufnahme vom Felsen/Boot für Wucht; Sommer-Besuchstipp konkretisieren. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 29 · Mi 13.01.2027 · Was dir keiner sagt #10
+Der Filmstrand, an dem Baden verboten ist · Thailand (Koh Phi Phi Leh) · Cluster: Mythos/Realität · Redaktion 8,25 · Zweitbewertung 6,45 · Konsens 7,35 / 10
+
+| Feld | Inhalt |
+| Thema | Die Maya Bay auf Koh Phi Phi Leh war von Juni 2018 bis Januar 2022 komplett gesperrt. Seitdem gilt Badeverbot (u. a. wegen Schwarzspitzen-Riffhaien), Besucher pro Stunde sind begrenzt, Boote legen an der Rückseite an. Jedes Jahr ist die Bucht im August und September geschlossen (2026: 1.8.–30.9.). |
+| DACH-Bedürfnis | Thailand ist ein großes Fernziel für D/A/CH; viele planen Phi Phi ein. Erwartung und Realität werden abgeglichen. |
+| Emotion | Überraschung, Respekt |
+| Payoff | Besuchen ja, baden nein – und im August/September ist die Bucht zu. Die Pause hat der Natur sichtbar gutgetan (Riffhaie sind zurück). |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Einer der berühmtesten Strände Thailands – und Baden ist verboten. | 9 | Klarer Widerspruch. |
+| Überraschung | In dieser Bucht leben wieder Schwarzspitzen-Riffhaie – Baden ist verboten. | 8 | Stark, aber „Haie“ kann Angst statt Neugier wecken. |
+| Mystery | Dieser Filmstrand war fast vier Jahre komplett gesperrt. | 8 | Gut. |
+| Frage | Darf man in der Maya Bay baden? | 7 | Suchstark, wenig Spannung. |
+| Mini-Story | 2018 wird die Bucht gesperrt. Als sie 2022 wieder öffnet, gelten neue Regeln. | 8 | Gute Erzählung. |
+
+Sieger: „Einer der berühmtesten Strände Thailands – und Baden ist verboten.“ – Der Widerspruch funktioniert sofort, auch ohne den Film zu kennen, und führt zu den Regeln.
+Startbild 0–2 s: Maya Bay mit Kalksteinfelsen, türkisem Wasser, leerem Strand. Overlay „Baden verboten?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Bucht.
+
+- Geschichte (3–10 s): „Die Maya Bay war von 2018 bis Anfang 2022 komplett gesperrt.“
+
+- Regeln (10–20 s): „Heute darfst du hin, aber nicht baden. Boote legen auf der Rückseite an, die Besucherzahl pro Stunde ist begrenzt.“
+
+- Schutz (20–26 s): „Das Verbot soll die Erholung der Bucht sichern – inzwischen leben dort wieder Schwarzspitzen-Riffhaie.“
+
+- Saison (26–31 s): „Und jedes Jahr ist sie im August und September geschlossen.“
+
+- Schluss (31–35 s): „Nächsten Mittwoch: Warum Bauern auf einem Dolomiten-Wanderweg ein Drehkreuz aufgestellt haben.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Baden verboten? | Bucht mit leerem Strand, „verboten“ gelb |
+| 2 | Haie statt Badegäste | Bucht von oben |
+| 3 | Maya Bay: die Regeln | Kalkfelsen und Wasser |
+
+Warum folgen: Mittwochs die Regeln hinter Traumstränden.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Bucht-Totale, Overlay „Baden verboten?“. | „Der Strand aus ‚The Beach‘ – aber…“ als Text. |
+| Overlay | Baden verboten? | Hier darfst du nicht baden |
+| Suchbegriffe | Maya Bay baden, Maya Bay Regeln, Koh Phi Phi Tipps | Maya Bay |
+
+Caption Instagram:
+Was dir keiner sagt #10: In der Maya Bay (Koh Phi Phi Leh) ist Baden verboten. Die Bucht war 2018–2022 gesperrt, heute begrenzt man die Besucher pro Stunde – und im August/September ist sie zu. 🇹🇭
+#mayabay #kohphiphi #thailand #krabi #reisetipps #wasdirkeinersagt
+Caption TikTok: Maya Bay heute 🇹🇭 #mayabay #thailand #reisetipps
+Stock · Suche: maya bay thailand, maya bay drone, phi phi limestone cliffs · Kandidaten: Pexels 35329645 (Maya Bay mit Kalkfelsen); Pexels 11321656 (Maya Bay, Drohne); Pexels 35329646 (Maya Bay) · Rechte/Hürden: Clips mit badenden Menschen meiden (widerspricht der Regel). Keine Filmausschnitte.
+Fakten gesichert: Gesperrt Juni 2018–Jan. 2022; Badeverbot; Riffhaie; bis 375 Besucher/Stunde; Schließung Aug.–Sep. (2024–2026) (Bangkok Post, Asian Trails 2026) · AA: Krabi/Phi Phi in keiner Warnzone (06.11.2026)
+Vor Posting prüfen: Schließzeitraum 2027 · Haie nicht als Gefahr oder alleinigen Grund darstellen
+Quellen: bangkokpost.com · asiantrails.travel
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 9 → 8,25. Sehr gutes Bild, klarer Nutzwert; Thailand ist Fernziel, Thema teils bekannt.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 5 · DACH 7 · WOW 9 · Originalität 4 · Share/Save 6 · Produktion 9 → 6,45. Stärke: Traumbilder, klare Regeln, Thailand-Hochsaison passt. Schwäche: Badeverbot seit Wiedereröffnung breit bekannt; Regelliste ohne Spannungsbogen.
+Konsens 7,35 < 8 → Nacharbeit: Vorher/Nachher-Spannung (Massenandrang 2018 vs. Riffhaie heute, Rechte prüfen); Tipp zu Uhrzeit oder Alternativbuchten ergänzen. Umgesetzt in diesem Stand: Haie nicht mehr als Grund des Badeverbots, sondern als Zeichen der Erholung. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 30 · Fr 15.01.2027 · Reisewissen in 30 Sekunden #10
+Bis in die 1920er kam man nur per Netz hinauf · Griechenland (Meteora) · Cluster: Reisegeschichte · Redaktion 8,30 · Zweitbewertung 6,50 · Konsens 7,40 / 10
+
+| Feld | Inhalt |
+| Thema | Zu den Meteora-Klöstern gelangte man früher nur über abnehmbare Leitern oder wurde mit Netzen und Seilwinden hochgezogen. Erst in den 1920er-Jahren wurden Stufen in den Fels gehauen (zu einigen Klöstern). Heute sind 6 Klöster bewohnt (4 Mönche, 2 Nonnen); einst waren es 24. UNESCO seit 1988. |
+| DACH-Bedürfnis | Griechenland-Rundreisen und Festland-Urlaube führen oft nach Meteora. Die Geschichte macht aus dem Foto ein Erlebnis. |
+| Emotion | Staunen, Ehrfurcht |
+| Payoff | Früher Netz und Seilwinde, heute Stufen – und noch immer leben Mönche und Nonnen auf den Felsen. |
+| Länge · Aufwand | ca. 33–35 s · niedrig (Netz-Illustration optional) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Heute führen Stufen hinauf. Früher wurdest du im Netz hochgezogen. | 9 | Bildhaft, klarer Vorher-nachher-Effekt. |
+| ★ Überraschung | Bis in die 1920er kam man zu vielen dieser Klöster nur per Leiter oder Netz. | 9 | Konkret; „vielen“ hält die Aussage korrekt. |
+| Mystery | Wie kamen Mönche jahrhundertelang auf diese Felsen? | 8 | Neugierig. |
+| Frage | Wie kommt man auf einen Felsen ohne Weg? | 7 | Unpräzise. |
+| Mini-Story | Ein Besucher steigt in ein Netz, oben dreht ein Mönch die Winde – so begann früher ein Besuch. | 8 | Starkes Bild, aber ohne passenden Clip. |
+
+Sieger: „Bis in die 1920er kam man zu vielen dieser Klöster nur per Leiter oder Netz.“ – Die Jahreszahl 1920er macht die Netz-Geschichte erstaunlich jung und lässt sich mit Felsbildern glaubwürdig stützen.
+Startbild 0–2 s: Kloster auf Felsnadel im Morgendunst, Drohne. Overlay „bis in die 1920er“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Kloster.
+
+- Früher (3–12 s): „Zu den Meteora-Klöstern führten abnehmbare Leitern – oder man wurde mit Netz und Seilwinde hochgezogen.“
+
+- Wendung (12–19 s): „Erst in den 1920er-Jahren wurden zu einigen Klöstern Stufen in den Fels gehauen.“
+
+- Heute (19–27 s): „Einst gab es 24 Klöster. Heute sind noch sechs bewohnt – vier von Mönchen, zwei von Nonnen.“
+
+- Einordnung (27–31 s): „UNESCO-Welterbe seit 1988.“
+
+- Schluss (31–35 s): „Nächsten Freitag: Warum eine antike Hafenstadt heute rund sechs Kilometer vom Meer entfernt liegt.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Hochgezogen im Netz | Kloster auf Fels, „Netz“ gelb |
+| 2 | Bis 1920 ohne Stufen | Meteora-Totale im Dunst |
+| 3 | 6 Klöster, noch bewohnt | Kloster mit Abgrund |
+
+Warum folgen: Freitags die Geschichten hinter Orten, die du kennst.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Kloster auf Fels, Overlay „bis in die 1920er“. | „Früher: im Netz hochgezogen 😳“ als Text. |
+| Overlay | Hochgezogen im Netz | Früher: im Netz hochgezogen |
+| Suchbegriffe | Meteora Klöster Geschichte, Meteora Tipps, Meteora Netz | Meteora |
+
+Caption Instagram:
+Reisewissen #10: Zu vielen Klöstern von Meteora kam man bis in die 1920er nur per Leiter – oder im Netz per Seilwinde. Heute sind noch 6 Klöster bewohnt. 🇬🇷
+#meteora #griechenland #kalambaka #kloster #reisewissen #unesco
+Caption TikTok: Meteora damals vs. heute 🇬🇷 #meteora #griechenland #reisewissen
+Stock · Suche: meteora monastery drone, meteora rock monastery cliff, meteora sunrise mist · Kandidaten: Pexels 38045736 (Kloster, Drohne); Pexels 37904962 (Kloster auf Fels); Pexels 38087087 (Meteora-Kloster) · Rechte/Hürden: Keine Mönche in Großaufnahme ohne Freigabe; kein Netz-Clip vorhanden – Netz per Grafik/Illustration andeuten.
+Fakten gesichert: Leitern/Netze bis 1920er, Stufen zu einigen Klöstern; 6 aktive Klöster (4 Mönche, 2 Nonnen), einst 24; UNESCO 1988 (visitgreece.gr, OrthodoxWiki)
+Vor Posting prüfen: Nicht „zu allen Klöstern“ Stufen sagen
+Quellen: visitgreece.gr · orthodoxwiki.org
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 10 · Originalität 7 · Share/Save 8 · Produktion 8 → 8,30. Spektakuläres Bild und starke Geschichte; Meteora selbst ist bekannt.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 6 · Spannung 6 · DACH 6 · WOW 7 · Originalität 6 · Share/Save 5 · Produktion 7 → 6,50. Stärke: Erstaunlich junge Jahreszahl, spektakuläre Felsbilder. Schwäche: Netz als Kernbild fehlt im Stock; UNESCO-Beat ist Füller; Meteora seltener DACH-Ziel.
+Konsens 7,40 < 8 → Nacharbeit: Gemeinfreies historisches Netzfoto einbauen (Rechte prüfen); UNESCO-Beat durch heutige Lastenwinde ersetzen, falls belegt. Umgesetzt in diesem Stand: „zu vielen dieser Klöster“ statt pauschal. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 11 · 18.01.–22.01.2027
+
+### Reel 31 · Mo 18.01.2027 · Fakt oder Fake? #11
+Wenn Fische Strand machen · Malediven · Cluster: Natur-WOW · Redaktion 8,35 · Zweitbewertung 6,75 · Konsens 7,55 / 10
+
+| Feld | Inhalt |
+| Thema | Papageifische raspeln Korallenkalk ab, verdauen den essbaren Teil und scheiden den Rest als feinen Sand aus. Eine Studie der Universität Exeter (2015) an der Insel Vakkaru im Baa-Atoll fand: Über 85 % des neuen sandfeinen Sediments auf dem äußeren Riffdach stammt von Papageifischen. Die Malediven verbieten den Export von Papageifischen seit den 1980ern. |
+| DACH-Bedürfnis | Malediven sind Traumziel und Saison-Thema im Januar. Ein Fakt, den man beim Schnorcheln selbst beobachten kann. |
+| Emotion | Staunen, Schmunzeln |
+| Payoff | Fakt – an der untersuchten Insel Vakkaru stammte über 85 % des neuen Sands am äußeren Riff von Papageifischen. Laut Studie hängt der Sandnachschub solcher Inseln an gesunden Papageifisch-Beständen. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Dieser Traumstrand – zum Teil von Fischen gemacht? | 8 | Gut, aber ohne Serienformat. |
+| Überraschung | Ein großer Teil des Sands auf den Malediven ist Fisch-Kot. | 6 | Viral, aber überdehnt die Studie – nicht verwenden. |
+| Mystery | Hör beim Schnorcheln mal genau hin. Das Knacken am Riff hat mit deinem Strand zu tun. | 7 | Nett, schwer zu bebildern. |
+| ★ Frage | Fakt oder Fake: Auf den Malediven machen Fische Sand? | 9 | Serienritual; verallgemeinert nicht auf alle Strände. |
+| Mini-Story | Ein Papageifisch beißt in Korallen, verdaut – und hinterlässt feinen weißen Sand. | 8 | Gute Bildfolge. |
+
+Sieger: „Fakt oder Fake: Auf den Malediven machen Fische Sand?“ – Die Frage spielt mit Ekel und Staunen, die ehrliche Antwort („Fakt – an dieser Insel über 85 %“) bleibt präzise.
+Startbild 0–2 s: Weißer Strand und türkises Wasser von oben. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Malediven-Insel.
+
+- Täter (3–9 s): Papageifisch am Korallenriff: „Das ist ein Papageifisch.“
+
+- Mechanik (9–17 s): „Er raspelt Korallenkalk ab, verdaut, was essbar ist – und scheidet den Rest als feinen Sand aus.“
+
+- Beleg (17–26 s): „Eine Studie der Uni Exeter an der Insel Vakkaru fand: Über 85 Prozent des neuen Sands auf dem äußeren Riff stammten von Papageifischen.“
+
+- Bedeutung (26–31 s): „Laut den Forschern braucht der Sandnachschub solcher Inseln gesunde Papageifisch-Bestände.“
+
+- Schluss (31–35 s): „Nächsten Montag: Warum Griechenland einen Strand verlängern will – für ein Wrack.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Sand aus Fischen? | Papageifisch am Riff, „Fischen“ gelb |
+| 2 | Fakt oder Fake #11 | Malediven-Insel von oben |
+| 3 | Dein Strand: Fischwerk | Strand mit türkisem Wasser |
+
+Warum folgen: Montags „Fakt oder Fake?“ – Natur-Fakten, die dein nächstes Strandfoto verändern.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Insel von oben, Overlay „Fakt oder Fake?“, Schnitt auf Papageifisch in Sekunde 3. | „Du liegst auf… Fisch-Kot? 😳“ als Text. |
+| Overlay | Sand aus Fischen? | Du liegst auf… was? |
+| Suchbegriffe | Papageifisch Sand, Malediven Sand Entstehung, Malediven Fakten | Papageifisch Sand |
+
+Caption Instagram:
+Fakt oder Fake #11: Machen auf den Malediven Fische Sand? Fakt – zumindest an der Insel Vakkaru: Über 85 % des neuen Sands auf dem äußeren Riff produzierten Papageifische (Uni Exeter, 2015). Sie raspeln Korallen und scheiden feinen Sand aus. 🐠
+#malediven #maldives #papageifisch #schnorcheln #faktoderfake #naturwunder
+Caption TikTok: Der Sand-Trick der Papageifische 🐠 #malediven #papageifisch #faktoderfake
+Stock · Suche: parrotfish coral reef, maldives atolls aerial, maldives island aerial · Kandidaten: Pexels 30019414 (Papageifisch am Riff); Pexels 34494263 (Papageifisch, Riff); Pexels 32192415 (Malediven-Atolle, Luft) · Rechte/Hürden: Papageifisch-Clips zeigen nicht zwingend die Malediven – nur als „Papageifisch“ bezeichnen. Keine Resort-Namen.
+Fakten gesichert: >85 % des neuen sandfeinen Sediments (5,7 kg/m² pro Jahr) auf dem äußeren Riffdach von Vakkaru von Papageifischen (Perry et al. 2015, Geology; Uni Exeter) · Exportverbot für Papageifische seit den 1980ern (Marine Research Centre, zitiert in Hotelier Maldives)
+Vor Posting prüfen: Nicht auf „alle Malediven-Strände“ verallgemeinern · Exportverbot (1980er) nur mit Primärquelle erwähnen – derzeit nicht im Voice-over
+Quellen: ore.exeter.ac.uk · sciencedaily.com · hoteliermaldives.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 7 · WOW 9 · Originalität 9 · Share/Save 9 · Produktion 9 → 8,35. Sehr teilbar und originell; DACH-Bezug nur über Fernreise-Wunsch, deshalb 7.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 6 · Spannung 6 · DACH 7 · WOW 8 · Originalität 4 · Share/Save 7 · Produktion 9 → 6,75. Stärke: Ekel-Staunen-Hook, gute Bildlage, saubere Studienquelle. Schwäche: Viral oft erzählt; Hook verallgemeinert, Beleg gilt nur für eine Insel und das Riffdach.
+Konsens 7,55 < 8 → Nacharbeit: Hook enger fassen („Dieser Strand – von Fischen gemacht?“); Knack-Geräusch beim Schnorcheln als frischen Einstieg nutzen. Umgesetzt in diesem Stand: Hook und Payoff auf die untersuchte Insel begrenzt; Exportverbot aus dem Voice-over genommen. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 32 · Mi 20.01.2027 · Was dir keiner sagt #11
+Das Drehkreuz auf der Seceda · Italien (Südtirol, Seceda) · Cluster: Mythos/Realität · Redaktion 8,35 · Zweitbewertung 7,25 · Konsens 7,80 / 10
+
+| Feld | Inhalt |
+| Thema | Die berühmten Wiesen der Seceda über Gröden sind Almen mit vielen Grundbesitzern, die sie mähen und pflegen; der Wanderweg führt über ihr Land. Im Juli 2025 stellten Bauern als Protest ein Drehkreuz auf und verlangten 5 € pro Person – an Spitzentagen kamen rund 8.000 Menschen. Der Tourismusverband nannte es eine private Initiative; Land und Gemeinde wollten es entfernen. Für 2026 wird eine Tagesgrenze von 3.000–4.000 Personen für die Seilbahn mit Zeitfenster-Buchung diskutiert (Stand Ende Aug. 2026, nicht beschlossen). |
+| DACH-Bedürfnis | Südtirol ist für D/A/CH ein Top-Sommerziel; die Planung beginnt im Winter. Zuschauer verstehen den Konflikt und reisen respektvoll. |
+| Emotion | Überraschung, Respekt |
+| Payoff | Das Foto-Panorama ist Arbeitsland. Das Drehkreuz war ein Protest – und die Diskussion über Obergrenzen läuft. Tipp: Weg nicht verlassen, Seilbahn vorab reservieren. |
+| Länge · Aufwand | ca. 34–36 s · niedrig (Stand prüfen) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Sommer 2025: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz. | 9 | Bildstark, zeitlich korrekt eingeordnet. |
+| Überraschung | Auf diesem Dolomiten-Weg verlangten Bauern 5 Euro pro Person. | 8 | Konkret, Vergangenheit nicht klar. |
+| Mystery | Diese Wiese ist eines der bekanntesten Fotomotive Südtirols – und sie gehört jemandem. | 8 | Gute Wendung. |
+| Frage | Darf man für einen Wanderweg Eintritt verlangen? | 7 | Diskussionsstark, aber rechtlich heikel. |
+| Mini-Story | Sommer 2025: An einem Tag kommen rund 8.000 Menschen. Am nächsten steht ein Drehkreuz. | 7 | Zeitliche Abfolge nicht belegt. |
+
+Sieger: „Sommer 2025: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz.“ – Der Bruch zwischen Traumbild und Drehkreuz erzeugt Spannung, ohne die Bauern oder die Region schlechtzumachen.
+Startbild 0–2 s: Seceda-Grat im Morgenlicht, Drohne. Overlay „Sommer 2025: ein Drehkreuz“.
+Beats & Bildfolge (ca. 34–36 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Seceda-Grat.
+
+- Was geschah (3–11 s): „Im Juli 2025 stellten Bauern hier ein Drehkreuz auf: 5 Euro pro Person – als Protest.“
+
+- Warum (11–19 s): „Die Wiesen sind Almen. Die Besitzer müssen sie mähen und pflegen – und an Spitzentagen kamen rund 8.000 Menschen.“
+
+- Danach (19–26 s): „Der Tourismusverband nannte es eine private Aktion, Land und Gemeinde wollten es entfernen. Für die Seilbahn wird inzwischen eine Tagesgrenze diskutiert.“
+
+- Tipp (26–32 s): „Bleib auf dem Weg, nimm deinen Müll mit – und reservier die Seilbahn im Sommer vorab.“
+
+- Schluss (32–36 s): „Nächsten Mittwoch: die berühmte Algarve-Höhle, in der du nicht an Land darfst.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Plötzlich ein Drehkreuz | Seceda-Grat, „Drehkreuz“ gelb |
+| 2 | Diese Wiese gehört jemandem | Seceda-Wiesen von oben |
+| 3 | Seceda: was du wissen musst | Grat im Abendlicht |
+
+Warum folgen: Mittwochs die Geschichte hinter berühmten Fotospots – fair für Gäste und Einheimische.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Seceda-Drohne, Overlay „Plötzlich ein Drehkreuz“. | „2025: 5 Euro für einen Wanderweg?!“ als Text über Grat. |
+| Overlay | Plötzlich ein Drehkreuz | 2025: 5 Euro für einen Wanderweg?! |
+| Suchbegriffe | Seceda Drehkreuz, Seceda Tipps, Dolomiten Wandern Südtirol | Seceda |
+
+Caption Instagram:
+Was dir keiner sagt #11: Die Seceda-Wiesen sind Almen, die Bauern pflegen. Im Juli 2025 stellten sie aus Protest ein Drehkreuz auf (5 €). Für die Seilbahn wird jetzt eine Tagesgrenze diskutiert (Stand Aug. 2026). Tipp: auf dem Weg bleiben, Seilbahn vorab reservieren. 🇮🇹
+#seceda #dolomiten #südtirol #gröden #wandern #wasdirkeinersagt
+Caption TikTok: Die Geschichte hinter dem Drehkreuz 🏔️ #seceda #dolomiten #südtirol
+Stock · Suche: seceda aerial, seceda ridge dolomites, dolomites meadow summer · Kandidaten: Pexels 32070087 (Seceda, Luft); Pexels 32070073 (Seceda-Grat); Pexels 32053942 (Seceda von oben) · Rechte/Hürden: Kein lizenzierter Clip des Drehkreuzes – nur als Text/Icon zeigen, kein Fremdbild verwenden. Keine erkennbaren Personen in Großaufnahme.
+Fakten gesichert: Drehkreuz Juli 2025 durch Bauern, 5 €/Person, als Protest; rund 8.000 Menschen an einem Tag; Tourismusverband: private Initiative, Entfernung geplant (The Independent via inkl) · 2026: Tagesgrenze 3.000–4.000 für Seilbahn mit Zeitfenstern im Gespräch, nicht beschlossen (ÖAMTC, 31.08.2026)
+Vor Posting prüfen: Aktuellen Stand Seilbahn-Kontingent 2027 vor Posting · Nicht behaupten, das Drehkreuz stehe noch
+Quellen: inkl.com · oeamtc.at
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 8 → 8,35. Starker Konflikt mit DACH-Nähe; Stand 2027 offen, daher am Vortag aktualisieren.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 7 · Spannung 7 · DACH 8 · WOW 8 · Originalität 5 · Share/Save 6 · Produktion 8 → 7,25. Stärke: Starker Bruch Traumbild/Drehkreuz, faire Einordnung, passend zur Südtirol-Planung. Schwäche: Nachricht von Juli 2025 – im Januar 2027 alt; Hook suggeriert, das Drehkreuz stehe noch.
+Konsens 7,80 < 8 → Nacharbeit: Hook in Vergangenheit setzen („Sommer 2025 stand hier plötzlich…“); aktuellen Stand 2027 (Kontingent, Reservierung) als Payoff. Umgesetzt in diesem Stand: Hook in die Vergangenheit gesetzt (Sommer 2025). Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 33 · Fr 22.01.2027 · Reisewissen in 30 Sekunden #11
+Die Hafenstadt, die das Meer verloren hat · Türkei (Ephesus) · Cluster: Reisegeschichte · Redaktion 8,35 · Zweitbewertung 6,45 · Konsens 7,40 / 10
+
+| Feld | Inhalt |
+| Thema | Ephesus war in der Antike eine bedeutende Hafenstadt an der Ägäis. Der Fluss Küçük Menderes (antik Kaystros) schwemmte über Jahrhunderte Sediment an; der Hafen verlandete, die Küste wanderte nach Westen, die Stadt verlor an Bedeutung. Heute liegen die Ruinen rund 6 km vom Meer entfernt, etwa 3 km südwestlich von Selçuk. UNESCO-Welterbe seit 2015. |
+| DACH-Bedürfnis | Ephesus ist der Top-Ausflug von der Türkischen Ägäis (Kuşadası, Didim) – auch für Kreuzfahrtgäste aus D/A/CH. |
+| Emotion | Staunen |
+| Payoff | Nicht das Meer ist gegangen – der Fluss hat das Land wachsen lassen. Darum endet die Hafenstraße von Ephesus heute im Nirgendwo. |
+| Länge · Aufwand | ca. 33–35 s · mittel (Kartengrafik) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Früher lag hier ein Hafen. Heute ist das Meer rund 6 Kilometer weg. | 9 | Klarer Vorher-nachher-Effekt. |
+| Überraschung | Die Hafenstraße von Ephesus führt heute zu keinem Hafen mehr. | 8 | Schön, braucht Bild der Straße. |
+| Mystery | Wie verliert eine Hafenstadt ihr Meer? | 9 | Kurz, rätselhaft. |
+| Frage | Warum liegt Ephesus nicht mehr am Meer? | 8 | Suchstark. |
+| Mini-Story | Ein Fluss bringt jedes Jahr Schlamm – und nach Jahrhunderten ist der Hafen verschwunden. | 7 | Verrät die Lösung. |
+
+Sieger: „Früher lag hier ein Hafen. Heute ist das Meer rund 6 Kilometer weg.“ – Die Zahl macht die Veränderung messbar und lässt die Frage nach dem Warum offen.
+Startbild 0–2 s: Celsus-Bibliothek in Ephesus im Abendlicht. Overlay „Hier war ein Hafen“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Ruinen.
+
+- Früher (3–9 s): „Ephesus war eine der großen Hafenstädte der Antike.“
+
+- Warum (9–19 s): Kartengrafik mit wandernder Küste: „Der Fluss Küçük Menderes brachte über Jahrhunderte Schlamm und Sand. Der Hafen verlandete, die Küste wanderte nach Westen.“
+
+- Folge (19–25 s): „Die Stadt verlor ihren Handel – und an Bedeutung.“
+
+- Heute (25–31 s): „Heute liegen die Ruinen laut türkischen Behörden rund sechs Kilometer vom Meer entfernt. UNESCO-Welterbe seit 2015.“
+
+- Schluss (31–35 s): „Nächsten Freitag: Warum ein Agriturismo per Gesetz ein Bauernhof sein muss.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Hier war ein Hafen | Celsus-Bibliothek, „Hafen“ gelb |
+| 2 | 6 km bis zum Meer | Ruinen von Ephesus aus der Luft |
+| 3 | Die Stadt ohne Meer | Ruinen bei Sonnenuntergang |
+
+Warum folgen: Freitags das Warum hinter Orten, die du auf deinem Ausflug siehst.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Celsus-Bibliothek, Overlay „Hier war ein Hafen“. | „Wo ist das Meer hin? 🤔“ als Text. |
+| Overlay | Hier war ein Hafen | Wo ist das Meer hin? |
+| Suchbegriffe | Ephesus Ausflug, Ephesus Geschichte, Kuşadası Ausflug | Ephesus |
+
+Caption Instagram:
+Reisewissen #11: Warum liegt Ephesus nicht mehr am Meer? Der Fluss Küçük Menderes schwemmte über Jahrhunderte Sediment an – der Hafen verlandete. Heute ist das Meer rund 6 km entfernt. 🇹🇷
+#ephesus #efes #türkei #kusadasi #reisewissen #unesco
+Caption TikTok: Die Hafenstadt ohne Meer 🇹🇷 #ephesus #türkei #reisewissen
+Stock · Suche: ephesus library celsus, ephesus ruins sunset, ephesus aerial · Kandidaten: Pexels 38087124 (Celsus-Bibliothek); Pexels 39808369 (Ephesus bei Sonnenuntergang); Pexels 16515944 (Ruinen von Ephesus) · Rechte/Hürden: Küstenverlauf als eigene Kartengrafik, keine fremde Karte übernehmen.
+Fakten gesichert: Hafen durch Küçük Menderes (Kaystros) verlandet; heute ca. 6 km vom Meer (Hürriyet Daily News, Noonsite) · Ca. 3 km SW von Selçuk; UNESCO 2015 (Wikipedia, turkishculture.org)
+Vor Posting prüfen: „Hafenstraße endet im Nirgendwo“ nur mit passendem Clip zeigen · Entfernung schwankt je Quelle (ca. 5–8 km) – „rund sechs Kilometer, laut türkischen Behörden“ sagen
+Quellen: hurriyetdailynews.com · noonsite.com · turkishculture.org
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 8 · Originalität 8 · Share/Save 8 · Produktion 8 → 8,35. Kernziel Türkei, klare Erklärung; Kartengrafik nötig.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 6 · DACH 7 · WOW 7 · Originalität 6 · Share/Save 5 · Produktion 7 → 6,45. Stärke: Messbarer Wandel (6 km), gutes Warum für Ägäis-Ausflügler. Schwäche: Kartengrafik trägt die Erklärung, Bildwirkung mittel; Payoff ohne Überraschung nach dem Hook.
+Konsens 7,40 < 8 → Nacharbeit: Arkadiane-Hafenstraße zeigen, Küstenlinien-Animation über Luftbild legen; Tipp: Hafenstraße bewusst bis zum Ende ablaufen. Umgesetzt in diesem Stand: Entfernung mit Quelle versehen. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 12 · 25.01.–29.01.2027
+
+### Reel 34 · Mo 25.01.2027 · Fakt oder Fake? #12
+Ein Strand soll wachsen – für ein Wrack · Griechenland (Zakynthos) · Cluster: Natur-WOW · Redaktion 8,60 · Zweitbewertung 7,20 · Konsens 7,90 / 10
+
+| Feld | Inhalt |
+| Thema | Am Navagio-Strand auf Zakynthos liegt seit Oktober 1980 das Wrack eines Frachters. Laut Euronews (Juli 2026) plant Griechenland, den Strand mit rund 45.000 m³ Kies um 30 m Richtung Meer zu verlängern, um das Wrack (derzeit rund 25 m vom Wasser) vor Erosion zu schützen. Der Strand selbst ist wegen Steinschlaggefahr gesperrt; 2026 galt das Verbot an Land und auf dem Wasser bis 31.10.2026, die Lage wird zweimal jährlich neu bewertet. |
+| DACH-Bedürfnis | Zakynthos ist ein beliebtes Sommerziel; im Januar wird gebucht. Zuschauer wissen, was sie an Navagio erwartet – Aussicht statt Strandtag. |
+| Emotion | Staunen, Vorbereitung |
+| Payoff | Fakt: Der Plan existiert – 30 Meter mehr Strand, damit das Wrack nicht verschwindet. Betreten darfst du den Strand trotzdem nicht; sehen kannst du ihn von oben. |
+| Länge · Aufwand | ca. 33–35 s · niedrig (Status prüfen) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Den Strand darf niemand betreten – trotzdem soll er 30 Meter länger werden. | 9 | Echter Widerspruch. |
+| Überraschung | Griechenland will diesen Strand um 30 Meter verlängern. | 8 | Gut, aber ohne Grund. |
+| Mystery | Dieses Wrack liegt seit 1980 hier. Jetzt soll ein ganzer Strand wachsen, um es zu retten. | 8 | Stark, etwas lang. |
+| ★ Frage | Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack? | 9 | Serienritual; „will“ hält den Planstatus korrekt. |
+| Mini-Story | Oktober 1980, Sturm vor Zakynthos – ein Frachter läuft auf Grund. Heute ist er das bekannteste Wrack Griechenlands. | 7 | „bekanntestes“ unbelegt. |
+
+Sieger: „Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack?“ – Die Frage klingt nach Fake und ist Fakt – genau die Spannung, von der die Serie lebt; die Sperre folgt als Nutzwert.
+Startbild 0–2 s: Navagio-Bucht von oben mit Wrack. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Bucht.
+
+- Auflösung (3–11 s): „Fakt – zumindest als Plan: Mit rund 45.000 Kubikmetern Kies soll der Strand 30 Meter Richtung Meer wachsen.“
+
+- Warum (11–18 s): „Das Wrack liegt nur noch rund 25 Meter vom Wasser entfernt – Erosion setzt ihm zu.“
+
+- Geschichte (18–24 s): „Der Frachter strandete im Oktober 1980. Seitdem heißt die Bucht ‚Navagio‘ – Schiffswrack.“
+
+- Nutzen (24–31 s): „Aber: Der Strand ist wegen Steinschlag gesperrt, 2026 auch vom Wasser aus. Ansehen kannst du ihn von oben.“
+
+- Schluss (31–35 s): „Nächsten Montag: Warum die Sonne in Palmas Kathedrale eine Acht malt.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Strand für ein Wrack? | Navagio von oben, „Wrack“ gelb |
+| 2 | 30 Meter mehr Strand | Wrack auf dem Sand |
+| 3 | Fakt oder Fake #12 | Bucht mit Steilwänden |
+
+Warum folgen: Montags „Fakt oder Fake?“ – die verrücktesten wahren Reise-News.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Navagio-Luftbild, Overlay „Fakt oder Fake?“. | „Ein Strand soll wachsen… für DAS?“ als Text über Wrack. |
+| Overlay | Strand für ein Wrack? | Ein Strand soll wachsen für… |
+| Suchbegriffe | Navagio Strand gesperrt, Zakynthos Shipwreck Beach, Navagio 2027 | Navagio |
+
+Caption Instagram:
+Fakt oder Fake #12: Griechenland will den Navagio-Strand um 30 m verlängern, um das Wrack vor Erosion zu schützen (Plan laut Euronews, Juli 2026). Der Strand ist wegen Steinschlag gesperrt – Blick nur von oben. Stand vor der Reise prüfen. 🇬🇷
+#zakynthos #navagio #griechenland #shipwreckbeach #faktoderfake #reisewissen
+Caption TikTok: Rettungsplan fürs Wrack 🇬🇷 #zakynthos #navagio #faktoderfake
+Stock · Suche: navagio beach aerial, navagio shipwreck, zakynthos cliffs · Kandidaten: Pexels 36610498 (Navagio, Luft); Pexels 30641844 (rostiges Wrack am Navagio-Strand); Pexels 38014553 (Navagio, Luft) · Rechte/Hürden: Clips mit Menschen am Strand stammen aus der Zeit vor der Sperre – nicht als aktuelle Situation darstellen; besser leere Bucht zeigen.
+Fakten gesichert: Plan: 30 m Verlängerung mit ca. 45.000 m³ Kies, Wrack derzeit ca. 25 m vom Wasser; Strandung Oktober 1980; Sperre bis 31.10.2026, Bewertung zweimal jährlich (Euronews 13.07.2026) · Sperre 2026 an Land und auf See (To Vima, 02.06.2026)
+Vor Posting prüfen: Zugangsstatus 2027 vor Posting · Schmuggel-Geschichte nicht erzählen (unbelegt) · Kein Zeitplan für die Verlängerung nennen
+Quellen: euronews.com · tovima.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 9 · DACH 8 · WOW 10 · Originalität 8 · Share/Save 8 · Produktion 9 → 8,60. Neue, überraschende Nachricht mit Top-Bild; Status 2027 muss vorab geprüft werden.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 6 · Spannung 7 · DACH 7 · WOW 9 · Originalität 7 · Share/Save 6 · Produktion 8 → 7,20. Stärke: Kurioser, aktueller Fakt zu ikonischem Motiv mit Nutzwert (Sperre). Schwäche: Hook sagt „verlängert“, es ist nur ein Plan; Zugangsstatus 2027 unsicher.
+Konsens 7,90 < 8 → Nacharbeit: Hook auf „will … verlängern“ ändern; Aussichtspunkt-Tipp mit Bild konkretisieren, Status 2027 am Vortag einarbeiten. Umgesetzt in diesem Stand: Hook als Plan formuliert („will verlängern“). Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 35 · Mi 27.01.2027 · Was dir keiner sagt #12
+Die Höhle, in der du nicht an Land darfst · Portugal (Algarve) · Cluster: Mythos/Realität · Redaktion 8,30 · Zweitbewertung 7,00 · Konsens 7,65 / 10
+
+| Feld | Inhalt |
+| Thema | Seit 13.08.2024 gelten für die Benagil-Höhle an der Algarve Regeln der Hafenbehörde Portimão: Kein Anlanden und kein Aufenthalt am Strand in der Höhle (für Privatleute und Firmen), kein Hineinschwimmen (auch nicht mit Schwimmhilfen), keine Kajakvermietung ohne Guide. Hinein geht es nur mit lizenzierter Bootstour oder geführter Kajak-/SUP-Tour. Von oben sieht man das Deckenloch vom Küstenwanderweg aus. |
+| DACH-Bedürfnis | Die Algarve ist ein großes Pauschalziel für D/A/CH; Benagil steht auf fast jeder Liste. Wer die Regeln kennt, plant richtig. |
+| Emotion | Vorbereitung, Insider-Gefühl |
+| Payoff | Rein ja – aber nur per Boot oder geführter Tour. Kein Anlanden, kein Schwimmen. Kostenlos: der Blick von oben auf dem Küstenwanderweg. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Du kannst hineinfahren – aber nicht an Land gehen. | 9 | Klar, macht neugierig auf den Ort. |
+| Überraschung | In die berühmteste Höhle der Algarve darfst du nicht mehr hineinschwimmen. | 8 | „berühmteste“ ist Wertung. |
+| Mystery | Seit 2024 gelten in dieser Höhle drei Regeln, die viele Fotos von früher unmöglich machen. | 8 | Gut, aber lang. |
+| Frage | Darf man in der Benagil-Höhle noch an den Strand? | 8 | Suchstark. |
+| Mini-Story | Früher paddelten viele auf eigene Faust hinein. Seit August 2024 ist damit Schluss. | 7 | „viele“ unbelegt. |
+
+Sieger: „Du kannst hineinfahren – aber nicht an Land gehen.“ – Der Kontrast trifft den häufigsten Irrtum (Strandfoto in der Höhle) und führt direkt zur Regel.
+Startbild 0–2 s: Benagil-Höhle mit Lichtkegel durch das Deckenloch. Overlay „Kein Anlanden“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook in der Höhle.
+
+- Seit wann (3–8 s): „Seit August 2024 gelten neue Regeln der Hafenbehörde.“
+
+- Regeln (8–18 s): „Kein Anlanden am Strand in der Höhle. Kein Hineinschwimmen, auch nicht mit Schwimmhilfe. Kajak nur mit Guide.“
+
+- Wie dann (18–25 s): „Hinein geht es mit einer lizenzierten Bootstour oder einer geführten Kajak- oder SUP-Tour.“
+
+- Tipp (25–31 s): „Kostenlos: Vom Küstenwanderweg schaust du von oben durch das Loch in der Decke.“
+
+- Schluss (31–35 s): „Nächsten Mittwoch im Staffelfinale: Was du für den Pragser Wildsee im Sommer brauchst.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Kein Anlanden! | Höhle mit Lichtkegel, „Kein“ gelb |
+| 2 | Benagil: die neuen Regeln | Algarve-Küste aus der Luft |
+| 3 | So kommst du rein | Boot vor Höhleneingang |
+
+Warum folgen: Mittwochs Regeln, die dein Urlaubsfoto retten.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Lichtkegel in der Höhle, Overlay „Kein Anlanden“. | „Dieses Foto ist seit 2024 nicht mehr erlaubt“ über Höhlenstrand. |
+| Overlay | Kein Anlanden! | Dieses Foto geht nicht mehr |
+| Suchbegriffe | Benagil Höhle Regeln, Benagil Bootstour, Algarve Tipps | Benagil |
+
+Caption Instagram:
+Was dir keiner sagt #12: In der Benagil-Höhle (Algarve) darfst du seit 13.08.2024 nicht mehr an Land gehen und nicht hineinschwimmen. Kajak nur mit Guide. Hinein per Bootstour – oder kostenlos von oben auf dem Küstenwanderweg schauen. 🇵🇹
+#benagil #algarve #portugal #lagoa #reisetipps #wasdirkeinersagt
+Caption TikTok: Benagil-Regeln seit 2024 🇵🇹 #benagil #algarve #reisetipps
+Stock · Suche: benagil cave, algarve coastline boats aerial, algarve sea cave · Kandidaten: Pexels 40000897 (Benagil-Höhle); Pexels 36749585 (Algarve-Küste mit Booten); Pexels 36749598 (Klippe und Boote) · Rechte/Hürden: Clips mit Menschen am Höhlenstrand (vor 2024) nicht als heutige Praxis zeigen – mit „früher“ kennzeichnen oder meiden.
+Fakten gesichert: Edital 019/2024 der Capitania Portimão, gültig ab 13.08.2024: kein Anlanden/Aufenthalt am Höhlenstrand, kein Zugang schwimmend/mit Schwimmhilfen, keine Kajakvermietung ohne Guide (Lusa, The Portugal News, Portugal Getaways 2026)
+Vor Posting prüfen: Keine Bußgeldhöhe nennen · Stand 2027 am Vortag
+Quellen: cloud.theportugalnews.com · aman-alliance.org · portugalgetaways.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 7 · DACH 9 · WOW 9 · Originalität 7 · Share/Save 9 · Produktion 9 → 8,30. Hoher Nutzwert, Top-Bild; Spannung mittel, Thema „Regeln“ wiederholt sich in der Serie.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 7 · Spannung 5 · DACH 8 · WOW 8 · Originalität 6 · Share/Save 8 · Produktion 9 → 7,00. Stärke: Klare, aktuelle Regeln zu Algarve-Highlight, hoher Speicherwert. Schwäche: Regelliste ohne Spannungsbogen; Ort fehlt im Hook der ersten zwei Sekunden.
+Konsens 7,65 < 8 → Nacharbeit: Ortsnamen ins Start-Overlay („Benagil: kein Anlanden“); Vorher/Nachher als Wendung, beste Uhrzeit für den Lichtkegel als Tipp. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 36 · Fr 29.01.2027 · Reisewissen in 30 Sekunden #12
+Agriturismo: per Gesetz an einen Hof gebunden · Italien (Toskana/Apulien) · Cluster: Hotelkonzept · Redaktion 8,50 · Zweitbewertung 6,00 · Konsens 7,25 / 10
+
+| Feld | Inhalt |
+| Thema | In Italien ist ein Agriturismo gesetzlich (Gesetz Nr. 96/2006) an einen landwirtschaftlichen Betrieb gebunden: Betreiber ist ein Landwirt, die Landwirtschaft muss die Haupttätigkeit bleiben. Details (z. B. eigene Produkte, Bettenzahl) regeln die Regionen. |
+| DACH-Bedürfnis | Italien-Sommer wird im Januar/Februar geplant. Zuschauer wissen, was sie bei „Agriturismo“ erwarten können. |
+| Emotion | Aha, Vorfreude |
+| Payoff | Agriturismo heißt: Betreiber ist Landwirt, und die Landwirtschaft bleibt die Hauptsache. Nicht jedes Landhotel darf sich so nennen – Komfort und Ausstattung sind trotzdem sehr unterschiedlich. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Nicht jedes Landhotel in Italien darf sich Agriturismo nennen. | 9 | Klarer Insider-Satz. |
+| ★ Überraschung | Ein Agriturismo muss in Italien per Gesetz an einen Bauernhof gebunden sein. | 8 | Konkret; nüchtern. |
+| Mystery | Hinter dem Wort Agriturismo steckt ein italienisches Gesetz. | 7 | Trocken. |
+| Frage | Weißt du, was ein Agriturismo wirklich ist? | 6 | Abgenutzt. |
+| Mini-Story | Olivenhain, Frühstück vom eigenen Hof – und der Gastgeber ist Landwirt. So will es das Gesetz. | 8 | Stimmungsvoll, etwas lang. |
+
+Sieger: „Ein Agriturismo muss in Italien per Gesetz an einen Bauernhof gebunden sein.“ – „Per Gesetz“ macht aus einem Urlaubswort eine überprüfbare Regel – genau das Reisebüro-Wissen, das zum Folgen motiviert.
+Startbild 0–2 s: Toskanische Hügel mit Zypressen und Bauernhaus. Overlay „Per Gesetz ein Bauernhof“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Toskana.
+
+- Regel (3–12 s): „In Italien regelt das Gesetz Nr. 96 von 2006 den Agriturismo: Betreiber muss ein Landwirt sein.“
+
+- Kern (12–19 s): „Und die Landwirtschaft muss die Haupttätigkeit bleiben – Gäste kommen dazu, nicht umgekehrt.“
+
+- Detail (19–26 s): „Wie viele Betten oder eigene Produkte, legen die Regionen fest.“
+
+- Nutzen (26–31 s): „Heißt für dich: Hinter jedem Agriturismo steht ein landwirtschaftlicher Betrieb – vom einfachen Hof bis zum Komforthaus.“
+
+- Schluss (31–35 s): „Nächsten Freitag, im Staffelfinale: Warum der Sand auf Kreta rosa schimmert.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Agriturismo: per Gesetz Hof | Toskana-Hügel, „Hof“ gelb |
+| 2 | Nicht jedes Landhotel | Zypressen-Allee |
+| 3 | Was Agriturismo heißt | Bauernhaus im Abendlicht |
+
+Warum folgen: Freitags Hotelkonzepte, die du vor der Buchung kennen solltest.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Toskana-Totale, Overlay „Per Gesetz ein Bauernhof“. | „Agriturismo ≠ Landhotel“ als Text. |
+| Overlay | Agriturismo = Bauernhof? | Agriturismo ≠ Landhotel |
+| Suchbegriffe | Agriturismo was ist das, Agriturismo Toskana, Urlaub auf dem Bauernhof Italien | Agriturismo |
+
+Caption Instagram:
+Reisewissen #12: Ein Agriturismo ist in Italien gesetzlich an einen Bauernhof gebunden (Gesetz 96/2006): Betreiber ist Landwirt, die Landwirtschaft bleibt Haupttätigkeit. Details regeln die Regionen. 🇮🇹🌾
+#agriturismo #toskana #italien #italienurlaub #hotelkonzept #reisewissen
+Caption TikTok: Das sagt das Gesetz 🇮🇹 #agriturismo #italien #toskana
+Stock · Suche: tuscany countryside aerial, tuscany cypress road, italian farmhouse vineyard · Kandidaten: Pexels 36746045 (Toskana, Luft); Pexels 36730009 (Toskana im Sommer); Pexels 31569999 (Zypressenweg) · Rechte/Hürden: Kein bestimmter Hof als „Agriturismo“ bezeichnen, wenn der Clip ihn nicht nachweislich zeigt.
+Fakten gesichert: Gesetz 96/2006 Art. 2 und 4: Landwirt, Verbindung zum Betrieb, Landwirtschaft „prevalente“; Regionen regeln Details; Teile durch Verfassungsgericht 2007 aufgehoben (Gesetzestext)
+Vor Posting prüfen: Nicht „überall gleiche Regeln“ sagen · „Prevalente“ bezieht sich v. a. auf die Arbeitszeit; regionale Unterschiede nicht pauschalisieren
+Quellen: formazionelavoro.regione.emilia-romagna.it
+Scorecard Redaktion: Hook 9 · Follow 9 · Spannung 7 · DACH 9 · WOW 8 · Originalität 8 · Share/Save 9 · Produktion 9 → 8,50. Starker Insider-Nutzwert für Italien-Sommer; Spannung naturgemäß geringer.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 5 · Follow 7 · Spannung 4 · DACH 7 · WOW 6 · Originalität 6 · Share/Save 6 · Produktion 9 → 6,00. Stärke: Nützliches, wenig bekanntes Hotelkonzept-Wissen zur Italien-Planungszeit. Schwäche: Hook trocken, kein Spannungsbogen; Gesetzesnummer bremst, generische Toskana-Bilder.
+Konsens 7,25 < 8 → Nacharbeit: Hook mit Szene („Pool, Spa – und trotzdem Bauernhof?“); Gesetzesnummer nur als Overlay; Unterschied Landhotel/Agriturismo konkret zeigen. Umgesetzt in diesem Stand: „Echter Bauernhof“ relativiert, Nutzen-Satz neu. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 13 · 01.02.–05.02.2027
+
+### Reel 37 · Mo 01.02.2027 · Fakt oder Fake? #13
+Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale · Spanien (Mallorca) · Cluster: Natur-WOW · Redaktion 8,40 · Zweitbewertung 7,00 · Konsens 7,70 / 10
+
+| Feld | Inhalt |
+| Thema | An zwei Tagen im Jahr, am 2. Februar und am 11. November, projiziert die aufgehende Sonne das Licht der östlichen Rosette unter die westliche Rosette der Kathedrale La Seu – es entsteht eine „Acht“ aus Licht, sofern der Himmel klar ist. |
+| DACH-Bedürfnis | Mallorca ist die Lieblingsinsel der Deutschen. Ein Termin-Phänomen, das am Tag nach dem Posting stattfindet, ist sofort teilbar. |
+| Emotion | Staunen, Dringlichkeit |
+| Payoff | Fakt – aber nur am 2. Februar und 11. November, früh am Morgen und nur bei klarem Himmel. |
+| Länge · Aufwand | ca. 33–35 s · mittel (Illustration) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Am Dienstag, 2. Februar, malt die Sonne eine Acht in diese Kathedrale – und dann erst wieder im November. | 9 | Dringlichkeit plus Seltenheit. |
+| Überraschung | Nur an zwei Tagen im Jahr erscheint in Palmas Kathedrale eine Acht aus Licht. | 8 | Klar, aber ohne „morgen“-Spannung. |
+| Mystery | In Palma passiert am 2. Februar etwas, das es nur zweimal im Jahr gibt. | 8 | Neugierig, aber vage. |
+| Frage | Fakt oder Fake: Die Sonne zeichnet in dieser Kirche eine Acht? | 8 | Serienritual für das Finale. |
+| Mini-Story | Im November 2025 schauten Hunderte Menschen in Palmas Kathedrale gebannt auf eine Wand. | 8 | Starke Szene, braucht aber Bildmaterial vom Ereignis. |
+
+Sieger: „Am Dienstag, 2. Februar, malt die Sonne eine Acht in diese Kathedrale – und dann erst wieder im November.“ – Der Termin am Tag nach dem Posting (2.2.) ist der stärkste Hebel: Seltenheit plus Dringlichkeit, perfekt zum Weiterschicken an Mallorca-Fans.
+Startbild 0–2 s: Kathedrale von Palma vom Meer aus im Morgenlicht. Overlay „Di., 2. Februar“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Kathedrale.
+
+- Kontext (3–9 s): „La Seu, die Kathedrale von Palma.“ Luftbild mit Küste.
+
+- Erklärung (9–20 s): Eigene Illustration: Rosette Ost, Sonnenstrahl, Lichtkreis unter Rosette West = Acht. Overlay „Illustration“.
+
+- Bedingung (20–27 s): „Das klappt nur am 2. Februar und 11. November, früh morgens – und nur, wenn keine Wolke dazwischenkommt.“
+
+- Auflösung (27–31 s): „Fakt. Also: Am Dienstag früh in Palma? Dann hin da.“
+
+- Schluss (31–35 s): „Das war Fakt oder Fake, Staffel eins. Welche Folge war deine liebste?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | 2. Februar: Acht aus Licht | Kathedrale im Morgenlicht, „Acht“ gelb |
+| 2 | Nur 2 Tage im Jahr | Kathedrale vom Meer |
+| 3 | Fakt oder Fake #13 | Rosetten-Illustration in Markenfarben |
+
+Warum folgen: Finale der ersten Staffel „Fakt oder Fake?“ – Hinweis, dass die nächste Staffel startet.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Kathedrale vom Meer, Overlay „Di., 2. Februar“ ab Sekunde 0. | „Dienstag auf Mallorca 👀“ als nativer Text, Kathedrale. |
+| Overlay | 2. Februar: Acht aus Licht | Nur 2x im Jahr auf Mallorca |
+| Suchbegriffe | Palma Kathedrale Lichtspiel, Licht-Acht Palma, Mallorca 2. Februar | Palma Kathedrale, Mallorca Geheimtipp |
+
+Caption Instagram:
+Fakt oder Fake #13: Am 2. Februar und am 11. November zeichnet die aufgehende Sonne in der Kathedrale von Palma eine Acht aus Licht – wenn der Himmel klar ist. Schick das deinen Mallorca-Leuten ☀️
+#mallorca #palma #kathedrale #laseu #faktoderfake #reisewissen
+Caption TikTok: Dienstag früh in Palma ☀️ #mallorca #palma #lichtspiel #faktoderfake
+Stock · Suche: palma cathedral aerial, palma de mallorca cathedral sunrise, la seu palma · Kandidaten: Pexels 32952219 (Kathedrale Palma, Luft); Pexels 30115226 (Kathedrale Palma); Pexels 32951982 (Kathedrale mit Küste) · Rechte/Hürden: Kein freier Clip des Lichtphänomens gefunden: Die Acht als eigene, gekennzeichnete Illustration zeigen. Bei klarem Himmel am 2.2. keine fremden Social-Clips verwenden.
+Fakten gesichert: Licht-Acht am 2. Februar und 11. November bei Sonnenaufgang, abhängig vom Wetter (Mallorca Magazin, mehrere Jahrgänge) · Rosette mit 11,38 m Durchmesser (Mallorca Magazin 2024)
+Vor Posting prüfen: Öffnungszeit der Kathedrale am 2.2.2027
+Quellen: mallorcamagazin.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 10 · WOW 7 · Originalität 9 · Share/Save 8 · Produktion 6 → 8,40. Einzigartig, terminiert, Kernziel Mallorca. Schwachpunkt: das Phänomen selbst nur als Illustration.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 6 · Spannung 6 · DACH 9 · WOW 5 · Originalität 8 · Share/Save 7 · Produktion 6 → 7,00. Stärke: Seltenes, kaum bekanntes Phänomen auf der Lieblingsinsel, echte Dringlichkeit. Schwäche: Kein Clip des Phänomens – Payoff nur Illustration; „morgen“ ist für spätere Zuschauer falsch.
+Konsens 7,70 < 8 → Nacharbeit: Zwei bis drei Tage vorher posten, „2. Februar“ statt „morgen“; Nutzungsrecht für echtes Foto des Lichteffekts anfragen. Umgesetzt in diesem Stand: „Morgen“ durch „Dienstag, 2. Februar“ ersetzt – bleibt auch für spätere Zuschauer korrekt. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 38 · Mi 03.02.2027 · Was dir keiner sagt #13
+Pragser Wildsee: im Sommer nur mit Reservierung · Italien (Südtirol, Pragser Wildsee) · Cluster: Mythos/Realität · Redaktion 8,55 · Zweitbewertung 6,80 · Konsens 7,68 / 10
+
+| Feld | Inhalt |
+| Thema | Vom 1. Juli bis 15. September 2026 war die Zufahrt ins Pragser Tal zwischen 9 und 16 Uhr mit Auto, Motorrad, Wohnmobil oder Bus nur mit Online-Reservierung oder Durchfahrtsgenehmigung möglich; ohne Reservierung kam man zu Fuß, mit dem Rad oder dem Bus (ebenfalls mit Reservierung). Vor 9 und nach 16 Uhr ging es ohne Reservierung, solange Parkplätze frei waren. Der See selbst ist kostenlos. Die Regeln für 2027 werden noch veröffentlicht. |
+| DACH-Bedürfnis | Südtirol-Sommer wird im Februar gebucht; der Pragser Wildsee ist für D/A/CH einer der meistbesuchten Seen. Wer die Regeln kennt, steht nicht vor der Schranke. |
+| Emotion | Vorbereitung, Erleichterung |
+| Payoff | Im Sommer zwischen 9 und 16 Uhr nur mit Reservierung ins Tal. Früh oder spät geht es ohne – und der See selbst kostet nichts. |
+| Länge · Aufwand | ca. 33–35 s · niedrig (Stand 2027 prüfen) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Der See kostet nichts. Die Zufahrt im Hochsommer schon – und nur mit Reservierung. | 8 | Gut, aber lang. |
+| ★ Überraschung | Seit einigen Jahren kommst du hier im Hochsommer tagsüber nur mit Reservierung ins Tal. | 9 | Zeitlich korrekt, sofort Nutzwert. |
+| Mystery | Wer im Sommer 2026 um zehn Uhr ohne Reservierung kam, musste umdrehen. | 8 | Konkretes Szenario, als Vergangenheit belegt. |
+| Frage | Brauchst du für den Pragser Wildsee eine Reservierung? | 8 | Suchstark, Nutzwert. |
+| Mini-Story | Du fährst ins Tal, freust dich auf die Ruderboote – und an der Kontrolle ist Schluss. | 7 | Gutes Bild, aber Szenario. |
+
+Sieger: „Seit einigen Jahren kommst du hier im Hochsommer tagsüber nur mit Reservierung ins Tal.“ – „Seit einigen Jahren“ ist belegt (Plan Prags) und gilt für die Planung 2027, ohne die noch nicht veröffentlichten Regeln vorwegzunehmen.
+Startbild 0–2 s: Pragser Wildsee mit Spiegelung am Morgen. Overlay „Hochsommer: nur mit Reservierung“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über dem See.
+
+- Regel (3–11 s): „Im Sommer 2026 galt: vom 1. Juli bis 15. September, zwischen 9 und 16 Uhr, nur mit Online-Reservierung oder Genehmigung ins Pragser Tal.“
+
+- Alternative (11–18 s): „Ohne Auto-Reservierung kommst du zu Fuß, mit dem Rad oder dem Bus – auch der Bus wird dann vorab gebucht.“
+
+- Tipp (18–25 s): „Vor 9 und nach 16 Uhr geht es ohne Reservierung, solange Parkplätze frei sind. Und morgens ist das Licht am schönsten.“
+
+- Ehrlich (25–30 s): „Die Regeln für 2027 kommen noch – vor der Reise auf der offiziellen Seite des Pragser Tals prüfen.“
+
+- Finale (30–35 s): „Das war ‚Was dir keiner sagt‘, Staffel eins. Welche Regel sollen wir als Nächstes erklären?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Reservierung nicht vergessen | See mit Spiegelung, „Reservierung“ gelb |
+| 2 | Pragser Wildsee: die Regel | Bootshaus am See |
+| 3 | Früh kommen lohnt sich | See im Morgenlicht |
+
+Warum folgen: Staffelfinale mit Frage an die Community – Themenwünsche für Staffel 2.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | See-Spiegelung, Overlay „Hochsommer: nur mit Reservierung“. | „Das gilt hier im Hochsommer 👇“ über See. |
+| Overlay | Hochsommer: nur mit Reservierung | Das gilt hier im Hochsommer |
+| Suchbegriffe | Pragser Wildsee Reservierung, Pragser Wildsee Zufahrt, Lago di Braies Parken | Pragser Wildsee |
+
+Caption Instagram:
+Was dir keiner sagt #13: Am Pragser Wildsee galt im Sommer 2026 (1.7.–15.9., 9–16 Uhr): Zufahrt ins Tal nur mit Online-Reservierung. Früh oder spät geht es ohne, der See selbst ist kostenlos. Regeln 2027 vor der Reise prüfen. Welche Regel sollen wir als Nächstes erklären? 🇮🇹
+#pragserwildsee #lagodibraies #südtirol #dolomiten #reisetipps #wasdirkeinersagt
+Caption TikTok: Das musst du vorher wissen 🏔️ #pragserwildsee #südtirol #reisetipps
+Stock · Suche: lago di braies drone, lake braies reflection, braies boathouse · Kandidaten: Pexels 15708467 (Pragser Wildsee, Drohne); Pexels 28963732 (Bergsee in den Dolomiten, Ort prüfen); Pexels 25858228 (Bergsee mit Spiegelung, Ort prüfen) · Rechte/Hürden: Nur 15708467 ist eindeutig als Pragser Wildsee gekennzeichnet – andere Clips vor Verwendung abgleichen. Keine Ticket-/Schranken-Fremdbilder.
+Fakten gesichert: 2026: 1.7.–15.9., 9–16 Uhr Zufahrt nur mit Online-Reservierung/Durchfahrtsgenehmigung; Bus mit Reservierung; See kostenlos (suedtirol.com, dolomiti.it, ÖAMTC 31.08.2026) · Außerhalb 9–16 Uhr ohne Reservierung, sofern Parkplätze frei (stol.it) · „Plan Prags“ mit Zufahrtsbeschränkung seit einigen Jahren, früher 10.7.–10.9. (stol.it)
+Vor Posting prüfen: Regeln und Preise 2027 auf prags.bz vor Posting · Keine Preise nennen
+Quellen: suedtirol.com · dolomiti.it · stol.it
+Scorecard Redaktion: Hook 9 · Follow 9 · Spannung 7 · DACH 10 · WOW 9 · Originalität 6 · Share/Save 9 · Produktion 9 → 8,55. Sehr hoher DACH-Nutzwert zur Buchungszeit; Thema bekannt, daher Originalität 6.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 5 · DACH 9 · WOW 8 · Originalität 5 · Share/Save 8 · Produktion 8 → 6,80. Stärke: Konkretes Szenario, hoher Nutzwert für Südtirol-Sommerplanung. Schwäche: Hook stellt die 2026-Regel als gültig für den kommenden Sommer dar; Regelinfo ohne Wendung.
+Konsens 7,68 < 8 → Nacharbeit: Hook mit „zuletzt“ oder „2026“ absichern; Früh-kommen-Tipp (ohne Reservierung, bestes Licht) zum Payoff machen. Umgesetzt in diesem Stand: Hook mit „seit einigen Jahren“ belegt, keine Präsens-Behauptung für 2027; Covers angepasst. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 39 · Fr 05.02.2027 · Reisewissen in 30 Sekunden #13
+Warum der Sand auf Elafonisi rosa schimmert · Griechenland (Kreta) / Italien (Sardinien) · Cluster: Natur-WOW · Redaktion 8,30 · Zweitbewertung 5,65 · Konsens 6,98 / 10
+
+| Feld | Inhalt |
+| Thema | Der rosa Schimmer in Elafonisi auf Kreta stammt von zerriebenen Schalen winziger Meeres-Einzeller (Foraminiferen). Der Strand ist Natura-2000-Gebiet, Sand mitnehmen ist verboten. Die Spiaggia Rosa auf Budelli (Sardinien) darf seit 1998 nicht mehr betreten werden. |
+| DACH-Bedürfnis | Kreta ist eines der wichtigsten Sommerziele; im Februar wird gebucht. Zuschauer verstehen den Strand und schützen ihn. |
+| Emotion | Staunen, Verantwortung |
+| Payoff | Rosa durch winzige Einzeller – deshalb bleibt der Sand am Strand. Auf Sardinien zeigt Budelli, was sonst passieren kann: Dort darf seit 1998 niemand mehr an Land. |
+| Länge · Aufwand | ca. 34–36 s · mittel (Material knapp) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Rosa Sand – auf Kreta kannst du ihn sehen, auf Sardinien nur noch aus der Ferne. | 8 | Gut, aber zwei Orte im Hook. |
+| Überraschung | Der rosa Schimmer in Elafonisi stammt von winzigen Meereslebewesen. | 9 | Klare Überraschung. |
+| Mystery | Diesen Sand darfst du nicht mit nach Hause nehmen – und das hat einen Grund. | 8 | Neugierig mit Regel. |
+| ★ Frage | Warum ist der Sand auf Elafonisi rosa? | 9 | Serie „Warum“, suchstark. |
+| Mini-Story | Auf Sardinien gab es einen rosa Strand, den heute niemand mehr betreten darf. Auf Kreta gibt es noch einen. | 8 | Gute Spannung, etwas lang. |
+
+Sieger: „Warum ist der Sand auf Elafonisi rosa?“ – Staffelfinale der Warum-Serie: die Frage ist suchstark, das Bild liefert das Rätsel, die Antwort überrascht.
+Startbild 0–2 s: Elafonisi-Strand mit flachem türkisem Wasser und rosa Rändern. Overlay „Warum rosa?“.
+Beats & Bildfolge (ca. 34–36 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Strand.
+
+- Auflösung (3–11 s): „Der Schimmer stammt von zerriebenen Kalkschalen winziger Meeres-Einzeller – sogenannter Foraminiferen.“
+
+- Ehrlich (11–16 s): „Rosa ist der Sand nur stellenweise – Fotos übertreiben oft.“
+
+- Regel (16–23 s): „Elafonisi ist Schutzgebiet. Sand mitnehmen ist verboten.“
+
+- Warnung (23–31 s): Kartengrafik Sardinien: „Auf Sardinien gibt es den rosa Strand von Budelli – seit 1998 darf ihn niemand mehr betreten.“
+
+- Finale (31–36 s): „Das war Reisewissen, Staffel eins. Welche Frage sollen wir in Staffel zwei beantworten?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Warum rosa? | Elafonisi-Ufer, „rosa“ gelb |
+| 2 | Rosa Sand aus Einzellern | Nahaufnahme Sandufer |
+| 3 | Diesen Sand nicht mitnehmen | Strand mit flachem Wasser |
+
+Warum folgen: Staffelfinale mit Frage an die Community – Ideen für Staffel 2.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Strand-Totale, Overlay „Warum rosa?“. | „Rosa Sand ohne Filter? 🤔“ als Text. |
+| Overlay | Warum rosa? | Rosa Sand ohne Filter? |
+| Suchbegriffe | Elafonisi rosa Sand, Kreta schönste Strände, Elafonisi Tipps | Elafonisi |
+
+Caption Instagram:
+Reisewissen #13: Warum schimmert der Sand auf Elafonisi rosa? Winzige Meeres-Einzeller (Foraminiferen) – deshalb ist Sand mitnehmen verboten. Auf Sardinien darf der rosa Strand von Budelli seit 1998 gar nicht mehr betreten werden. 🇬🇷
+#kreta #elafonisi #griechenland #rosastrand #reisewissen #naturschutz
+Caption TikTok: Warum Elafonisi rosa ist 🇬🇷 #kreta #elafonisi #reisewissen
+Stock · Suche: elafonisi beach crete, elafonisi pink sand, crete lagoon shallow water · Kandidaten: Pixabay 168759 (Elafonisi); Pixabay 168760 (Elafonisi) · Rechte/Hürden: Nur zwei freie Clips gefunden – ggf. ein Abo-Clip (Storyblocks/Envato) nötig. Keine übersättigten Farben; Budelli nur als Kartengrafik.
+Fakten gesichert: Foraminiferen; Natura 2000; Sandmitnahme verboten (crete.direct) · Budelli: Zone A seit 1998, kein Anlanden (cultura.gov.it, sardegnaturismo)
+Vor Posting prüfen: Keine Bußgeldhöhe nennen · Autoverbot 2023 nur nach Detailprüfung erwähnen · Budelli-Sperrjahr (1998) mit zweiter Quelle bestätigen · Vor Freigabe rosa Detailclip lizenzieren
+Quellen: crete.direct · idese.cultura.gov.it · sardegnaturismo.it
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 7 → 8,30. Kernziel Kreta, gute Erklärung; Stocklage dünn (Pixabay), deshalb Produktion 7.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 5 · Follow 6 · Spannung 5 · DACH 7 · WOW 6 · Originalität 5 · Share/Save 6 · Produktion 5 → 5,65. Stärke: Kreta-Relevanz zur Buchungszeit, ehrlicher Hinweis gegen Fotoübertreibung. Schwäche: Schwacher Frage-Hook, Antwort bei Sekunde 3; nur zwei freie Clips, Rosa im Bild unsicher.
+Konsens 6,98 < 8 → Nacharbeit: Budelli-Kontrast als Hook („Diesen rosa Strand darf niemand mehr betreten“); vor Freigabe rosa Detailclip lizenzieren. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.

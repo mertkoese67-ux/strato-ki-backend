@@ -1,0 +1,109 @@
+
+# haydi-weg Reel-Masterplan 09.11.2026–05.02.2027
+ · 
+
+## Strategischer Überblick
+Der neue Plan tauscht „schöne Orte“ gegen „Orte mit einer Wendung, die man vor der nächsten Reise wissen will“. Jedes der 39 Reels hat eine prüfbare Behauptung, eine Auflösung im Video und einen DACH-Anker; 29 von 39 spielen in Europa, der Türkei oder Ägypten, 4 sind ortsunabhängiges Flug- und Buchungswissen, 6 sind Fernziele.
+Follow-Versprechen (überall identisch): „haydi-weg zeigt dir die Orte, Fakten und Reise-Irrtümer, die du vor deiner nächsten Buchung kennen solltest, erklärt von Reiseprofis seit 2014.“
+Qualitätsstand, ehrlich: Redaktion Ø 8,34 · unabhängige, strenge Zweitbewertung Ø 6,50 · Konsens Ø 7,42. Kein Reel liegt im Konsens bei 8/10. Jedes Reel hat deshalb eine konkrete Nacharbeit; freigegeben wird erst nach Nacharbeit, Vortags-Prüfung der Fakten und Higgsfield-Vorabcheck > 80. Am schwächsten ist die Freitagsserie (Reisewissen). Details in Tab 7.
+
+### Drei feste Serien
+
+| Tag | Serie | Versprechen an den Zuschauer | Typische Emotion |
+| Montag | Fakt oder Fake? (Folge #1–#13) | Eine Behauptung über einen echten Ort, Auflösung im Video | Staunen, Rechthaben-Wollen |
+| Mittwoch | Was dir keiner sagt (#1–#13) | Regeln, Irrtümer und Hotelkonzepte, die vor Ort überraschen | Ärger vermeiden, Insider sein |
+| Freitag | Reisewissen in 30 Sekunden (#1–#13) | Ein „Warum?“ zu Reise, Flug oder Ort, verständlich erklärt | Aha, Weitererzählen |
+
+### Themenmix
+
+| Cluster | Reels | Beispiele |
+| Natur-WOW und ungewöhnliche Orte | 1 0 | Düden-Wasserfall, Lençóis, Plitvice, Rheinfall, Navagio |
+| Mythen und Realität | 11 | Nordlicht-Garantie, Kelingking, Maya Bay, Katalogdeutsch |
+| Reisewissen (Flug, Klima, Kalender) | 7 | Flugrouten, Flugzeugessen, Kanaren im Winter, Brückentage 2027 |
+| Reisegeschichten | 6 | Meteora, Pyramiden, Ephesus, Trulli, Weihnachtsmarkt |
+| Erstaunliche Hotelkonzepte | 5 | Malediven-Gästehäuser, Höhlenhotels, Riad, Paradores, Agriturismo |
+
+Geografie: Türkei 6, Italien 5, Spanien 4, Griechenland 3, Ägypten 2, Schweiz 2, Malediven 2, Österreich 1, Deutschland 2, Portugal, Kroatien, Thailand, Indonesien, Brasilien, Marokko und Lappland je 1–2, dazu 4 ortsunabhängige Wissens-Reels. Nie zwei Reels aus demselben Land direkt hintereinander, höchstens 2 Arktis-Reels, kein Ziel mit Reisewarnung zum Stand 06.11.2026.
+
+### Was gegenüber dem alten Plan anders ist
+- Material zuerst geprüft: Für jedes Thema wurden Pexels und Pixabay nach Clips des exakten Ortes durchsucht. Themen ohne auffindbares, korrekt zuordenbares Material (Waitomo, ICEHOTEL, Zao, Abu Simbel, Grüner See, La Geria, Sørvågsvatn) wurden gestrichen.
+
+- Kein Ultra-Luxus-Hotel mehr: Hotelkonzepte statt Einzelhotels, damit generisches Stockmaterial reicht und kein Hotelname gebraucht wird.
+
+- Jede Folge hat eine Nummer und kündigt die nächste an; Profilname und Bio müssen dasselbe Versprechen tragen (siehe Tab „KPI & Tests“).
+
+- Keine Buchungsaufforderung bis 31.12.2026. Ab Februar 2027 höchstens eine dezente Zeile wie „Fragen zur Reise? Wir beraten seit 2014.“ im Profil, nicht im Reel.
+
+## 13-Wochen-Kalender
+Alle Termine per Kalenderrechnung geprüft. Konsens = Mittel aus Redaktions- und Zweitbewertung; ★ = fertiges Skriptpaket in Tab 5.
+
+| Nr | Datum | Serie & Folge | Titel | Ziel | Cluster | Konsens |
+| 01 | Mo 09.11.2026 | FoF #1 | Der Wasserfall, der direkt ins Meer stürzt | Türkei (Antalya) | Natur-WOW | 7,25 |
+| 02 | Mi 11.11.2026 | WDKS #1 | Malediven ohne Resort – erlaubt, aber ohne Alkohol | Malediven | Hotelkonzept | 7,25 |
+| 03 | Fr 13.11.2026 | RW #1 | Warum Flüge nach Amerika nach Norden fliegen | ortsunabhängig (Flug DACH–Nordamerika) | Reisewissen | 6,90 |
+| 04 | Mo 16.11.2026 | FoF #2 | Stammt das Matterhorn aus Afrika? ★ | Schweiz (Zermatt) | Natur-WOW | 7,72 |
+| 05 | Mi 18.11.2026 | WDKS #2 | Kein Hotel kann dir Nordlichter garantieren | Finnisch-Lappland | Mythos/Realität | 7,42 |
+| 06 | Fr 20.11.2026 | RW #2 | Warum es auf den Kanaren im Januar 21 Grad hat ★ | Spanien (Kanaren) | Reisewissen | 7,50 |
+| 07 | Mo 23.11.2026 | FoF #3 | Die Wüste, in der es mehr regnet als bei uns | Brasilien (Maranhão) | Natur-WOW | 7,47 |
+| 08 | Mi 25.11.2026 | WDKS #3 | In Pamukkale musst du barfuß gehen | Türkei (Pamukkale) | Mythos/Realität | 7,27 |
+| 09 | Fr 27.11.2026 | RW #3 | Warum Tomatensaft im Flugzeug besser schmeckt | ortsunabhängig (Flug) | Reisewissen | 6,93 |
+| 10 | Mo 30.11.2026 | FoF #4 | Wo steht der älteste Weihnachtsmarkt? ★ | Deutschland/Österreich (Dresden, Bautzen, Wien) | Reisegeschichte | 7,83 |
+| 11 | Mi 02.12.2026 | WDKS #4 | Meerseite heißt nicht Meerblick ★ | ortsunabhängig (Hotelbeschreibungen) | Mythos/Realität | 7,93 |
+| 12 | Fr 04.12.2026 | RW #4 | Rotes Meer: im Winter badewarm – und extra salzig ★ | Ägypten (Rotes Meer) | Reisewissen | 7,50 |
+| 13 | Mo 07.12.2026 | FoF #5 | Seen, die ihre Dämme selbst bauen | Kroatien (Plitvicer Seen) | Natur-WOW | 7,53 |
+| 14 | Mi 09.12.2026 | WDKS #5 | Venedig will 2027 an 72 Tagen Eintritt | Italien (Venedig) | Mythos/Realität | 7,42 |
+| 15 | Fr 11.12.2026 | RW #5 | Warum man in Kappadokien in Felsen schläft | Türkei (Kappadokien) | Hotelkonzept | 7,33 |
+| 16 | Mo 14.12.2026 | FoF #6 | Spaniens höchster Berg steht nicht auf dem Festland | Spanien (Teneriffa) / Deutschland | Natur-WOW | 7,35 |
+| 17 | Mi 16.12.2026 | WDKS #6 | 740 Einwohner, bis zu 10.000 Besucher | Österreich (Hallstatt) | Mythos/Realität | 7,33 |
+| 18 | Fr 18.12.2026 | RW #6 | Der Fenster-Mythos der Luftfahrt stimmt nur halb | ortsunabhängig (Flug) | Reisewissen | 6,35 |
+| 19 | Mo 21.12.2026 | FoF #7 | Unter Istanbul steht Medusa auf dem Kopf | Türkei (Istanbul) | Reisegeschichte | 7,25 |
+| 20 | Mi 23.12.2026 | WDKS #7 | Bali-Strand: Gericht streitet über einen Glasaufzug | Indonesien (Nusa Penida) | Mythos/Realität | 7,28 |
+| 21 | Fr 25.12.2026 | RW #7 | Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr | Finnland (Rovaniemi) | Reisewissen | 7,47 |
+| 22 | Mo 28.12.2026 | FoF #8 | Häuser, die man schnell abreißen konnte? | Italien (Apulien, Alberobello) | Reisegeschichte | 7,45 |
+| 23 | Mi 30.12.2026 | WDKS #8 | Im Riad hast du keinen Ausblick – mit Absicht | Marokko (Marrakesch) | Hotelkonzept | 7,47 |
+| 24 | Fr 01.01.2027 | RW #8 | Brückentage 2027: so holst du das Maximum raus | Deutschland (NRW, Niedersachsen) | DACH-Saison | 7,18 |
+| 25 | Mo 04.01.2027 | FoF #9 | Die Pyramiden sahen früher anders aus | Ägypten (Gizeh) | Reisegeschichte | 7,33 |
+| 26 | Mi 06.01.2027 | WDKS #9 | Ob dein Ballon startet, entscheidet eine Flagge ★ | Türkei (Kappadokien) | Mythos/Realität | 7,93 |
+| 27 | Fr 08.01.2027 | RW #9 | Übernachten mitten in der Alhambra | Spanien (Granada) | Hotelkonzept | 7,23 |
+| 28 | Mo 11.01.2027 | FoF #10 | Liegt der größte Wasserfall Europas in der Schweiz? ★ | Schweiz (Schaffhausen) | Natur-WOW | 7,75 |
+| 29 | Mi 13.01.2027 | WDKS #10 | Der Filmstrand, an dem Baden verboten ist | Thailand (Koh Phi Phi Leh) | Mythos/Realität | 7,35 |
+| 30 | Fr 15.01.2027 | RW #10 | Bis in die 1920er kam man nur per Netz hinauf | Griechenland (Meteora) | Reisegeschichte | 7,40 |
+| 31 | Mo 18.01.2027 | FoF #11 | Wenn Fische Strand machen | Malediven | Natur-WOW | 7,55 |
+| 32 | Mi 20.01.2027 | WDKS #11 | Das Drehkreuz auf der Seceda ★ | Italien (Südtirol, Seceda) | Mythos/Realität | 7,80 |
+| 33 | Fr 22.01.2027 | RW #11 | Die Hafenstadt, die das Meer verloren hat | Türkei (Ephesus) | Reisegeschichte | 7,40 |
+| 34 | Mo 25.01.2027 | FoF #12 | Ein Strand soll wachsen – für ein Wrack ★ | Griechenland (Zakynthos) | Natur-WOW | 7,90 |
+| 35 | Mi 27.01.2027 | WDKS #12 | Die Höhle, in der du nicht an Land darfst ★ | Portugal (Algarve) | Mythos/Realität | 7,65 |
+| 36 | Fr 29.01.2027 | RW #12 | Agriturismo: per Gesetz an einen Hof gebunden | Italien (Toskana/Apulien) | Hotelkonzept | 7,25 |
+| 37 | Mo 01.02.2027 | FoF #13 | Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale ★ | Spanien (Mallorca) | Natur-WOW | 7,70 |
+| 38 | Mi 03.02.2027 | WDKS #13 | Pragser Wildsee: im Sommer nur mit Reservierung ★ | Italien (Südtirol, Pragser Wildsee) | Mythos/Realität | 7,68 |
+| 39 | Fr 05.02.2027 | RW #13 | Warum der Sand auf Elafonisi rosa schimmert | Griechenland (Kreta) / Italien (Sardinien) | Natur-WOW | 6,98 |
+
+FoF = Fakt oder Fake? (Montag) · WDKS = Was dir keiner sagt (Mittwoch) · RW = Reisewissen in 30 Sekunden (Freitag).
+
+## Alt vs. neu
+
+|  | Alter Plan (39 Reels) | Neuer Plan (39 Reels) |
+| Scorecard-Mittel (gleicher Bewerter) | 4,83 | 8,34 |
+| Strenge Zweitbewertung | – | 6,50 (Konsens 7,42) |
+| Reels mit gesperrtem Material/Ort | 16 | 0 gesperrt; 6 Clip-Lücken mit Budgetplan |
+| Kalender | Woche 8 mit falschem Jahr (Reel 24) | alle 39 Termine geprüft, 2027 korrekt |
+| Serienlogik | keine festen Formate | 3 Serien mit Folgennummer und konkretem Teaser |
+| DACH-Bezug | überwiegend Fernziele und Luxushotels | 29 Reels in Europa/Türkei/Ägypten, 4 ortsunabhängig, 6 Fernziele |
+| Fakten | mehrere ungeprüfte Behauptungen | jede Behauptung mit Quelle oder als „prüfen“ markiert |
+
+Was konkret besser ist: jedes Reel hat eine prüfbare Wendung statt nur eines schönen Bildes; die Serien geben einen Grund zu folgen; alle Orte sind mit freiem, korrekt zuordenbarem Material belegt; Ferien- und Feiertagsthemen bleiben bei NRW und Niedersachsen.
+Verbleibende Risiken: Die unabhängige Zweitbewertung sieht kein Reel bei 8/10 – viele Themen sind in Reisereels schon verbreitet, Stockbilder bleiben oft generisch. Gegenmittel: die Nacharbeit je Reel, der Higgsfield-Vorabcheck und die Tests in Tab 6. Mehrere Reels hängen an Regeln, die sich bis zum Posting ändern können (Venedig, Navagio, Seceda, Pragser Wildsee, Maya Bay) – sie werden am Vortag geprüft. Bei sechs Reels fehlt noch ein Schlüsselclip (Tab 7, Abschnitt 7).
+
+## Aufbau und Dateien
+
+| Tab / Datei | Inhalt |
+| 1 Überblick & Kalender | Strategie, Serien, Themenmix, 13-Wochen-Kalender, Alt vs. neu |
+| 2 Briefings Woche 1–4 | Reels 01–12, vollständige Briefings |
+| 3 Briefings Woche 5–8 | Reels 13–24 |
+| 4 Briefings Woche 9–13 | Reels 25–39 |
+| 5 Skriptpakete Top 12 | fertige ElevenLabs-Texte, Szenenplan Satz für Satz, Cover, Stock, Faktencheck, Captions |
+| 6 KPI & Tests | Controlling, drei Szenarien mit Annahmen, Zwei-Wochen-Review, Diagnose, Testplan |
+| 7 Qualitätssicherung & Quellen | Scorecard aller 39, Zweitbewertung, Korrekturen, gestrichene Themen, offene Prüfungen, Stockprotokoll |
+| 01_haydi-weg_Masterplan.pdf | dieses Dokument als PDF (Stand 06.11.2026) |
+| 02_haydi-weg_ReelStudio_Import.xlsx / .csv / .json | eine Zeile pro Reel mit allen Feldern für den Import ins Reel-Studio; die bestehende Software wurde nicht verändert |
+

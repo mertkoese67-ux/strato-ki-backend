@@ -1,0 +1,197 @@
+
+# Qualitätssicherung & Quellen
+
+## 1 Methode
+Gewichtete Scorecard, je Kriterium 1–10: Hook 20 % · Follow-Potenzial 20 % · Spannung 15 % · DACH-Relevanz 15 % · WOW-Bild 10 % · Originalität 10 % · Share/Save 5 % · Produktion 5 %. Jedes Reel wurde zweimal bewertet: von der Redaktion (beim Schreiben) und unabhängig von einer zweiten Prüfinstanz, die nur die Briefings ohne Noten kannte und ausdrücklich streng bewerten sollte. Der Konsens ist der Mittelwert. Beide Bewertungen sind Einschätzungen, keine Messwerte – die echten Zahlen liefert erst das KPI-Controlling (Tab 6).
+
+## 2 Ergebnis in Zahlen
+
+| Kennzahl | Alter Plan (Audit) | Neuer Plan Redaktion | Neuer Plan Zweitbewertung | Neuer Plan Konsens |
+| Mittelwert | 4,83 | 8,34 | 6,50 | 7,42 |
+| Spannweite | 3,10–6,80 | 7,95–8,65 | 4,75–7,30 | 6,35–7,93 |
+| Reels ≥ 8 | 0 | 37 | 0 | 0 |
+| Reels ≥ 7 | 0 | 39 | 8 | 35 |
+
+Der alte Plan wurde im Audit mit derselben Scorecard bewertet (Bewerter wie „Redaktion“). Vergleichbar sind deshalb vor allem 4,83 → 8,34 (gleicher Bewerter). Die strenge Zweitbewertung liegt im Schnitt 1,84 Punkte darunter; ihre Hauptkritik: viele Themen sind in Reisereels schon verbreitet, Stockbilder sind oft generisch, und mehrere Reels verrieten die Auflösung zu früh. Das ist der wichtigste offene Punkt des Plans.
+Konsens nach Serie: Fakt oder Fake?: Ø 7,54 · Was dir keiner sagt: Ø 7,52 · Reisewissen in 30 Sekunden: Ø 7,19. Die Freitagsserie (Reisewissen) ist am schwächsten, vor allem die drei Flug-Themen (Reels 03, 09, 18).
+
+## 3 Alle 39 Reels – Scorecard
+
+| Nr | Datum | Serie | Titel | Redaktion | Zweitbew. | Konsens | Status |
+| 01 | Mo 09.11.26 | FoF #1 | Der Wasserfall, der direkt ins Meer stürzt | 8,20 | 6,30 | 7,25 | Nacharbeit offen |
+| 02 | Mi 11.11.26 | WDKS #1 | Malediven ohne Resort – erlaubt, aber ohne Alkohol | 8,10 | 6,40 | 7,25 | Nacharbeit offen |
+| 03 | Fr 13.11.26 | RW #1 | Warum Flüge nach Amerika nach Norden fliegen | 8,10 | 5,70 | 6,90 | Nacharbeit offen |
+| 04 | Mo 16.11.26 | FoF #2 | Stammt das Matterhorn aus Afrika? | 8,45 | 7,00 | 7,72 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 05 | Mi 18.11.26 | WDKS #2 | Kein Hotel kann dir Nordlichter garantieren | 8,25 | 6,60 | 7,42 | Nacharbeit teils umgesetzt |
+| 06 | Fr 20.11.26 | RW #2 | Warum es auf den Kanaren im Januar 21 Grad hat | 8,35 | 6,65 | 7,50 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 07 | Mo 23.11.26 | FoF #3 | Die Wüste, in der es mehr regnet als bei uns | 8,20 | 6,75 | 7,47 | Nacharbeit teils umgesetzt |
+| 08 | Mi 25.11.26 | WDKS #3 | In Pamukkale musst du barfuß gehen | 8,45 | 6,10 | 7,27 | Nacharbeit teils umgesetzt |
+| 09 | Fr 27.11.26 | RW #3 | Warum Tomatensaft im Flugzeug besser schmeckt | 7,95 | 5,90 | 6,93 | Nacharbeit offen |
+| 10 | Mo 30.11.26 | FoF #4 | Wo steht der älteste Weihnachtsmarkt? | 8,50 | 7,15 | 7,83 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 11 | Mi 02.12.26 | WDKS #4 | Meerseite heißt nicht Meerblick | 8,65 | 7,20 | 7,93 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 12 | Fr 04.12.26 | RW #4 | Rotes Meer: im Winter badewarm – und extra salzig | 8,55 | 6,45 | 7,50 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 13 | Mo 07.12.26 | FoF #5 | Seen, die ihre Dämme selbst bauen | 8,30 | 6,75 | 7,53 | Nacharbeit offen |
+| 14 | Mi 09.12.26 | WDKS #5 | Venedig will 2027 an 72 Tagen Eintritt | 8,20 | 6,65 | 7,42 | Nacharbeit offen |
+| 15 | Fr 11.12.26 | RW #5 | Warum man in Kappadokien in Felsen schläft | 8,50 | 6,15 | 7,33 | Nacharbeit offen |
+| 16 | Mo 14.12.26 | FoF #6 | Spaniens höchster Berg steht nicht auf dem Festland | 8,55 | 6,15 | 7,35 | Nacharbeit teils umgesetzt |
+| 17 | Mi 16.12.26 | WDKS #6 | 740 Einwohner, bis zu 10.000 Besucher | 8,25 | 6,40 | 7,33 | Nacharbeit teils umgesetzt |
+| 18 | Fr 18.12.26 | RW #6 | Der Fenster-Mythos der Luftfahrt stimmt nur halb | 7,95 | 4,75 | 6,35 | Nacharbeit teils umgesetzt |
+| 19 | Mo 21.12.26 | FoF #7 | Unter Istanbul steht Medusa auf dem Kopf | 8,45 | 6,05 | 7,25 | Nacharbeit offen |
+| 20 | Mi 23.12.26 | WDKS #7 | Bali-Strand: Gericht streitet über einen Glasaufzug | 8,00 | 6,55 | 7,28 | Nacharbeit offen |
+| 21 | Fr 25.12.26 | RW #7 | Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr | 8,35 | 6,60 | 7,47 | Nacharbeit offen |
+| 22 | Mo 28.12.26 | FoF #8 | Häuser, die man schnell abreißen konnte? | 8,50 | 6,40 | 7,45 | Nacharbeit offen |
+| 23 | Mi 30.12.26 | WDKS #8 | Im Riad hast du keinen Ausblick – mit Absicht | 8,35 | 6,60 | 7,47 | Nacharbeit offen |
+| 24 | Fr 01.01.27 | RW #8 | Brückentage 2027: so holst du das Maximum raus | 8,05 | 6,30 | 7,18 | Nacharbeit teils umgesetzt |
+| 25 | Mo 04.01.27 | FoF #9 | Die Pyramiden sahen früher anders aus | 8,30 | 6,35 | 7,33 | Nacharbeit teils umgesetzt |
+| 26 | Mi 06.01.27 | WDKS #9 | Ob dein Ballon startet, entscheidet eine Flagge | 8,55 | 7,30 | 7,93 | Nacharbeit offen · Skriptpaket |
+| 27 | Fr 08.01.27 | RW #9 | Übernachten mitten in der Alhambra | 8,30 | 6,15 | 7,23 | Nacharbeit offen |
+| 28 | Mo 11.01.27 | FoF #10 | Liegt der größte Wasserfall Europas in der Schweiz? | 8,55 | 6,95 | 7,75 | Nacharbeit offen · Skriptpaket |
+| 29 | Mi 13.01.27 | WDKS #10 | Der Filmstrand, an dem Baden verboten ist | 8,25 | 6,45 | 7,35 | Nacharbeit teils umgesetzt |
+| 30 | Fr 15.01.27 | RW #10 | Bis in die 1920er kam man nur per Netz hinauf | 8,30 | 6,50 | 7,40 | Nacharbeit teils umgesetzt |
+| 31 | Mo 18.01.27 | FoF #11 | Wenn Fische Strand machen | 8,35 | 6,75 | 7,55 | Nacharbeit teils umgesetzt |
+| 32 | Mi 20.01.27 | WDKS #11 | Das Drehkreuz auf der Seceda | 8,35 | 7,25 | 7,80 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 33 | Fr 22.01.27 | RW #11 | Die Hafenstadt, die das Meer verloren hat | 8,35 | 6,45 | 7,40 | Nacharbeit teils umgesetzt |
+| 34 | Mo 25.01.27 | FoF #12 | Ein Strand soll wachsen – für ein Wrack | 8,60 | 7,20 | 7,90 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 35 | Mi 27.01.27 | WDKS #12 | Die Höhle, in der du nicht an Land darfst | 8,30 | 7,00 | 7,65 | Nacharbeit offen · Skriptpaket |
+| 36 | Fr 29.01.27 | RW #12 | Agriturismo: per Gesetz an einen Hof gebunden | 8,50 | 6,00 | 7,25 | Nacharbeit teils umgesetzt |
+| 37 | Mo 01.02.27 | FoF #13 | Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale | 8,40 | 7,00 | 7,70 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 38 | Mi 03.02.27 | WDKS #13 | Pragser Wildsee: im Sommer nur mit Reservierung | 8,55 | 6,80 | 7,68 | Nacharbeit teils umgesetzt · Skriptpaket |
+| 39 | Fr 05.02.27 | RW #13 | Warum der Sand auf Elafonisi rosa schimmert | 8,30 | 5,65 | 6,98 | Nacharbeit offen |
+
+Freigaberegel für alle 39: Nacharbeit aus dem Briefing erledigt, Punkte unter „Vor Posting prüfen“ am Vortag abgehakt, Higgsfield-Vorabcheck > 80. Reels, die das nicht schaffen, werden durch ein Reserve-Thema ersetzt, nicht trotzdem gepostet.
+
+## 4 Was die Zweitbewertung im Plan verändert hat
+Die Zweitprüfung fand neben den Noten sachliche Schwächen. Sie sind in Briefings und Skripten bereits korrigiert:
+- Reel 04 (Stammt das Matterhorn aus Afrika?): Frage auf „das ganze Matterhorn“ gedreht (Antwort Fake), Auflösung von Sekunde 3 auf ca. 18 verschoben, Hebungs-Beat ersetzt, Platte präzisiert.
+
+- Reel 05 (Kein Hotel kann dir Nordlichter garantieren): Sonnenmaximum vorsichtiger formuliert.
+
+- Reel 06 (Warum es auf den Kanaren im Januar 21 Grad hat): 21 °C als mittlerer Tageshöchstwert formuliert.
+
+- Reel 07 (Die Wüste, in der es mehr regnet als bei uns): Regenmenge auf belegte ~1.200 mm reduziert; Saisonangabe als offene Prüfung markiert.
+
+- Reel 08 (In Pamukkale musst du barfuß gehen): „Baden nur im antiken Becken“ entschärft; Watbecken am Weg als offene Prüfung.
+
+- Reel 10 (Wo steht der älteste Weihnachtsmarkt?): Rekord-Institut als privat gekennzeichnet.
+
+- Reel 11 (Meerseite heißt nicht Meerblick): „Gedrehter Kopf“ als gängige Auslegung gekennzeichnet, nicht als Rechtsdefinition.
+
+- Reel 12 (Rotes Meer: im Winter badewarm – und extra salzig): Physikalischen Fehler behoben: Wärme = Lage/Sonne, Salz = kein Fluss + Verdunstung; Titel und Captions angepasst.
+
+- Reel 16 (Spaniens höchster Berg steht nicht auf dem Festland): Frage auf „Festland“ gedreht (Antwort Fake), Auflösung von Sekunde 3 auf ca. 9–16 verschoben, 3.718-Hinweis gestrichen.
+
+- Reel 17 (740 Einwohner, bis zu 10.000 Besucher): 10.000 als Medienangabe gekennzeichnet.
+
+- Reel 18 (Der Fenster-Mythos der Luftfahrt stimmt nur halb): Neuer Dreh laut Nacharbeit: Mythos-Korrektur (Dach-Ausschnitt statt Passagierfenster) statt verbrauchtem Fun Fact.
+
+- Reel 24 (Brückentage 2027: so holst du das Maximum raus): Fronleichnam nicht mehr als „NRW-Bonus“, sondern „nur NRW (nicht Niedersachsen)“; Caption für andere Länder geöffnet.
+
+- Reel 25 (Die Pyramiden sahen früher anders aus): Frage gedreht (Antwort Fake), Chephren-Spitze als Rätsel an den Anfang, Auflösung später; Aussage auf zwei Pyramiden begrenzt.
+
+- Reel 29 (Der Filmstrand, an dem Baden verboten ist): Haie nicht mehr als Grund des Badeverbots, sondern als Zeichen der Erholung.
+
+- Reel 30 (Bis in die 1920er kam man nur per Netz hinauf): „zu vielen dieser Klöster“ statt pauschal.
+
+- Reel 31 (Wenn Fische Strand machen): Hook und Payoff auf die untersuchte Insel begrenzt; Exportverbot aus dem Voice-over genommen.
+
+- Reel 32 (Das Drehkreuz auf der Seceda): Hook in die Vergangenheit gesetzt (Sommer 2025).
+
+- Reel 33 (Die Hafenstadt, die das Meer verloren hat): Entfernung mit Quelle versehen.
+
+- Reel 34 (Ein Strand soll wachsen – für ein Wrack): Hook als Plan formuliert („will verlängern“).
+
+- Reel 36 (Agriturismo: per Gesetz an einen Hof gebunden): „Echter Bauernhof“ relativiert, Nutzen-Satz neu.
+
+- Reel 37 (Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale): „Morgen“ durch „Dienstag, 2. Februar“ ersetzt – bleibt auch für spätere Zuschauer korrekt.
+
+- Reel 38 (Pragser Wildsee: im Sommer nur mit Reservierung): Hook mit „seit einigen Jahren“ belegt, keine Präsens-Behauptung für 2027; Covers angepasst.
+
+Außerdem: In der Serie „Fakt oder Fake?“ endete fast jede Folge mit „Fakt“. Nach der Überarbeitung lauten die Auflösungen: Fakt (#1, #5, #7, #11, #12, #13), Fake (#2, #3, #6, #9), „kommt drauf an“ (#4, #8, #10). Die Antwort ist damit nicht mehr vorhersehbar.
+
+## 5 Gestrichene oder ersetzte Themen
+Alle folgenden Themen wurden gestrichen, weil sich bei der Stockprüfung am 06.11.2026 kein frei lizenzierbarer, eindeutig dem Ort zuzuordnender Clip fand (Regel: bei fehlendem Material Thema ersetzen). Ersetzt wurden sie durch die Themen im Kalender, nicht eins zu eins.
+
+| Thema | Befund |
+| Waitomo-Glühwürmchenhöhlen | kein eindeutig zugeordneter freier Clip |
+| ICEHOTEL Jukkasjärvi | kein freier Clip des Hotels |
+| Schneemonster von Zao | kein eindeutig zugeordneter freier Clip |
+| Abu Simbel | kein eindeutig zugeordneter freier Clip |
+| Grüner See (Steiermark) | kein eindeutig zugeordneter freier Clip |
+| La Geria (Lanzarote) | kein eindeutig zugeordneter freier Clip |
+| Sørvågsvatn (Färöer) | kein eindeutig zugeordneter freier Clip |
+| Stille Nacht / Oberndorf | kein eindeutig zugeordneter freier Clip |
+| Kawah Ijen (blaues Feuer) | kein eindeutig zugeordneter freier Clip |
+| Landebahn Madeira | kein eindeutig zugeordneter freier Clip; Höhenangabe im Entwurf war falsch |
+| Polarlichter über Deutschland | kein freier Polarlicht-Clip mit deutschem Ort |
+| „Wüste nachts kalt“ | nur Sinai-Material gefunden; Sinai mit AA-Hinweisen – durch Rotes Meer ersetzt |
+
+## 6 Quellenlage: gesichert, Einschätzung, offen
+Gesicherte Fakten stehen in jedem Briefing unter „Fakten gesichert“ mit Quelle (Behörden, Nationalparks, Studien, etablierte Medien; Stand 06.11.2026). Sicherheitslage: Für alle Zielorte am 06.11.2026 beim Auswärtigen Amt geprüft – kein Zielort in einem Gebiet mit Reisewarnung oder Teilreisewarnung (Ägypten: Gizeh und Hurghada liegen außerhalb der Teilreisewarnung). Hinweis aus derselben Prüfung: Generalstreik in Spanien am 11.11.2026 (betrifft kein Reel direkt).
+Einschätzungen (keine Fakten): alle Scorecard-Noten, Hook-Noten, Längenangaben in Sekunden, KPI-Szenarien und Soll-Linien in Tab 6, die Auswahl der Top 12, die Aussage, welche Themen „verbreitet“ sind.
+Offene Prüfungen vor dem Posting (am Vortag erledigen):
+
+| Reel | Datum | Zu prüfen |
+| 01 | 09.11.26 | Aktuelle Bootstouren ab Hafen Antalya, die vor den Fall fahren · Keine Aussage zu Eintritt ohne Quelle |
+| 02 | 11.11.26 | Formulierung „meist eine Insel, ein Resort“ mit offizieller Quelle (visitmaldives) gegenlesen · Ausnahmen (Safariboote, Resort-Tagesausflüge) und Jahr 2009 vs. 2010 mit Primärquelle (Tourismusministerium) gegenlesen |
+| 03 | 13.11.26 | Eine konkrete Route (z. B. Frankfurt–Westküste USA) im Flugtracking-Verlauf als Beleg sichern, bevor Grönland genannt wird |
+| 04 | 16.11.26 | „Afrika“ als Afrikanisch-Adriatische Platte / afrikanischer Sporn präzisieren, nicht „Kontinent Afrika“ · Dunkle Linie: SRF-Infografik als Bildbeleg verwenden |
+| 05 | 18.11.26 | Saisonfenster für Finnisch-Lappland mit Visit Finland gegenlesen · Zeitpunkt des Sonnenmaximums als „um Ende 2024“ formulieren (wird rückwirkend bestimmt) |
+| 06 | 20.11.26 | Keine Wassertemperatur ohne Quelle nennen · 21 °C immer als Tageshöchstwert formulieren |
+| 07 | 23.11.26 | Lagunen-Saison (am vollsten um Juli, Okt.–Dez. niedrig) mit Parkverwaltung ICMBio gegenlesen · Mechanismus (undurchlässige Schicht unter dem Sand) nur nennen, wenn Quelle offen vorliegt |
+| 08 | 25.11.26 | Offizielle Regel der Museumsverwaltung (Behördenseite nicht geöffnet) · Kleopatra nur als Legende · Angelegte Becken am Weg zum Hineinwaten: Status prüfen, bevor etwas dazu gesagt wird · Jahr 1996 mit Behördenquelle bestätigen |
+| 09 | 27.11.26 | Trockene Kabinenluft nicht Fraunhofer zuschreiben · Neuer Dreh laut Nacharbeit: Selbsttest-Aufgabe für den nächsten Flug als Schluss vor dem Teaser |
+| 10 | 30.11.26 | Keine Ausgabenummern („643. Striezelmarkt“) nennen |
+| 11 | 02.12.26 | „Seitlicher Meerblick“ nicht verwenden (keine belastbare Quelle) · Für AT/CH keine Rechtsaussage treffen |
+| 12 | 04.12.26 | Nordteil (Hurghada) im Februar eher um 21–22 °C: „selten unter 22“ nur mit WDR-Zitat, keine eigene Zahl für Februar · Wärme nicht mit fehlenden Flüssen oder Verdunstung begründen (Verdunstung kühlt) · AA-Lage Ägypten am Vortag |
+| 13 | 07.12.26 | Grund des Badeverbots nicht ohne Quelle nennen |
+| 14 | 09.12.26 | Offizielle Seite cda.ve.it am Vortag · Frist für 5-€-Tarif nicht in Tagen nennen · Übernachtungsgäste sind befreit, müssen sich aber online registrieren – im Voice-over erwähnen, falls 2027 so bestätigt |
+| 15 | 11.12.26 | Nicht behaupten, heute lebe niemand mehr in Höhlen |
+| 16 | 14.12.26 | 7.500 m als „vom Meeresboden aus“ formulieren · Keine Höhe für Festlandgipfel nennen, solange nicht mit IGN geprüft · Nutzwert-Option: Genehmigung für den Gipfelweg (Parque Nacional) vorab – nur mit Quelle |
+| 17 | 16.12.26 | 1,2 Mio. teils als „erwartet“ berichtet – im Voice-over weglassen · Superlativ „meistfotografiert“ nicht verwenden · Bus-Zeitfenster seit 2019 oder 2020 – Gemeindequelle |
+| 18 | 18.12.26 | Nicht sagen, Passagierfenster hätten den Absturz ausgelöst · Nicht behaupten, vor 1954 habe es keine runden Fenster gegeben · „heute großzügig gerundet“ als allgemeine Konstruktionspraxis formulieren, nicht als Vorschrift |
+| 19 | 21.12.26 | Säulenhöhe (8 oder 9 m) nicht nennen · Öffnungszeiten/Preise am Vortag · Freigabe nur mit lizenziertem Clip der Medusenköpfe; sonst Thema tauschen (Ersatz: Galata-Turm-Geschichte o. Ä. neu prüfen) |
+| 20 | 23.12.26 | Stand der Berufung am Postingtag · Ob der Pfad zeitweise gesperrt ist · Urteil und Ereignisse ab Sept. 2026 unmittelbar vor Posting erneut prüfen; Stürze ohne Zahl nennen |
+| 21 | 25.12.26 | Keine Meterangabe zur Entfernung der echten Linie |
+| 22 | 28.12.26 | Keine Aussage „in Minuten abreißbar“ |
+| 23 | 30.12.26 | Riad vs. Dar nicht vertiefen · AA-Lage Marokko am Vortag |
+| 24 | 01.01.27 | Gesetzliche Feiertage NRW/Niedersachsen 2027 mit Landesportal gegenlesen |
+| 25 | 04.01.27 | Chephren-Spitze: Quelle Wikipedia „Pyramid of Khafre“ ergänzen · Mykerinos war unten mit Granit verkleidet – nicht pauschal „alle Pyramiden waren weiß“ · Abtransport 1356 nur „überliefert“ formulieren · AA am Vortag |
+| 26 | 06.01.27 | Kein konkretes Ballonlimit für 2026 nennen · Behördenseite SHGM gegenlesen · Umbuchung/Erstattung bei Absage nur allgemein („beim Anbieter klären“) erwähnen |
+| 27 | 08.01.27 | Ob Parador Nr. 100 (Veruela) eröffnet hat |
+| 28 | 11.01.27 | Nicht absolut „der größte“ sagen, nur „gilt als“/„einer der größten“ |
+| 29 | 13.01.27 | Schließzeitraum 2027 · Haie nicht als Gefahr oder alleinigen Grund darstellen |
+| 30 | 15.01.27 | Nicht „zu allen Klöstern“ Stufen sagen |
+| 31 | 18.01.27 | Nicht auf „alle Malediven-Strände“ verallgemeinern · Exportverbot (1980er) nur mit Primärquelle erwähnen – derzeit nicht im Voice-over |
+| 32 | 20.01.27 | Aktuellen Stand Seilbahn-Kontingent 2027 vor Posting · Nicht behaupten, das Drehkreuz stehe noch |
+| 33 | 22.01.27 | „Hafenstraße endet im Nirgendwo“ nur mit passendem Clip zeigen · Entfernung schwankt je Quelle (ca. 5–8 km) – „rund sechs Kilometer, laut türkischen Behörden“ sagen |
+| 34 | 25.01.27 | Zugangsstatus 2027 vor Posting · Schmuggel-Geschichte nicht erzählen (unbelegt) · Kein Zeitplan für die Verlängerung nennen |
+| 35 | 27.01.27 | Keine Bußgeldhöhe nennen · Stand 2027 am Vortag |
+| 36 | 29.01.27 | Nicht „überall gleiche Regeln“ sagen · „Prevalente“ bezieht sich v. a. auf die Arbeitszeit; regionale Unterschiede nicht pauschalisieren |
+| 37 | 01.02.27 | Öffnungszeit der Kathedrale am 2.2.2027 |
+| 38 | 03.02.27 | Regeln und Preise 2027 auf prags.bz vor Posting · Keine Preise nennen |
+| 39 | 05.02.27 | Keine Bußgeldhöhe nennen · Autoverbot 2023 nur nach Detailprüfung erwähnen · Budelli-Sperrjahr (1998) mit zweiter Quelle bestätigen · Vor Freigabe rosa Detailclip lizenzieren |
+
+## 7 Stock- und Rechteprotokoll
+- Recherche am 06.11.2026 über die Suchseiten von Pexels und Pixabay; Clip-IDs stehen in jedem Briefing. Vor dem Download jede Detailseite öffnen: Ort, Urheber, Lizenz und Personen im Bild prüfen.
+
+- Pexels- und Pixabay-Lizenz erlauben die kommerzielle Nutzung ohne Pflichtnennung; Urheber trotzdem in einer Quellenliste je Reel festhalten. Keine Clips mit erkennbaren Marken, Hotelnamen oder Gesichtern in Großaufnahme.
+
+- Lücken mit Budget (max. 50 €/Monat): Medusenköpfe Cisterna (Reel 19), rosa Detail Elafonisi (Reel 39), Bautzen (Reel 10), Riad-Innenhof (Reel 23), Parador Granada (Reel 27), Netz-Aufzug Meteora (Reel 30, ggf. gemeinfreies historisches Foto). Anbieterpreise vor Kauf prüfen; nichts kaufen, was die Lizenz für Social-Media-Werbung ausschließt.
+
+- Eigene Grafiken (Karten, Platten, Kalender, Illustrationen) in CapCut in den Markenfarben #1C2C5C, #FBDC15, #0CA0DE und Weiß; Illustrationen von Phänomenen (Palma) als „Illustration“ kennzeichnen.
+
+- Eigene Hotelvideos aus Antalya nur in separaten Specials, nicht in den 39 Haupt-Reels.
+
+## 8 Plan-Regeln geprüft
+- 39 Haupt-Reels, 13 Wochen, jeweils Montag, Mittwoch, Freitag vom 09.11.2026 bis 05.02.2027 – per Kalenderrechnung geprüft (Reel 21 am 25.12.2026, Reel 24 am 01.01.2027, Reel 37 am 01.02.2027).
+
+- Keine drei gleichartigen Themen in Folge: erfüllt (Cluster: Mythos/Realität 11, Natur-WOW 10, Reisewissen 6, Reisegeschichte 6, Hotelkonzept 5, DACH-Saison 1).
+
+- Nie zweimal dasselbe Land direkt hintereinander: erfüllt.
+
+- Jedes Reel kündigt die nächste Folge derselben Serie konkret an; Staffelfinale #13 jeder Serie endet mit einer Frage an die Community.
+
+- Keine Buchungs- oder Verkaufsaufforderung in Reels oder Captions; keine Person vor der Kamera; Ferien-/Feiertagsthema nur NRW und Niedersachsen (Reel 24).
+
+- Keine Konkurrenzdaten und keine Benchmarks erfunden; KPI-Werte in Tab 6 sind als Annahmen gekennzeichnet.
+

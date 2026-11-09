@@ -1,0 +1,154 @@
+
+# haydi-weg Content-Plan ab 21.10.
+ · 
+Ab heute bauen wir den Plan auf den drei Formaten, die bei uns nachweislich laufen: Hotel-Listen („5 Hotels …“), Kontrast-Reels („Gleiche Insel, zwei Klimazonen“) und Orts-Guides („Wo übernachten an der Riviera?“). Daraus werden drei feste Serien, 3 Reels (Mo, Mi, Fr) und 3 Karussells (Di, Do, Sa) pro Woche in maximaler Qualität, final durchgeplant bis 15.11., mit einem festen Deutschland-Bezug in jedem Post.
+
+## Was bei uns läuft
+Drei Formate liegen klar über dem Rest, und alle drei haben dasselbe Muster: ein konkreter Nutzen in der ersten Zeile, eine Liste oder ein Gegensatz, Bilder aus echten Hotels.
+
+| Format | Beispiel | Aufrufe TikTok | Aufrufe Instagram | Warum es funktioniert |
+| Hotel-Liste | 5 Hotels an der Riviera, die wir selbst getestet haben | 1.641 | 1.200 | Zahl im Titel, Versprechen „selbst getestet“, 5 Bilder, die man speichern will |
+| Kontrast | Gleiche Insel, zwei Klimazonen (Fuerteventura) | – | – | Überraschung in einem Satz, zwei Bilder, die sich widersprechen |
+| Orts-Guide | Wo übernachten an der Riviera? | 1.350 | 310 | Frage, die jeder vor der Buchung hat; Antwort als Karte/Liste |
+
+Zum Vergleich: Stock-Themen ohne Hotelbezug (Mallorca im Juli, Last-Minute-Fehler, The 13) lagen bei 150–350 Aufrufen. Die Hotel-Akte-Serie lassen wir deshalb ruhen; die drei Formate oben werden zu festen Serien.
+
+## Serie A · „5 Hotels“ – teuer & günstig
+Jede Folge zeigt 5 Hotels einer Region in einer Preisklasse; die Folgen laufen abwechselnd „unter X €“ und „Luxus“, damit beide Zielgruppen angesprochen werden. Die Preisangabe ist der Hook, deshalb immer als „ab … € p. P.“ mit aktuellem Veranstalterpreis prüfen, nie schätzen.
+Aufbau (Reel 20–30 s oder Karussell mit 6 Slides):
+- Cover: „5 Hotels …“ + Preisklasse, ein Wort gelb.
+
+- Pro Hotel 3–5 s: stärkstes Bild, Name, Ort, ein Grund („Aquapark“, „direkt am Strand“), Preis ab.
+
+- Letzte Slide: „Welches wärst du?“ – Kommentare statt Verkaufs-CTA.
+
+| Folge | Region | Preisklasse | Hook (1. Zeile) | Material |
+| A1 | Türkische Riviera | günstig | 5 Hotels an der Riviera unter 80 € pro Nacht | eigene Aufnahmen + Hotel-B-Roll |
+| A2 | Türkische Riviera | Luxus | 5 Luxushotels in Belek, die ihren Preis wert sind | eigene Aufnahmen (Selectum, Ela, Susesi, Mardan …) |
+| A3 | Ägypten (Hurghada) | günstig | 5 Hotels in Hurghada mit Hausriff unter 70 € | Hotel-B-Roll |
+| A4 | Ägypten (Sharm/Marsa Alam) | Luxus | 5 Hotels am Roten Meer für den Winter | Hotel-B-Roll |
+| A5 | Kanaren | günstig | 5 Kanaren-Hotels für den Winter unter 90 € | Hotel-B-Roll / lizenzfrei |
+| A6 | Dubai | Luxus | 5 Dubai-Hotels, die günstiger sind, als du denkst | Hotel-B-Roll |
+| A7 | Kreta / Rhodos | Familie | 5 Familienhotels in Griechenland mit Aquapark | Hotel-B-Roll |
+| A8 | Türkische Riviera | Adults only | 5 Adults-only-Hotels an der Riviera | eigene Aufnahmen + B-Roll |
+
+Regel aus dem Reisebüro-Grundsatz: Wir loben, wir vergleichen nicht runter. „Günstig“ steht nie neben „billig“, und kein Hotel wird gegen ein anderes schlecht gemacht.
+
+## Serie B · „Gleiche Insel, zwei Welten“
+Ein Ziel, zwei Seiten, ein überraschender Unterschied – der Zuschauer lernt in 15–20 s etwas, das seine Buchung verändert. Das Fuerteventura-Reel ist die Vorlage: Satz 1 nennt den Gegensatz, danach wechseln die Bilder im Takt „links – rechts“.
+Aufbau (Reel 15–20 s, Split-Screen oder harte Wechsel):
+- Hook-Satz: „Gleiche Insel – zwei Klimazonen.“
+
+- Seite 1 in 3 Bildern, Seite 2 in 3 Bildern, immer dasselbe Motiv (Strand, Himmel, Hotel).
+
+- Schluss: „Für wen ist welche Seite?“ in einem Satz.
+
+| Folge | Ziel | Gegensatz | Hook (1. Zeile) | Material |
+| B1 | Teneriffa | Nord grün & kühl / Süd trocken & sonnig | Gleiche Insel, 10 Grad Unterschied | lizenzfrei (Drohne Anaga / Costa Adeje) |
+| B2 | Kreta | Norden Hotels & Strand / Süden rau & leer | Kreta: Oben Party, unten Stille | lizenzfrei |
+| B3 | Ägypten | Hurghada Trubel / Marsa Alam Riff & Ruhe | Gleiches Meer, zwei Urlaube | Hotel-B-Roll |
+| B4 | Türkei | Antalya All-inclusive / Bodrum Boutique | 2 Stunden Flug, zwei Welten | eigene Aufnahmen + lizenzfrei |
+| B5 | Mallorca | Oktober leer / Juli voll (Zeit statt Ort) | Dieselbe Bucht – drei Monate später | lizenzfrei |
+| B6 | Gran Canaria | Dünen & Sonne im Süden / grüner Norden | Sahara und Wald auf einer Insel | lizenzfrei |
+| B7 | Rhodos vs. Kos | zwei Inseln, zwei Charaktere | Rhodos oder Kos? Ein Bild entscheidet | lizenzfrei |
+| B8 | Zypern | Süden Strand / Troodos-Berge mit Schnee | Schnee und Meer am selben Tag | lizenzfrei |
+
+Wetter- und Temperaturangaben nur als Erfahrungswerte formulieren („oft“, „meist“), nie als Garantie.
+
+## Serie C · „Wo übernachten in …?“
+Die Frage, die jeder vor der Buchung googelt, beantwortet in einem Reel oder Karussell: 4–5 Orte einer Region, je ein Satz „für wen“. Das Riviera-Reel hat gezeigt, dass das Format gespeichert und geteilt wird – das zählt bei Instagram mehr als Likes.
+Aufbau (Karussell 6 Slides oder Reel 25–30 s):
+- Cover: „Wo übernachten in …?“ + „die besten Orte im Überblick“.
+
+- Pro Ort: ein Bild, Ortsname groß, eine Zeile „für Familien“ / „für Ruhe“ / „für Ausgehen“, Fahrzeit vom Flughafen.
+
+- Letzte Slide: „Unser Tipp aus dem Reisebüro“ mit einem Ort.
+
+| Folge | Region | Orte | Hook (1. Zeile) | Material |
+| C1 | Kreta | Chania, Rethymno, Heraklion, Elounda, Ierapetra | Wo übernachten auf Kreta? | lizenzfrei |
+| C2 | Mallorca | Alcudia, Cala Ratjada, Playa de Palma, Cala d’Or, Port de Sóller | Wo übernachten auf Mallorca? | lizenzfrei |
+| C3 | Hurghada & Umgebung | Hurghada, El Gouna, Makadi Bay, Sahl Hasheesh, Soma Bay | Wo übernachten in Hurghada? | Hotel-B-Roll |
+| C4 | Türkische Riviera, Teil 2 | Lara, Belek, Side, Alanya, Kemer – diesmal nach Reisetyp (Paar, Familie, Golf) | Riviera: Welcher Ort passt zu dir? | eigene Aufnahmen |
+| C5 | Gran Canaria | Maspalomas, Playa del Inglés, Puerto de Mogán, Las Palmas | Wo übernachten auf Gran Canaria? | lizenzfrei |
+| C6 | Rhodos | Faliraki, Lindos, Kolymbia, Ixia, Rhodos-Stadt | Wo übernachten auf Rhodos? | lizenzfrei |
+| C7 | Dubai | Marina, Palm, JBR, Downtown, Deira | Wo übernachten in Dubai? | lizenzfrei |
+| C8 | Sharm el-Sheikh | Naama Bay, Sharks Bay, Nabq, Ras Nasrani | Wo übernachten in Sharm? | Hotel-B-Roll |
+
+Aus jedem Orts-Guide entstehen später die Hotel-Listen (Serie A) für dieselbe Region – so verweisen die Serien aufeinander und die Zuschauer bleiben im Profil.
+
+## Posting-Plan 23.10.–16.11.
+Finaler Rhythmus: Reels am Montag, Mittwoch und Freitag, Karussells am Dienstag, Donnerstag und Samstag, Sonntag frei für die Auswertung. Reels wechseln durch die drei Serien, Karussells tragen die Listen und Guides (speicherbar) plus einmal pro Woche ein Wissens-Karussell mit Deutschland-Bezug (Ferien, Flugzeiten, Preise). Postzeit 18:00 Uhr, zuerst TikTok, eine Stunde später Instagram; Karussells nur auf Instagram, auf TikTok als Fotomodus.
+
+| Datum | Format | Serie · Folge | Titel / Hook | Warum es Deutsche interessiert | Material |
+| Do 23.10. | Karussell | C1 | Wo übernachten auf Kreta? | meistgebuchtes Griechenland-Ziel; Sommer 2027 wird jetzt geplant | lizenzfrei |
+| Fr 24.10. | Reel | A1 | 5 Hotels an der Riviera unter 80 € pro Nacht | Herbstferien laufen, Frühbucher für Ostern starten | eigene Aufnahmen + B-Roll |
+| Sa 25.10. | Karussell | A2 | 5 Luxushotels in Belek, die ihren Preis wert sind | „Lohnt sich 5 Sterne?“ – die Reisebüro-Frage Nr. 1 | eigene Aufnahmen |
+| Mo 27.10. | Reel | B1 | Teneriffa: Gleiche Insel, 10 Grad Unterschied | 4,5 Stunden Flug, Winterwärme ohne Jetlag | lizenzfrei |
+| Di 28.10. | Karussell | C2 | Wo übernachten auf Mallorca? | Lieblingsinsel der Deutschen, Frühbucher 2027 | lizenzfrei |
+| Mi 29.10. | Reel | A2 | 5 Luxushotels in Belek (Reel-Fassung mit Bewegtbild) | Luxus zum All-inclusive-Preis – nur in der Türkei | eigene Aufnahmen |
+| Do 30.10. | Karussell | W1 | 6 Ziele mit 25 Grad im November – mit Flugzeit ab Deutschland | Winterflucht ist das Suchthema im November | lizenzfrei |
+| Fr 31.10. | Reel | C3 | Wo übernachten in Hurghada? (Reel) | Ägypten-Saison startet, 4 Stunden Flug | Hotel-B-Roll |
+| Sa 1.11. | Karussell | A3 | 5 Hotels in Hurghada mit Hausriff unter 70 € | Schnorcheln ab Hotel – das Argument gegen die Kanaren | Hotel-B-Roll |
+| Mo 3.11. | Reel | B3 | Ägypten: Gleiches Meer, zwei Urlaube | Hurghada oder Marsa Alam – häufigste Ägypten-Frage | Hotel-B-Roll |
+| Di 4.11. | Karussell | C4 | Riviera: Welcher Ort passt zu dir? | Frühbucher-Rabatte Sommer 2027 bis Jahresende | eigene Aufnahmen |
+| Mi 5.11. | Reel | A4 | 5 Hotels am Roten Meer für den Winter | Weihnachten bei 24 Grad, 4 Stunden Flug | Hotel-B-Roll |
+| Do 6.11. | Karussell | W2 | Weihnachten in der Sonne: 5 Hotels mit Preis ab | Feiertage buchen die Deutschen im November | Hotel-B-Roll |
+| Fr 7.11. | Reel | C5 | Wo übernachten auf Gran Canaria? (Reel) | Winter-Klassiker, Weihnachten und Silvester | lizenzfrei |
+| Sa 8.11. | Karussell | A5 | 5 Kanaren-Hotels für den Winter unter 90 € | Silvester in der Sonne – jetzt buchen, sonst teuer | Hotel-B-Roll / lizenzfrei |
+| Mo 10.11. | Reel | B4 | Türkei: 2 Stunden Flug, zwei Welten (Antalya / Bodrum) | Türkei ist Auslandsziel Nr. 2 der Deutschen | eigene Aufnahmen + lizenzfrei |
+| Di 11.11. | Karussell | C6 | Wo übernachten auf Rhodos? | Griechenland-Frühbucher, Familien mit Aquapark | lizenzfrei |
+| Mi 12.11. | Reel | A6 | 5 Dubai-Hotels, die günstiger sind, als du denkst | Dubai gilt als teuer – das Reel widerlegt es mit Preisen | Hotel-B-Roll |
+| Do 13.11. | Karussell | W3 | Ferien 2027: Wann du günstiger fliegst (NRW, Niedersachsen, Hessen) | Ferientermine bestimmen den Preis – kaum jemand kennt sie | Grafik |
+| Fr 14.11. | Reel | B5 | Mallorca: Dieselbe Bucht – drei Monate später | Oktober halb so voll und günstiger als Juli | lizenzfrei |
+| Sa 15.11. | Karussell | C7 | Wo übernachten in Dubai? | Winterziel mit Direktflug, Marina oder Palm? | lizenzfrei |
+
+Karussells bauen alle auf einer Vorlage: Cover im Editorial-Stil, 5 Slides mit je einem Bild und maximal zwei Zeilen Text, letzte Slide mit Frage. Die Wissens-Karussells W1–W3 brauchen kein Hotelmaterial, nur Grafik und ein Bild pro Ziel – sie sind der Puffer, wenn eine Hotelfolge nicht rechtzeitig fertig wird. Vorrat für ab 17.11.: A7, A8, B2, B6–B8, C8.
+
+## Qualität vor Menge: die Abnahme vor jedem Post
+Ein Post geht nur raus, wenn alle acht Punkte erfüllt sind; fehlt einer, rückt ein Wissens-Karussell vor und die Folge verschiebt sich. Aufwand pro Woche: ein Reel braucht etwa einen Tag (Skript, Voiceover, Material, Schnitt, Hook, Untertitel, Cover), ein Karussell etwa zwei Stunden mit der festen Vorlage – zusammen rund vier Arbeitstage, am besten Reels am Wochenende vorproduzieren.
+- Hook-Satz nennt Zahl oder Gegensatz und beantwortet „Was habe ich davon?“ in unter 2 Sekunden
+
+- Erstes Bild ist das stärkste Bild des ganzen Reels (Bewegung, Farbe, sofort erkennbar)
+
+- Deutschland-Bezug sitzt: Flugzeit ab Deutschland, Ferienzeit, Preis pro Person oder eine Frage aus dem Reisebüro-Alltag
+
+- Alle Hotelnamen, Orte und Preise sind geprüft (Veranstaltersystem, Datum der Prüfung in der Caption-Notiz)
+
+- Material in Full HD, kein Clip mit Weihnachtsdeko, Masken, Wasserzeichen oder fremdem Logo
+
+- Untertitel wortgenau, max. zwei gelbe Begriffe pro Zeile, Hook und Untertitel nie gleichzeitig
+
+- Cover im Editorial-Stil mit Serientitel, damit die Serie im Profilraster erkennbar bleibt
+
+- Caption mit Frage am Ende, SEO-Begriffen (Ort, Hotelname, Reisezeit) und ohne Verkaufs-CTA
+
+Was Deutsche an Reise-Content hält, ist immer dasselbe: ein konkreter Preis pro Person, die Flugzeit, die passende Ferienzeit und eine klare Empfehlung – kein allgemeines Fernweh. Jeder Post trägt mindestens zwei dieser vier Punkte im Hook oder in der ersten Caption-Zeile.
+
+## Regeln für jedes Reel
+Die Analysen der letzten zwei Wochen zeigen: Verloren wird in der ersten Sekunde (Mallorca-Reel: 15 % Beibehaltung, Absprung bei 0:01). Deshalb gelten diese Regeln für alle drei Serien.
+- Erstes Bild = stärkstes Bild: Pool, Meer, Drohne oder Luxus-Detail. Nie Laptop, Fassade oder Logo.
+
+- Hook-Text in 3–6 Wörtern, mit Zahl oder Gegensatz, ein Wort gelb; Stimme startet bei 0,0 s.
+
+- Länge 15–30 s. Liste und Guide 25–30 s, Kontrast 15–20 s.
+
+- Bildwechsel alle 2–3 s, nie dasselbe Motiv zweimal hintereinander.
+
+- Hotels nur mit Namen zeigen, wenn Bild und Preis stimmen; Preise vor dem Post im Veranstaltersystem prüfen.
+
+- Kein Verkaufs-CTA, keine DM-Aufforderung; Schluss ist immer eine Frage an die Zuschauer.
+
+- Cover für das Profilraster: Titel im Editorial-Stil (wie „5 Hotels an der Riviera“), damit die Serien im Raster erkennbar sind.
+
+- Trend-Sound in der App leise unter das Voiceover legen; Export in Full HD ohne Filmkorn.
+
+## Messen & nachsteuern
+Ziel bis 16.11.: jede Folge über 1.000 Aufrufe auf TikTok und 1.500 auf Instagram innerhalb von 7 Tagen – das ist das Niveau der drei Vorbild-Posts, nicht des 75.000er-Ausreißers.
+
+| Kennzahl | Wo | Zielwert | Wenn darunter |
+| Beibehaltung nach 3 s | TikTok Videoanalyse | über 50 % | erstes Bild und Hook-Satz tauschen, als Testreel neu posten |
+| Durchschnittliche Wiedergabezeit | TikTok / Instagram | über 8 s | Reel kürzen, Bildwechsel schneller |
+| Speicherungen + Teilen | Instagram Insights | über 3 % der Aufrufe | Guide-Format stärken, mehr konkrete Orte |
+| Anteil „Für dich“ | TikTok Traffic-Quellen | über 80 % | Thema prüfen: zu weit weg vom Hotel-Kern? |
+
+Jeden Sonntag die drei Folgen der Woche nebeneinander legen: Die Serie mit den schwächsten Zahlen bekommt in der Folgewoche eine Region, in der wir eigenes Material haben. Liegt eine Serie zweimal in Folge unter Ziel, wird ihr Format angepasst, nicht das Thema gewechselt.

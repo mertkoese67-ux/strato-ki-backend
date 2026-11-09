@@ -1,0 +1,544 @@
+
+# haydi-weg Social-Media-Audit 2.0 – Phase 1
+ · 
+
+## 1. Executive Summary
+Die Prüfung bestätigt den Kern der ersten Fassung: Ein einziges Reel trägt das Instagram-Wachstum. Sie widerlegt aber drei Schlüsse daraus. Warum das Reel funktionierte, ist nicht belegt. Instagram-Karussells sind nicht widerlegt, sondern kaum getestet. Und die „vervierfachte Grundlinie“ ist ein kurzer, schon wieder sinkender Anstieg.
+
+| # | Erkenntnis nach der Prüfung | Kernzahl | Status |
+| 1 | Ein Reel trägt das Instagram-Wachstum | „Die Geschichte hinter dem Mardan Palace“: 217 von 285 beitragsbezogenen Follows in 90 Tagen (76 %); die übrigen 44 Beiträge zusammen 68 | A, B |
+| 2 | Warum die Mardan-Geschichte funktionierte, ist offen | Plausibel ist ein Zusammenspiel aus bekanntem Hotel, eigenem Material und Geschichte mit langer Sehdauer (TikTok Ø 28,7 s). Fehlte eines davon, blieben die Werte klein: Die Atlantis-Akte (ohne eigenes Material) holte 1.854 Aufrufe und 0 Follows, der Mardan-Rundgang (ohne Geschichte) auf Instagram 4.945 Aufrufe und 5 Follows | C |
+| 3 | Reichweite und Follower-Gewinn sind verschiedene Stärken | Eigene Hotelclips erzielen auf Instagram hohe Median-Aufrufe (2.018; nur Hotelvergleiche liegen mit 2.271 höher ), gewinnen aber nur 0,89 Follower je 1.000 erreichte Konten (Kontoschnitt ohne Mardan: 1,24) | B |
+| 4 | „Selbst getestet“ ist das einzige Karussell-Thema mit Follows | 2 Karussells, 14 von 14 Karussell-Follows, 11,6 je 1.000 erreichte Konten; kleine Stichprobe | B (Ursache C) |
+| 5 | Instagram-Karussells werden kaum ausgespielt, ihr Inhalt ist noch nicht fair getestet | Median 100 erreichte Konten , das entspricht knapp 4 % der Followerzahl ; 12 von 13 liefen um 12 Uhr, fast alle Reels abends | B, C |
+| 6 | Hotelvergleiche und Rankings sind unterschätzt | Alle 4 mit Follows (Reels allgemein: 73 %); im Median 5,3 Shares je 1.000 Aufrufe gegenüber 1,9 bei allen Reels, vor allem durch Teenager-Hotels | B, n = 4 |
+| 7 | Auf TikTok folgen alle sieben stärksten Tage auf eigene Hotelvideos | Mardan in vier Formaten mit 11.000–82.000 Views; Follower-Zahlen nur für 6 Beiträge bekannt (davon 2 Fotobeiträge) , für keines der Karussells mit hoher Reichweite | A, B, D |
+| 8 | Für die erste Sekunde gibt es nur einen echten Beleg | Einzige Retention-Kurve (Last-Minute-Fehler): nach 1 s noch ca. 35–40 %, nach 3 s ca. 10–13 %. Für alle anderen Videos ist die Abbruchsekunde nicht belegt | A (abgelesen), D |
+| 9 | Nur knapp die Hälfte der Follower lebt im DACH-Raum | 74 % sind 25–54 Jahre alt; DACH 48,8 %, Brasilien 5,3 % (Ursache offen, nicht automatisch Fake) | A, D |
+| 10 | Das 10.000er-Ziel ist nur im ambitionierten Szenario erreichbar | Gemessen: brutto 4 2 –48 neue Follower pro Woche (9.–24.10.), in der zweiten Woche nur 22–31. Nötig: 278 netto pro Woche. Das Netto-Wachstum ist nicht messbar | B, C, D |
+
+Status: A gemessen · B aus Rohdaten nachgerechnet · C plausible Hypothese · D nicht ausreichend belegt.
+
+## 2. Datengrundlage
+Alle Kennzahlen wurden aus den Originaldateien neu berechnet. Im Zeitraum lief keine Werbung, alle Werte sind organisch (Angabe vom 26.10.2026).
+
+### Quellen
+
+| Quelle | Zeitraum | Inhalt | Qualität |
+| Instagram Post-Export (CSV) | Veröffentlicht 28.07.–25.10.2026, 45 Beiträge | Aufrufe, erreichte Konten, Likes, Shares, Saves, Kommentare, neue Follower, Dauer, Uhrzeit | Gesamtwerte je Beitrag bis Exportdatum; junge Beiträge (23.–25.10.) sind unvollständig |
+| Instagram Konto-Insights (Screenshots) | ca. letzte 30 Tage bis 26.10. | Aufrufe nach Format, Profilaufrufe, Interaktionen, aktivste Zeiten | Genaues Zeitfenster nicht sichtbar |
+| Instagram Reel-Insights (Screenshots) | Mardan-Geschichte, Swandor 23.10. | Follower-Anteil, Profilaktivitäten, neue Follower | Anzeige „Geteilte Inhalte 0“ ist ein Anzeigefehler (siehe unten) |
+| Instagram Neue Follower (CSV) | 28.09.–24.10.2026 | Brutto-Neufollower pro Tag | 3 Tage fehlen, 1 Wert ungültig; keine Entfolgungen |
+| Instagram Zielgruppe (CSV) | Stand 26.10.2026 | Alter, Geschlecht, Länder, Städte von 2.606 Followern | Vollständig |
+| TikTok Übersicht (CSV) | 26.08.–24.10.2026, 60 Tage | Tageswerte: Views, Profilaufrufe, Likes, Kommentare, Shares | Keine Follower-Werte |
+| TikTok Studio (Screenshots) | Stand 26.10.2026 | Beitragsliste, Grid der letzten 17 Beiträge, Detailwerte für 6 Beiträge, 1 Retention-Kurve | Views ab 10.000 auf Tausend gekürzt angezeig t (z. B. „82K“) |
+| Briefing | Oktober 2026 | 2.733 TikTok-Follower, früherer Wert 0,41 USD pro Follower | Angabe, nicht prüfbar |
+
+### Belegkategorien
+
+| Kategorie | Bedeutung |
+| A – gemessen | Direkt aus Export oder Screenshot |
+| B – nachgerechnet | Aus den Rohdaten unabhängig berechnet; Rechenweg im Tab „Berechnungsprotokoll“ |
+| C – plausible Hypothese | Fachlich begründet, aber nicht ursächlich nachgewiesen |
+| D – nicht ausreichend belegt | Daten fehlen für eine belastbare Aussage |
+
+### Begriffe
+- Aufrufe / Views: jede Wiedergabe, Wiederholungen eingeschlossen.
+
+- Erreichte Konten: Instagram zählt Konten, nicht Personen. TikTok liefert pro Beitrag keine Reichweite, nur Views.
+
+- Beitragsbezogene Follows: neue Follower, die Instagram einem Beitrag zuordnet (Post-Export).
+
+- Brutto-Neufollower: alle neuen Follower eines Tages (Follower-CSV), ohne Abzüge.
+
+- Netto-Wachstum: Neufollower minus Entfolgungen. Dafür gibt es keine Daten.
+
+- Follower-Konversion: neue Follower je 1.000 erreichte Konten (Instagram) bzw. je 1.000 Views (TikTok). Die beiden Nenner sind nicht direkt vergleichbar.
+
+### Zeitzonen
+
+| Quelle | Zeitzone | Beleg | Status |
+| Instagram Post-Export | US-Pazifikzeit (UTC−7) | 6 Beiträge mit identischer TikTok-Uhrzeit stimmen nach Umrechnung überein (z. B. Rotes Meer: 03:00 → 12:00) | B |
+| Umrechnung | +9 h bis 25.10., 03:00 Uhr; danach +8 h bis 01.11.2026 | Deutschland stellte am 25.10. um, die US-Westküste erst am 01.11. Betroffen ist nur „Wo ist es im November warm?“: 04:00 → 12:00, deckungsgleich mit TikTok | B |
+| Instagram „Aktivste Zeiten“ | Nicht angegeben | +9 h ergibt einen deutschen Tagesverlauf (Spitze 18–21 Uhr); eine Gegenprüfung in der App fehlt | C |
+| TikTok Studio | Deutsche Ortszeit | Uhrzeiten wie 12:00 und 19:00 passen zu den geplanten Veröffentlichungen | C |
+| Follower-CSV | Nur Datum, Tagesgrenze unbekannt | Zuordnung zum Tag kann sich um bis zu 9 Stunden verschieben | D |
+
+### Datenqualität
+- Ungültiger Tageswert: Am 23.10. stehen 2.587 Neufollower. Als Tageszuwachs ist das unmöglich (B): Das Konto hat insgesamt 2.606 Follower, die Beiträge des Tages brachten 5 Follows. Wahrscheinlich ist es der Gesamtbestand (C): 2.587 am 23.10. und 2.606 am 26.10. ergeben netto rund 6 Follower pro Tag, passend zu 7 Brutto-Neufollowern am 24.10.. Der Wert ist ausgeschlossen.
+
+- Fehlende Tage: 01.10., 19.10. und 22.10. fehlen. Ob dort 0 Follower kamen oder der Export lückenhaft ist, ist unbekannt (D). Raten werden deshalb als Spanne angegeben: fehlende Tage als 0 gezählt oder ausgelassen.
+
+- Anzeigefehler bei Shares: Die Reel-Insights der Mardan-Geschichte zeigen „Geteilte Inhalte 0“. Die Interaktionssumme (3.376 minus Likes, Kommentare, Saves) ergibt aber rund 1.722 Shares, der CSV-Export 1.674 (C). Verwendet wird der CSV-Wert.
+
+- Unterschiedliche Stichtage: Instagram-Werte stammen aus dem Export bis 25.10., TikTok-Beitragswerte vom 26.10. Beim Karussell vom 25.10. war der Instagram-Wert weniger als einen Tag alt.
+
+## 3. Instagram-Ist-Analyse
+Instagram spielt Reels weit über die Follower hinaus aus, macht daraus aber selten Follower. Außer der Mardan-Geschichte brachte kein Beitrag mehr als 13 Follows.
+
+### Kennzahlen
+
+| Kennzahl | Zeitraum | Wert | Status |
+| Aufrufe | ca. 30 Tage | 210.019 (Instagram 208.729, Facebook 1.290) | A |
+| Anteil der Aufrufe von Nicht-Followern | ca. 30 Tage | 94,8 % | A |
+| Erreichte Konten | ca. 30 Tage | 139.740 | A |
+| Aufrufe nach Format | ca. 30 Tage | Reels 98,4 %, Stories 1,4 %, Beiträge 0,2 % | A |
+| Profilaufrufe | ca. 30 Tage | 1.161, das sind 5,5 je 1.000 Aufrufe | A, B |
+| Interaktionen | ca. 30 Tage | 6.590 von 3.206 Konten; Follower stellen 5,2 % der Aufrufe, aber 36,7 % der Interaktionen | A |
+| Veröffentlichungen | 90 Tage | 45: 30 Reels, 13 Karussells, 2 Bilder | A |
+| Beitragsbezogene Follows | 90 Tage | 285, davon 217 aus der Mardan-Geschichte | A, B |
+| Follower | 26.10.2026 | 2.606 | A |
+
+### Formate (90 Tage)
+
+| Format | Beiträge | Median Aufrufe | Median erreichte Konten | Follows | Follows je 1.000 Konten | Shares je 1.000 Aufrufe | Saves je 1.000 Aufrufe | Beiträge mit Follow |
+| Reels | 30 | 2.010 | 1.594 | 271 | 1,63 | 8,4 | 2,5 | 22 |
+| Reels ohne Mardan-Geschichte | 29 | 2.002 | 1.547 | 54 | 1,05 | 2,7 | 1,4 | 21 |
+| Karussells | 13 | 312 | 100 | 14 | 4,93 | 1,3 | 1,7 | 2 |
+| Karussells ohne „5 Hotels, selbst getestet“ | 12 | 297 | 100 | 1 | 0,56 | 0,8 | 1,0 | 1 |
+| Bilder | 2 | 208 | 98 | 0 | 0 | 4,8 | 0 | 0 |
+
+Alle Werte B. Kontoschnitt: 1,69 Follows je 1.000 erreichte Konten, ohne Mardan-Geschichte 1,24.
+Reels liefern die Reichweite. Karussells erreichen im Median nur 100 Konten, eine Reichweite von knapp 4 % der Followerzahl. Ihre hohe Gesamtkonversion hängt an einem einzigen Beitrag. Deshalb sagen die Zahlen wenig über die Qualität der Karussell-Inhalte (Abschnitt 9).
+
+### Reichweite ist nicht Follower-Gewinn
+
+| Beitrag | Erreichte Konten | Follows | Follows je 1.000 Konten | Anteil Nicht-Follower an Aufrufen |
+| Die Geschichte hinter dem Mardan Palace (05.10.) | 114.409 | 217 | 1,90 | 99,5 % |
+| Wie gut ist das Swandor Hotels Kemer wirklich? (23.10.) | 11.868 | 5 | 0,42 | 98,9 % |
+| Türkische Riviera: 5 Hotels, selbst getestet (07.10.) | 1.054 | 13 | 12,3 | nicht ausgewiesen |
+
+Das Swandor-Reel vom 23.10. erreichte rund siebenmal so viele Konten wie das mittlere Reel (Median 1.594), gewann aber nur 5 Follower (A). Die Reel-Insights weisen genau diese 5 als Profilaktivität aus; weitere Profilbesuche zeigen sie nicht. Mögliche Gründe (C): Die Caption kündigt das YouTube-Video an und gibt keinen Grund, auf Instagram zu folgen. Auffällig ist auch das Verhältnis von 509 Likes zu nur 4 Shares und 2 Kommentaren. Der Beitrag war beim Export erst zwei Tage alt.
+
+### Wachstum
+
+| Zeitraum | Tage mit Daten | Brutto-Neufollower | Pro Woche | Instagram-Beiträge im Zeitraum |
+| 28.09.–04.10. | 6 von 7 | 11 | 11–13 | 6 |
+| 05.–08.10. (Mardan-Geschichte) | 4 von 4 | 188 | – | 4 |
+| 09.–16.10. | 8 von 8 | 67 | 59 | 12 |
+| 17.–24.10. | 5 von 8 (23.10. ungültig, 2 fehlen) | 22 | 22–31 | 10 |
+
+Spannen: niedriger Wert mit fehlenden Tagen als 0, hoher Wert mit fehlenden Tagen ausgelassen (B).
+Die erste Fassung sprach von einer „fast vervierfachten Grundlinie“. Das ist nicht haltbar: Der Vergleichszeitraum davor umfasst nur sechs Messtage, die Rate sinkt in der zweiten Woche wieder, und danach erschienen pro Woche 1,6-mal so viele Beiträge (9,6 statt 6,0), darunter erstmals viele Karussells. Ob die höhere Rate von der Mardan-Geschichte, von der höheren Frequenz oder von beidem kommt, lässt sich nicht trennen (C). Belastbar ist nur ein vorübergehend beobachteter Anstieg.
+
+### Veröffentlichungsfrequenz
+
+| Zeitraum | Beiträge | Reels / Karussells / Bilder | Pro Woche | Beitragsbezogene Follows |
+| 28.07.–31.08. | 10 | 9 / 1 / 0 | 2,0 | 17 |
+| 01.–25.09. | 0 | – | 0 | – |
+| 26.–30.09. | 5 | 5 / 0 / 0 | 7,0 | 8 |
+| 01.–25.10. | 30 | 16 / 12 / 2 | 8,4 | 260 |
+
+Alle Werte B. Die Planmenge von 25 Reels, 25 Karussells und 4 WOW-Edits pro Monat entspricht rund 12,4 Beiträgen pro Woche. Im Monatsschnitt wurden höchstens 8,4 erreicht (Oktober), in der stärksten Woche 11 (15.–21.10.). Der seit 21.10. geplante Rhythmus von 3 Reels und 3 Karussells pro Woche ist mit fünf Tagen Laufzeit noch nicht auswertbar. Von 17 TikToks im Grid erschienen 15 auch auf Instagram; die Gesamtzahl der TikToks ist nicht exportiert (D).
+
+### Veröffentlichungszeiten
+Die Uhrzeit lässt sich bisher nicht von Format und Inhalt trennen (D). 25 von 30 Reels erschienen zwischen 16 und 21 Uhr, 12 von 13 Karussells um 12 Uhr. Die Follower sind laut Insights um 18–21 Uhr am aktivsten (Ø 503 aktive Follower, C wegen der Zeitzone). Weil 94,8 % der Aufrufe von Nicht-Followern stammen, ist das aber nur ein schwacher Hinweis auf die beste Zeit. Test 7 in Abschnitt 12 klärt das.
+
+## 4. TikTok-Ist-Analyse
+Auf TikTok folgen alle sieben stärksten Tage auf ein eigenes Hotelvideo. Die Follower-Wirkung ist aber nur für 6 Beiträge bekannt.
+In den 60 Tagen kamen 191.694 Views, 1.156 Profilaufrufe (6,0 je 1.000 Views), 2.547 Likes, 209 Kommentare und 1.145 Shares zusammen (A, B). Der Tagesmedian lag bis 25.09. bei 360 Views, vom 12. bis 24.10. bei 1.975. Auf Instagram erschien vom 1. bis 25.09. kein einziger Beitrag; ob TikTok ebenfalls pausierte, ist nicht exportiert (D). Der höhere Tagesmedian seit Ende September lässt sich deshalb nicht allein den Mardan-Videos zuschreiben.
+
+### Beiträge mit den meisten Views
+
+| Beitrag | Veröffentlicht | Länge | Views | Likes | Kommentare |
+| Die Geschichte hinter dem Mardan Palace | 05.10., 14:00 | 1:32 | 82.000 | 1.130 | 82 |
+| Mardan Palace – Rundgang in 30 Sekunden | 26.09., 12:00 | 0:19 | 24.000 | 329 | 34 |
+| Ein Hotel wie aus 1001 Nacht (Mardan Palace) | 31.08., 11:50 | 0:38 | 16.000 | 186 | 28 |
+| Check-in im Selectum Luxury Resort Belek | 28.09., 20:00 | 0:23 | 12.000 | 151 | 3 |
+| Der riesige Pool im Mardan Palace | 01.10., 17:00 | 0:13 | 11.000 | 136 | 14 |
+| Wintersonne: Hier ist es im November noch warm (Fotobeitrag) | 25.10., 12:00 | – | 9.514 | 51 | 0 |
+| Teenager-Hotels in der Türkei 2026 | 20.08., 20:12 | 1:57 | 8.590 | 49 | 18 |
+| Wintersonne in 4,5 Stunden Flug: 5 Hotels am Roten Meer (Fotobeitrag) | 19.10., 12:00 | – | 5.630 | 36 | 3 |
+
+Gesamtwerte je Beitrag, Stand 26.10. (A). Werte ab 10.000 zeigt TikTok auf Tausend gekürzt. Zwei Beiträge liegen außerhalb des 60-Tage-Exports: Teenager-Hotels erschien vorher, das November-Karussell danach und war beim Abruf rund 30 Stunden alt.
+
+### Detailwerte
+
+| Beitrag | Länge | Views | Ø Wiedergabe | Anteil der Länge | Ganz angesehen | Neue Follower | Follower je 1.000 Views | Shares je 1.000 | Saves je 1.000 | Anteil Suche |
+| Mardan-Geschichte | 92 s | 82.000 | 28,7 s | 31 % | 14,0 % | 70 | 0,85 | 9,9 | 6,8 | 1,3 % |
+| Mardan-Rundgang | 19 s | 24.000 | 7,8 s | 41 % | 16,2 % | 40 | 1,67 | 6,2 | 6,8 | 5,9 % |
+| 1001 Nacht | 38 s | 16.000 | 8,4 s | 22 % | 6,9 % | 36 | 2,25 | 3,6 | 3,3 | 15,5 % |
+| Last-Minute-Fehler | 39 s | 284 | 2,1 s | 5 % | 0,7 % | 0 | 0 | 0 | 3,5 | 0,7 % |
+| Herbstferien: 5 Tricks (Foto) | – | 267 | 4,6 s | – | 8,9 % | 0 | 0 | 0 | 7,5 | 0,7 % |
+| Eine Stunde mehr Schlaf (Foto) | – | 281 | 2,6 s | – | 12,7 % | 0 | 0 | 0 | 0 | nicht ausgewiesen |
+
+Messwerte A, Raten B. Wegen der gekürzten Views können die Raten um einige Prozent abweichen, bei 11.000 Views um bis zu etwa 5 %.
+
+### Zuschauerbindung nach Videolänge
+Eine echte Retention-Kurve liegt nur für den Last-Minute-Fehler vor. Abgelesen auf etwa ±3 Prozentpunkte (A): Nach 1 Sekunde schauen noch ca. 35–40 %, nach 3 Sekunden ca. 10–13 %, nach 5 Sekunden ca. 5–8 %, nach 10 Sekunden ca. 3–5 %. Für diesen Reel ist das Einstiegsproblem damit belegt.
+Für Mardan-Geschichte, Rundgang und Last-Minute-Fehler nennt TikTok 0:01 als Stelle mit den meisten Abbrüchen, für 1001 Nacht 0:02 (A). Wie viele Zuschauer dort aussteigen, zeigt TikTok für diese Videos nicht. Die Aussage der ersten Fassung, bei allen Videos steige die Mehrheit nach 1–2 Sekunden aus, ist deshalb nicht belegt (D). Für die beiden Fotobeiträge gibt es keine Bindungsdaten, für Instagram überhaupt keine.
+
+| Länge | Belegte Videos | Eigene Referenz | Testkriterium für neue Videos |
+| bis 15 s | Mardan-Pool (13 s): nur Views | keine | Erst Referenz erheben: Detailwerte für die nächsten 3 Clips notieren |
+| 16–30 s | Mardan-Rundgang (19 s) | Ø 41 % der Länge, 16,2 % ganz angesehen | Mindestens drei Viertel der Referenz: Ø ≥ 31 % und ≥ 12 % ganz angesehen |
+| 31–60 s | 1001 Nacht (38 s), Last-Minute-Fehler (39 s) | 22 % / 6,9 % bzw. 5 % / 0,7 % | 1001-Nacht-Niveau: Ø ≥ 20 %, ≥ 6 % ganz angesehen |
+| über 60 s | Mardan-Geschichte (92 s) | Ø 28,7 s (31 %), 14,0 % ganz angesehen | Für Geschichten: Ø ≥ 20 s absolut und ≥ 10 % ganz angesehen |
+
+Die Kriterien sind interne Vergleichswerte aus euren eigenen Videos, keine Plattform-Benchmarks. Sie beruhen auf je einem Referenzvideo und werden nach jedem Test nachgeschärft.
+
+### Weitere Beobachtungen
+- Follower-Konversion je Plattform verschieden: Auf TikTok gewann der kurze Rundgang mehr Follower je View als die Geschichte (1,67 zu 0,85), auf Instagram war es umgekehrt (1,01 zu 1,43 je 1.000 Aufrufe). Eine allgemeine Regel „kurz bringt mehr Follower“ gibt es nicht (C).
+
+- Suche: „1001 Nacht“ holte 15,5 % seiner Views über die Suche. Hotelnamen im Video können Auffindbarkeit bringen; bei drei Videos ist das ein Hinweis, kein Beleg (C).
+
+- Person im Bild: Sowohl „Teenager-Hotels“ (Cover) als auch „1001 Nacht“ (Vorschaubild) zeigen eine Person. Die Aussage der ersten Fassung, es gebe nur einen solchen Beitrag, war falsch (A).
+
+## 5. Plattformvergleich
+Derselbe Inhalt holt auf TikTok als Fotobeitrag meist mehr Views, als Reel etwa gleich viele wie auf Instagram. Ob daraus Follower werden, ist nur für 5 von 21 Paaren bekannt.
+Bei 9 Karussell-Paaren liegt TikTok im Median beim 3,3-Fachen, ohne das erst einen Tag alte November-Karussell beim 2,6-Fachen. Bei 10 Reel-Paaren liegen beide Plattformen im Median gleichauf (Faktor 1,0). Das beschreibt nur Reichweite (B).
+
+### Follower-Wirkung derselben Beiträge
+
+| Beitrag | Instagram Aufrufe | Instagram Follows | je 1.000 Aufrufe | TikTok Views | TikTok Follower | je 1.000 Views |
+| Die Geschichte hinter dem Mardan Palace | 152.273 | 217 | 1,43 | 82.000 | 70 | 0,85 |
+| Mardan-Rundgang | 4.945 | 5 | 1,01 | 24.000 | 40 | 1,67 |
+| Last-Minute-Fehler | 228 | 0 | 0 | 284 | 0 | 0 |
+| Herbstferien: 5 Tricks | 254 | 0 | 0 | 267 | 0 | 0 |
+| Uhren zurück / Eine Stunde mehr Schlaf | 270 | 0 | 0 | 281 | 0 | 0 |
+
+Für „Wo ist es im November warm?“ (9.514 Views) und „5 Hotels am Roten Meer“ (5.630) fehlen die TikTok-Follower. Ob die beiden stärksten Fotobeiträge wachsen lassen, ist offen (D).
+
+### Bewertungsmatrix
+Ein Beitrag wird nach seiner stärksten Funktion bewertet, nicht nach Views allein. Die Schwellen sind eigene Vergleichswerte und gelten erst ab 500 erreichten Konten, damit einzelne Follows bei kleiner Reichweite keine Scheinraten erzeugen.
+
+| Dimension | Kennzahl | Instagram-Daten | TikTok-Daten | Schwelle für „stark“ (eigene Werte) |
+| 1. Reichweite | Aufrufe bzw. Views | alle Beiträge | alle Beiträge | ≥ 2× Formatmedian (Reel 2.010, Karussell 312) |
+| 2. Engagement | (Likes + Kommentare + Shares + Saves) je Aufruf | alle Beiträge | Likes und Kommentare alle, Rest 6 Beiträge | Median 2,3 %; als Signal schwach, weil Likes dominieren |
+| 3. Share-Rate | Shares je 1.000 Aufrufe | alle Beiträge | 6 Beiträge | ≥ 3,8 (2× Reel-Median) |
+| 4. Save-Rate | Saves je 1.000 Aufrufe | alle Beiträge | 6 Beiträge | ≥ 1,7 (2× Reel-Median) |
+| 5. Profilbesuche | je 1.000 Aufrufe | nur Konto ebene (5,5) | nur Konto (6,0) | noch keine; pro Beitrag notieren |
+| 6. Neue Follower | je 1.000 erreichte Konten (IG) bzw. Views (TT) | alle Beiträge | 6 Beiträge | ≥ 2,5 je 1.000 Konten (2× Kontoschnitt ohne Mardan) |
+| 7. Wiederkehrende Zuschauer | – | nicht exportiert | nicht exportiert | D: derzeit nicht messbar |
+| 8. Produktionsaufwand | Stunden je Beitrag | nicht erfasst | nicht erfasst | ab sofort je Beitrag notieren |
+
+Angewendet auf die Instagram-Beiträge mit mindestens 500 erreichten Konten (B):
+- Nur Reichweite: Swandor 23.10., Check-in Selectum. Viele Aufrufe, keine weitere Stärke.
+
+- Reichweite plus Share und Nutzwert: Mardan-Geschichte, Mardan-Rundgang.
+
+- Follower-Beiträge: „5 Hotels, selbst getestet“ (12,3), Reel „Reisebüro oder online buchen?“ (31.07., 4,2), Swandor 21.10. (2,7).
+
+- Share- und Nutzwert-Beiträge: Teenager-Hotels, Hotelvergleiche und Ranking, Familienurlaub für 3.000 €, Quattro-Pools (27.09.), Mallorca im Oktober, Lobbybar Selectum.
+
+Damit ist sichtbar, was die Views verdecken: Die Mardan-Geschichte war ein Reichweiten- und Share-Treffer mit durchschnittlicher Follower-Konversion (1,90). Follower-Beiträge im engeren Sinn waren kleine Beiträge mit Beweis- oder Beratungscharakter.
+
+## 6. Top- und Flop-Analyse
+Die stärksten Beiträge sind je nach Ziel andere: Reichweite kommt aus eigenen Hotelaufnahmen, Follower-Konversion aus Beiträgen mit Beweis- oder Beratungscharakter.
+
+### Stärkste Beiträge je Ziel (Instagram, 90 Tage)
+
+| Ziel | Die fünf stärksten | Gemeinsames Merkmal | Status |
+| Reichweite (Aufrufe) | Mardan-Geschichte 152.273 · Swandor 23.10. 16.938 · Mardan-Rundgang 4.945 · Check-in Selectum 4.319 · Quattro Family Club 3.944 | Alle fünf zeigen ein selbst gefilmtes Hotel | B; Ursache C |
+| Follows absolut | Mardan-Geschichte 217 · 5 Hotels, selbst getestet 13 · je 5: Hotel-Akte Viru, Swandor 21.10., Mardan-Rundgang, Swandor 23.10. | Vier von sechs zeigen eigene Hotelaufnahmen | B |
+| Follows je 1.000 Konten (ab 500 Konten) | 5 Hotels, selbst getestet 12,3 · Reisebüro oder online buchen? 4,2 · Swandor 21.10. 2,7 · Swandor Topkapi oder Selectum? 2,2 · Lobbybar Selectum 2,2 | Persönliche Erfahrung oder Beratung als Beweis | B; Ursache C |
+| Shares je 1.000 Aufrufe (ab 500 Konten) | Teenager-Hotels 15,3 · Mardan-Geschichte 11,0 · Mardan-Rundgang 9,5 · Swandor Topkapi oder Selectum? 8,5 · Familienurlaub für 3.000 € 5,7 | Hotel-Auswahl für eine konkrete Gruppe oder das Mardan Palace | B |
+| Saves je 1.000 Aufrufe (ab 500 Konten) | Mardan-Rundgang 4,7 · Teenager-Hotels 4,6 · 5 Hotels, selbst getestet 3,9 · Mallorca im Oktober 3,5 · Mardan-Geschichte und Ranking je 3,0 | Planungsnutzen für einen späteren Urlaub | B |
+
+Auf TikTok stammen die fünf meistgesehenen Beiträge alle aus eigenen Hotelaufnahmen: vier Mardan-Videos und der Check-in im Selectum (A).
+
+### Viel Reichweite, wenig Follower
+
+| Beitrag | Erreichte Konten | Follows | Vermuteter Grund (C) |
+| Wie gut ist das Swandor Hotels Kemer wirklich? (23.10.) | 11.868 | 5 | YouTube-Ankündigung statt Grund zum Folgen; auffällig wenige Shares (4) bei 509 Likes |
+| Herbstferien und noch Lust auf Sommer? (07.10.) | 1.993 | 0 | Zeitlich gebundenes Thema, kein Bezug zu eigener Erfahrung |
+| Mehrere Pools, Kinderwasserwelten (Quattro, 27.09.) | 1.657 | 0 | Wird geteilt (4,0 je 1.000), aber ohne Frage oder Einordnung, die zum Folgen einlädt |
+| 1,5 Milliarden Dollar (Hotel-Akte Atlantis, 09.10.) | 1.547 | 0 | Fremdmaterial, bekannte Geschichte ohne eigenen Zugang |
+
+### Schwächste Beiträge
+
+| Beitrag | Format | Aufrufe | Erreichte Konten | Bewertung der Ursache |
+| Herbstferien, Tag 1 | Bild | 146 | 70 | Meme ohne Nutzen; auch auf TikTok unter den Letzten (303). C, auf beiden Plattformen gleich |
+| Italien 2027: Sardinien oder Sizilien? | Karussell | 191 | 85 | Entscheidung für eine ferne Reise. Bei 85 Konten aber kein fairer Inhaltstest (D) |
+| Hotel-Akte #2, zweite Fassung (12.10.) | Reel | 221 | 150 | Andere Schnittfassung (54 statt 45 s) mit gleicher Caption, einen Tag nach dem Original. C: konkurrierte mit dem Original |
+| Der größte Last-Minute-Fehler | Reel | 228 | 180 | Einstiegsproblem belegt: auf TikTok nach 1 s nur noch ca. 35–40 %. A für den Abbruch, C für den Grund (allgemeines Laptop-Motiv) |
+| Madeira: 5 Gründe | Karussell | 232 | 76 | Kein fairer Inhaltstest (D); auf TikTok 770 |
+| Neu auf Kreta: Ikos Kissamos | Karussell | 236 | 93 | News ohne eigene Erfahrung („Wir waren noch nicht da“). C |
+| Last Minute in den Herbstferien: 5 Tricks | Karussell | 254 | 87 | Kein fairer Inhaltstest (D); auf TikTok ebenfalls schwach (267) |
+| Zypern im Herbst | Karussell | 260 | 287 | Kein fairer Inhaltstest (D) |
+| Heute Nacht werden die Uhren zurückgestellt | Bild | 270 | 126 | Meme; beim Export erst 1,5 Tage alt. C |
+| Ultra All Inclusive oder All Inclusive? | Karussell | 282 | 100 | Auf TikTok 1.204. Inhalt trägt, Instagram-Ausspielung nicht (C) |
+
+Aufrufe und Konten A. Beiträge unter 3 Tagen Alter (23.–25.10.) sind nur unter Vorbehalt bewertbar.
+
+## 7. Mardan-Palace-Deep-Dive
+Die Mardan-Geschichte ist ein Einzeltreffer, dessen Ursache sich mit den vorhandenen Daten nicht isolieren lässt. Am besten passt ein Zusammenspiel: ein bekanntes, spektakuläres Hotel, eigenes Material und eine Geschichte, die lange gesehen wird. Fehlte einer davon, blieben andere Beiträge deutlich kleiner (C).
+
+### Vergleich mit verwandten Beiträgen
+
+| Beitrag | Hotel | Geschichte | Material | Länge | Instagram Aufrufe | Instagram Follows | Shares je 1.000 (IG) | TikTok Views | TikTok Follower |
+| Die Geschichte hinter dem Mardan Palace | Mardan Palace | ja | eigen | 92 s | 152.273 | 217 | 11,0 | 82.000 | 70 |
+| Mardan-Rundgang in 30 Sekunden | Mardan Palace | nein | eigen | 19 s | 4.945 | 5 | 9,5 | 24.000 | 40 |
+| Ein Hotel wie aus 1001 Nacht | Mardan Palace | nein, mit Person | eigen | 38 s | nicht im Expor t* | – | – | 16.000 | 36 |
+| Der riesige Pool im Mardan Palace | Mardan Palace | nein | eigen | 13 s | nicht im Expor t | – | – | 11.000 | unbekannt |
+| Ist das Swandor Kemer so gut, wie es aussieht? (21.10.) | Swandor Kemer | Frage-Hook | eigen | 27 s | 2.441 | 5 | 2,0 | 1.725 | unbekannt |
+| Wie gut ist das Swandor Hotels Kemer wirklich? (23.10.) | Swandor Kemer | Frage-Hook | eigen | 22 s | 16.938 | 5 | 0,2 | unbekannt | unbekannt |
+| Check-in im Selectum Luxury | Selectum Luxury | nein | eigen | 23 s | 4.319 | 3 | 2,8 | 12.000 | unbekannt |
+| Hotel-Akte #2: Hotel Viru, Tallinn | Hotel Viru | ja | fremd | 45 s | 3.330 | 5 | 2,4 | unbekannt | unbekannt |
+| Hotel-Akte #1: Atlantis The Palm | Atlantis The Palm | ja | fremd | 42 s | 1.854 | 0 | 2,7 | unbekannt | unbekannt |
+
+A bzw. B. *Am 31.08. erschien auf Instagram ein anderer, 11 Sekunden langer Mardan-Clip (841 Aufrufe, 1 Follow), nicht dieselbe Fassung.
+
+### Sechs mögliche Erfolgsfaktoren
+
+| Faktor | Was dafür spricht | Was dagegen spricht | Bewertung |
+| 1. Anziehungskraft des Hotels | Auf TikTok erreichen alle vier Mardan-Videos 11.000–82.000 Views, in jedem Format. Der Rundgang hat auf Instagram fast dieselbe Share-Rate wie die Geschichte (9,5 zu 11,0) | Derselbe Rundgang kam auf Instagram nur auf 4.945 Aufrufe | C, starker Hinweis, vor allem auf TikTok |
+| 2. Architektur und Geschichte | Die Frage „Warum steht hier ein Palast?“ verbindet Bild und Geschichte | Atlantis (ebenso bekannt, ebenso Geschichte) holte 1.854 Aufrufe und 0 Follows | C, wirkt offenbar nur zusammen mit eigenem Material |
+| 3. Storytelling-Aufbau | Auf TikTok sahen Zuschauer Ø 28,7 s statt 7,8 s beim Rundgang; 14 % sahen alle 92 Sekunden | Die Hotel-Akten Viru und Atlantis erzählen ebenfalls und blieben bei 1.854–3.330 Aufrufen . Anteilig sahen Zuschauer beim Rundgang mehr (41 % zu 31 %); die längere Sehdauer folgt also teils aus der Länge | C, plausibler Verstärker über die Sehdauer |
+| 4. Eigene Aufnahmen | Die fünf meistgesehenen Videos beider Plattformen nutzen eigenes Material; die Akten mit Fremdmaterial blieben deutlich kleiner (1.854–3.330 Aufrufe) | Nicht vom Hotel trennbar: Alle Mardan-Videos sind eigenes Material | C |
+| 5. Neugier-Einstieg | Klare Frage im ersten Satz | Viru und Atlantis hatten ebenso starke Neugier-Einstiege; TikTok nennt auch beim Treffer 0:01 als größten Abbruch | C, allein nicht ausreichend |
+| 6. Viele Shares | 1.674 Shares auf Instagram, 813 auf TikTok | Teenager-Hotels hatte eine höhere Share-Rate (15,3) bei 2.416 Aufrufen. Über alle Reels hängen Share-Rate und Aufrufe nur mäßig zusammen (Rangkorrelation 0,47). Shares können Ursache und Folge von Reichweite sein | C bzw. D: Begleiterscheinung, Ursache nicht belegt |
+
+Antwort auf die Kernfrage: Weder das Storytelling allein noch das Hotel allein erklären den Treffer. Plausibel ist (C): Das Hotel trägt auf TikTok in jedem Format, die Geschichte hält Zuschauer absolut am längsten (28,7 s, anteilig aber weniger als der Rundgang), und nur die Kombination erzielte auf Instagram einen Ausreißer. Bei einem einzigen Fall bleibt auch Zufall, etwa der Ausspielungszeitpunkt, eine Erklärung (D).
+
+### Drei testbare Strategien
+- Gleiches Hotel, zwei Formate (trennt Format von Hotel): Für zwei weitere selbst gefilmte Hotels je einen Rundgang (20–30 s) und eine Geschichte (60–90 s) im Abstand von einer Woche, Reihenfolge wechseln. Bringt die Geschichte bei beiden Hotels mehr Sehdauer und Follows, ist das Format übertragbar. Test 1 in Abschnitt 12.
+
+- Hotel-Akte nur mit eigenem Material (trennt Material von Geschichte): Drei Geschichten über eigene Hotels mit markanter Architektur oder Geschichte, etwa Swandor Topkapi Palace oder NG Phaselis Bay. Jede historische Aussage wird vorher belegt. Test 2 und 8.
+
+- Mardan als Serie (prüft die Zugkraft des Hotels): Zwei weitere Mardan-Winkel aus vorhandenem Material, etwa die Restaurants im Turm oder das Hotel bei Nacht. Brechen die Werte ein, war es eher die Geschichte; bleiben sie hoch, trägt das Hotel.
+
+## 8. Zielgruppenanalyse
+Bekannt ist nur, wer heute folgt. Wer die Reels sieht, ohne zu folgen, ist nicht exportiert, obwohl diese Gruppe 94,8 % der Aufrufe stellt.
+
+### Vier Ebenen
+
+| Ebene | Was wir wissen | Status |
+| Bestand: wer folgt | 2.606 Follower; 74,3 % zwischen 25 und 54 Jahren, 57,4 % Männer; Deutschland 44,9 %, Österreich 3,0 %, Schweiz 0,9 %, Türkei 5,4 %, Brasilien 5,3 %; Minden 5,8 %, mit Porta Westfalica und Bad Oeynhausen 7,3 % | A, B |
+| Erreichte Nicht-Follower | 94,8 % der Aufrufe (30 Tage); 99,5 % bei der Mardan-Geschichte, 98,9 % beim Swandor-Reel. Alter und Herkunft dieser Gruppe sind nicht exportiert | A, D |
+| Strategische Wunschzielgruppe | Laut Briefing deutschsprachige Reisende, vor allem in Deutschland, mit unterschiedlichen Budgets | Vorgabe |
+| Kommerziell relevante Zielgruppe | Menschen, die bei haydi-weg buchen können: DACH-Raum, also rund 48,8 % des Bestands (ca. 1.270 Konten), darunter die Region Minden für Beratung vor Ort (ca. 190 Konten) | B, C |
+
+Altersverteilung (A):
+
+| Alter | Frauen | Männer | Gesamt |
+| 18–24 | 1,6 % | 3,8 % | 5,4 % |
+| 25–34 | 9,0 % | 15,6 % | 24,6 % |
+| 35–44 | 13,3 % | 14,6 % | 27,9 % |
+| 45–54 | 10,1 % | 11,7 % | 21,8 % |
+| 55–64 | 6,8 % | 6,5 % | 13,3 % |
+| 65+ | 1,8 % | 5,2 % | 7,0 % |
+
+Außerhalb der fünf genannten Länder liegen 40,5 % der Follower, außerhalb der Top 10 noch 38,9 % (B).
+
+### Follower aus Brasilien (5,3 %, rund 138 Konten)
+Die Herkunft ist offen. Fake-Konten sind eine mögliche, aber keine automatische Erklärung.
+
+| Mögliche Erklärung | Prüfbar? | So prüfen |
+| Internationale Ausspielung eines viralen Reels | Teilweise | Sprache der 123 Kommentare unter der Mardan-Geschichte ansehen; Länderverteilung in 4 Wochen erneut exportieren |
+| Sprachunabhängige Hotelbilder erreichen weltweit Interesse | Nein, nur plausibel | – |
+| Ältere Followerstruktur, etwa Gewinnspiele oder frühere Aktionen | Ja | Eigene Erinnerung, ältere Zielgruppen-Screenshots |
+| Nicht authentische Konten | Ja | Stichprobe von 30 brasilianischen oder neuesten Followern: Profilbild, Beiträge, Verhältnis gefolgt zu Followern |
+
+Die Follower aus der Türkei (5,4 %; Antalya, Alanya, Istanbul unter den Top-Städten) sind vermutlich teils Hotel- und Tourismuskontakte (C). Als Buchende sind sie wenig relevant, für Kooperationen schon.
+
+### Zielgruppenstrategie
+- Kern: 25–54 Jahre im DACH-Raum, Paare und Familien. Das ist die Mehrheit des Bestands und die buchungsrelevante Gruppe. Dass sie vor allem Pauschal- und Hotelurlaub plant, ist eine Annahme, keine Messung (C).
+
+- Wachstum: Nicht-Follower im DACH-Raum, die Hotelinhalte sehen. Ihr Anteil lässt sich nur indirekt steuern, etwa über deutschsprachige Texte und Themen.
+
+- Jüngere Zielgruppen nicht abschreiben: 18–24 sind nur 5,4 % der Instagram-Follower, die TikTok-Zielgruppe ist unbekannt. Ein einzelner schwacher Trend-Beitrag („Hotels, die TikTok dominieren“) ist kein Beleg gegen sie. Belege für oder gegen sie gibt es bisher nicht; Teenager-Hotels richtet sich an Eltern und zählt hier nicht. Junge Themen werden deshalb gezielt auf TikTok getestet, nicht gestrichen.
+
+- Erst messen, dann zuschneiden: TikTok-Zielgruppe (Alter, Länder) aus TikTok Studio sichern, sobald angezeigt.
+
+## 9. Content-Format-Analyse
+Zwei Formate verdienen einen festen Platz: eigene Hotelclips und Hotelvergleiche. Die Hotelgeschichte und das „selbst getestet“-Karussell sind die vielversprechendsten Tests. Memes und News ohne eigenen Bezug werden pausiert.
+
+| Format | Beiträge (IG) | Median Aufrufe (IG) | Follows je 1.000 Konten | Shares je 1.000 Aufrufe | TikTok-Beleg | Funktion | Entscheidung | Nächster Schritt |
+| Hotelgeschichte, eigenes Material | 1 | 152.273 | 1,90 | 11,0 | 82.000 Views, 70 Follower | Reichweite, Share | Weiter testen | Höchste Testpriorität: Strategien 1 und 2 aus Abschnitt 7 |
+| Hotelclips, eigenes Material | 13 | 2.018 | 0,89 | 2,1 | Top 5 nach Views; 1,67–2,25 Follower je 1.000 Views | Reichweite; auf TikTok auch Follower | Priorisieren | Mit Frage-Einstieg und Einordnung ausbauen, als Serie erkennbar machen |
+| Hotelvergleich, Ranking | 4 | 2.271 | 1,45 | 6,2 | Teenager-Hotels 8.590 Views | Share, Nutzwert, Vertrauen | Priorisieren | Einmal pro Woche, jeweils für eine konkrete Gruppe (Familien, Teenager, Paare) |
+| Karussell „selbst getestet“ | 2 | 829 | 11,6 | 2,4 | nicht separat gepostet | Follower, Vertrauen | Weiter testen | Test 5: drei weitere auf Instagram |
+| Saisonale Entscheidungsfrage | 4 | 1.285 | 0,46 | 1,8 | Fotobeiträge 5.630 und 9.514 Views, Follower unbekannt | Reichweite auf TikTok | Verändern | TikTok-first; mit eigener Hotelerfahrung verbinden; TikTok-Follower je Beitrag notieren |
+| Reiseziel-Tipps („X Gründe für …“) | 5 | 260 | 0 | 0,7 | 356–1.602 Views | schwach | Verändern | Auf Instagram pausieren; auf TikTok nur als Entscheidungsfrage |
+| Erklärformat | 2 | 1.234 | 1,12 | 0,8 | 788–1.204 Views | Reichweite, Vertrauen | Weiter testen | Als Reel mit eigenem Hotelmaterial |
+| Reisebüro-Wissen | 5 | 710 | 2,24 | 3,2 | 267–284 Views, 0 Follower | Vertrauen, Follower | Verändern | Einstieg neu bauen (Test 3); stärkstes Bild in Sekunde 1 |
+| Hotelgeschichte, Fremdmaterial | 3 | 1.854 | 1,30 | 2,4 | keine Daten | Reichweite mittel | Weiter testen | Nur noch als Vergleichsvariante in Test 8 |
+| News, Trends | 4 | 575 | 1,26 | 1,2 | 3 27 –633 Views | schwach | Vorläufig pausieren | Nur mit eigener Erfahrung oder klarer Entscheidungshilfe |
+| Memes, Stimmung | 2 | 208 | 0 | 4,8 | 281–303 Views | keine | Vorläufig pausieren | – |
+
+Kennzahlen B. Die Zuordnung der Beiträge zu Formaten ist eine eigene Einordnung nach Titel und Caption (C); die Liste steht im Berechnungsprotokoll. Bei 1 bis 5 Beiträgen je Format sind alle Raten unsicher.
+
+### Instagram-Karussells im Detail
+Die erste Fassung empfahl, Instagram-Karussells auf eins pro Woche zu senken. Diese Empfehlung wird zurückgenommen.
+- Reichweite: Median 100 erreichte Konten, Spanne 76–1.054; 8 von 13 erreichten höchstens 120 Konten (B).
+
+- Follower-Konversion: 14 Follows auf 2.842 Konten, also 4,9 je 1.000. Ohne „5 Hotels, selbst getestet“ bleibt 1 Follow auf 1.788 Konten (0,56). Bei so kleinen Zahlen verändern schon fünf Follows mehr oder weniger die Rate des Gewinners um etwa ±5 je 1.000 (B).
+
+- Inhalt: Das stärkste Karussell verspricht schon im Titel eigene Hotelerfahrung („5 Hotels, die wir selbst getestet haben“). Das zweite mit Follow („Wo solltest du übernachten?“) nennt die eigenen Besuche erst in der Unterzeile, ebenso das Rote-Meer-Karussell, das keinen Follower gewann. Ob Titel oder Thema den Ausschlag gibt, ist offen (C).
+
+- Positionierung: Persönliche Hotelempfehlung: 2 von 2 Karussells mit Follows. Allgemeine Reise-Informationen: 0 von 11 (B; Ursache C).
+
+- Ausspielung: Karussells erreichen im Median eine Reichweite von knapp 4 % der Followerzahl. 12 von 13 liefen um 12 Uhr, während die Reels abends erschienen. Auf TikTok holen dieselben Inhalte im Median das 3,3-Fache an Views, ohne das junge November-Karussell das 2,6-Fache. Die schwache Gesamtleistung liegt deshalb wahrscheinlich zuerst an der Ausspielung (C).
+
+- Weiter testen: „Selbst getestet“ gegen allgemeine Information (Test 5) und 12 gegen 18 Uhr (Test 7). Während der Tests ein bis zwei Instagram-Karussells pro Woche beibehalten.
+
+## 10. Wachstumslücke
+Für 10.000 Instagram-Follower bis 30.04.2027 braucht es 278 netto pro Woche. Gemessen sind 22 bis 59 brutto pro Woche, das Netto-Wachstum ist unbekannt. Das Ziel wird nur im ambitionierten Szenario erreicht.
+
+### Bedarf und Ist
+
+| Kennzahl | Wert | Status |
+| Ausgangswert am 26.10.2026 | 2.606 Follower | A |
+| Fehlende Follower bis 10.000 | 7.394 | B |
+| Verbleibende Zeit bis 30.04.2027 | 186 Tage, 26,6 Wochen, 6,1 Monate | B |
+| Nötiger Nettozuwachs | 278 pro Woche, 1.210 pro Monat | B |
+| Gemessen brutto, 09.–24.10. | 4 2 –48 pro Woche (Spanne wegen fehlender Tage) | B |
+| davon 09.–16.10. / 17.–24.10. | 59 / 22–31 pro Woche | B |
+| Entfolgungen | nicht gemessen | D |
+| Indirekter Netto-Hinweis | Falls 2.587 am 23.10. der Gesamtbestand war: +19 in 3 Tagen, rund 44 pro Woche | C |
+| Nötige Beschleunigung | 5,8- bis 6,6-fach gegenüber 42–48 brutto, 9- bis 13-fach gegenüber der letzten Woche (22–31) ; mit Entfolgungen mehr | B |
+
+Brutto und netto sind hier bewusst getrennt. Die erste Fassung verglich beitragsbezogene Brutto-Follows direkt mit dem Netto-Bedarf; das unterschätzt die Lücke.
+Zur Einordnung: Die Mardan-Geschichte brachte 217 Follows. Rechnerisch wären gut fünf solcher Treffer pro Monat nötig. Da die 217 Brutto-Follows sind, braucht es nach Entfolgungen eher mehr. Planbar ist das nicht.
+
+### Drei Szenarien
+
+| Szenario | Annahmen (modelliert) | Follower am 30.04.2027 | Ziel erreicht? |
+| Konservativ | Fortsetzung der heutigen Entwicklung: netto 20–45 pro Woche; unten die letzte Messwoche (22–31 brutto) abzüglich Entfolgungen, oben der Schnitt 09.–24.10. (42–48 brutto ) | 3. 1 00–3.800 | nein |
+| Realistisch | Grundlinie netto 50–70 pro Woche durch Serien und ein besseres Profil, dazu ein starker Beitrag pro Monat mit 150–250 Follows (Referenz: Mardan-Geschichte 217) | 4.800–6.000 | nein |
+| Ambitioniert | Grundlinie 100–150 pro Woche, zwei starke Beiträge pro Monat mit je 200–300 Follows, dazu 1.000–2.000 Follower aus bezahlter Reichweite | 8.700–12.200 | nur i m oberen Teil der Spann e |
+
+Alle Szenarien C, auf Hunderter gerundet. Sie sind Rechenmodelle aus den genannten Annahmen, keine Vorhersagen.
+Die Kosten bezahlter Follower sind für euren heutigen Content unbekannt. Der frühere Wert von 0,41 USD pro Follower ist nicht überprüfbar (D). Bei diesem Wert kosteten 1.000–2.000 Follower 410–820 USD.
+50.000 bis Ende 2027: Dafür wären 14 Monate lang rund 770 netto pro Woche nötig. Das ist etwa das 2,6-Fache des ambitionierten Szenarios und mit den heutigen Daten nicht begründbar (D).
+Was das Ziel realistisch macht: Bis Ende November sollte feststehen, ob ein zweiter Treffer über 100 Follows möglich ist (Tests 1, 2 und 8). Gelingt das nicht, ist das Ziel auf den 30.04. kaum haltbar. Dann wäre eine neue Zielmarke von 5.000–6.000 ehrlicher.
+
+## 11. Strategische Handlungsempfehlungen
+Der Schwerpunkt liegt auf eigenem Hotelmaterial und auf Tests, die klären, warum die Mardan-Geschichte funktionierte. Die Menge der Beiträge steigt nicht.
+
+### Priorisierte Maßnahmen
+
+| Priorität | Maßnahme | Begründung | Status der Begründung |
+| Hoch | Eigenes Hotelmaterial wird Kern beider Kanäle: zwei Hotelclips pro Woche, jeweils mit Frage-Einstieg | Die fünf meistgesehenen Beiträge beider Plattformen stammen aus eigenem Material, und alle TikTok-Spitzentage folgen auf eigene Hotelvideos | B; Ursache C |
+| Hoch | Formattest Geschichte gegen Rundgang am selben Hotel, dazu Hotel-Akten nur mit eigenem Material | Klärt den größten Hebel; heute nur ein Fall | C |
+| Hoch | Ein Hotelvergleich pro Woche für eine konkrete Gruppe | Alle 4 mit Follows; Median-Share-Rate 5,3 je 1.000 (alle Reels 1,9) | B, n = 4 |
+| Hoch | Plattformgerecht veröffentlichen: Fotobeiträge zuerst für TikTok, Instagram-Karussells mit eigener Hotelerfahrung, Erklär-Reels zuerst für Instagram | Reichweitenmuster je Plattform | B; Follower-Wirkung D |
+| Mittel | Einstieg neu bauen: stärkstes Bild und Text-Hook in Sekunde 1, kein Logo-Intro davor | Belegter Abbruch beim Last-Minute-Reel | A für ein Video, sonst C |
+| Mittel | In jedem Reel einen Grund zum Folgen geben, etwa erkennbare Serie mit Nummer statt YouTube-Ankündigung | Swandor 23.10.: 11.868 Konten, 5 Follows | C |
+| Mittel | Hotelname und Ort in Text-Hook, Voiceover und Beschreibung | 15,5 % Such-Anteil bei „1001 Nacht“ | C |
+| Mittel | Messen, was fehlt: Followerstand jeden Montag notieren (für Netto), TikTok-Follower und Aufwand je Beitrag erfassen | Netto-Wachstum und Aufwand sind heute nicht messbar | D wird beseitigt |
+| Niedrig | Pausieren: Memes, News ohne eigenen Bezug, Trend-Themen; keine zweite Fassung am Folgetag | Auf beiden Plattformen am schwächsten | B; Ursache C |
+| Niedrig | Erster bezahlter Test erst, wenn ein Format zweimal getragen hat; nur DACH, z. B. mit dem geplanten Trailer-Budget von 150–200 € | Kosten pro Follower für heutigen Content unbekannt | D |
+
+### Produktionsmodelle
+
+| Kriterium | A – Quality First | B – Balanced Growth | C – High Output |
+| Umfang pro Woche | Instagram 2 Reels + 1 Karussell; TikTok dieselben Reels + 1 Fotobeitrag; Hotelgeschichte alle 2 Wochen | Instagram 3 Reels + 2 Karussells; TikTok 3 Reels + 3 Fotobeiträge; je 1 Hotelgeschichte und 1 Hotelvergleich | 8–12 Beiträge pro Plattform mit Vorlagen |
+| Strategischer Nutzen | Hohe Qualität je Beitrag, aber wenige Datenpunkte | Genug Beiträge für alle acht Tests in vier Wochen | Viele Datenpunkte, aber verrauscht |
+| Produktionsaufwand | Niedrig bis mittel | Mittel, etwa der seit 21.10. geplante Rhythmus | Hoch |
+| Qualitätssicherung | Sehr gut | Gut mit fester Freigabe | Schwer |
+| Wiederverwendung vorhandenen Materials | Mittel | Hoch: Hotelclips, Geschichte und Vergleich aus demselben Dreh | Hoch, aber mit Doppelungen wie bei Hotel-Akte #2 |
+| Umsetzbarkeit | Hoch | Hoch | Gering |
+| Datenbasierte Optimierung | Tests dauern etwa doppelt so lange | Gut | Viele Varianten gleichzeitig, schwer auseinanderzuhalten |
+
+Empfehlung: Modell B. Begründet wird das mit dem Testbedarf und der Produktionskapazität, nicht mit einem Algorithmus-Effekt der Frequenz. Den gibt es in euren Daten nicht nachweisbar (D). Mehr Beiträge brachten im Oktober zwar mehr Follows insgesamt: ohne die Mardan-Geschichte rund 12 pro Woche statt 3,4 im Juli und August. Je Beitrag blieb es aber gleich (1,5 zu 1,7), und 16 von 30 Oktober-Beiträgen gewannen keinen Follower (B). Modell B kostet gegenüber dem Oktober-Tempo rechnerisch rund 5 beitragsbezogene Follows pro Woche. Das ist klein gegenüber dem Bedarf von 278; der Hebel liegt bei Treffern, nicht bei der Menge. Reicht die Kapazität, ist mehr Volumen in gleicher Qualität kein Fehler.
+
+## 12. Experimentierplan (02.–29.11.2026)
+Acht Tests in vier Wochen, eingebaut in den normalen Rhythmus von Modell B. Kein Test wird statistisch signifikant; entschieden wird nach vorher festgelegten Regeln, und jedes Ergebnis gilt als vorläufig.
+
+### Tests
+
+| Test | Hypothese | Aufbau und Beiträge | Primäre KPI; sekundäre KPI | Störfaktoren; Mindestdaten | Entscheidungsregel und Konsequenz |
+| T1 Geschichte gegen Rundgang | Am selben Hotel bringt eine 60–90-s-Geschichte mehr Sehdauer und Follows als ein 20–30-s-Rundgang | Hotel A und B je als Geschichte und als Rundgang, Reihenfolge getauscht; 4 Reels auf beiden Plattformen | Follows je 1.000 Konten (IG) bzw. Views (TT); Ø Wiedergabe, ganz angesehen, Shares | Ausspielung, Abstand der Beiträge; je Beitrag mindestens 500 Konten bzw. Views und 7 Tage | Geschichte vorn bei beiden Hotels und mindestens 1,5-fache Sehdauer: Geschichte wird wöchentliche Serie. Sonst Rundgänge priorisieren |
+| T2 Bekanntes gegen weniger bekanntes Hotel | Bekannte, auffällige Häuser holen bei gleichem Format mehr Reichweite | 2 Clips bekannte Häuser, 2 Clips weniger bekannte, gleiches Schnittmuster (teils aus T1) | Aufrufe nach 7 Tagen; Follows je 1.000, Shares | „Bekannt“ ist eine Einschätzung, nicht gemessen; 4 Beiträge | Bekannte Häuser in beiden Paaren mindestens doppelt so stark: Drehplanung danach ausrichten |
+| T3 Neugier- gegen Info-Einstieg | Eine offene Frage im ersten Satz hält mehr Zuschauer über 3 Sekunden | 4 Hotelclips, je 2 pro Einstieg, gekreuzt mit T2 | Anteil nach 3 s (TikTok-Kurve); Ø Wiedergabe, Follows | Je Kombination nur 1 Beitrag; Kurve braucht rund 300 Views | Neugier in beiden Paaren mindestens 1,5-fach beim 3-s-Anteil: wird Standard. Sonst Wiederholung im Dezember |
+| T4 Kurz gegen lang | Hotelvergleiche funktionieren auch über 60 s (bisher hatten alle 3 Reels über 60 s Follows, darunter 2 Hotelvergleiche ) | 4 Hotelvergleiche: 2 in 25–30 s, 2 in 60–90 s | Follows je 1.000; Ø Wiedergabe absolut, Saves | Thema und Zielgruppe des Vergleichs; 4 Beiträge | Lang mindestens gleichauf bei Follows: lange Vergleiche zulassen. Deutlich schwächer: auf 30 s kürzen |
+| T5 Instagram-Karussell: selbst getestet gegen allgemein | Karussells mit eigener Hotelerfahrung im Titel gewinnen mehr Follower | 4 „selbst getestet“, 4 allgemeine Reise-Infos, gekreuzt mit T7 | Follows je 1.000 Konten; Reichweite, Saves | Sehr kleine Reichweite; je Variante zusammen mindestens 1.500 Konten, sonst ohne Ergebnis | „Selbst getestet“ mindestens doppelt so stark und mindestens 5 Follows: wird Karussell-Standard auf Instagram |
+| T6 TikTok: Fotobeitrag gegen Video | Dasselbe Thema gewinnt als Video mehr Follower, weil es länger gesehen wird | 2 saisonale Themen, je als Fotobeitrag und als Video mit Voiceover, Reihenfolge getauscht | Neue Follower je 1.000 Views (TikTok-Detail); Views, Saves | Zweiter Beitrag zum Thema kann schwächer laufen; 4 Beiträge | Video mindestens 1,5-fach bei Followern: Themen künftig als Video. Sonst bleibt der Fotobeitrag Reichweitenformat |
+| T7 Mittags gegen abends | Karussells und Fotobeiträge erreichen um 18 Uhr mehr als um 12 Uhr | Alle Karussells und Fotobeiträge abwechselnd 12 und 18 Uhr, gleiche Wochentage paaren | Reichweite (IG) bzw. Views (TT) nach 48 h; Follows | Thema; je Zeit mindestens 4 Beiträge pro Plattform | Eine Zeit im Median mindestens 1,5-fach: wird Standard. Sonst 18 Uhr als Testvorgabe für Dezember |
+| T8 Eigenes gegen fremdes Material | Hotelgeschichten wirken mit eigenem Material stärker als mit lizenziertem Fremdmaterial | 2 Geschichten mit eigenem Material (aus T1), 2 über bekannte Hotels mit rechtmäßig nutzbarem Fremdmaterial, gleiche Dramaturgie | Follows je 1.000; Ø Wiedergabe, Shares | Hotels nicht identisch; 4 Beiträge | Eigenes Material mindestens 1,5-fach: Akten mit Fremdmaterial einstellen. Sonst als günstige Ergänzung behalten |
+
+In allen Test-Reels bleibt gleich: Hook-Text im ersten Bild, kein Logo-Intro, Serienhinweis am Ende, Reels um 19 Uhr.
+
+### Belegung der vier Wochen
+
+| Woche | Reel 1: Geschichte | Reel 2: Hotelclip | Reel 3: Hotelvergleich | Instagram-Karussells | TikTok-Fotobeiträge und Videos |
+| 1 (02.–08.11.) | Hotel A, eigenes Material (T1, T8) | Rundgang Hotel B, Neugier-Einstieg (T1, T2, T3) | kurz (T4) | selbst getestet 12 Uhr; allgemein 18 Uhr | Thema X als Fotobeitrag (T6); 2 weitere 12 bzw. 18 Uhr (T7) |
+| 2 (09.–15.11.) | Bekanntes Hotel, Fremdmaterial (T8) | Bekanntes Haus, Neugier-Einstieg (T2, T3) | lang (T4) | allgemein 12 Uhr; selbst getestet 18 Uhr | Thema X als Video (T6); 2 weitere |
+| 3 (16.–22.11.) | Hotel B, eigenes Material (T1, T8) | Rundgang Hotel A, Info-Einstieg (T1, T2, T3) | lang (T4) | selbst getestet 12 Uhr; allgemein 18 Uhr | Thema Y als Video (T6); 2 weitere |
+| 4 (23.–29.11.) | Bekanntes Hotel, Fremdmaterial (T8) | Weniger bekanntes Haus, Info-Einstieg (T2, T3) | kurz (T4) | allgemein 12 Uhr; selbst getestet 18 Uhr | Thema Y als Fotobeitrag (T6); 2 weitere |
+
+Hotel A ist ein bekanntes, Hotel B ein weniger bekanntes Haus aus eurem Material, etwa Swandor Topkapi Palace und Quattro Family Club Dem. Auswertung am 30.11. und 01.12.: Jede Entscheidungsregel wird angewendet, unklare Tests laufen im Dezember mit neuen Beiträgen weiter.
+
+## 13. Operativer 14-Tage-Plan (28.10.–10.11.2026)
+Die ersten vier Tage bereiten die Tests vor, ab 02.11. läuft Woche 1. Verantwortlich sind Rollen; bitte die Personen eintragen.
+
+| Zeitraum | Aufgabe | Verantwortlich | Priorität | Fertig, wenn | Status |
+| 28.10. | Messblatt anlegen: je Beitrag Plattform, Format, Test, Uhrzeit, Aufrufe, erreichte Konten, Follows, Shares, Saves, Profilbesuche, Ø Wiedergabe, Aufwand in Stunden | Auswertung | Hoch | Vorlage steht | Offen |
+| 28.10. | Followerstand Instagram und TikTok ab jetzt jeden Montag notieren (für Netto-Wachstum) | Auswertung | Hoch | Erster Eintrag am 02.11. | Offen |
+| 28.–29.10. | Hotel A (bekannt) und Hotel B (weniger bekannt) festlegen, Material für je Geschichte und Rundgang sichten | Redaktion | Hoch | Materialliste je Hotel | Offen |
+| 29.–31.10. | Fakten für beide Hotelgeschichten mit Quelle belegen; nichts ohne Beleg ins Skript | Redaktion | Hoch | Quellenliste je Skript | Offen |
+| 30.10. | Profil anpassen: Bio mit Nutzen und Beleg (über 120 selbst getestete Hotels, YouTube-Reichweite); Mardan-Geschichte, „5 Hotels, selbst getestet“ und Mardan-Rundgang anpinnen | Veröffentlichung | Mittel | Profil live | Offen |
+| 30.10.–01.11. | Skripte Woche 1: Geschichte Hotel A (75–90 s), Rundgang Hotel B (25 s, Neugier-Einstieg), kurzer Hotelvergleich | Redaktion | Hoch | 3 Skripte freigegeben | Offen |
+| 31.10.–01.11. | Schnitt Woche 1 in CapCut: Hook-Text im ersten Bild, kein Logo-Intro, Serienhinweis am Ende | Schnitt | Hoch | 3 Reels exportiert | Offen |
+| 31.10.–01.11. | Woche 1 gestalten: 2 Instagram-Karussells (selbst getestet, allgemein), TikTok-Fotobeitrag Thema X | Design | Mittel | 3 Beiträge fertig | Offen |
+| 01.11. | Brasilien-Stichprobe (30 Konten) und Sprache der Kommentare unter der Mardan-Geschichte prüfen | Community | Niedrig | Ergebnis notiert | Offen |
+| 02.–08.11. | Woche 1 nach Belegungsplan veröffentlichen, Uhrzeiten wie geplant | Veröffentlichung | Hoch | Alle Beiträge live | Offen |
+| 03.11. | TikTok-Zielgruppe und Follower-Verlauf aus TikTok Studio sichern | Auswertung | Mittel | Screenshots abgelegt | Offen |
+| 03.–06.11. | Nutzungsrechte für das Fremdmaterial der Geschichten in T8 klären | Redaktion | Hoch | Rechte schriftlich | Offen |
+| 03.–08.11. | Woche 2 produzieren: Geschichte mit Fremdmaterial, Clip eines bekannten Hauses, langer Hotelvergleich | Redaktion, Schnitt | Hoch | 3 Reels exportiert | Offen |
+| 09.–10.11. | Zwischenstand Woche 1 ins Messblatt; noch keine Entscheidungen | Auswertung | Mittel | Messblatt aktuell | Offen |
+
+## 14. Offene Datenpunkte
+Zwölf Punkte sind offen. Am stärksten wirken das fehlende Netto-Wachstum und die fehlenden TikTok-Follower je Beitrag.
+
+| Offener Punkt | Betroffene Aussage | So wird er geschlossen | Bis |
+| Entfolgungen, Netto-Wachstum | Wachstumslücke, alle Szenarien | Followerstand jeden Montag notieren | ab 02.11. |
+| Fehlende Tage (01., 19., 22.10.) und ungültiger Wert (23.10.) | Wachstumsrate | Export erneut ziehen und prüfen, ob 0 oder Lücke | 28.10. |
+| TikTok-Follower je Beitrag, v. a. für die Fotobeiträge zu Wintersonne und Rotem Meer | Plattformvergleich, Wert von Fotobeiträgen | Detailansicht in TikTok Studio | 03.11. |
+| TikTok-Follower-Verlauf und Zielgruppe | TikTok-Wachstum, Zielgruppe | TikTok Studio | 03.11. |
+| Gesamtzahl der TikToks und eine mögliche Pause im September | Anstieg der TikTok-Tagesbasis | Beitragsliste in TikTok Studio | 03.11. |
+| Retention-Kurven weiterer Videos; Instagram-Wiedergabedauer | Einstiegsanalyse, Längenkriterien | Kurve je Video notieren; Instagram-Reel-Insights prüfen | laufend |
+| Zeitzone der Instagram-Grafik „Aktivste Zeiten“ | Veröffentlichungszeit | In der Instagram-App vergleichen | 28.10. |
+| Herkunft der Follower aus Brasilien | Follower-Qualität | Stichprobe von 30 Konten | 01.11. |
+| Aktuelle Kosten pro Follower | Bezahlte Reichweite im ambitionierten Szenario | Erster kleiner Werbetest | Dezember |
+| Produktionsaufwand je Format | Bewertung der Produktionsmodelle | Messblatt | ab 28.10. |
+| Alter und Herkunft erreichter Nicht-Follower | Zielgruppenstrategie | Nicht exportierbar (D) | – |
+| Wiederkehrende Zuschauer | Serienbindung | Auf beiden Plattformen nicht verfügbar (D) | – |
+
+## 15. Qualitätssicherung und Änderungsprotokoll
+Das Audit 2.0 wurde zweimal geprüft und erreicht in der Schlussbewertung 8,0 von 10 Punkten. Die größte Schwäche ist die dünne Datenlage, nicht die Rechnung.
+
+### Prüfung 1: erste Fassung gegen Rohdaten
+33 Befunde, davon 3 kritisch, 8 hoch, 15 mittel und 7 niedrig. Alle Befunde mit bisheriger Aussage, Problem, Korrektur und Belegstatus stehen im Tab , alle Rechenwege und die 45 Instagram-Beiträge als Rohdaten im Tab .
+
+| Ergebnis | Beispiele |
+| Übernommen, bestätigt | 45 Beiträge, 285 beitragsbezogene Follows, 217 aus der Mardan-Geschichte, alle Formatsummen, TikTok-Detailwerte und 60-Tage-Summen, Zielgruppenwerte, Bedarf von 278 pro Woche |
+| Korrigiert | Brutto und netto getrennt; Zeitzone nur für den Export bestätigt; Retention auf eine Kurve beschränkt; Länderrest 40,5 %; Uhrzeiten 12 von 13 bzw. 25 von 30 |
+| Zur Hypothese herabgestuft | „Hotelgeschichte mit eigenem Material ist das stärkste Format“; „Teilen zeigt Treffer an“; Ursache des Swandor-Reels; Zielgruppen-Schlüsse |
+| Verworfen | „Grundlinie fast vervierfacht“; „Instagram-Karussells auf eins pro Woche senken“; „Zielwert 30 % Sehdauer“; „identischer Reel doppelt gepostet“; „einziger Beitrag mit Person“ |
+
+### Prüfung 2: unabhängiger Gegencheck des Entwurfs
+Ein separater Prüfer, der an der Erstellung nicht beteiligt war, hat alle Zahlen des Entwurfs aus den Rohdaten und Screenshots nachgerechnet. Er fand 21 Fehler: 2 hoch, 7 mittel, 12 niedrig. Alle sind in dieser Fassung behoben.
+- Hoch: Hotelclips hatten nicht die höchste Median-Reichweite, Hotelvergleiche lagen höher. Außerdem stand im Entwurf, mehr Beiträge hätten im Oktober keine Follower gebracht. Tatsächlich stiegen die Follows insgesamt, nur je Beitrag nicht.
+
+- Mittel:
+- Die Titel-Hypothese für Karussells trifft nur auf eines der beiden Karussells zu.
+
+- Das Swandor-Reel erreichte rund siebenmal so viele Konten wie das mittlere Reel, nicht zehnmal.
+
+- Profilbesuche je Reel sind nicht ausgewiesen.
+
+- Die Share-Rate der Hotelvergleiche ist jetzt als Median angegeben.
+
+- Das konservative Szenario liegt jetzt bei 3.100–3.800.
+
+- Zwei Kausalformulierungen wurden abgeschwächt.
+
+- Niedrig: Rundungen (42–48 statt 41–48), Spannen, Begriffe (Views statt Menschen) und zwei unvollständige Aufzählungen.
+
+Bestätigt hat der Prüfer unter anderem alle Formattabellen, alle Neufollower-Werte, die TikTok-Summen und -Detailwerte, die abgelesene Retention-Kurve, die Plattform-Faktoren, die Zielgruppenwerte, die Wachstumsrechnung und die Zeitzonen-Umrechnung.
+
+### Abschließende Bewertung
+
+| Kriterium | Gewicht | Punkte (0–10) | Begründung |
+| Datenkorrektheit | 25 % | 8,5 | Alle Kennzahlen aus Rohdaten neu berechnet und unabhängig nachgerechnet. Restrisiko: Screenshot-Werte, gekürzte TikTok-Views, eigene Formatzuordnung |
+| Methodische Genauigkeit | 20 % | 8,0 | Brutto und netto getrennt, Zeiträume beschriftet, Spannen bei fehlenden Daten. Grenzen: kleine Stichproben, Uhrzeit und Format vermischt |
+| Aussagekraft der Analysen | 15 % | 6,5 | Die drei wichtigsten Fragen bleiben offen: warum Mardan funktionierte, was TikTok-Fotobeiträge an Followern bringen, wie hoch das Netto-Wachstum ist |
+| Strategische Qualität | 15 % | 7,5 | Klare Entscheidungen je Format, aber viele beruhen auf 1–5 Beiträgen und sind deshalb als Tests angelegt |
+| Praktische Umsetzbarkeit | 10 % | 8,5 | Tests im normalen Rhythmus, Belegungsplan, 14-Tage-Plan mit Rollen und Status |
+| Transparenz der Datenbasis | 10 % | 9,0 | Belegstatus A–D, Berechnungsprotokoll, Rohdaten, Fehlerprotokoll |
+| Redaktionelle Qualität | 5 % | 7,5 | Klar gegliedert, aber tabellenlastig und lang |
+| Gesamt | 100 % | 8,0 | Gewichteter Durchschnitt: 7,95 |
+
+Freigabe: Phase 1 ist als Arbeitsgrundlage freigegeben. Die Empfehlungen aus den Abschnitten 9 und 11 gelten bis zur Auswertung der Tests am 01.12.2026 als vorläufig. Eine bessere Bewertung hängt an den offenen Daten aus Abschnitt 14, nicht an weiterer Rechenarbeit.

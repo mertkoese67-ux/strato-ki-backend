@@ -1,0 +1,899 @@
+
+# haydi-weg Reel Production Bible – Nov 2026 bis Jan 2027
+ · 
+
+## 0. Standards für alle Reels
+Diese Bible enthält die fertigen Produktionspakete für alle 17 November-Videos und die vier Videos der ersten Dezemberwoche, die vor der Reise produziert werden. Für Dezember und Januar stehen Briefings mit Hook, Material, Ziel und Aufbau. Jede Paket-ID entspricht der Inhalt-ID im Excel-Kalender, zum Beispiel N01 = V-N01.
+Paketaufbau: A Briefing · B drei Hooks mit Bewertung und finaler Wahl · C Voiceover für ElevenLabs · D Schnittplan · E Postproduktion · F Veröffentlichung Instagram und TikTok · G Qualitätsbewertung.
+
+### Bild und Schnitt
+
+| Regel | Vorgabe |
+| Format | 9:16, 1080 × 1920, 30 fps durchgehend. HDR-Material beim Export in SDR (Rec. 709) umwandeln, damit Farben auf beiden Plattformen gleich aussehen |
+| Erstes Bild | Stärkstes Motiv ab Frame 1, Text-Hook sofort sichtbar. Kein Logo-Intro, kein Schwarzbild, keine Einblendung „Neues Video“ |
+| Text-Hook | Manrope ExtraBold, normale Groß- und Kleinschreibung, höchstens 2 Zeilen, 3–6 Wörter, ein Wort in Gelb #FBDC15. Sichtbar von 0,0 bis 2,5 s, danach erst Untertitel. Hook und Untertitel stehen nie gleichzeitig im Bild |
+| Orts-Tag | Klein über dem Hook: „Hotelname · Ort“, Manrope SemiBold, weiß. Bei Hotelclips Pflicht, bei Destination und Pure Cinematic nur der Ort |
+| Siegel „Selbst besucht“ | Klein unter dem Orts-Tag: „Selbst besucht · Monat Jahr“ (Besuchsmonat aus den Dateidaten, Tab Asset-Bibliothek). Nur bei eigenem Material, nie bei Fremdmaterial |
+| Untertitel | Manrope SemiBold, klein, weiß, dezenter Schatten, keine dicke Kontur. Höchstens 2 Zeilen mit etwa 32 Zeichen. Position zwischen 62 und 70 % der Bildhöhe |
+| Fakten-Einblendung | Höchstens 4 Wörter, weiße Schrift auf Dunkelblau #1C2D5C mit 85 % Deckkraft, Zahlen in Gelb. Mindestens 1,5 s stehen lassen, Ein- und Ausblendung über 6 Frames. Keine Pop-, Bounce- oder Tippeffekte |
+| Sicherheitszone | Text innerhalb der mittleren 80 % der Breite und zwischen 12 und 70 % der Höhe, damit weder TikTok-Symbole rechts noch die Caption unten ihn verdecken |
+| Logo | Nur weiß, klein, unten rechts, frühestens ab Sekunde 3. Nie als Intro |
+| Serienhinweis | Letzte 2 Sekunden, klein: zum Beispiel „Hotel-Duell · Folge 1“. Er gibt den Grund zum Folgen, nicht eine YouTube-Ankündigung |
+| Übergänge | Harte Schnitte auf den Takt, Match-Cuts zwischen ähnlichen Formen. Höchstens ein Wisch- oder Zoomübergang pro Video |
+| Color Grading | Natürlich, leicht warme Lichter, Himmel nicht übersättigen. Ein gemeinsamer Look für alle Videos einer Woche |
+
+### Ton und Musik
+- Musik: haydi-weg Reisen ist ein Unternehmenskonto. Deshalb nur Musik mit kommerzieller Lizenz: TikTok Commercial Music Library, die Lizenzbibliothek in CapCut für kommerzielle Nutzung oder ein lizenzierter Dienst. Den Lizenznachweis im Asset-Ordner ablegen.
+
+- Mischung: Voiceover führt. Musik unter der Stimme etwa 18–20 dB leiser, ohne Stimme etwa 8 dB lauter. Gesamtlautheit um −14 LUFS.
+
+- Sounddesign: sparsam und echt: Wasser, Schritte, Gläser, Wind. Kein Swoosh-Effekt auf jedem Schnitt.
+
+### Voiceover mit ElevenLabs
+- Modell und Stimme: Eleven v3 oder v4, in allen Videos dieselbe Stimme. Tempo 1,0, bei Geschichten 0,95.
+
+- Audio-Tags: sparsam einsetzen, höchstens drei pro Skript: [curious] für die Einstiegsfrage, [short pause] vor einer Auflösung, [whispers] nur für ein Detail. SSML-Pausen (<break>) funktionieren in v3 und v4 nicht, Pausen entstehen über Punkte, Gedankenstriche und Auslassungspunkte.
+
+- Zahlen: im Skript ausgeschrieben, damit die Stimme sie richtig spricht („fünftausendeinhundert“). In den Untertiteln stehen Ziffern („5.100 m²“). Die Audio-Tags im Reel-Studio aus dem Untertiteltext löschen.
+
+- Tempo: etwa 2,3 Wörter pro Sekunde. Die Wortzahl steht bei jedem Skript.
+
+### Sprache
+- „Wir“ ist das Team von haydi-weg Reisen. Zuschauer werden mit „du“ angesprochen, Familien und Paare mit „ihr“.
+
+- Kurze Sätze, ein Gedanke pro Satz, konkrete Zahl statt Adjektiv.
+
+- Nicht verwenden: atemberaubend, traumhaft, Paradies, unvergesslich, Hidden Gem, versteckte Perle, absolutes Highlight, „Stell dir vor …“, „Lass dich verzaubern“, „eintauchen“, „Hier kommt …“, „Das musst du gesehen haben“.
+
+- Ehrlichkeit: Fakten nur mit Quelle aus dem Kalender. Urteile als Urteil kennzeichnen („Unser Eindruck“). Kein Anbieter und kein Hotel wird schlechtgemacht. Schwächen werden als „passt weniger, wenn …“ formuliert.
+
+- Keine Verkaufssprache: keine Preise, keine Rabatte, keine Aufforderung zu DMs oder Buchungen, kein Link in der Caption. Wenn überhaupt ein Verweis, dann auf haydiweg.de in der Bio.
+
+### Captions, Keywords, Hashtags
+- Instagram: erste Zeile = Hook plus Hotelname oder Ort. Danach 3–5 kurze Zeilen mit belegten Fakten, eine Frage zum Kommentieren. Höchstens 5 Hashtags, weil Instagram seit Ende 2025 nur noch bis zu 5 Hashtags vorsieht. Alternativtext mit Hotel und Ort ausfüllen.
+
+- TikTok: erster Satz mit den Suchbegriffen (Hotelname, Ort, „Türkei Hotel“), danach 2–3 Fakten, eine Frage. 3–5 Hashtags. Ortsmarkierung setzen. Jedes Video in die passende Playlist legen (Hotelgeschichten, Hotel-Duell, Hotel in 25 Sekunden, Wohin im Winter?).
+
+- Kommentare: Antworten kommen vom Reisebüro, nicht vom Hotel. Erste Stunde nach Veröffentlichung aktiv beantworten.
+
+### Testvorlage „Hotel in 25 Sekunden“
+Die vier Hotelclips der Tests T1–T3 (N02, N06, N11, N15) folgen exakt diesem Schnittmuster. Abweichungen verfälschen den Test.
+
+| Zeit | Inhalt | Text im Bild | Ton |
+| 0,0–2,5 s | Stärkstes Bild (Totale oder Drohne), langsame Bewegung | Orts-Tag und Text-Hook | Voiceover Satz 1 ab 0,2 s, Musik setzt ein |
+| 2,5–6,5 s | Fakt 1, zwei Einstellungen à 2 s | Einblendung 1 | Untertitel ab hier |
+| 6,5–10,5 s | Fakt 2, zwei Einstellungen | Einblendung 2 | Schnitt auf den Takt |
+| 10,5–14,5 s | Fakt 3, zwei Einstellungen | Einblendung 3 |  |
+| 14,5–18,5 s | Fakt 4, zwei Einstellungen | Einblendung 4 |  |
+| 18,5–22,5 s | Satz „Für wen?“, zwei ruhige Einstellungen | – | Musik nimmt ab |
+| 22,5–25,0 s | Schlussbild | Serienhinweis und Siegel | Musik klingt aus |
+
+Gleich bleiben in allen vier Clips: Länge 25 s, 12 Einstellungen, Musiktyp (warm, 100–110 BPM), Voiceover 48–60 Wörter, Serienhinweis „Hotel in 25 Sekunden“ mit Folgennummer, vier Einblendungen, Uhrzeit 19 Uhr, donnerstags. Es ändert sich nur der Hook-Typ (Neugier oder Zahl) und das Hotel.
+
+### Qualitätsbewertung
+Jedes Paket endet mit einer Bewertung nach dem Raster des Auftrags: Hook 15 · Mehrwert 20 · Storytelling 15 · Visuell 15 · Sprache 10 · Zielgruppe 10 · Marke 5 · Share/Save 5 · Produktion 5. Unter 80 Punkten wird überarbeitet. Bewertet wird die kreative Qualität, nicht eine erwartete Reichweite.
+Freigabe-Check vor dem Export (Vier-Augen-Prinzip): Fakten mit Kalenderquelle abgeglichen · Hook in Frame 1 · keine Person als Moderator, keine erkennbaren Kinder · Musiklizenz vorhanden · Fremdmaterial mit Lizenznachweis · keine Preise und keine Buchungsaufforderung · Untertitel ohne Audio-Tags · Caption ohne YouTube-Ankündigung · Instagram höchstens 5 Hashtags · Kooperation, Einladung oder Gratisaufenthalt? Dann als Werbung bzw. Kooperation kennzeichnen (betrifft vor allem Selectum: N03, N12, D05).
+
+## 1. November Woche 1 (04.–08.11.)
+Vier Videos: Hotelgeschichte Spice, Rundgang NG Phaselis Bay, kurzes Hotel-Duell, Riviera im Dezember. Produktion 28.10.–01.11.
+
+### N01 · Mi 04.11. · 19:00 · Spice Hotel & Spa: Warum ein Hotel in Belek nach Marrakesch aussieht
+Tests: T1 (Hotel A, Geschichte) · T2 (bekannt: 5.541 Bewertungen bei alltours) · T8 (eigenes Material)
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Spice Hotel & Spa: Warum ein Hotel in Belek nach Marrakesch aussieht |
+| Serie | Hotelgeschichten · Folge 1 |
+| Ziel | Follows über eine Geschichte mit eigenem Material; Test, ob eine Geschichte ohne Mardan trägt |
+| Zielgruppe | Paare 30–55, Hotel- und Architektur-Fans |
+| Kernbotschaft | Der Name ist das Konzept: Spice heißt Gewürz, und das Hotel erzählt das bis in die Villennamen |
+| Länge (Hypothese) | 70 s; Testkriterium T1: Ø Wiedergabe ≥ 20 s und ≥ 10 % ganz angesehen (TikTok) |
+| Nutzen für Zuschauer | Ein unverwechselbares Hotel verstehen und einordnen, für wen es passt |
+| Material | Eigen: Lobby (IG 29.09.), Casablanca-Bar (IG 04.10.), Buffet, Außenanlage, Pool. Strand und Villen: Bestand prüfen. Ohne Villenaufnahmen: Villennamen als Texttafeln über Garten- und Wegaufnahmen |
+| Fakten und Quellen | 546 Zimmer, marokkanisch-indischer Stil (DERTOUR) · Hauptpool 5.100 m², direkt am Blue-Flag-Sandstrand (ca. 270 m lang) , Casablanca-Lobbybar 24 h, 22 Villen: Susam 1 (506 m²), Safran 5, Mint 6, Ginger 10 (reischeck, coral.ru) · Renovierung 2024 (DERTOUR). Nicht verwenden: „91 ha“ |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Marrakesch mitten in Belek? | 4 | 4 | 5 | 4 | 5 | 22 |
+| 2 Information | 22 Villen mit Gewürznamen | 5 | 5 | 3 | 4 | 3 | 20 |
+| 3 Emotion | Eine Nacht in der Villa Safran | 4 | 4 | 4 | 4 | 2 | 18 |
+
+Final: Hook 1. Er passt zum vorhandenen Lobbybild in Frame 1 und hält die Hook-Art aller T1-Geschichten gleich (Frage). Hook 2 hängt an Villenaufnahmen, die noch nicht gesichert sind. Gelbes Wort: „Marrakesch“.
+C · Voiceover (ElevenLabs, Tempo 0,95, 148 Wörter)
+[curious] Warum sieht ein Hotel an der Türkischen Riviera aus wie Marrakesch? Wir waren im Spice Hotel und Spa in Belek. Die Antwort steckt im Namen. Spice heißt Gewürz. Und das Hotel nimmt das wörtlich: marokkanische und indische Formen, wohin man schaut. In der Lobby, in den Gängen, an der Bar. Am deutlichsten wird es bei den Villen. Sie tragen keine Nummern, sondern Gewürznamen. Susam, also Sesam. Safran. Mint. Ginger. Zweiundzwanzig Villen sind es insgesamt. Die größte, Susam, hat über fünfhundert Quadratmeter. [short pause] Und im Haupthaus? Da hat die Casablanca-Lobbybar rund um die Uhr geöffnet. Der Hauptpool misst fünftausendeinhundert Quadratmeter. Direkt davor: rund zweihundertsiebzig Meter Sandstrand mit Blauer Flagge. Für wen ist das Spice? Für alle, die ein großes Resort möchten, das nicht aussieht wie jedes andere. Wer es schlicht und modern mag, ist mit einem anderen Haus besser beraten. Und du? Würdest du lieber in Safran schlafen … oder in Ginger?
+D · Schnittplan (70 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Lobby-Totale mit Bögen, Gimbal langsam vorwärts (Lobby-Clip 29.09.) | „Warum sieht … Marrakesch?“ | Orts-Tag „Spice Hotel & Spa · Belek“, Siegel, Hook | Start in Bewegung, kein Schwarzbild | Musik setzt mit dem ersten Takt ein |
+| 2,5–6,5 | Detail Bogen oder Ornament, dann Fahrt durch die Lobby | „Wir waren … im Namen.“ | Untertitel ab hier | Schnitt auf den Takt | Musik |
+| 6,5–14 | Vier Einstellungen à 2 s: Gang, Lampe, Kacheln, Bar-Totale | „Spice heißt Gewürz … an der Bar.“ | „marokkanisch-indischer Stil“ | Match-Cut Bogen auf Bogen | leise Schritte |
+| 14–22 | Wege durch die Außenanlage zu den Villen; Villenschild, falls vorhanden | „Am deutlichsten … Ging er.“ | Je 1,5 s: „Susam“ · „Safran“ · „Mint“ · „Ginger“ | Ein Schnitt pro Name | Musik zurückgenommen |
+| 22–28 | Villa außen oder Garten mit Pool (materialabhängig) | „Zweiundzwanzig … Quadratmeter.“ | „22 Villen“, dann „Susam: 506 m²“ | ruhige Fahrt | Musik |
+| 28–34 | Casablanca-Bar am Abend (Clip 04.10.) | „Und im Haupthaus … geöffnet.“ | „Lobbybar 24 h“ | kurze Pause vor dem Schnitt (short pause) | Gläserklang |
+| 34–42 | Pool-Totale, Drohne falls vorhanden, dann Poolkante | „Der Hauptpool … Quadratmeter.“ | „5.100 m² Pool“ | langsame Seitwärtsfahrt | Wasser |
+| 42–48 | Strand mit Flagge, Hotel im Hintergrund (Bestand prüfen) | „ Direkt davor … Blauer Flagge .“ | „ Direkt am Strand · 270 m · Blaue Flagge “ | Schnitt auf den Takt | Wellen |
+| 48–58 | Zimmer oder Balkon, dann Garten am Abend | „Für wen … besser beraten.“ | – | längere Einstellungen, 3–4 s | Musik leiser |
+| 58–66 | Gewürzdetail am Buffet oder Bar-Detail | „Und du? … in Ging er?“ | „Safran oder Ging er?“ | eine Einstellung | Musik baut auf |
+| 66–70 | Schlussbild Lobby von außen | – | „Hotelgeschichten · Folge 1“, Logo | Ausblenden über 12 Frames | Musik klingt aus |
+
+E · Postproduktion
+- Musik: warmer Downtempo mit Oud oder Handpercussion, 90–100 BPM, kommerzielle Lizenz. Kein Klischee-Orientpop.
+
+- Sounddesign: Schritte in der Lobby, Gläserklang an der Bar, Wasser am Pool, Wellen am Strand, jeweils leise unter der Stimme.
+
+- Schnittdynamik: ruhig, 2–3 s pro Einstellung; schneller nur bei den vier Villennamen, langsamer im „Für wen“-Teil.
+
+- Bildabfolge: Haupthaus → Villen → Bar → Pool → Strand → Urteil. So folgt das Bild der Geschichte vom Namen zum Alltag.
+
+- Übergänge: harte Schnitte, ein Match-Cut von Bogen zu Bogen. Kein Wischübergang.
+
+- Texteinblendungen und Untertitel: wie Standards; die vier Villennamen nacheinander an derselben Position, Zahlen gelb.
+
+- Color Grading: warme Lichter, Terrakotta- und Holztöne betonen, Weiß neutral halten.
+
+- Thumbnail/Cover: Lobby-Bogen in Frame 1 mit Hook „Marrakesch mitten in Belek?“, Wort „Marrakesch“ gelb, Orts-Tag oben.
+
+- Format und Text: 9:16, Hook im oberen Drittel, Einblendungen mittig zwischen 40 und 60 % der Höhe.
+
+F · Veröffentlichung
+Instagram
+- Caption: Marrakesch mitten in Belek? Im Spice Hotel & Spa schon. Hier heißen die Villen nicht 12 oder 14, sondern Susam, Safran, Mint und Ginger. 22 Stück, die größte mit 506 m². Dazu ein Hauptpool mit 5.100 m², eine Lobbybar, die nie schließt, und direkt davor ein rund 270 m langer Sandstrand mit Blauer Flagge. Selbst besucht. Die Zahlen stammen aus Hotel- und Veranstalterangaben. In welcher Villa würdest du schlafen: Safran oder Ginger?
+
+- Hashtags (5): #spicehotel #belek #türkeiurlaub #hotelgeschichte #antalya
+
+- Keywords: Spice Hotel Belek, Hotel Belek, Türkei Hotel marokkanischer Stil, Villa Belek
+
+- Cover-Headline: Marrakesch mitten in Belek?
+
+- Ziel: Follows je 1.000 erreichte Konten
+
+- Organische Interaktion: Auf Villen-Antworten mit einem Detail antworten („Safran gibt es im Hotel fünfmal, Ginger zehnmal“). Kein Verweis auf Buchung.
+
+TikTok
+- Caption: Spice Hotel & Spa in Belek: warum dieses Türkei-Hotel aussieht wie Marrakesch. Villen mit Gewürznamen, 5.100 m² Pool, Lobbybar rund um die Uhr. Selbst besucht. Safran oder Ginger?
+
+- Suchbegriffe: Spice Hotel Belek, Hotel Belek Türkei, Designhotel Belek, marokkanisches Hotel Türkei
+
+- Hashtags (5): #spicehotel #belek #türkeihotel #antalya #hoteltipp
+
+- Hook: unverändert (Testkonstante)
+
+- Ziel: Follower je 1.000 Views und Ø Wiedergabe; Ortsmarkierung Belek, Playlist „Hotelgeschichten“
+
+G · Qualität: 85/100 – Hook 13 · Mehrwert 17 · Storytelling 14 · Visuell 13 · Sprache 8 · Zielgruppe 8 · Marke 4 · Share/Save 4 · Produktion 4. Schwächster Punkt: Villenmaterial ungesichert.
+
+### N02 · Do 05.11. · 19:00 · NG Phaselis Bay in 25 Sekunden
+Tests: T1 (Hotel B, Rundgang) · T2 (weniger bekannt: 295 Bewertungen bei alltours) · T3 (Neugier-Einstieg). Schnittmuster exakt nach Testvorlage.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | NG Phaselis Bay in 25 Sekunden |
+| Serie | Hotel in 25 Sekunden · Folge 1 |
+| Ziel | Reichweite und 3-Sekunden-Bindung mit einer offenen Frage; Vergleichswert für die Geschichte am 17.11. |
+| Zielgruppe | Familien und Paare, die Ruhe am Meer suchen |
+| Kernbotschaft | Ein Hotel an einer eigenen Bucht, mit Angeboten für Erwachsene und Kinder |
+| Länge (Hypothese) | 25 s; Testkriterium: Ø Wiedergabe ≥ 31 % und ≥ 12 % ganz angesehen |
+| Nutzen | In 25 Sekunden wissen, ob das Hotel zur eigenen Urlaubsart passt |
+| Material | Eigen: YouTube-Hotelvorstellung NG Phaselis Bay (Bucht von oben, Strand, Pools, Kinderbereich ohne erkennbare Kinder, Blick auf die Berge). Für die Geschichte am 17.11. andere Einstellungen zurücklegen |
+| Fakten und Quellen | 480 Zimmer, eigene Bucht, 555 m Feinkiesstrand, rund 5 km bis Kemer, Babyclub 1–3, Miniclub 4–12, Teenclub 13–17, Adults-only-Pool (alltours) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Wie sieht eine eigene Bucht aus? | 5 | 4 | 4 | 4 | 5 | 22 |
+| 2 Information | 555 m Strand in eigener Bucht | 5 | 5 | 3 | 4 | 5 | 22 |
+| 3 Emotion | Morgens an der Bucht | 4 | 4 | 3 | 4 | 4 | 19 |
+
+Final: Hook 1. T3 verlangt bei diesem Clip den Neugier-Einstieg ohne Zahl im ersten Bild; Hook 2 wäre die Info-Variante und bleibt deshalb ungenutzt. Gelbes Wort: „Bucht“.
+C · Voiceover (ElevenLabs, Tempo 1,0, 50 Wörter)
+[curious] Wie sieht ein Hotel mit eigener Bucht aus? Das NG Phaselis Bay bei Kemer zeigt es. Fünfhundertfünfundfünfzig Meter Feinkiesstrand. Ein Pool nur für Erwachsene. Kinderclubs von einem Jahr bis siebzehn. Und rund fünf Kilometer bis Kemer. Für wen? Für alle, die Meer und Berge wollen, ohne Trubel vor der Tür.
+D · Schnittplan (25 s, Testvorlage)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Drohne oder Totale der Bucht mit Hotel, langsamer Vorwärtsflug | „Wie sieht … Bucht aus?“ | Orts-Tag „NG Phaselis Bay · Kemer“, Siegel, Hook | Start in Bewegung | Musik setzt ein |
+| 2,5–6,5 | Strandlinie, dann Kies nah mit Welle | „Das NG Phaselis Bay … Feinkiesstrand.“ | „555 m Feinkies“ | 2 × 2 s auf den Takt | Wellen leise |
+| 6,5–10,5 | Adults-only-Pool von der Kante, dann Liege im Schatten | „Ein Pool nur für Erwachsene.“ | „Adults-only-Pool“ | 2 × 2 s | Wasser |
+| 10,5–14,5 | Kinderbereich und Kinderpool, ohne erkennbare Kinder | „Kinderclubs … siebzehn.“ | „Clubs von 1 bis 17“ | 2 × 2 s | Musik |
+| 14,5–18,5 | Blick vom Hotel auf die Berge, Weg Richtung Ort | „Und rund fünf Kilometer bis Kemer.“ | „ca. 5 km bis Kemer“ | 2 × 2 s | Musik |
+| 18,5–22,5 | Liegen an der Bucht, Berge im Hintergrund | „Für wen? … vor der Tür.“ | – | 2 ruhige Einstellungen | Musik nimmt ab |
+| 22,5–25,0 | Bucht im Abendlicht | – | „Hotel in 25 Sekunden · Folge 1“, Siegel, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: warm, akustisch, 100–110 BPM, kommerzielle Lizenz. Derselbe Musiktyp in allen vier Testclips.
+
+- Sounddesign: Wellen auf Kies, Wasser am Pool, sonst nichts.
+
+- Schnittdynamik und Bildabfolge: exakt Testvorlage, 12 Einstellungen, Schnitt alle 2 s auf den Takt; Reihenfolge Bucht → Strand → Pool → Kinder → Lage → Urteil.
+
+- Übergänge: nur harte Schnitte.
+
+- Texteinblendungen und Untertitel: wie Standards; Untertitel erst ab 2,5 s.
+
+- Color Grading: klares Blau, Kies neutral grau, Grün der Berge nicht übersättigen.
+
+- Thumbnail/Cover: Bucht von oben mit Hook, „Bucht“ gelb.
+
+- Format und Text: 9:16; Hook im oberen Drittel, Einblendungen zwischen 40 und 60 % der Höhe.
+
+F · Veröffentlichung
+Instagram
+- Caption: Wie sieht ein Hotel mit eigener Bucht aus? Das NG Phaselis Bay bei Kemer in 25 Sekunden. 555 m Feinkiesstrand, ein Pool nur für Erwachsene, Kinderclubs von 1 bis 17 Jahren, rund 5 km bis Kemer. Selbst besucht. In zwei Wochen erzählen wir, woher das Hotel seinen Namen hat. Pool oder Bucht: Wo liegst du lieber?
+
+- Hashtags (5): #ngphaselisbay #kemer #türkeiurlaub #hotel #antalya
+
+- Keywords: NG Phaselis Bay, Hotel Kemer, Hotel mit eigener Bucht Türkei, Kemer Strandhotel
+
+- Cover-Headline: Wie sieht eine eigene Bucht aus?
+
+- Ziel: Reichweite und 3-Sekunden-Bindung, Follows als zweite Kennzahl
+
+- Organische Interaktion: Antworten auf „Pool oder Bucht“ mit einem Detail aus dem Besuch ergänzen.
+
+TikTok
+- Caption: NG Phaselis Bay in Kemer in 25 Sekunden: Hotel mit eigener Bucht, 555 m Feinkiesstrand, Adults-only-Pool, Kinderclubs bis 17 Jahre. Selbst besucht. Pool oder Bucht?
+
+- Suchbegriffe: NG Phaselis Bay, Hotel Kemer Türkei, Kemer Hotel Strand, Hotel eigene Bucht
+
+- Hashtags (5): #ngphaselisbay #kemer #türkeihotel #antalya #hoteltipp
+
+- Hook: unverändert (Testkonstante)
+
+- Ziel: Anteil nach 3 s in der Retention-Kurve, Views nach 7 Tagen; Playlist „Hotel in 25 Sekunden“, Ortsmarkierung Kemer
+
+G · Qualität: 81/100 – Hook 12 · Mehrwert 15 · Storytelling 10 · Visuell 14 · Sprache 8 · Zielgruppe 8 · Marke 5 · Share/Save 4 · Produktion 5. Bewusst knapp: Der Clip ist die Kurzvariante im Test, Tiefe liefert die Geschichte.
+
+### N03 · Sa 07.11. · 19:00 · Hotel-Duell: Selectum Luxury Belek oder Quattro Family Club Dem?
+Test: T4 (kurz, 28 s). Gleiches Vergleichsraster wie die langen Duelle am 10. und 21.11.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Hotel-Duell: Selectum Luxury Belek oder Quattro Family Club Dem? |
+| Serie | Hotel-Duell · Folge 1 |
+| Ziel | Follows und Saves über eine echte Familienentscheidung |
+| Zielgruppe | Familien mit Kindern, die den Sommer 2027 planen |
+| Kernbotschaft | Luxus mit Kinder-Aquapark oder ein kleinerer Club mit Familienzimmern: Beides passt, aber zu verschiedenen Familien |
+| Länge (Hypothese) | 28 s; Kriterium: Ø Wiedergabe ≥ 31 % und ≥ 12 % ganz angesehen |
+| Nutzen | Eine schnelle, ehrliche Entscheidungshilfe ohne Preise |
+| Material | Eigen: Selectum (Check-in-Clip, Lobbybar, Pools, Kinder-Rutschen – Bestand prüfen), Quattro (Reels 28.07. und 27.09., YouTube-Hotelvideo: Strand, Steg, Anlage, Zimmer) |
+| Fakten und Quellen | Selectum: 5*, 420 Wohneinheiten, Kinder-Aquapark mit 8 Rutschen, Miniclub 4–12, direkt am Sandstrand (ca. 250 m lang) mit Steg (DERTOUR) · Quattro: 4* gehobene Mittelklasse, 269 Zimmer, Familienzimmer bis 6 Personen, langer Sandstrand mit Steg, Miniclub 4–7 (alltours) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Luxusresort oder Familienclub? | 5 | 5 | 4 | 4 | 5 | 23 |
+| 2 Information | 5 Sterne gegen 4 Sterne | 5 | 5 | 3 | 4 | 4 | 21 |
+| 3 Emotion | Wo werden eure Kinder glücklicher? | 4 | 3 | 4 | 3 | 4 | 18 |
+
+Final: Hook 1 für Instagram, gelbes Wort „Familienclub“. Auf TikTok steht „Selectum oder Quattro?“ im Bild, weil dort Hotelnamen gesucht werden. Hook 3 verspricht mehr, als ein Vergleich halten kann.
+C · Voiceover (ElevenLabs, Tempo 1,0, 58 Wörter)
+Fünf Sterne in Belek oder vier Sterne bei Alanya: Welches Hotel passt zu eurer Familie? Das Selectum Luxury ist Luxusklasse, das Quattro gehobene Mittelklasse. Das Selectum hat einen Kinder-Aquapark mit acht Rutschen. Das Quattro ist kleiner, und ins Familienzimmer passen bis zu sechs Personen. Unser Urteil: Selectum, wenn die Kinder Action wollen. Quattro, wenn ihr es überschaubar mögt.
+D · Schnittplan (28 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Geteiltes Bild: oben Selectum-Totale, unten Quattro-Strand mit Steg | „Fünf Sterne … Familie?“ (bis ca. 4,5 s) | Hook mittig, Namen klein in den Hälften | Teilung als ruhige Linie, keine Animation | Musik mit Takt 1 |
+| 2,5–7,0 | Selectum Lobby (Check-in-Clip), Quattro Anlage von oben | „Das Selectum … Mittelklasse.“ | „5* Luxus“ · „4* gehobene Mittelklasse“ | Wechsel auf den Takt | Musik |
+| 7,0–11,5 | Selectum Kinder-Rutschen, zwei Einstellungen (Bestand prüfen) | „Das Selectum hat … acht Rutschen.“ | „8 Kinderrutschen“, dazu klein „420 Einheiten“ | 2 × 2 s | Wasser |
+| 11,5–17,0 | Quattro Familienzimmer, Steg am Sandstrand | „Das Quattro ist kleiner … Personen.“ | „269 Zimmer“ · „Familienzimmer bis 6“ | 2 × 2,5 s | Wellen |
+| 17,0–24,0 | Geteiltes Bild wie am Anfang | „Unser Urteil … mögt.“ | oben „Action: Selectum“, unten „Überschaubar: Quattro“ | Teilung bleibt stehen | Musik |
+| 24,0–28,0 | Quattro-Steg im Abendlicht | – | „Welches nehmt ihr?“, dann „Hotel-Duell · Folge 1“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: freundlich, leicht, 110–120 BPM, kommerzielle Lizenz; im Urteil kurz zurücknehmen.
+
+- Sounddesign: Wasser bei den Rutschen, Wellen am Steg.
+
+- Schnittdynamik: zügig, alle 2–2,5 s; die geteilten Bilder je 2,5 s stehen lassen.
+
+- Bildabfolge: Beide Hotels → Kategorie → Selectum-Vorteil → Quattro-Vorteil → Urteil.
+
+- Übergänge: harte Schnitte; die Bildteilung erscheint ohne Effekt.
+
+- Texteinblendungen: Hotelnamen immer in derselben Bildhälfte (Selectum oben, Quattro unten), damit das Auge nicht sucht.
+
+- Color Grading: beide Hotels im gleichen Look, damit keines bevorzugt wirkt.
+
+- Thumbnail/Cover: geteiltes Bild mit Hook, „Familienclub“ gelb.
+
+- Format und Text: 9:16; Hook mittig auf der Trennlinie.
+
+F · Veröffentlichung
+Instagram
+- Caption: Luxusresort oder Familienclub? Selectum Luxury Belek gegen Quattro Family Club Dem. Selectum: 5 Sterne, 420 Wohneinheiten, Kinder-Aquapark mit 8 Rutschen, Miniclub 4–12. Quattro: 4 Sterne, 269 Zimmer, Familienzimmer bis 6 Personen, langer Sandstrand mit Steg, Miniclub 4–7. Beide selbst besucht. Welches würdet ihr mit euren Kindern nehmen?
+
+- Hashtags (5): #selectumluxury #quattrofamilyclub #familienurlaub #türkeiurlaub #hotelvergleich
+
+- Keywords: Familienhotel Türkei, Selectum Luxury Belek, Quattro Family Club Dem, Hotel mit Kinder-Aquapark
+
+- Cover-Headline: Luxusresort oder Familienclub?
+
+- Ziel: Follows je 1.000 Konten, Saves
+
+- Organische Interaktion: Bei Antworten nach dem Alter der Kinder fragen und das passende Hotel nennen (ohne Buchungshinweis).
+
+TikTok
+- Caption: Selectum Luxury Belek oder Quattro Family Club Dem? Familienhotel Türkei im Vergleich: 5 gegen 4 Sterne, 8 Kinderrutschen gegen Familienzimmer bis 6 Personen. Welches nehmt ihr?
+
+- Suchbegriffe: Familienhotel Türkei, Selectum Belek, Quattro Alanya, Hotel für Kinder Türkei
+
+- Hashtags (5): #familienurlaub #türkeihotel #belek #alanya #hotelvergleich
+
+- Hook: „Selectum oder Quattro?“
+
+- Ziel: Follower je 1.000 Views, Saves; Playlist „Hotel-Duell“
+
+G · Qualität: 84/100 – Hook 13 · Mehrwert 18 · Storytelling 11 · Visuell 12 · Sprache 8 · Zielgruppe 9 · Marke 4 · Share/Save 5 · Produktion 4.
+
+### N04 · So 08.11. · 19:00 · Türkische Riviera im Dezember: Lohnt sich das?
+Test: keiner. Saisonale Entscheidungsfrage, auf TikTok mit Suchbegriff „Antalya im Dezember“.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Türkische Riviera im Dezember: Lohnt sich das? |
+| Serie | Wohin im Winter? · Folge 1 |
+| Ziel | Saves und Vertrauen durch eine ehrliche Antwort, die nicht schonfärbt |
+| Zielgruppe | Türkei-Wiederholer und Winter-Sonnensucher |
+| Kernbotschaft | Zum Baden ist der Dezember zu frisch, für Ruhe, Spa und Ausflüge kann er gut passen |
+| Länge (Hypothese) | 40 s; Kriterium: Ø Wiedergabe ≥ 20 % und ≥ 6 % ganz angesehen |
+| Nutzen | Realistische Erwartung an Wetter und Wasser, ein konkreter Buchungstipp |
+| Material | Eigen: Küste mit Bergen, Strandpromenade ohne Menschen im Vordergrund, Spa und Hamam, Hallenbad (Selectum, Bestand prüfen; sonst Spa eines anderen eigenen Hotels). Temperatur-Grafik im Reel-Studio |
+| Fakten und Quellen | Dezember Antalya: durchschnittlich 14,6 °C Tageshöchstwert, Wasser 18,3 °C, 258 mm Regen (wetter.de); 17 °C und 19 °C (weg.de) → Spanne 14–17 °C bzw. 18–19 °C. Winteröffnung der Hotels: Erfahrungswissen, als Prüftipp formuliert |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Riviera im Dezember: lohnt das? | 5 | 5 | 4 | 5 | 4 | 23 |
+| 2 Information | 14 bis 17 Grad im Dezember | 5 | 5 | 3 | 4 | 3 | 20 |
+| 3 Emotion | Die Riviera ohne Sommertrubel | 4 | 4 | 3 | 4 | 3 | 18 |
+
+Final: Hook 1, gelbes Wort „Dezember“. Die Zahl aus Hook 2 kommt im ersten gesprochenen Satz. Auf TikTok steht „Antalya im Dezember?“ im Bild, weil danach gesucht wird.
+C · Voiceover (ElevenLabs, Tempo 1,0, 92 Wörter)
+Vierzehn bis siebzehn Grad, das Meer um achtzehn: So sieht der Dezember an der Türkischen Riviera aus. Dazu kommt: Der Dezember gehört zu den regenreichsten Monaten. Für einen Badeurlaub ist das zu frisch. [short pause] Lohnt sich die Riviera trotzdem? Ja – wenn du etwas anderes suchst. Ruhe statt voller Liegen. Spaziergänge statt Sonnenbrand. Und Ausflüge, die im August zu heiß wären. Unser Tipp aus dem Reisebüro: Nimm ein Hotel mit Hallenbad und Spa. Und frag vorher, ob es im Winter geöffnet hat. Nicht alle Häuser tun das. Würdest du im Dezember an die Riviera fliegen?
+D · Schnittplan (40 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Küste mit Bergen, ruhiges Licht | „Vierzehn bis siebzehn Grad …“ | Orts-Tag „Türkische Riviera“, Hook | Start in Bewegung | Musik ruhig |
+| 2,5–7,0 | Gleiche Küste, näher; Wasseroberfläche | „… das Meer um achtzehn … aus.“ | „Luft 14–17 °C“ · „Meer 18–19 °C“ | 2 Einstellungen | Wind leise |
+| 7,0–13,0 | Wolkenhimmel über den Bergen, nasse Strandliege (Bestand prüfen; sonst Wolken-Totale) | „Dazu kommt … zu frisch.“ | „viel Regen“ | 2 × 3 s | Regen sehr leise, falls Aufnahme ohne Ton |
+| 13,0–16,0 | Leere Strandpromenade | „Lohnt sich … suchst.“ | – | Pause vor dem Schnitt | Musik nimmt zu |
+| 16,0–24,0 | Drei Kontraste à 2,5 s: leere Liegen, Uferweg, Bergstraße oder Ausflugsziel | „Ruhe statt … zu heiß wären.“ | „Ruhe“ · „Spazieren“ · „Ausflüge“ | ein Schnitt pro Satzteil | Musik |
+| 24,0–34,0 | Hallenbad, Spa oder Hamam, zwei langsame Einstellungen | „Unser Tipp … tun das.“ | „Tipp: Hallenbad + Spa“, dann „Winteröffnung prüfen“ | 2 × 5 s | Wasser leise |
+| 34,0–40,0 | Küste am Abend | „Würdest du … fliegen?“ | „Wohin im Winter? · Folge 1“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: ruhiges Piano oder Akustikgitarre, 80–90 BPM, kommerzielle Lizenz.
+
+- Sounddesign: Wind, Wasser, höchstens leiser Regen; keine dramatischen Effekte.
+
+- Schnittdynamik: langsam, 2,5–5 s pro Einstellung; passt zur ehrlichen Tonlage.
+
+- Bildabfolge: Wetter → Einschränkung → Wendung → Vorteile → Tipp → Frage.
+
+- Übergänge: harte Schnitte, eine kurze Pause nach „zu frisch“.
+
+- Texteinblendungen: Temperaturen als zwei Zeilen untereinander, Zahlen gelb. Keine Sonnen-Symbole.
+
+- Color Grading: kühler als die Sommer-Reels, aber nicht grau; ehrlich statt hübsch gefärbt.
+
+- Thumbnail/Cover: Küste mit Bergen und Hook, „Dezember“ gelb.
+
+- Format und Text: 9:16; Temperaturen mittig.
+
+F · Veröffentlichung
+Instagram
+- Caption: Türkische Riviera im Dezember: lohnt sich das? Unsere ehrliche Antwort aus dem Reisebüro. Tagsüber meist 14–17 °C, das Meer um 18 °C, und der Dezember gehört zu den regenreichsten Monaten. Zum Baden zu frisch. Gut dafür: Ruhe, Spa, Ausflüge ohne Hitze. Unser Tipp: ein Hotel mit Hallenbad wählen und vorher fragen, ob es im Winter geöffnet hat. Würdest du im Dezember fliegen?
+
+- Hashtags (5): #antalya #türkeiurlaub #winterurlaub #türkischeriviera #reisetipps
+
+- Keywords: Antalya im Dezember, Türkei im Winter, Wetter Antalya Dezember, Wassertemperatur Antalya
+
+- Cover-Headline: Riviera im Dezember: lohnt das?
+
+- Ziel: Saves und Shares je 1.000 Aufrufe
+
+- Organische Interaktion: Wer „ja“ schreibt, bekommt eine Antwort mit einem Hotel aus eigener Erfahrung, das ein Hallenbad hat.
+
+TikTok
+- Caption: Antalya und die Türkische Riviera im Dezember: Wetter, Wassertemperatur und für wen es sich lohnt. 14–17 °C, Meer um 18 °C. Ehrlich aus dem Reisebüro.
+
+- Suchbegriffe: Antalya Dezember, Wetter Antalya Dezember, Türkei im Winter, Wassertemperatur Türkei Dezember
+
+- Hashtags (5): #antalya #türkeiurlaub #winterurlaub #wetter #reisetipps
+
+- Hook: „Antalya im Dezember?“
+
+- Ziel: Views und Saves; Playlist „Wohin im Winter?“
+
+G · Qualität: 81/100 – Hook 12 · Mehrwert 18 · Storytelling 9 · Visuell 11 · Sprache 8 · Zielgruppe 9 · Marke 4 · Share/Save 5 · Produktion 5. Schwächster Punkt: Winterbilder fehlen, die Bildsprache muss ohne echte Dezemberaufnahmen ehrlich bleiben.
+
+## 2. November Woche 2 (09.–15.11.)
+Fünf Videos: langes Hotel-Duell, Ela-Showcase, Marina-Bay-Sands-Geschichte, Dezember-Sonnenziele als Video, Destination WOW. Produktion 02.–07.11.; Lizenz für N07 bis 06.11.
+
+### N05 · Di 10.11. · 19:00 · Hotel-Duell: Swandor Topkapi Palace oder Mirage Park Resort?
+Test: T4 (lang, 70 s)
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Hotel-Duell: Swandor Topkapi Palace oder Mirage Park Resort? |
+| Serie | Hotel-Duell · Folge 2 |
+| Ziel | Follows und Saves; Test, ob lange Vergleiche gleich viele Follows bringen wie kurze |
+| Zielgruppe | Familien und Paare, die zwischen Stadtnähe und Ruhe wählen |
+| Kernbotschaft | Zwei sehr verschiedene Häuser: Action und Palaststil nahe Antalya gegen Ruhe, Familienhäuser und Bergkulisse |
+| Länge (Hypothese) | 70 s; Kriterium: Ø Wiedergabe ≥ 20 % und ≥ 6 % ganz angesehen |
+| Nutzen | Fünf klare Kriterien und ein Urteil je Reisetyp |
+| Material | Eigen: YouTube-Hotelvorstellungen Swandor Topkapi Palace und Mirage Park, IG-Architekturposts 30.09. und 09.10. (Topkapi) |
+| Fakten und Quellen | Topkapi: Kundu, ca. 20 km bis Antalya, 908 Zimmer, osmanischer Stil, Aquapark mit 8 Rutschen (5 Erwachsene, 3 Kinder), Club 4–12 (alltours) · Mirage: Göynük, Hauptgebäude 346 und Park-Gebäude 228 Zimmer, Familienhäuser am Meer 144/188 m², Aqua-Pool 822 m² mit 3 Rutschen, glutenfreie Küche, Baby-Konzept, Club 4–12 ( reischeck: eigene glutenfreie Küche getrennt von den übrigen Küchen; Hotelangaben ). Strandart Mirage widersprüchlich: nicht nennen |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Stadtnah oder ruhig am Berg? | 5 | 5 | 4 | 4 | 5 | 23 |
+| 2 Information | 908 gegen 574 Zimmer | 4 | 5 | 3 | 4 | 3 | 19 |
+| 3 Emotion | Palast oder Berge? | 4 | 4 | 4 | 4 | 4 | 20 |
+
+Final: Hook 1, gelbes Wort „Berg“. Er nennt die echte Entscheidungsfrage und lässt sich mit dem ersten geteilten Bild zeigen. TikTok: „Topkapi Palace oder Mirage Park?“
+C · Voiceover (ElevenLabs, Tempo 1,0, 154 Wörter)
+Zwanzig Kilometer bis Antalya oder das Taurusgebirge im Rücken: Swandor Topkapi Palace gegen Mirage Park. Wir waren in beiden. Erstens, die Lage. Das Topkapi liegt in Kundu, rund zwanzig Kilometer von Antalya. Wer Stadt und Ausflüge mag, ist schnell dort. Das Mirage liegt in Göynük bei Kemer, direkt vor den Bergen. Hier ist es ruhiger. Zweitens, die Größe. Neunhundertacht Zimmer im Topkapi, fünfhundertvierundsiebzig im Mirage. Drittens, das Wasser. Das Topkapi hat einen Aquapark mit acht Rutschen, fünf für Erwachsene, drei für Kinder. Das Mirage hat einen Aqua-Pool mit drei Rutschen. Viertens, Familien. Beide haben einen Kinderclub von vier bis zwölf. Das Mirage hat zusätzlich Familienhäuser direkt am Meer und ein Baby-Konzept. Fünftens, die Besonderheit. Das Topkapi ist im osmanischen Palaststil gebaut. Das Mirage hat eine eigene glutenfreie Küche. Unser Urteil: Topkapi für alle, die Action und Stadtnähe wollen. Mirage für Familien mit kleinen Kindern und alle, die Ruhe am Berg suchen. Welches nehmt ihr?
+D · Schnittplan (70 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Geteiltes Bild: oben Topkapi-Fassade, unten Mirage vor den Bergen | „Zwanzig Kilometer …“ | Hook, Namen klein in den Hälften | Teilung ohne Effekt | Musik mit Takt 1 |
+| 2,5–7,0 | Wechsel Topkapi-Kuppel und Mirage-Totale | „… gegen Mirage Park. Wir waren in beiden.“ | Siegel „Selbst besucht“ bei beiden | 2 Einstellungen | Musik |
+| 7,0–14,0 | Topkapi von oben, Weg Richtung Straße oder Stadt | „Erstens, die Lage … schnell dort.“ | „1 · Lage“, „ca. 20 km bis Antalya“ | 3 Einstellungen | Musik |
+| 14,0–19,0 | Mirage mit Taurus im Rücken, ruhiger Garten | „Das Mirage liegt … ruhiger.“ | „Göynük · Bergkulisse“ | 2 Einstellungen | Vögel leise |
+| 19,0–24,0 | Geteiltes Bild: Gebäudetotalen | „Zweitens, die Größe … im Mirage.“ | „2 · Größe“, „908“ oben, „574“ unten | Teilung stehen lassen | Musik |
+| 24,0–34,0 | Topkapi-Aquapark (2 Einstellungen), Mirage Aqua-Pool (2) | „Drittens, das Wasser … drei Rutschen.“ | „3 · Wasser“, „8 Rutschen“, dann „822 m² · 3 Rutschen“ | 4 × 2,5 s | Wasser, Rufe nur aus der Ferne |
+| 34,0–44,0 | Kinderbereiche ohne erkennbare Kinder, Mirage-Familienhaus am Meer | „Viertens, Familien … Baby-Konzept.“ | „4 · Familien“, „Club 4–12 bei beiden“, „Familienhäuser am Meer“ | 4 × 2,5 s | Musik |
+| 44,0–52,0 | Topkapi-Ornamente und Kuppel; Mirage-Restaurant oder Buffet | „Fünftens … glutenfreie Küche.“ | „5 · Besonderheit“, „osmanischer Stil“, „glutenfreie Küche“ | 3 Einstellungen | Musik |
+| 52,0–64,0 | Geteiltes Bild, beide Hotels im Abendlicht | „Unser Urteil … suchen.“ | oben „Action + Stadtnähe“, unten „Ruhe + kleine Kinder“ | Teilung 12 s, ein Bildwechsel je Hälfte | Musik leiser |
+| 64,0–70,0 | Mirage-Berge im letzten Licht | „Welches nehmt ihr?“ | „Welches nehmt ihr?“, „Hotel-Duell · Folge 2“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: warm-cinematisch mit leichtem Puls, 95–105 BPM, kommerzielle Lizenz; keine Steigerung ins Pathos.
+
+- Sounddesign: Wasser beim Aquapark, Vögel am Berg, sonst Musik.
+
+- Schnittdynamik: fünf Kapitel mit Nummer, je Kapitel 5–10 s; die Nummern geben Orientierung und halten Zuschauer über 60 s.
+
+- Bildabfolge: Lage → Größe → Wasser → Familien → Besonderheit → Urteil; Topkapi immer zuerst.
+
+- Übergänge: harte Schnitte; die Bildteilung als Kapitelmarke.
+
+- Texteinblendungen: Kapitelnummer links oben im Bild, Fakten mittig; Topkapi oben, Mirage unten.
+
+- Color Grading: gemeinsamer Look, Topkapi-Ornamente nicht ins Goldene übertreiben.
+
+- Thumbnail/Cover: geteiltes Bild mit Hook, „Berg“ gelb.
+
+- Format und Text: 9:16; Trennlinie auf 50 % der Höhe, Hook darüber.
+
+F · Veröffentlichung
+Instagram
+- Caption: Stadtnah oder ruhig am Berg? Swandor Topkapi Palace gegen Mirage Park Resort, beide selbst besucht. Topkapi: Kundu, rund 20 km bis Antalya, 908 Zimmer im osmanischen Palaststil, Aquapark mit 8 Rutschen. Mirage: Göynük vor dem Taurus, Familienhäuser am Meer, Aqua-Pool mit 3 Rutschen, eigene glutenfreie Küche. Speicher dir den Vergleich für die Sommerplanung. Welches nehmt ihr?
+
+- Hashtags (5): #swandortopkapi #mirageparkresort #türkeiurlaub #familienurlaub #hotelvergleich
+
+- Keywords: Swandor Topkapi Palace, Mirage Park Resort Kemer, Hotel Antalya Familie, glutenfrei Hotel Türkei
+
+- Cover-Headline: Stadtnah oder ruhig am Berg?
+
+- Ziel: Follows je 1.000 Konten, Saves
+
+- Organische Interaktion: Nachfragen zur glutenfreien Küche sachlich beantworten und auf Prüfung vor der Buchung hinweisen.
+
+TikTok
+- Caption: Swandor Topkapi Palace oder Mirage Park Resort? Zwei Türkei-Hotels im Vergleich: Lage, Größe, Aquapark, Familien, Besonderheit. Selbst besucht. Welches nehmt ihr?
+
+- Suchbegriffe: Swandor Topkapi Palace, Mirage Park Resort, Hotel Antalya Kinder, Aquapark Hotel Türkei
+
+- Hashtags (5): #swandortopkapi #miragepark #türkeihotel #antalya #kemer
+
+- Hook: „Topkapi Palace oder Mirage Park?“
+
+- Ziel: Follower je 1.000 Views, Ø Wiedergabe absolut; Playlist „Hotel-Duell“
+
+G · Qualität: 84/100 – Hook 13 · Mehrwert 18 · Storytelling 11 · Visuell 12 · Sprache 8 · Zielgruppe 9 · Marke 4 · Share/Save 5 · Produktion 4.
+
+### N06 · Do 12.11. · 19:00 · Ela Excellence Resort Belek: Hotel Showcase
+Tests: T2 (bekannt: 1.256 Bewertungen bei alltours) · T3 (Neugier-Einstieg). Zählt als WOW-Edit (Hotel Showcase), folgt aber exakt der Testvorlage, weil T2 und T3 dasselbe Schnittmuster brauchen. Auf dem Bild läuft er als „Hotel in 25 Sekunden · Folge 2“.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Ela Excellence Resort Belek: Hotel Showcase |
+| Serie | Hotel in 25 Sekunden · Folge 2 ( Säule E, Hotel Showcase) |
+| Ziel | Reichweite und 3-Sekunden-Bindung bei einem bekannten Haus |
+| Zielgruppe | Familien mit Kindern unterschiedlichen Alters |
+| Kernbotschaft | Ein Resort, in dem Familien für fast alles das Hotel nicht verlassen müssen |
+| Länge (Hypothese) | 25 s; Kriterium: Ø Wiedergabe ≥ 31 % und ≥ 12 % ganz angesehen |
+| Nutzen | Größe und Angebot in Zahlen statt Werbeversprechen |
+| Material | Eigen: YouTube-Hotelvorstellung Ela Excellence (Poollandschaft, Rutschen, Kinderbereiche ohne erkennbare Kinder, Restaurants, Spa) |
+| Fakten und Quellen | 583 Zimmer, Poollandschaft ca. 6.630 m² mit 5 Rutschen, Babyclub bis 48 Monate, Mini 4–7, Midi 8–11, Teen 12–15, 7 À-la-carte-Restaurants, 12 Bars, Wellness 4.500 m² (alltours) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Wie groß ist diese Poollandschaft? | 5 | 5 | 4 | 4 | 5 | 23 |
+| 2 Information | 6.630 m² Poollandschaft | 5 | 5 | 3 | 4 | 5 | 22 |
+| 3 Emotion | Ein Urlaub ohne das Hotel zu verlassen | 4 | 4 | 3 | 4 | 4 | 19 |
+
+Final: Hook 1 (T3 verlangt bei Ela die Neugier-Variante ohne Zahl im ersten Bild), gelbes Wort „Poollandschaft“.
+C · Voiceover (ElevenLabs, Tempo 1,0, 50 Wörter)
+[curious] Wie groß ist diese Poollandschaft? Im Ela Excellence in Belek: rund sechstausendsechshundertdreißig Quadratmeter. Mit fünf Rutschen. Kinderclubs nach Alter: vom Baby bis zum Teenager mit fünfzehn. Sieben À-la-carte-Restaurants und zwölf Bars. Wellness auf viertausendfünfhundert Quadratmetern. Für wen? Für Familien, die alles an einem Ort wollen, ohne das Hotel zu verlassen.
+D · Schnittplan (25 s, Testvorlage)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Poollandschaft von oben oder vom höchsten Punkt, langsamer Schwenk | „Wie groß ist diese Poollandschaft?“ | Orts-Tag „Ela Excellence · Belek“, Siegel, Hook | Start in Bewegung | Musik setzt ein |
+| 2,5–6,5 | Pool seitlich, dann Rutschen | „Im Ela Excellence … fünf Rutschen.“ | „ca. 6.630 m² · 5 Rutschen“ | 2 × 2 s | Wasser |
+| 6,5–10,5 | Kinderclub-Eingang, Teens-Bereich, ohne erkennbare Kinder | „Kinderclubs nach Alter … fünfzehn.“ | „Clubs vom Baby bis 15“ | 2 × 2 s | Musik |
+| 10,5–14,5 | Restaurantterrasse, Bar am Abend | „Sieben À-la-carte … zwölf Bars.“ | „7 À la carte · 12 Bars“ | 2 × 2 s | Gläser leise |
+| 14,5–18,5 | Spa-Becken, Hamam | „Wellness auf … Quadratmetern.“ | „4.500 m² Wellness“ | 2 × 2 s | Wasser leise |
+| 18,5–22,5 | Ruhige Poolecke, Liegen im Abendlicht | „Für wen? … zu verlassen.“ | – | 2 ruhige Einstellungen | Musik nimmt ab |
+| 22,5–25,0 | Anlage im letzten Licht | – | „Hotel in 25 Sekunden · Folge 2“, Siegel, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: derselbe Musiktyp wie N02 (warm, akustisch, 100–110 BPM, kommerzielle Lizenz), anderer Titel.
+
+- Sounddesign: Wasser an Pool und Rutsche, Gläser an der Bar.
+
+- Schnittdynamik und Bildabfolge: exakt Testvorlage, 12 Einstellungen; Pool → Kinder → Essen → Wellness → Urteil.
+
+- Cinematic-Anspruch: ruhige Gimbal-Fahrten, keine Wackelbilder, Zeitlupe nur bei Wasser (50 %).
+
+- Übergänge: nur harte Schnitte.
+
+- Texteinblendungen und Untertitel: wie Standards.
+
+- Color Grading: türkises Wasser natürlich lassen, Haut- und Holztöne warm.
+
+- Thumbnail/Cover: Poollandschaft von oben mit Hook, „Poollandschaft“ gelb.
+
+- Format und Text: 9:16; wie Testvorlage.
+
+F · Veröffentlichung
+Instagram
+- Caption: Wie groß ist diese Poollandschaft? Im Ela Excellence in Belek rund 6.630 m², mit 5 Rutschen. Dazu Kinderclubs vom Baby bis 15 Jahre, 7 À-la-carte-Restaurants, 12 Bars und 4.500 m² Wellness. Selbst besucht. Was wäre dein erster Weg: Rutsche oder Spa?
+
+- Hashtags (5): #elaexcellence #belek #familienurlaub #türkeiurlaub #antalya
+
+- Keywords: Ela Excellence Resort Belek, Familienhotel Belek, Hotel mit Rutschen Türkei
+
+- Cover-Headline: Wie groß ist diese Poollandschaft?
+
+- Ziel: Reichweite, 3-Sekunden-Bindung; Follows als zweite Kennzahl
+
+- Organische Interaktion: Auf „Rutsche“ und „Spa“ mit dem passenden Detail antworten.
+
+TikTok
+- Caption: Ela Excellence Resort Belek in 25 Sekunden: 6.630 m² Poollandschaft, 5 Rutschen, Kinderclubs vom Baby bis 15, 7 À-la-carte-Restaurants. Selbst besucht. Rutsche oder Spa?
+
+- Suchbegriffe: Ela Excellence Belek, Familienhotel Türkei, Hotel Belek Kinder, Poollandschaft Hotel
+
+- Hashtags (5): #elaexcellence #belek #türkeihotel #familienhotel #antalya
+
+- Hook: unverändert (Testkonstante)
+
+- Ziel: Anteil nach 3 s, Views nach 7 Tagen; Playlist „Hotel in 25 Sekunden“, Ortsmarkierung Belek
+
+G · Qualität: 81/100 – Hook 12 · Mehrwert 15 · Storytelling 10 · Visuell 14 · Sprache 8 · Zielgruppe 8 · Marke 5 · Share/Save 4 · Produktion 5.
+
+### N07 · Fr 13.11. · 19:00 · Marina Bay Sands: Wie kommt ein Pool auf drei Hoteltürme?
+Test: T8 (lizenziertes Fremdmaterial, Variante 1 von 2). Gleiche Dramaturgie wie die eigenen Geschichten N01 und N10: Frage → drei Enthüllungen → praktische Einordnung → für wen → Frage.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Marina Bay Sands: Wie kommt ein Pool auf drei Hoteltürme? |
+| Serie | Hotelgeschichten · Folge 3 |
+| Ziel | Prüfen, ob eine Hotelgeschichte ohne eigenes Material ähnlich viele Follows bringt |
+| Zielgruppe | Hotel- und Architektur-Fans, Fernreise-Planer |
+| Kernbotschaft | Ein Bauwerk, das man kennt, und zwei Dinge, die man vor der Reise wissen sollte |
+| Länge (Hypothese) | 55–60 s; Kriterium: Ø Wiedergabe ≥ 20 s und ≥ 10 % ganz angesehen |
+| Nutzen | Fakten zur Architektur und eine ehrliche Antwort, wer in den Pool darf |
+| Material | Fremdmaterial: lizenzierte Stockclips (Artgrid, Storyblocks oder vergleichbar), Lizenz schriftlich bis 06.11. im Asset-Ordner. Keine Clips Dritter aus Social Media. Kein Siegel „Selbst besucht“ |
+| Fakten und Quellen | Eröffnet 2010, Architekt Moshe Safdie, drei Türme, rund 2.600 Zimmer, SkyPark auf Höhe der 57. Etage, Auskragung 66,5 m (Safdie Architects); Poollänge je nach Quelle 142–151 m → „rund 150 m“; Pool nur für Hotelgäste, Aussichtsplattform mit Ticket (singapore-tickets.com) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Ein Pool auf drei Türmen? | 5 | 5 | 5 | 4 | 5 | 24 |
+| 2 Information | Pool in der 57. Etage | 5 | 5 | 4 | 4 | 5 | 23 |
+| 3 Emotion | Würdest du hier schwimmen? | 4 | 4 | 4 | 3 | 5 | 20 |
+
+Final: Hook 1, gelbes Wort „Pool“. Gleiche Hook-Art wie bei den eigenen Geschichten (Frage), damit T8 nur das Material vergleicht.
+C · Voiceover (ElevenLabs, Tempo 0,95, 117 Wörter)
+[curious] Auf drei Hoteltürmen in Singapur liegt eine Plattform, die aussieht wie ein Schiff. Und oben drauf: ein Pool. Das ist das Marina Bay Sands. Eröffnet zweitausendzehn, entworfen vom Architekten Moshe Safdie. Drei Türme, rund zweitausendsechshundert Zimmer. Und darauf, auf Höhe der siebenundfünfzigsten Etage, der SkyPark. Das Besondere: An einer Seite ragt er sechsundsechzigeinhalb Meter frei über den Turm hinaus. Ohne Stütze darunter. Darauf liegt ein Pool, rund hundertfünfzig Meter lang. [short pause] Kann man da einfach hoch? Nicht ganz. Der Pool ist nur für Hotelgäste. Auf die Aussichtsplattform kommt man auch mit einem Ticket. Für wen ist das Hotel? Für Singapur-Reisende, die einmal über der Stadt schwimmen wollen. Und keine Höhenangst haben. Würdest du dich an den Beckenrand trauen?
+D · Schnittplan (58 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Luftaufnahme der drei Türme mit SkyPark in der Dämmerung | „Auf drei Hoteltürmen …“ | Orts-Tag „Marina Bay Sands · Singapur“, Hook | Start in Bewegung | Musik mit Takt 1 |
+| 2,5–8,0 | Näher an den SkyPark, die „Schiffsform“ von der Seite | „… wie ein Schiff. Und oben drauf: ein Pool.“ | – | eine lange Fahrt | Musik |
+| 8,0–14,0 | Türme von unten, Bucht mit Skyline | „Das ist das Marina Bay Sands … Safdie.“ | „eröffnet 2010 · Moshe Safdie“ | 2 Einstellungen | Stadtgeräusch leise |
+| 14,0–21,0 | Fassaden mit Fensterreihen, Totale aller drei Türme | „Drei Türme … der SkyPark.“ | „3 Türme · ca. 2.600 Zimmer“, dann „57. Etage“ | 2 Einstellungen | Musik |
+| 21,0–29,0 | Auskragung von unten und seitlich, Kamera folgt der Kante | „Das Besondere … darunter.“ | „66,5 m frei auskragend“ | langsame Fahrt, ein Match-Cut | Wind |
+| 29,0–35,0 | Poolkante mit Blick über die Stadt | „Darauf liegt ein Pool …“ | „Pool ca. 150 m“ | Zeitlupe 50 % | Wasser |
+| 35,0–44,0 | Aussichtsplattform, Besucher nur von hinten oder unscharf | „Kann man da einfach hoch? … Ticket.“ | „Pool: nur Hotelgäste“ · „Plattform: mit Ticket“ | Pause vor „Nicht ganz“ | Musik zurück |
+| 44,0–53,0 | Skyline bei Nacht vom Dach, Pool beleuchtet | „Für wen … Höhenangst haben.“ | – | 2 ruhige Einstellungen | Musik |
+| 53,0–58,0 | Luftaufnahme bei Nacht, Kamera steigt | „Würdest du dich … trauen?“ | „Würdest du dich trauen?“, „Hotelgeschichten · Folge 3“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: cinematisch, kühler als bei den Türkei-Geschichten, 90–100 BPM, kommerzielle Lizenz.
+
+- Sounddesign: Stadt aus der Ferne, Wind auf der Höhe, Wasser am Pool.
+
+- Schnittdynamik: wie N01: 2–3 s je Einstellung, lange Fahrt bei der Auskragung.
+
+- Bildabfolge: Wahrzeichen → Fakten → Besonderheit → Pool → Praxis → Frage.
+
+- Übergänge: harte Schnitte, ein Match-Cut von der Dachkante zur Poolkante.
+
+- Texteinblendungen: wie Standards; kein Siegel.
+
+- Color Grading: Lizenzclips auf einen gemeinsamen Look bringen (Kontrast und Weißabgleich angleichen).
+
+- Thumbnail/Cover: Türme mit SkyPark, Hook, „Pool“ gelb.
+
+- Rechte: Lizenznummer je Clip in die Asset-Liste; Clips mit erkennbaren Personen nur, wenn die Lizenz Model-Releases enthält.
+
+F · Veröffentlichung
+Instagram
+- Caption: Ein Pool auf drei Türmen? Das Marina Bay Sands in Singapur. Eröffnet 2010, entworfen von Moshe Safdie: drei Türme mit rund 2.600 Zimmern, darüber der SkyPark auf Höhe der 57. Etage. An einer Seite ragt er 66,5 m frei hinaus, oben liegt ein rund 150 m langer Pool. Gut zu wissen: Der Pool ist nur für Hotelgäste, auf die Aussichtsplattform kommt man auch mit Ticket. Bildmaterial lizenziert. Würdest du dich an den Beckenrand trauen?
+
+- Hashtags (5): #marinabaysands #singapur #hotelgeschichte #fernreise #architektur
+
+- Keywords: Marina Bay Sands Pool, Singapur Hotel, Infinity Pool Singapur, SkyPark
+
+- Cover-Headline: Ein Pool auf drei Türmen?
+
+- Ziel: Follows je 1.000 Konten (Vergleich mit N01 und N10)
+
+- Organische Interaktion: Fragen zur Plattform sachlich beantworten; keine Ticket- oder Buchungstipps mit Preisen.
+
+TikTok
+- Caption: Marina Bay Sands in Singapur: Wie kommt ein Pool auf drei Hoteltürme? SkyPark auf Höhe der 57. Etage, 66,5 m frei auskragend, Pool rund 150 m. Pool nur für Hotelgäste. Würdest du dich trauen?
+
+- Suchbegriffe: Marina Bay Sands, Infinity Pool Singapur, Singapur Hotel, SkyPark Singapur
+
+- Hashtags (5): #marinabaysands #singapur #hotel #fernreise #infinitypool
+
+- Hook: unverändert (Testkonstante)
+
+- Ziel: Follower je 1.000 Views, Ø Wiedergabe; Playlist „Hotelgeschichten“
+
+G · Qualität: 81/100 – Hook 14 · Mehrwert 16 · Storytelling 13 · Visuell 12 · Sprache 8 · Zielgruppe 8 · Marke 3 · Share/Save 4 · Produktion 3. Überarbeitet von 79: Hook auf das Schiffsbild geschärft und die Lizenzpflicht als eigener Produktionsschritt aufgenommen. Marke bleibt schwächer, weil das Siegel fehlt.
+
+### N08 · Sa 14.11. · 19:00 · Wo ist es im Dezember warm? 5 Ziele im Temperatur-Check
+Test: T6 (Thema X als Video). Der Fotobeitrag F-N02 zum selben Thema lief am 11.11. Erstes Bild und Hook sind identisch, damit nur das Format variiert.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | Wo ist es im Dezember warm? 5 Ziele im Temperatur-Check |
+| Serie | Wohin im Winter? · Folge 2 |
+| Ziel | TikTok-Follower je 1.000 Views im Vergleich zum Fotobeitrag; Saves |
+| Zielgruppe | Winter-Sonnensucher, die für Dezember oder die Weihnachtsferien planen |
+| Kernbotschaft | Fünf Ziele mit belastbaren Durchschnittswerten statt „schönes Wetter“ |
+| Länge (Hypothese) | 40 s; Kriterium: Ø Wiedergabe ≥ 20 % und ≥ 6 % ganz angesehen |
+| Nutzen | Eine speicherbare Liste mit Luft- und Wassertemperatur |
+| Material | Erstes Bild: dasselbe Strandbild wie F-N02 (Rotes Meer, eigenes Foto aus dem Fotobeitrag vom 19.10.). Je Ziel 2 Einstellungen: eigenes Archiv (Rotes Meer, Dominikanische Republik prüfen), sonst lizenzierte Stockclips mit Nachweis |
+| Fakten und Quellen | Durchschnittliche Tageshöchstwerte Dezember: Gran Canaria ca. 22 °C, Meer 20 °C (Lidl Reisen) · Hurghada 21–24 °C, Meer ca. 24 °C (wetter.de, klimatabelle.info) · Dubai ca. 25 °C, Meer ca. 25 °C (wetter.de) · Sal ca. 24 °C, Meer ca. 24 °C (klimatabelle.info) · Dominikanische Republik 30 °C, Meer 27 °C (weg.de) · Riviera 14–17 °C (wetter.de, weg.de) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Wo ist es im Dezember warm? | 5 | 5 | 4 | 5 | 4 | 23 |
+| 2 Information | 5 Ziele über 20 Grad | 5 | 5 | 4 | 4 | 4 | 22 |
+| 3 Emotion | Dezember ohne Winterjacke | 4 | 4 | 4 | 4 | 3 | 19 |
+
+Final: Hook 1, gelbes Wort „Dezember“. Er ist zugleich die Headline des Fotobeitrags F-N02 (T6) und die Fortsetzung des starken November-Fotobeitrags.
+C · Voiceover (ElevenLabs, Tempo 1,0, 89 Wörter)
+[curious] Wo ist es im Dezember wirklich warm? Fünf Ziele, mit Luft- und Wassertemperatur. Gran Canaria: rund zweiundzwanzig Grad, das Meer um zwanzig. Baden geht, aber erfrischend. Hurghada am Roten Meer: einundzwanzig bis vierundzwanzig Grad, das Wasser um vierundzwanzig. Dubai: um die fünfundzwanzig Grad, das Wasser ebenfalls. Die Kapverden, Insel Sal: rund vierundzwanzig Grad, das Wasser auch. Und wer weiter fliegt: Dominikanische Republik, rund dreißig Grad, das Meer bei siebenundzwanzig. Zum Vergleich: An der Türkischen Riviera sind es im Dezember vierzehn bis siebzehn. Speicher dir die Liste für deine Winterplanung.
+D · Schnittplan (40 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Strandbild Rotes Meer wie F-N02, leichte Kamerafahrt (Ken-Burns 3 %) | „Wo ist es im Dezember …?“ | Hook, kein Orts-Tag | Start in Bewegung | Musik setzt ein |
+| 2,5–5,0 | Zweites Strandbild | „Fünf Ziele … Wassertemperatur.“ | „5 Ziele · Luft und Meer“ | 1 Einstellung | Musik |
+| 5,0–10,5 | Gran Canaria: Dünen oder Strand, Promenade | „Gran Canaria … erfrischend.“ | „Gran Canaria · 22 °C · Meer 20 °C“ | 2 Einstellungen | Wellen |
+| 10,5–16,0 | Hurghada: Riff, Hotelstrand | „Hurghada … vierundzwanzig.“ | „Hurghada · 21–24 °C · Meer 24 °C“ | 2 Einstellungen | Wellen |
+| 16,0–20,5 | Dubai: Strand mit Skyline | „Dubai … ebenfalls.“ | „Dubai · 25 °C · Meer 25 °C“ | 2 Einstellungen | Musik |
+| 20,5–25,0 | Sal: heller Sandstrand | „Die Kapverden … auch.“ | „Sal · 24 °C · Meer 24 °C“ | 2 Einstellungen | Wind |
+| 25,0–31,0 | Dominikanische Republik: Palmenstrand | „Und wer weiter fliegt … siebenundzwanzig.“ | „Dom. Rep. · 30 °C · Meer 27 °C“ | 2 Einstellungen | Musik |
+| 31,0–36,0 | Riviera im Winterlicht | „Zum Vergleich … siebzehn.“ | „Riviera · 14–17 °C“ | 1 Einstellung | Musik leiser |
+| 36,0–40,0 | Übersichtsgrafik aller Werte | „Speicher dir …“ | Liste aller fünf Ziele, „Wohin im Winter? · Folge 2“, Logo | stehendes Bild 4 s | Musik klingt aus |
+
+E · Postproduktion
+- Musik: sonnig, ruhig, 100 BPM, kommerzielle Lizenz.
+
+- Sounddesign: Wellen, Wind, kein Vogelgezwitscher aus der Konserve.
+
+- Schnittdynamik: je Ziel 4,5–5,5 s, die Einblendung steht während des ganzen Abschnitts.
+
+- Bildabfolge: nah → fern (Kanaren, Rotes Meer, Golf, Atlantik, Karibik), am Ende der Vergleich mit der Türkei.
+
+- Übergänge: harte Schnitte; die Schlussgrafik blendet über 6 Frames ein.
+
+- Texteinblendungen: Ortsname weiß, Temperaturen gelb; Zusatz klein unten: „Durchschnittswerte“.
+
+- Color Grading: Stock- und Eigenmaterial auf einen Look angleichen, kein überzogenes Türkis.
+
+- Thumbnail/Cover: identisch mit Slide 1 von F-N02.
+
+- Lizenzen: jede Stockeinstellung mit Lizenznummer im Asset-Ordner.
+
+F · Veröffentlichung
+Instagram
+- Caption: Wo ist es im Dezember wirklich warm? 5 Ziele mit Luft- und Wassertemperatur: Gran Canaria ca. 22 °C, Meer 20 °C · Hurghada ca. 21–24 °C, Meer 24 °C · Dubai ca. 25 °C, Meer 25 °C · Sal (Kapverden) ca. 24 °C, Meer 24 °C · Dominikanische Republik ca. 30 °C, Meer 27 °C. Durchschnittliche Tageshöchstwerte; Quellen: wetter.de, klimatabelle.info, Lidl Reisen, weg.de. Speicher dir die Liste. Wohin würdest du fliegen?
+
+- Hashtags (5): #winterurlaub #wintersonne #reisetipps #dezember #warmeziele
+
+- Keywords: Wo ist es im Dezember warm, Winterurlaub Sonne, warme Reiseziele Dezember
+
+- Cover-Headline: Wo ist es im Dezember warm?
+
+- Ziel: Saves; auf Instagram kein Testziel
+
+- Organische Interaktion: Nachfragen nach Flugzeiten beantworten, ohne Preise.
+
+TikTok
+- Caption: Wo ist es im Dezember warm? Gran Canaria, Hurghada, Dubai, Kapverden und Dominikanische Republik mit Luft- und Wassertemperatur. Speichern für die Winterplanung.
+
+- Suchbegriffe: warm im Dezember, Winterurlaub Sonne, Reiseziele Dezember, Wassertemperatur Dezember
+
+- Hashtags (5): #winterurlaub #wintersonne #warmimdezember #reisetipps #urlaub
+
+- Hook: unverändert (Testkonstante)
+
+- Ziel: neue Follower je 1.000 Views (TikTok-Detail), Saves; Playlist „Wohin im Winter?“
+
+G · Qualität: 81/100 – Hook 13 · Mehrwert 17 · Storytelling 9 · Visuell 12 · Sprache 8 · Zielgruppe 9 · Marke 4 · Share/Save 5 · Produktion 4.
+
+### N09 · So 15.11. · 19:00 · Türkische Riviera: zwischen Bergen und Meer (Destination WOW)
+Test: keiner. WOW-Variante „Destination WOW“; Bewertung über Shares und Wiedergabe in Prozent der Länge.
+A · Creative Brief
+
+| Feld | Inhalt |
+| Titel | Türkische Riviera: zwischen Bergen und Meer |
+| Serie | haydi-weg Cinematic · Destination WOW |
+| Ziel | Shares und Markenbild; neue Zuschauer, die die Riviera aus der Luft noch nicht kennen |
+| Zielgruppe | Türkei-Wiederholer, Hotel- und Reisebild-Fans |
+| Emotionaler Schwerpunkt | Weite und Ruhe: wie nah Berge und Meer an der Riviera beieinanderliegen |
+| Länge (Hypothese) | 30 s; Kriterium: Ø Wiedergabe ≥ 31 % und ≥ 12 % ganz angesehen |
+| Stärkste Aufnahmen | Drohnenflüge der Drehreise Sept./Okt. 2026: Taurus über Kemer am Morgen, Bucht bei Göynük, Strand bei Kundu im Abendlicht (Bestand prüfen). Keine Hotelnamen, keine erkennbaren Personen |
+| Alternative | Ohne Drohnenmaterial: Pocket-Weitwinkel von Uferwegen, Bergstraße und Strand, gleiche Dramaturgie |
+| Schlussbild | Lichter der Küste am Abend, Frage „Erkennst du alle drei Orte?“ |
+
+B · Drei Hooks (Texttitel)
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Erkennst du diese Küste? | 5 | 4 | 4 | 4 | 4 | 21 |
+| 2 Information | Die Riviera von Kemer bis Kundu | 5 | 5 | 3 | 4 | 4 | 21 |
+| 3 Emotion | Zwischen Bergen und Meer | 5 | 5 | 4 | 5 | 5 | 24 |
+
+Final: Hook 3, gelbes Wort „Meer“. Die Frage aus Hook 1 kommt ans Ende, damit sie zum Kommentieren führt, ohne den Einstieg zu belasten.
+C · Voiceover: keiner. Nur drei Texte im Bild: Hook (0–2,5 s), Ortsnummern „1“, „2“, „3“ klein bei jedem Ortswechsel, Schlussfrage.
+D · Schnittplan (30 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Drohne steigt über den Taurus, Morgenlicht, Meer am Horizont | – | Orts-Tag „Türkische Riviera“, Hook | Start in Bewegung | Musik leise, Wind |
+| 2,5–8,0 | Zwei Einstellungen Küste bei Kemer: Berghang → Wasserlinie | – | „1“ | Schnitt auf den ersten Akzent | Musik baut auf |
+| 8,0–14,0 | Bucht bei Göynük von oben, dann seitlich | – | „2“ | Match-Cut Bergkante auf Buchtkante | Wellen |
+| 14,0–20,0 | Kundu: langer Strand, Drohne seitlich im Abendlicht | – | „3“ | 2 Einstellungen, länger stehen lassen | Musik voll ab 18 s |
+| 20,0–25,0 | Sonnenuntergang über dem Meer, Gegenlicht | – | – | Zeitlupe 50 % | Musik Höhepunkt |
+| 25,0–28,0 | Lichter der Küste in der blauen Stunde | – | „Erkennst du alle drei Orte?“ | 1 Einstellung | Musik nimmt ab |
+| 28,0–30,0 | Gleiches Bild | – | „haydi-weg Cinematic“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musikalische Entwicklung: Cinematic-Ambient, leise beginnend, ab 14 s Rhythmus, Höhepunkt beim Sonnenuntergang, kommerzielle Lizenz.
+
+- Soundeffekte: Wind auf der Höhe, Wellen in der Bucht, sonst nichts.
+
+- Schnittgeschwindigkeit: langsam (3–5 s), kein Schnittgewitter.
+
+- Visuelle Übergänge: zwei Match-Cuts (Bergkante → Buchtkante, Strandlinie → Horizont), sonst harte Schnitte.
+
+- Filmische Ästhetik: Morgen kühl-blau, Abend warm; ein durchgehender Look.
+
+- Thumbnail/Cover: Taurus mit Meer, Hook, „Meer“ gelb.
+
+- Plattform: Instagram und TikTok, identischer Schnitt.
+
+F · Veröffentlichung
+Instagram
+- Caption: Zwischen Bergen und Meer: die Türkische Riviera an einem Tag. Drei Orte stecken in diesem Video. Erkennst du alle? Die Auflösung hängen wir morgen als Kommentar an.
+
+- Hashtags (5): #türkischeriviera #antalya #kemer #drohne #türkei
+
+- Keywords: Türkische Riviera von oben, Kemer Drohne, Antalya Küste
+
+- Cover-Headline: Zwischen Bergen und Meer
+
+- Ziel: Shares je 1.000 Aufrufe
+
+- Organische Interaktion: Nach 24 Stunden Auflösung anpinnen: „1 Kemer · 2 Göynük · 3 Kundu“.
+
+TikTok
+- Caption: Türkische Riviera von oben: Berge, Buchten und Strände zwischen Kemer und Antalya. Erkennst du alle drei Orte?
+
+- Suchbegriffe: Türkische Riviera, Antalya von oben, Kemer Drohne
+
+- Hashtags (5): #türkischeriviera #antalya #kemer #drohnenaufnahmen #türkei
+
+- Hook: unverändert
+
+- Ziel: Shares und Wiedergabe in Prozent der Länge
+
+G · Qualität: 80/100 – Hook 12 · Mehrwert 13 · Storytelling 11 · Visuell 15 · Sprache 9 · Zielgruppe 8 · Marke 4 · Share/Save 4 · Produktion 4. Bewusst ohne Information: Der Clip lebt vom Bild und der Schlussfrage.
+
+## 3. November Woche 3 (16.–22.11.)
+Vier Videos, alle vor der Reise fertig (Freigabe bis 13.11., eingeplant bis 14.11.): Geschichte NG Phaselis Bay, Spice in 25 Sekunden, langes Duell Ela gegen Selectum, Silvester im Hotel.
+
+### N10 · Di 17.11. · 19:00 · NG Phaselis Bay: Ein Hotel mit dem Namen einer 2.700 Jahre alten Stadt
+Tests: T1 (Hotel B, Geschichte) · T2 (weniger bekannt) · T8 (eigenes Material). Keine Fremdaufnahmen der Ruinen, sonst wäre T8 verfälscht.
+A · Briefing
+
+| Feld | Inhalt |
+| Titel | NG Phaselis Bay: Ein Hotel mit dem Namen einer 2.700 Jahre alten Stadt |
+| Serie | Hotelgeschichten · Folge 2 |
+| Ziel | Follows über eine Geschichte, die ein weniger bekanntes Haus erklärt |
+| Zielgruppe | Paare 30–55, Kultur- und Hotelinteressierte |
+| Kernbotschaft | Der Name führt zu einer antiken Hafenstadt, und das Hotel lebt wie sie vom Wasser |
+| Länge (Hypothese) | 65–70 s; Kriterium: Ø Wiedergabe ≥ 20 s und ≥ 10 % ganz angesehen |
+| Nutzen | Ein Ausflugsziel und ein Hotel in einer Geschichte |
+| Material | Eigen: NG-Hotelvorstellung (Bucht, Strand, Pools, Blick auf die Berge). Phaselis-Ruinen: eigene Aufnahmen prüfen. Ohne sie: Karten-Grafik (Kemer, Phaselis, Hotel) und Texttafeln auf dunkelblauem Grund |
+| Fakten und Quellen | Phaselis: um 690 v. Chr. von Siedlern aus Rhodos gegründet (Infobox 700 v. Chr.) → „rund 2.700 Jahre“; lykische Küste; drei Häfen; von Alexander dem Großen eingenommen; Hadrianstor; Ruinen 16 km südlich von Kemer (Wikipedia). Hotel: eigene Bucht, 555 m Feinkiesstrand (alltours) |
+
+B · Drei Hooks
+
+| Hook | Text im Bild | Verständlich | Glaubwürdig | Aufmerksamkeit | Marke | Bildmaterial | Summe |
+| 1 Neugier | Woher hat das Hotel seinen Namen? | 5 | 5 | 4 | 5 | 5 | 24 |
+| 2 Information | Ein Name, 2.700 Jahre alt | 4 | 5 | 4 | 4 | 4 | 21 |
+| 3 Emotion | Wo vor 2.700 Jahren Schiffe anlegten | 4 | 4 | 4 | 4 | 3 | 19 |
+
+Final: Hook 1, gelbes Wort „Namen“. Gleiche Hook-Art wie N01 (Frage), die Zahl folgt im ersten Satz.
+C · Voiceover (ElevenLabs, Tempo 0,95, 136 Wörter)
+[curious] Woher hat dieses Hotel seinen Namen? Das NG Phaselis Bay bei Kemer heißt nach einer Stadt, die vor rund zweitausendsiebenhundert Jahren gegründet wurde. Phaselis. Siedler aus Rhodos bauten sie um sechshundertneunzig vor Christus an der lykischen Küste. Und sie gaben ihr etwas Ungewöhnliches: gleich drei Häfen. Phaselis lebte vom Meer. Vom Handel und von den Schiffen, die hier anlegten. Später nahm Alexander der Große die Stadt ein. Und als der römische Kaiser Hadrian kam, baute man ihm ein eigenes Tor. [short pause] Heute liegen die Ruinen südlich von Kemer, direkt am Wasser. Man kann sie besuchen. Und das Hotel? Es lebt wie die alte Stadt vom Wasser. Es liegt an einer eigenen Bucht, mit fünfhundertfünfundfünfzig Metern Feinkiesstrand. Für wen? Für alle, die am Meer wohnen und nebenbei ein Stück Geschichte entdecken wollen. Warst du schon einmal in Phaselis?
+D · Schnittplan (68 s)
+
+| Zeit | Aufnahme | Voiceover | Einblendung | Schnitt | Audio |
+| 0,0–2,5 | Hotelschild oder Einfahrt mit Name, dann Bucht (andere Einstellung als N02) | „Woher hat dieses Hotel seinen Namen?“ | Orts-Tag „NG Phaselis Bay · Kemer“, Siegel, Hook | Start in Bewegung | Musik mit Takt 1 |
+| 2,5–10,0 | Bucht von oben, langsamer Flug Richtung Horizont | „Das NG Phaselis Bay … Phaselis.“ | „Phaselis · ca. 2.700 Jahre“ | eine lange Einstellung | Musik |
+| 10,0–18,0 | Ruinen am Wasser (eigen) ODER Karten-Grafik mit Rhodos-Pfeil zur lykischen Küste | „Siedler aus Rhodos … lykischen Küste.“ | „um 690 v. Chr.“ | Grafik blendet über 6 Frames ein | Musik zurück |
+| 18,0–23,0 | Drei markierte Hafenbuchten (Ruinenaufnahme) ODER Grafik mit drei Punkten | „Und sie gaben ihr … drei Häfen.“ | „3 Häfen“ | Punkte nacheinander, ohne Animation außer Einblenden | Wellen |
+| 23,0–28,0 | Wasser an der Hotelbucht, Boot oder Steg | „Phaselis lebte vom Meer … anlegten.“ | – | 2 Einstellungen | Wellen |
+| 28,0–36,0 | Antike Straße oder Tor (eigen) ODER Texttafel auf Dunkelblau | „Später nahm Alexander … eigenes Tor.“ | „Alexander der Große“, dann „Hadrianstor“ | 2 Einstellungen bzw. 2 Tafeln | Musik |
+| 36,0–42,0 | Karte: Kemer, Phaselis südlich, Hotel markiert | „Heute liegen … besuchen.“ | „Ruinen südlich von Kemer“ | kurze Pause vorher | Musik leiser |
+| 42,0–52,0 | Hotelbucht von oben, Strand nah, Liegen am Wasser | „Und das Hotel? … Feinkiesstrand.“ | „eigene Bucht · 555 m Feinkies“ | 3 Einstellungen | Musik baut auf |
+| 52,0–61,0 | Abend an der Bucht, Berge im letzten Licht | „Für wen? … entdecken wollen.“ | – | 2 ruhige Einstellungen | Musik |
+| 61,0–68,0 | Bucht in der blauen Stunde | „Warst du schon einmal in Phaselis?“ | „Warst du schon in Phaselis?“, „Hotelgeschichten · Folge 2“, Logo | Ausblenden | Musik klingt aus |
+
+E · Postproduktion
+- Musik: ruhig-erzählend, Streicher oder Piano mit leichter Percussion, 85–95 BPM, kommerzielle Lizenz.
+
+- Sounddesign: Wellen, leichter Wind; bei Grafiken nur Musik.
+
+- Schnittdynamik: länger als N01 (3–4 s), weil die Geschichte Zeit braucht; der Wechsel zurück zum Hotel bei 42 s ist der zweite Spannungsbogen.
+
+- Bildabfolge: Name → antike Stadt → Häfen → Geschichte → heute → Hotel → Urteil.
+
+- Grafiken: Karte und Tafeln im Markenstil (Dunkelblau #1C2D5C, Schrift weiß, Zahlen gelb), keine Fotos aus dem Internet.
+
+- Übergänge: harte Schnitte; ein Match-Cut von der Grafik-Küstenlinie zur echten Bucht bei 42 s.
+
+- Color Grading: warm, leicht gedämpftes Grün, Wasser klar.
+
+- Thumbnail/Cover: Bucht mit Hook, „Namen“ gelb.
+
+- Format und Text: 9:16; Grafiken zentriert innerhalb der Sicherheitszone.
+
+F · Veröffentlichung
+Instagram
+- Caption: Woher hat das NG Phaselis Bay seinen Namen? Von einer Stadt, die vor rund 2.700 Jahren gegründet wurde. Phaselis: um 690 v. Chr. von Siedlern aus Rhodos gegründet, mit drei Häfen, später von Alexander dem Großen eingenommen. Die Ruinen liegen südlich von Kemer und lassen sich besuchen. Das Hotel selbst liegt an einer eigenen Bucht mit 555 m Feinkiesstrand. Selbst besucht. Warst du schon einmal in Phaselis?
+
+- Hashtags (5): #phaselis #kemer #ngphaselisbay #hotelgeschichte #türkeiurlaub
+
+- Keywords: Phaselis, NG Phaselis Bay, Kemer Ausflug, antike Stadt Türkei
+
+- Cover-Headline: Woher hat das Hotel seinen Namen?
+
+- Ziel: Follows je 1.000 Konten (Vergleich mit N02 und N07)
+
+- Organische Interaktion: Wer in Phaselis war, nach dem Lieblingsort fragen; Ausflugstipps ohne Verkauf.
+
+TikTok

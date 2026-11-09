@@ -1,0 +1,428 @@
+
+# haydi-weg Wettbewerbsanalyse – Phase 2
+ · 
+
+## 1. Executive Summary
+Erfolgreiche Reiseaccounts schlagen haydi-weg nicht durch Größe, sondern durch wiederholbare Hotel- und Gefühlsformate mit klarem Einstieg. Zwei kleine Türkei-Accounts erreichen auf TikTok das 25- bis 47-Fache des haydi-weg-Medians. Die Position „Türkei-Hotels ehrlich geprüft, ohne Moderator“ ist in der Stichprobe von 19 Accounts frei (vorläufig).
+
+| # | Ergebnis | Beleg |
+| 1 | Hotel-Inhalte sind die stärkste breite Formatklasse: über 11 Accounts im Median 1,24-fach über dem eigenen Account-Median , getragen vor allem von schauinsland und HolidayCheck. Bei haydi-weg liegen sie beim 1,67 -Fachen | B |
+| 2 | Größe ist nicht Reichweite: Murre (4.345 Follower) kommt im Median auf 57.700 Views, Hotelreport (25.900) auf 30.200. haydi-weg liegt mit 1. 221 auf dem Niveau von HolidayCheck und Bentour | A/B |
+| 3 | Die Nische „Türkei-Hotels ohne Moderator“ ist i n der Stichprobe von 19 Accounts unbesetzt: Hotelreport arbeitet mit Gesicht, Bentour postet seit 25.08. nicht auf TikTok (vorläufig) | A/C |
+| 4 | 7 von 2 8 Wettbewerbs-Top-Beiträgen mit Interaktionsdaten zeigen starke Hinweise auf bezahlte Ausspielung. Millionen-Views der großen Marken sind kein organischer Maßstab | C |
+| 5 | Organische Spitzen nennen im ersten Bild öfter Ort oder Hotel plus Zahl, Preis oder Frage als schwache Beiträge derselben Accounts (10 von 16 gegen 3 von 16). Ohne Person sind beide Gruppen meist (13 gegen 10 von 16): kein Nachteil, aber kein Erfolgsfaktor | A/C |
+| 6 | Die höchsten Share-Quoten haben Begleitungs-Hooks (1,9–3,3 %), die höchsten Save-Quoten Listen und Hotel-Spotlights (ab 1,0 %), die höchsten Kommentarquoten Urteile (bis 0,39 %); das sind Zusammenhänge, keine nachgewiesenen Ursachen | B |
+| 7 | Kein Serientyp hält sein Niveau zuverlässig: Die meisten datierten Serien fallen in der zweiten Hälfte, nur Hotelreports Frühbucher-Serie steigt . Eine Ermüdung beim gleichen Hotel ist nicht belegt: Die stärkste Mardan-Folge war die fünfte | B/C |
+| 8 | Die Instagram-Reichweite der Konkurrenz ist nicht sichtbar (D). Sichtbar ist: Alle Marken liegen unter 3 Likes je 1.000 Follower, Urlaubspiraten kommt bei Beiträgen mit Kommentar-zu-DM-Aufforderung auf 920–3.678 Kommentare. Bei haydi-weg erreichen Reels auf Instagram so viel wie auf TikTok, die meisten Follows kamen bisher über Instagram (Phase 1) | A/B |
+| 9 | TikTok-Fotobeiträge sind kein Selbstläufer (0,91-fach im Wettbewerb). Bei haydi-weg tragen sie bei Saisonthemen: Wintersonne Rotes Meer 4,7-fach (reif), der November-Beitrag hatte nach 2 Tagen 12.600 Views (noch unreif) | B |
+| 10 | Zielbereiche für die November-Tests: TikTok-Median der Testbeiträge 1.300– 3.2 00 Views, 15–25 % Treffer ab dem 5-Fachen, Hotel-Beiträge mindestens 1,3-fach | C |
+
+Grundlage: 491 TikTok-Beiträge von 15 Accounts und 85 Instagram-Beiträge von 9 Accounts, abgelesen am 27.10.2026. Instagram-Reichweiten der Konkurrenz waren ohne Login nicht verfügbar (D). Die fünf Entscheidungen für Phase 3 stehen in Abschnitt 20.
+
+## 2. Methodik und Datengrundlage
+Basis sind 491 TikTok-Beiträge von 15 Accounts aus dem Zeitraum 28.07.–26.10.2026 und eine Instagram-Stichprobe von 85 Beiträgen aus 9 Accounts. Alle Werte wurden am 27.10.2026 abgelesen.
+
+| Quelle | Umfang | Erfasst | Beleg |
+| TikTok-Profilraster (eingeloggt über das haydi-weg-Konto, nur lesend) | 15 Accounts, 49 1 Beiträge (445 Wettbewerb, 46 haydi-weg) | Views je Beitrag, Format Video oder Foto, Datum, Caption-Anfang | A (Datum : Veröffentlichungszeit von der Beitragsseite ) |
+| TikTok-Einzelaufrufe | 29 Top-Beiträge (28 Wettbewerb, 1 haydi-weg) | Likes, Kommentare, Saves, Shares, Dauer ; bei 20 davon Standbild nach 0,5 Sekunden . Kontrollgruppe: Cover-Bild von 16 organischen Spitzen und 16 schwachen Beiträgen derselben Accounts | A; Beschreibung des Einstiegs C |
+| TikTok-Playlists | 8 Accounts | Serienname, Beitragszahl, Views ohne Datum | A |
+| Instagram ohne Login | 9 Accounts, je die letzten 12 sichtbaren Beiträge | Likes, Kommentare, Typ (Reel, Karussell, Bild), Datum | A; Views, Reichweite, Saves, Shares D |
+| Instagram-Profile | 12 Accounts | Follower, Beiträge gesamt | A |
+| Marktquellen | 3 Artikel (Liste in Abschnitt 18) | Reisemarkt 2026, Winterbuchungen, Vertrauen in KI-Bilder | A (laut Quelle) |
+
+Rechenregeln
+- Account-Mediane zählen nur reife Beiträge bis 19.10. (mindestens 7 Tage alt), weil Views nach dem Posten weiter wachsen. Bei TikTok-Views ab 10.000 zeigt die Plattform gerundete Werte (z. B. 36,2K).
+
+- Relative Performance = Views geteilt durch den Account-Median (B). Sie macht große und kleine Accounts vergleichbar.
+
+- Datum = Veröffentlichungszeit laut Beitragsseite, in deutscher Zeit (bis 25.10. MESZ, danach MEZ). Korrektur nach der Qualitätsprüfung: Die zuerst genutzte Beitrags-ID enthält die Erstellzeit, geplante Beiträge erscheinen später. Bei haydi-weg betraf das 31 von 46 Beiträgen (bis zu 19 Tage), im Wettbewerb 12 von 445 (bis 6,6 Tage, keiner über die Reifegrenze). Die korrigierten Zeiten stimmen bei allen 8 prüfbaren Beiträgen mit den TikTok-Studio-Werten aus Phase 1 überein. Fixierte Beiträge außerhalb des Zeitraums sind ausgeschlossen.
+
+- TikTok zählt beworbene Views mit. Hinweisregel: Interaktionen (Likes, Kommentare, Saves, Shares) unter 0,5 % der Views gelten als starker Hinweis auf bezahlte Ausspielung, 0,5–1,5 % als möglich. Das bleibt ein Hinweis (C), kein Beweis.
+
+- Formatklassen (Hotel, Deal, Ratgeber usw.) wurden per Stichwortregel aus der Caption gebildet (B). Nach der Qualitätsprüfung wurden zwei Regeln korrigiert (#creatorsearchinsights galt als Creator-Hinweis, arabische Hotelwörter fehlten); 7 turkiyehotels-Beiträge wurden neu zugeordnet. Einzelne Fehlzuordnungen bleiben möglich.
+
+Grenzen
+- Follower-Zuwachs, Watchtime und Profilaufrufe fremder Accounts sind nicht sichtbar (D). Der Bericht sagt deshalb nichts darüber, welche Beiträge der Konkurrenz Follower gebracht haben.
+
+- Instagram-Reichweite fremder Accounts fehlt (D). Die Stichprobe deckt je nach Postingtakt nur 1–6 Wochen ab und ist unterschiedlich frisch: Bei Urlaubspiraten stammen 9 von 10, bei Urlaubsguru 11 von 12 und bei haydi-weg 8 von 12 Beiträgen aus der letzten Woche. Junge Beiträge haben noch nicht alle Likes, die Like-Quoten sind deshalb eher Untergrenzen (C).
+
+- Ohne Beiträge im Zeitraum: Hoteltesta (letzter Beitrag August 2025), REISE TIPPS (letzter Beitrag 15.03.2026). schauinsland reisebüro Hannover und Leonberg zeigen am 27.10. „Kein Inhalt“. Für diese vier Accounts gibt es keine Mediane.
+
+- Den Bildinhalt habe ich bei 20 Top-Beiträgen (Standbild) und für den Vergleich bei 16 Spitzen und 16 schwachen Beiträgen (Cover-Bild) gesichtet. Die übrige Hook-Analyse stützt sich auf Captions. Die Top 30 sind eine redaktionelle Auswahl, keine Rangliste (Abschnitt 6). Die Bildurteile der Kontrollgruppe stammen von einer Person ohne Verblindung (C).
+
+- Alle Zusammenhänge sind Beobachtungen, keine Ursachen.
+
+Belegkategorien: A = abgelesen oder gemessen, B = aus A berechnet, C = Einschätzung oder Hypothese, D = Daten fehlen.
+Erhoben wurden nur öffentliche Inhalte. Es gab keine Interaktion mit fremden Accounts. Zitierte Einstiege dienen der Analyse; die Hook-Bibliothek in Abschnitt 7 formuliert eigene Muster.
+
+## 3. Wettbewerbslandschaft
+19 Accounts sind über Profilaufruf verifiziert, dazu haydi-weg als Referenz. Followerzahlen erhoben am 27.10.2026 über die öffentlichen Profile (A). Das Verhältnis von Likes zu Followern auf TikTok ist nur ein grobes Signal für Resonanz, kein Reichweitenmaß (B).
+
+| Account | Kategorie | Rolle für haydi-weg | Instagram (Follower) | TikTok (Follower / Likes gesamt) | TikTok-Likes je Follower |
+| Urlaubsguru | A – Reisemarke | Content-Wettbewerber, erklärtes Vorbild | @urlaubsguru 609K | @urlaubsguru.de 385,5K / 7M | 18 |
+| Urlaubspiraten | A – Reisemarke | Content-Wettbewerber | @urlaubspiraten 890K | @urlaubspiraten.de 261,1K / 3,3M | 13 |
+| TUI Deutschland | A – Reisemarke | Direkter Wettbewerber (Veranstalter) | @tuideutschland 319K | @tui.deutschland 57K / 844K | 15 |
+| HolidayCheck | A – Reisemarke | Content-Wettbewerber (Hotelbewertungen) | @holidaycheck 152K | @holidaycheck 32,1K / 413K | 13 |
+| schauinsland-reisen | A – Reisemarke | Direkter Wettbewerber (Veranstalter) | @schauinslandreisen 140K | @schauinslandreisen 110,8K / 2,8M | 25 |
+| DERTOUR | A – Reisemarke | Direkter Wettbewerber (Veranstalter) | @dertour_de 114K | @dertour 117,5K / 1,9M | 16 |
+| Bentour Reisen | A – Türkei-Spezialist | Direkter Wettbewerber, gleiche Nische | @bentourreisen 8.616 | @bentourreisen 9.277 / 17,6K | 1,9 |
+| Reiseuhu | B – Reise-Creator | Content-Wettbewerber | @reiseuhu 137K | @reiseuhu 42,5K / 317K | 7,5 |
+| Urlaubsdesign (Kristina) | B – Reise-Creator | mobiles Reisebüro, deutsch und russisch | – | @urlaubsdesign 48,7K / 815K | 17 |
+| Hotelreport Travel (Davut Bölükbas) | C – Hotel-Spezialist | Direkter Wettbewerber: Reisebüro mit Türkei-Hotelcontent | @hotelreports 8.171 | @hotelreports 25,9K / 231K | 8,9 |
+| turkiyehotels | F – international (arabisch) | Kreativbenchmark: Türkei-Luxushotels ohne Moderator | – | @turkiyehotels 12,7K / 74K | 5,8 |
+| Hoteltesta | C – Hotel-Spezialist | englischsprachig, seit August 2025 ohne neue Beiträge | – | @hoteltesta 4.107 / 67K | 16 |
+| TRAVELBOOK | D – Reise-Medium | Kreativbenchmark Wissen | @travelbook_de 36K | – | – |
+| reisereporter | D – Reise-Medium | Kreativbenchmark Wissen | @reisereporter 59K | kaum aktiv (101 Follower) | – |
+| Murre – Türkei Vorfreude | E – klein, stark | Wachstumsbenchmark, gleiche Nische | 257 | @murre.trvl 4.34 5 / 762K | 175 |
+| schauinsland reisebüro Hannover Flughafen | E – klein, stark | Reisebüro wie haydi-weg; Profil zeigt am 27.10. „Kein Inhalt“ | 329 | @schauinsland_hannover 3.505 / 588K | 168 |
+| REISE TIPPS (Sonja & André) | E – klein, stark | Wachstumsbenchmark Wissen ; letzter Beitrag 15.03.2026 | 88 | @reise.reviews 8.74 4 / 222K | 25 |
+| Urlaubsperle | E – klein, stark | Wachstumsbenchmark | – | @urlaubsperle 11,6K / 132K | 11 |
+| Beautiful Destinations | F – international | Kreativbenchmark Cinematic | – | @beautifuldestinations 5,5 Mio. / 93,8 Mio. | 17 |
+| haydi-weg (Referenz) | – | – | @haydiwegreisen 2.599 | @haydiweg 2.785 / 2.66 8 | 1,0 |
+
+Auffällig schon hier: Drei kleine Konten (Murre, schauinsland Hannover, REISE TIPPS) erreichen pro Follower ein Vielfaches an Likes. Das spricht für einzelne starke Beiträge, die weit über den Followerkreis hinaus laufen (C).
+Nebenbefund zu Phase 1: Das öffentliche Instagram-Profil von haydi-weg zeigte am 27.10. 2.599 Follower, am 26.10. waren es laut Export 2.606. Das ist der erste direkte Hinweis, dass Entfolgungen das Wachstum zeitweise aufzehren (A, Einzelwert; Ursache offen).
+
+### Profilsteckbriefe (TikTok, 28.07.–26.10.2026)
+Die Steckbriefe fassen Positionierung, wiederkehrende Einstiege und Serien zusammen und nennen je Account den auffälligsten starken und schwachen Beitrag. Bio und Captions sind abgelesen (A), die Einordnung ist C. Zahlen stehen in Abschnitt 5.
+
+| Account | Positionierung laut Bio | Schwerpunkte | Typische Einstiege | Serien | Wiedererkennung | Auffällig stark | Auffällig schwach |
+| Urlaubsguru | „Travel Inspo, Tipps & Büro-Chaos“ | Team-Humor, Inspiration, Partnerhotels, Gewinnspiele | Memes, „Welches …?“, Markier-Fragen | Team Urlaubsguru (109), Straßenumfragen, Community-Reisen | Team-Gesichter, Büro | Straßenumfrage 131.700 (4,0 % Interaktion) | Team und Office: Median 2.097 (reif, n = 13) |
+| Urlaubspiraten | „Die krassesten Reise-Deals“ | Deals mit Preis, Weihnachtsmärkte, Lappland, besondere Unterkünfte | Preis, Ziel und Saison; „Du & ich …“ | Weihnachtsmarkt-Deals, Lappland-Deals | Voiceover mit Untertiteln, CapCut-Vorlagen | London-Deal 1,6 Mio. (7,7 %) | Fotobeiträge: Median 3.621 |
+| schauinsland-reisen | „Reisefakten, Travelhacks & Meer“ | Hotel-Spotlights, unnützes Wissen, Länder-Playlists | Superlativ-Frage, „Habt ihr noch Fragen zum Hotel?“ | unnützes Wissen (126), Länder-Playlists | Orts-Tag, Trend-Sound | Regnum The Crown 479.400 (11,7 %) | Hilton Mauritius 264.600 bei 0,2 % (Bezahlungshinweis) |
+| TUI Deutschland | nicht erfasst | Creator-Kooperation, Hotel-Spotlights, Marathon | Superlativ-Frage, Sketch | Creator-Serie @Mirko, Palma Marathon | Creator-Gesichter | Swim-up-Vergleich 371.900 (2,5 %) | Marathon-Serie: Median 1.157 |
+| HolidayCheck | „Buch Dir jetzt Urlaub mit 100 % Erholung“ | Hoteltipps mit Bewertung, Ziel-Guides, Emoji-Quiz | „Wer würde da gern hin?“, „Speichert euch das Reel“ | Hoteltipp (17), Top HolidayChecker (7) | Bewertungs-Badge | Hoteltipp Ägypten 41.000 (36,6-fach) | Ziel-Guides: Median 9 2 0 |
+| DERTOUR | „Tipps & Tricks für euren Urlaub“ | Kampagne mit Straßenumfragen und Suchbildern | „Wie weit würdest du gehen …“, „90 % übersehen …“ | Quiz Time (13), Flaggen raten (8) | Kampagnen-Hashtag | Kampagne 1,4–2,3 Mio. (0,05 %, Bezahlungshinweis) | nur 1 Beitrag zwischen 28.07. und 09.10. |
+| Bentour Reisen | „Reise- & Türkei-Experten“ | Türkei-Hotels als Fotobeiträge | „Akzeptieren oder Ablehnen?“ | keine | Markenfarbe Lila | Golf-Hotels Türkei 1.455 | letzter Beitrag 25.08.; Instagram 0 Kommentare |
+| Reiseuhu | „Täglich neue Reisedeals“ | Deals | – | Reisedeals (102), „Was kostet …“ | – | – | nur 2 Beiträge im Zeitraum |
+| Urlaubsdesign | „Dein mobiles Reisebüro“ | Roomtours, Türkei und Griechenland, teils russisch | „Roomtour …“ | keine | Kristina als Absenderin | Video vom 16.08. mit 59.300 (15,6-fach), Roomtour Stella Blue 53.500 | übrige 5 Beiträge unter 4.000 |
+| Hotelreport Travel | „Reisebüro – Travel Blogger“ | Türkei-Hotelurteile, Frühbucher, Kritik | „Hot or not?“, „In diesen Hotels passt … nicht“ | Hot or Not, Frühbucher 2027 | Studio-Wand, Bauchbinde | Hot or not Side 78.300 | Instagram: Median 124 Likes |
+| turkiyehotels | Luxushotels Türkei, Buchung per WhatsApp | Istanbul und Bodrum | Hotelname und Ort | Bodrum (28) | – | Mandarin-Suite 10.700 (4,3 %) | Raffles Istanbul 465 |
+| Murre | „Türkei Vorfreude, Hotels & mehr“ | 6-Sekunden-POVs aus der Türkei | „POV: …“, „n ennt mir …“, „Wer kennt …?“ | Türkei-Vorfreude | Text-POV mit Orts-Tag | Lobby-POV 288.600 (11,3 %) | 6.440 bei reinem Folge-Aufruf |
+| Urlaubsperle | „Die heißesten Reise-Deals“ | Deal-Fotos, Wellness, All inclusive | Preis im Titel | Thermen & Wellness | – | Kreta All inclusive 9.402 | Monaco-Video 431 |
+| Beautiful Destinations | „Inspiring people to connect … through travel“ | Cinematic, Hotels und Unterkünfte | Ortsbeschreibung | Hotels & Stays (132), Nature (151) | Cinematic-Bildsprache | Städtevergleich 4,4 Mio. (Bezahlungshinweis) | Median 4.518 bei 5,5 Mio. Followern |
+| haydi-weg | „Türkei-Spezialisten seit 2014, Hotels ehrlich erklärt“ | Hotelclips, Ratgeber-Fotos | Frage, Geschichte | Hotel-Akte (2) | noch keine | Mardan-Geschichte 82.200 | Ratgeber und Listen: 0,2 7 -fach |
+
+## 4. Instagram-Benchmark
+Auf Instagram erreichen alle großen Reisemarken weniger als 3 Likes je 1.000 Follower. Nur Hotelreport liegt mit 15,2 deutlich darüber. haydi-weg liegt mit 2,3 im Feld der Marken (A für Likes, B für die Quote; kleine Stichproben). Views, Reichweite, Saves und Shares fremder Instagram-Beiträge sind ohne Login nicht sichtbar (D).
+
+| Account | Follower | Beiträge gesamt | Stichprobe (Zeitraum) | Median Likes | Median Kommentare | Likes je 1.000 Follower | Reels / Karussells (Median Likes, n) |
+| Urlaubspiraten | 890.000 | 9.317 | 10 (20.09.–27.10.) | 800 | 231 | 0,9 | 800 (n=8) / 1.868 (n=2) |
+| Urlaubsguru | 609.000 | 9.898 | 12 (19.10.–27.10.) | 275 | 3 | 0,5 | 265 (n=6) / 222 (n=5) |
+| TUI Deutschland | 319.000 | 4.526 | 10 (16.10.–27.10.) | 341 | 13 | 1,1 | 320 (n=9) / 376 (n=1) |
+| HolidayCheck | 152.000 | 5.029 | 4 (21.10.–27.10.) | 66 | 5 | 0,4 | 51 (n=2) / 144 (n=2) |
+| schauinsland-reisen | 140.000 | 1.358 | 9 (07.10.–26.10.) | 376 | 7 | 2,7 | 390 (n=5) / 278 (n=4) |
+| TRAVELBOOK | 36.000 | 2.814 | 11 (30.09.–27.10.) | 30 | 1 | 0,8 | 27 (n=7) / 34 (n=4) |
+| Bentour Reisen | 8.616 | 1.340 | 12 (17.09.–12.10.) | 18 | 0 | 2,1 | 17 (n=3) / 21 (n=7) |
+| Hotelreport (Davut Bölükbas) | 8.171 | 373 | 5 (07.09.–09.10.) | 124 | 6 | 15,2 | 124 (n=3) / 117 (n=1) |
+| haydi-weg | 2.599 | 74 | 12 (07.10.–27.10.) | 6 | 0 | 2,3 | 21 (n=3) / 6 (n=8) |
+
+Stichprobe = die letzten 12 sichtbaren Beiträge, davon nur Beiträge ab 28.07. und vom Account selbst (ohne Partner-Beiträge). Bei HolidayCheck waren 6 Like-Zahlen ausgeblendet (4 sichtbar, 2 Partnerbeiträge).
+Beobachtungen
+- Kommentar-zu-DM: Urlaubspiraten schreibt in 3 von 10 Beiträgen „Schreibe ‚X‘ in die Kommentare, wir schicken dir den Link per DM“. Diese drei Beiträge haben 920 bis 3.678 Kommentare, die übrigen 9 bis 702 (A). Kommentarzahlen messen dort Link-Anfragen, nicht Diskussion (C).
+
+- Karussell gegen Reel: Kein einheitliches Muster. Urlaubspiraten-Karussells liegen vorn (n=2), bei Urlaubsguru, schauinsland und haydi-weg die Reels (B). Bei haydi-weg erreichen die 8 Karussells im Median 6 Likes, die 3 Reels 21. Das passt zum Phase-1-Befund (Karussell-Median 100 Reichweite).
+
+- Superlativ-Fragen zu Hotels: Der stärkste TUI-Beitrag der Stichprobe ist „Ist dies das Hotel mit dem schönsten Infinitypool auf Madeira?“ (916 Likes, 2,7-fach TUI-Median). schauinsland arbeitet mit „Ist dieses Hotel noch ein Hidden Gem?“ (301 Likes) (A).
+
+- Fixierte Hotel-Reels als Aushängeschild: schauinsland fixiert drei Hotel-Reels aus 2025 mit 5.482 bis 24.000 Likes. Der stärkste ist „Das most aesthetic Hotel in Albanien?“, rund 64-fach so viele Likes wie der aktuelle Median (A).
+
+- Partner-Beiträge im Raster: Je 2 von 12 sichtbaren Beiträgen bei TUI und HolidayCheck stammen von Partnern und sind als „Anzeige“ gekennzeichnet (A).
+
+- Hotelreport auf beiden Plattformen: Likes gegen Likes verglichen kommt Hotelreport auf Instagram im Median auf 124 Likes, die drei gesichteten TikToks auf 985–1.181 Likes, rund das 8- bis 10-Fache (B, n = 3). Views lassen sich nicht vergleichen, weil sie auf Instagram nicht sichtbar sind (D). Mit 15,2 Likes je 1.000 Follower hat Hotelreport zugleich die höchste Instagram-Quote der Stichprobe.
+
+- Spezialist ohne Resonanz: Bentour postet 12 Beiträge in 4 Wochen, davon 10 zu Türkei-Hotels, Ergebnis 8 bis 43 Likes und 0 Kommentare (A). Hotelbeiträge ohne Urteil bekommen hier kaum Reaktionen, Hotelreport mit Urteilen hat die höchste Like-Quote. Die Nische ist auf Instagram besetzt; Resonanz zeigt sich bei Urteilen (C).
+
+- Profilaufbau: Urlaubspiraten verweist in der Bio auf tägliche Deals in den Stories, die Highlights sind nach Ländern sortiert, dazu „Die Piraten“ und „Office Life“. Urlaubsguru sortiert Highlights nach Zielen plus „Community Event“ (A).
+
+Folgerung (C): Bei fremden Accounts lässt sich auf Instagram nur Interaktion messen, nicht Reichweite (D). Sichtbar ist, dass Marken Instagram mit DM-Mechanik und Stories als Kontaktweg nutzen. Ob Instagram für sie der schwächere Reichweitenkanal ist, bleibt offen. Für haydi-weg zeigt Phase 1 bei Reels gleich viel Reichweite wie auf TikTok und die meisten Follows auf Instagram. Cover, Story-Leistung und Reel-Views der Konkurrenz bleiben unbekannt (D).
+
+## 5. TikTok-Benchmark
+Auf TikTok entscheidet die Followerzahl wenig. Hotelreport (25.900 Follower) und Murre (4.345) erreichen im Median 30.200 bzw. 57.700 Views pro Beitrag, mehr als jede große Reisemarke außer der DERTOUR-Kampagne. haydi-weg liegt mit 1.221 auf dem Niveau von HolidayCheck und Bentour (A, Quoten B).
+
+| Account | Kat. | Follower | Beiträge (je Woche) | Median Views (P25–P75) | Views je 1.000 Follower | Foto-Anteil | Höchstwert |
+| Urlaubspiraten | A | 261.100 | 108 (8,3) | 9.004 (4.094–79.550) | 35 | 8 % | 1.600.000 |
+| Urlaubsguru | A | 385.500 | 81 (6,2) | 3.963 (1.666–9.735) | 10 | 22 % | 131.700 |
+| schauinsland-reisen | A | 110.800 | 37 (2,8) | 20.850 (5.626–98.625) | 188 | 18 % | 504.500 |
+| TUI Deutschland | A | 57.000 | 58 (4,5) | 2.513 (1.519–8.020) | 44 | 9 % | 9.600.000 |
+| HolidayCheck | A | 32.100 | 36 (2,8) | 1.120 (910–2.088) | 35 | 0 % | 41.000 |
+| DERTOUR | A | 117.500 | 11 (0,8) | 1.900.000 (1.700.000–2.150.000) | 16.170 | 22 % | 2.300.000 |
+| Bentour Reisen | A | 9.277 | 5 (0,4) | 1.116 (339–1.533) | 120 | 100 % | 1.610 |
+| Reiseuhu | B | 42.500 | 2 (0,2) | 3.380 (n < 4) | 80 | 50 % | 3.557 |
+| Urlaubsdesign | B | 48.700 | 7 (0,5) | 3.814 (1.140–56.400) | 78 | 20 % | 59.300 |
+| Hotelreport Travel | C | 25.900 | 33 (2,5) | 30.200 (23.650–39.800) | 1.166 | 0 % | 78.300 |
+| Murre | E | 4.345 | 24 (1,8) | 57.700 (26.250–96.700) | 13.280 | 0 % | 288.600 |
+| Urlaubsperle | E | 11.600 | 10 (0,8) | 3.212 (1.078–7.052) | 277 | 75 % | 9.402 |
+| turkiyehotels | F | 12.700 | 19 (1,5) | 1.317 (898–8.379) | 104 | 0 % | 14.200 |
+| Beautiful Destinations | F | 5.500.000 | 14 (1,1) | 4.518 (3.506–9.692) | 1 | 0 % | 4.400.000 |
+| haydi-weg | Ref. | 2.785 | 4 6 (3,5 ) | 1. 221 (424–3.185 ) | 4 38 | 26 % | 82.200 |
+
+Beiträge = alle im Zeitraum; Median, Quartile und Foto-Anteil nur über reife Beiträge bis 19.10. DERTOUR ist kein organischer Maßstab: 8 der 9 reifen Beiträge stammen aus der Kampagne #MachtEinfachDERTOUR (10.–20.10.), der neunte ist ein Recruiting-Video mit 1.947 Views, der geprüfte Beitrag hat 0,05 % Interaktion. Beautiful Destinations zeigt das Gegenteil: 5,5 Mio. Follower, aber 4.518 Views im Median.
+Welche Formate über dem eigenen Account-Median liegen (391 reife Beiträge aus 13 Accounts, ohne DERTOUR und haydi-weg, B)
+
+| Format | Beiträge | Accounts | Median relative Performance | Anteil ≥ 3-fach Median |
+| Hotel | 102 | 11 | 1,24 | 29 % |
+| Deal/Preis | 37 | 4 | 1,11 | 30 % |
+| Emotion/POV | 31 | 5 | 1,00 | 16 % |
+| Quiz/Interaktion | 17 | 5 | 0,98 | 6 % |
+| Ziel/Inspiration | 137 | 12 | 0,86 | 20 % |
+| Ratgeber/Liste | 18 | 5 | 0,84 | 6 % |
+| Personen/Team/Humor | 36 | 5 | 0,78 | 11 % |
+
+Nicht in der Tabelle: 11 Kooperationsbeiträge (überwiegend die TUI-Creator-Serie mit Hinweis auf Bezahlung) und 2 Gewinnspiele.
+Beobachtungen
+- Hotel ist die stärkste breite Formatklasse. Hotel-Beiträge liegen über 11 Accounts im Median 1,24-fach über dem eigenen Median (B). Der Vorteil stammt vor allem von schauinsland (4,15-fach) und HolidayCheck (3,91-fach); 4 von 11 Accounts liegen bei höchstens 1,0. Bei haydi-weg selbst: Hotel 1,67-fach (n = 27), Ratgeber und Listen 0,27-fach (n = 6).
+
+- Deals streuen am stärksten. Das obere Viertel liegt beim 11-Fachen des Account-Medians. Die Treffer kombinieren Preis, Ziel und Saison im ersten Bild (Abschnitt 6).
+
+- Fotobeiträge haben keinen generellen Vorteil. Über alle Accounts erreichen 48 Fotobeiträge das 0,91-Fache, 343 Videos das 1,0-Fache (B). Bei Urlaubsguru liegen Fotos vorn (Median 5.698 gegen 3.460), bei schauinsland Videos (58.850 gegen 8.016).
+
+- Länge allein erklärt nichts. Unter den 29 einzeln abgerufenen Top-Beiträgen laufen 6-Sekunden-POVs (Murre, 7–12 % Interaktion) ebenso wie 62–147-Sekunden-Bewertungen (Hotelreport, 2,7–3,6 %) (A, Deutung C).
+
+- Bezahlte Ausspielung verzerrt Höchstwerte. 7 der 28 Wettbewerbs-Top-Beiträge mit Interaktionsdaten zeigen unter 0,5 % Interaktion, darunter TUI mit 9,6 und 7,4 Mio. Views und Urlaubsguru mit 131.500 und 121.200 (C). Deshalb arbeitet der Bericht mit Medianen.
+
+- Takt ist kein Muss. Urlaubspiraten postet 8,3-mal pro Woche, Hotelreport 2,5- und Murre 1,8-mal. Die beiden kleinen Accounts haben die höheren Mediane (A, kein Kausalschluss).
+
+- TikTok als Suche: TikTok erzeugt für Beiträge eigene Suchtitel, z. B. „Lara Barut Collection Türkei: Hotel mit 98% Weiterempfehlung“ (A, Seitentitel). Starke Hotel-Accounts nennen Hotelname, Ort und Ortsschlagwörter (#side, #lara, #antalya) und setzen Orts-Tags.
+
+- Nischen-Konkurrenz pausiert. Bentour postete zuletzt am 25.08., Reiseuhu am 10.08., Urlaubsdesign 7-mal im Zeitraum. Hoteltesta und REISE TIPPS sind seit Monaten still (A).
+
+## 6. Top-Content-Analyse: 30 Beiträge
+Von den 28 Wettbewerbs-Top-Beiträgen mit Interaktionsdaten zeigen 7 einen starken Hinweis auf bezahlte Ausspielung. Die 16 gesichteten organisch wirkenden Spitzen unterscheiden sich von 16 schwachen Beiträgen derselben Accounts vor allem im Einstieg: 10 von 16 nennen im ersten Bild Ort oder Hotel plus Zahl, Preis oder Frage, bei den schwachen sind es 3. Ohne Person im Bild sind beide Gruppen meist (13 gegen 10 von 16) (A für Werte, C für die Einordnung).
+
+| # | Account | Datum | Format | Views | × Median | Interaktion (Saves / Shares) | Einstieg | Bezahlt? |
+| 1 | TUI | 27.08. | Creator-Kooperation (Video) | 9,6 Mio. | 3.821 | 0,2 % (0,0 / 0,0) | Creator-Sketch @Mirko, TUI BLUE Seno | stark |
+| 2 | TUI | 30.09. | Creator-Kooperation (Video) | 7,4 Mio. | 2.945 | 0,2 % (0,0 / 0,0) | Creator-Sketch @Mirko | stark |
+| 3 | Beautiful Dest. | 17.09. | Partner-Content (Video) | 4,4 Mio. | 974 | 0, 05 % (0,0 / 0,0) | Städtevergleich Berlin/Dubai/Lyon | stark |
+| 4 | DERTOUR | 14.10. | Kampagne #MachtEinfachDERTOUR (Video) | 2,3 Mio. | 1,2 | 0,1 % (0,0 / 0,0) | Straßenumfrage „Wie weit würdest du gehen …“ | stark |
+| 5 | DERTOUR | 16.10. | Suchbild-Karussell (Foto) | 2,1 Mio. | 1,1 | nicht abgerufen | „90 % übersehen den Fail auf Bild 4“ | offen |
+| 6 | Urlaubspiraten | 15.10. | Deal-Clip, POV Rikscha (Video) | 1,6 Mio. | 178 | 7,7 % (1,1 / 2,5) | „Du & ich für 133 € p. P. inkl. Flug & Hotel nach London zur Weihnachtszeit?“ | – |
+| 7 | Urlaubspiraten | 04.08. | Bucketlist-Deal, Voiceover (Video) | 859.000 | 95,4 | 9,3 % (2,5 / 1,9) | „Dieser Santa Claus Express bringt dich ins Weihnachtsmanndorf …“ | – |
+| 8 | Urlaubspiraten | 10.08. | Ortsclip mit Markier-Hook (Video) | 695.400 | 77,2 | 10,1 % (1,8 / 1,9) | „Du & ich hier im Herbst?“ | – |
+| 9 | Urlaubspiraten | 23.08. | Speicher-Liste (Video) | 689.300 | 76,6 | 5,4 % (2,0 / 1,2) | „Die schönsten Weihnachtsmärkte in Europa 2026/2027“ + Datenliste | – |
+| 10 | schauinsland | 19.08. | Hotel-Top-3, Ich-Perspektive (Video) | 504.500 | 24,2 | 1,0 % (0,4 / 0,2) | „meine drei [Lieblingshotels in Ägypten]“ (Voiceover) | möglich |
+| 11 | schauinsland | 31.08. | Hotel-Spotlight ohne Person (Video) | 479.400 | 23,0 | 11,7 % (2,9 / 1, 7 ) | „Ist das vielleicht das schönste Hotel in der Türkei?“ | – |
+| 12 | TUI | 21.09. | Hotelvergleich ohne Person (Video) | 371.900 | 148 | 2,5 % (1,0 / 0, 4 ) | „Sind das die schönsten Hotels mit Swim-up-Zimmern?“ (Schreibmaschinen-Text) | – |
+| 13 | Murre | 13.08. | 6-Sek.-POV ohne Gesicht (Video) | 288.600 | 5,0 | 11,3 % (0,7 / 0,8) | „POV: Du kommst aus der Hitze … in die gekühlte Lobby“ | – |
+| 14 | schauinsland | 11.09. | Hotel-Spotlight (Video) | 264.600 | 12,7 | 0,2 % (0,0 / 0,0) | Hotel-Empfehlung Mauritius | stark |
+| 15 | Murre | 20.09. | 6-Sek.-POV ohne Gesicht (Video) | 252.200 | 4,4 | 7,4 % (0,3 / 0,5) | „POV: … statt Sammelbus in den Privattransfer“ | – |
+| 16 | Murre | 30.08. | 6-Sek.-POV ohne Gesicht (Video) | 226.400 | 3,9 | 11,9 % (0, 6 / 1,1) | „n ennt mir ein besseres Gefühl als hier raus zu laufen“ | – |
+| 17 | Urlaubspiraten | 09.10. | Speicher-Liste (Video) | 189.500 | 21, 0 | 4,6 % (2,0 / 0,8) | „Hier hat 2027 kein Bundesland Ferien:“ + 9 Zeiträume | – |
+| 18 | Urlaubsguru | 02.08. | Straßenumfrage (Video) | 131.700 | 33,2 | 4,0 % (0,1 / 0,2) | Moderatorin läuft mit Mikro auf Passanten zu | – |
+| 19 | Urlaubsguru | 07.10. | Hotel-POV, Partnerhotel (Video) | 131.500 | 33,2 | 0,2 % (0,0 / 0,0) | „POV: Du verbringst deinen November hier“ | stark |
+| 20 | Urlaubsguru | 09.09. | Foto-Karussell (Foto) | 121.200 | 30,6 | 0,2 % (0,1 / 0,0) | „Route 66 auf eurer Bucketlist?“ | stark |
+| 21 | schauinsland | 19.10. | Rätsel-Reveal mit Datenbeleg (Video) | 102.600 | 4,9 | 0,7 % (0,3 / 0,1) | Verpixeltes Hotel + „???“ + „Dieses Hotel …“ (98 % Weiterempfehlung) | möglich |
+| 22 | Urlaubsguru | 14.09. | Markier-Hook, selbst getestet (Video) | 88.000 | 22,2 | 15,3 % (1,0 / 3,3) | „Mit wem müsst ihr endlich nach New York?“ | – |
+| 23 | Hotelreport | 21.10. | Bewertung mit Urteil (Video) | 78.300 | 2,6 | 2,7 % (0,8 / 0,3) | „Hot or not? 5-Sterne-Hotels in Side“ | – |
+| 24 | Hotelreport | 06.10. | Kritische Liste (Video) | 66.100 | 2,2 | 2,7 % (0,5 / 0, 3 ) | „In diesen Hotels passt das Preis-Leistungs-Verhältnis nicht immer“ | – |
+| 25 | Urlaubsdesign | 15.08. | Roomtour ohne Gesicht (Video) | 53.500 | 14,0 | 2,4 % (0,7 / 0,5) | „Roomtour Luxe Swim Up Room“ ab Zimmertür | – |
+| 26 | HolidayCheck | 04.09. | Hotel-Spotlight mit Bewertung (Video) | 41.000 | 36,6 | 3,3 % (1,1 / 0,8) | „Hoteltipp in Ägypten“ + Bewertungs-Badge | – |
+| 27 | Hotelreport | 22.09. | Erwartungs-Korrektur (Video) | 36.800 | 1,2 | 3,6 % (0,4 / 0,1) | „5 Sterne gebucht und denkst, das wird Luxus? Hier einige Fakten“ | – |
+| 28 | turkiyehotels | 09.10. | Hotel-Spotlight (Video) | 10.700 | 8,1 | 4,3 % (1,3 / 0,8) | Suite mit Bosporus-Blick (arabisch) | – |
+| 29 | Urlaubsperle | 04.10. | Deal-Foto (Foto) | 8.078 | 2,5 | nicht abgerufen | „5 Sterne Adults-Only Resort mit 99 % Weiterempfehlung“ | offen |
+| 30 | HolidayCheck | 28.08. | Zielgruppen-Frage (Video) | 6.105 | 5,5 | 2,6 % (0,6 / 0,6) | „Familienurlaub in der Türkei?“ | – |
+
+Auswahl (redaktionell, keine Rangliste): je Account die reichweitenstärksten Beiträge, bei Serien und Kampagnen (TUI-Creator-Serie, DERTOUR) nur 1–2 Vertreter, ergänzt um Hotel- und Türkei-Beiträge, die für haydi-weg übertragbar sind (Hotelreport, HolidayCheck, turkiyehotels, Urlaubsperle). Deshalb fehlen weitere starke Beiträge, z. B. Urlaubspiraten 445.200 (49,5-fach), 413.800 (46,0-fach) und 384.900 (42,8-fach), und es stehen auch Beiträge unter dem 3-Fachen in der Liste (Nr. 4, 5, 23, 24, 27, 29). Nr. 23 war beim Abruf 6 Tage alt (unreif). Interaktion = (Likes + Kommentare + Saves + Shares) / Views. Bezahlt? = Hinweisregel aus Abschnitt 2. Einstieg: Standbild bei 0,5 Sekunden für Nr. 4, 6–13, 15–19, 21–23, 25, 26 und 30 (A); bei den übrigen zehn stammt die Angabe aus der Caption. Zum Vergleich der stärkste haydi-weg-Beitrag: „Die Geschichte hinter dem Mardan Palace“ mit 82.200 Views, 67-fach Median, 3,2 % Interaktion und 1,0 % Shares. Das liegt im Bereich der organischen Spitzen.
+Was die organischen Spitzen gemeinsam haben
+- Ohne Gesicht ist kein Nachteil, aber kein Erfolgsfaktor: 13 der 16 gesichteten organisch wirkenden Top-Beiträge zeigen im ersten Bild keine Person, bei 16 schwachen Beiträgen derselben Accounts (Median 0,23-fach) sind es 10 (A, Cover-Bild). Für haydi-weg ohne Person vor der Kamera ist das ein Hindernis weniger. Stärker unterscheidet der Einstieg: Ort oder Hotel plus Zahl, Preis oder Frage haben 10 der 16 Spitzen und 3 der 16 schwachen Beiträge (C, kleine Stichprobe).
+
+- Hohe Save-Quoten zeigen Listen und Hotel-Spotlights. 8 Beiträge haben eine Save-Quote ab 1,0 %. Es sind Listen zum Nachschlagen, Deals mit Datum und Hotel-Spotlights (B).
+
+- Hohe Share-Quoten zeigen Beiträge, die eine Begleitperson ansprechen. Die drei höchsten Share-Quoten (3,3 %, 2,5 %, 1,9 %) sprechen eine Begleitung direkt an: „Mit wem …“, „Du & ich …“ (B).
+
+- Hohe Kommentarquoten zeigen Urteile und offene Fragen. Die höchsten Kommentarquoten haben Hotelreport (0,18–0,39 %) mit Bewertungen und Kritik, Murre (0,32 %) mit „nennt mir …“, Urlaubsguru (0,29 %) mit Markier-Frage und HolidayCheck (0,20 %) mit Zielgruppen-Frage. Die Deal-Clips liegen unter 0,05 % (B).
+
+Detailanalyse der 30 Beiträge
+Thema und Werte sind abgelesen (A). Dramaturgie, Zielgruppenreiz und Bewertungen sind Einschätzungen (C). D steht für nicht gesichtet.
+
+| # | Thema | Dramaturgie | Visuelle Umsetzung | Zielgruppenreiz | Wiederholbarkeit | Übertragbarkeit auf haydi-weg |
+| 1 | Creator-Sketch Pauschalreise, TUI BLUE Seno | D | D | Humor, Familie | hoch (Serie mit 10 Folgen) | niedrig: Personen, Hinweis auf Bezahlung |
+| 2 | Creator-Sketch, gleiche Serie | D | D | Humor | hoch | niedrig |
+| 3 | Drei Städte im Vergleich | D | D | Inspiration | mittel | niedrig |
+| 4 | Wie weit würdest du für Urlaub gehen? | Frage an Passanten, Antworten als Pointe | Moderatorin mit Mikro, große Textzeile | Humor | hoch | niedrig bis 2027 (Person) |
+| 5 | Suchbild: Fehler finden | D | D | Spiel | hoch | mittel: als Hotel-Suchbild denkbar |
+| 6 | London im Advent für 133 € | Preis-Frage im ersten Bild, dann Stadtbilder, Details in der Caption | Rikscha-POV, Lichter, weiße Schrift | Begleitung, Sparen | hoch | mittel: kein Deal bis Frühjahr, aber „Du & ich“ übertragbar |
+| 7 | Zug ins Weihnachtsmanndorf | Text-Hook, dann Voiceover mit mitlaufenden Untertiteln | Zug am Bahnsteig | Bucketlist | hoch, saisonal | mittel |
+| 8 | Edinburgh im Herbst | Markier-Frage, dann Gassenbilder | eine Einstellung, 13 s | Paare | hoch | hoch: Ort, Monat, Frage |
+| 9 | Weihnachtsmärkte mit Daten | Titel und Liste über Bewegtbild | Liste zum Anhalten und Speichern | Planung | hoch | hoch: Saisonliste Türkei |
+| 10 | Drei Lieblingshotels in Ägypten | Ich-Erzählerin, Countdown | Person von hinten, Voiceover | Vertrauen | hoch | mittel: ohne Person machbar |
+| 11 | Grotten-Pool, Regnum The Crown | Superlativ-Frage, Poolbilder, Orts-Tag | Trend-Sound, 15 s | Staunen | mittel: braucht spektakuläre Häuser | hoch |
+| 12 | Hotels mit Swim-up-Zimmern | Frage als Schreibmaschinentext, dann 3 Hotels | ohne Person, 53 s | Paare | hoch | hoch |
+| 13 | Aus der Hitze in die kühle Lobby | ein Gefühl, ein Bild, 6 s | Füße, Glasboden, Orts-Tag | Wiedererkennung | hoch | hoch: eigenes Material |
+| 14 | Hotel-Empfehlung Mauritius | D | D | Luxus | mittel | gering: Hinweis auf Bezahlung |
+| 15 | Privattransfer statt Sammelbus | POV-Text, 6 s | Van am Flughafen | Komfort | hoch | mittel |
+| 16 | Ankunft Flughafen Antalya | Aufforderung „n ennt mir …“ | Koffer, Füße | Vorfreude | hoch | hoch |
+| 17 | Ferienfreie Zeiträume 2027 | Titel und Liste | Drohnenbild Meer | Planung | hoch, jährlich | mittel: Thema übersättigt |
+| 18 | Straßenumfrage: Wohin als Nächstes? | Interviewfolge, 128 s | Moderatorin mit Mikro | Community | hoch | niedrig bis 2027 |
+| 19 | November im Partnerhotel | POV-Text, 13 s | Poolanlage | Wintersonne | mittel | mittel |
+| 20 | Route 66 auf der Bucketlist | D | D | Fernweh | mittel | niedrig |
+| 21 | Hotel mit 98 % Weiterempfehlung | verpixelt, dann Auflösung mit Daten | Pixel-Effekt, Fragezeichen | Neugier | hoch | hoch |
+| 22 | Hotel in New York, selbst getestet | Markier-Frage, Stadtbilder, Preis in der Caption | Person in Rückenansicht | Begleitung | hoch | hoch, ohne Person |
+| 23 | 5-Sterne-Hotels in Side bewertet | Moderator urteilt nacheinander | Studio-Wand, Bauchbinde, KI-Label | Entscheidungshilfe | hoch (Serie) | mittel: Urteil ohne Gesicht nötig |
+| 24 | Hotels mit schwachem Preis-Leistungs-Verhältnis | D (Caption) | D | Schutz vor Fehlkauf | hoch | hoch, als Text oder Voiceover |
+| 25 | Roomtour Swim-up-Zimmer | Tür, Zimmer, Terrasse | ohne Gesicht, Orts-Pin | Paare | hoch | hoch |
+| 26 | Hoteltipp Ägypten mit Bewertung | Titel mit Bewertungs-Badge, dann Anlage | Voiceover, Untertitel | Vertrauen | hoch | hoch |
+| 27 | 5 Sterne gleich Luxus? | D (Caption) | D | Aufklärung | hoch | hoch |
+| 28 | Suite mit Bosporus-Blick | D | D | Luxus | mittel | mittel: andere Sprache |
+| 29 | Adults-only-Resort mit 99 % Weiterempfehlung | D | D | Sparen | hoch | niedrig: Deal |
+| 30 | Familienhotel Türkei | Zielgruppen-Frage, dann Voiceover | Hotelfront, Untertitel | Familien | hoch | hoch |
+
+## 7. Viral-Mechanismen und Hook-Bibliothek
+Bei den gesichteten organischen Spitzen nennt der Einstieg meist Ort oder Hotel und gibt einen Grund zum Bleiben: eine Frage, eine Zahl oder ein Gefühl. Im Vergleich mit schwachen Beiträgen derselben Accounts ist das der deutlichste Unterschied (10 gegen 3 von 16, Abschnitt 6). Die Bibliothek unten übersetzt 27 Muster in eigene haydi-weg-Formulierungen, alle ohne Person vor der Kamera umsetzbar (C).
+
+### Hook-Typen im Wettbewerb
+
+| Hook-Typ | Beispiele (Nr. in Abschnitt 6) | Signal in den Daten | Beleg |
+| Begleitung ansprechen („Du & ich“, „Mit wem“) | 6, 8, 22 | höchste Share-Quoten, 1,9–3,3 % | B |
+| Preis + Ziel + Saison im ersten Bild | 6, 7 | 7,7–9,3 % Interaktion | B |
+| Superlativ-Frage zum Hotel | 11, 12; Instagram TUI (916 Likes) | Saves 1,0–2,9 % | B |
+| Liste zum Speichern | 9, 17 | Saves je 2,0 % | B |
+| Mikro-POV, 6–7 Sekunden | 13, 15, 16 | 7,4–11,9 % Interaktion | B |
+| Urteil über Hotels | 23 | Kommentare 0,25 % | B |
+| Kritik, Erwartung korrigieren | 24, 27 | Kommentare 0,18–0,39 % | B |
+| Rätsel und Auflösung | 21 | 0,7 %, Bezahlung möglich | C |
+| Daten-Siegel (Weiterempfehlung in %) | 21, 26, 29 | 3,3 % bei Nr. 26 | B |
+| Zielgruppe direkt ansprechen | 30 | 2,6 % | B |
+| Roomtour ab Zimmertür | 25 | 2,4 % | B |
+| Geschichte hinter dem Ort | haydi-weg Mardan Palace | 82.200 Views, 1,0 % Shares | A/B |
+
+### Storytelling
+Viele der gesichteten organischen Spitzen folgen diesem Ablauf; POV- und Gefühlsclips (Nr. 13, 15, 16) und die Roomtour (Nr. 25) weichen davon ab (C):
+- Erstes Bild: Ort oder Hotel plus Frage, Zahl oder Preis als Text.
+
+- 3–5 Belegbilder: Pool, Zimmer, Lobby, Strand.
+
+- Auflösung: Preis, Urteil oder Platz 1.
+
+- Handlung: markieren, speichern, Link in der Bio oder per DM.
+
+Emotions- und Deal-Clips sind 6–33 Sekunden lang, Bewertungen 48–147 Sekunden (A). Urlaubspiraten arbeitet mit Voiceover und mitlaufenden Untertiteln, Murre nur mit Text, Hotelreport mit Moderator vor einer Studiowand.
+
+### Visuelle Umsetzung
+- Weiße Schrift mittig im oberen Drittel, oft mit Orts-Pin; bei schauinsland Trend-Sound und Orts-Tag (A).
+
+- Mehrere Top-Beiträge von Urlaubspiraten und schauinsland tragen den Hinweis „CapCut · Bearbeitung leicht gemacht“, also Vorlagen aus der Schnitt-App (A).
+
+- Hotelreport-Beitrag Nr. 23 trägt das TikTok-Label „Enthält KI-generierte Medien“ (A).
+
+- Vertrauen ist ein Thema: In einer Icelandair-Umfrage sorgen sich mehr als drei von vier Befragten um gefälschte oder KI-Bewertungen, 33 % fühlten sich durch bearbeitete Bilder getäuscht (Artikel vom 16.04.2025; Stichprobe und Länder nicht genannt, nicht DACH-spezifisch; Arctic Today). Echte, eigene Aufnahmen können sich davon abheben (C).
+
+### Hook-Bibliothek für haydi-weg (27 Muster)
+Eigene Formulierungen, keine Übernahme fremder Texte. [Hotel], [Ort], [Monat] sind Platzhalter.
+
+| # | Hook (Vorschlag) | Typ | Plattform |
+| 1 | „Warum steht in [Ort] ein Palast statt eines Hotels?“ | Geschichte | TikTok, Reel |
+| 2 | „Was kostet eine Woche [Hotel] im [Monat] wirklich?“ | Preis + Saison | TikTok |
+| 3 | „Ist das der größte Pool an der Türkischen Riviera?“ | Superlativ-Frage | TikTok, Reel |
+| 4 | „Markier die Person, mit der du hier frühstücken würdest.“ | Begleitung | TikTok, Reel |
+| 5 | „ Wen nimmst du mit nach [Ort] im [Monat] ?“ | Begleitung + Saison | TikTok |
+| 6 | „3 Hotels in [Ort], selbst besucht. Platz 1 überrascht.“ | Ranking | TikTok, Karussell |
+| 7 | „Speicher dir das für die Buchung 2027.“ + Liste | Liste | TikTok, Karussell |
+| 8 | „POV: 23 Uhr, du kommst an und die Lobbybar hat noch offen.“ | Mikro-POV | TikTok |
+| 9 | „POV: Der Transfer biegt in die Hoteleinfahrt ein.“ | Mikro-POV | TikTok |
+| 10 | „Top oder Flop: Ultra All Inclusive im [Hotel].“ | Urteil | TikTok |
+| 11 | „Das sagen die Bewertungen über [Hotel]. Das haben wir vor Ort gesehen.“ | Daten-Siegel + Urteil | TikTok, Reel |
+| 12 | „3 Dinge, die in keinem Hotelprospekt stehen.“ | Insider | TikTok |
+| 13 | „Gleicher Preis, zwei Hotels. Welches nimmst du?“ | Vergleich + Frage | TikTok, Karussell |
+| 14 | „Urlaub mit Teenagern? In diesem Hotel wird es ihnen nicht langweilig.“ | Zielgruppe | TikTok |
+| 15 | „ Was ein Sternehotel in der Türkei wirklich bedeutet, an 3 Details gezeigt .“ | Erwartung korrigieren | TikTok |
+| 16 | „Errätst du das Hotel? Tipp: Es liegt in [Region].“ | Rätsel | TikTok, Story |
+| 17 | „Nachtbuffet um 23 Uhr. Gibt es das wirklich?“ | Detail-Beweis | TikTok |
+| 18 | „Wintersonne, 4 Stunden Flug: So warm ist [Ort] im November.“ | Saison + Zahl | TikTok, Karussell |
+| 19 | „Was der Prospekt nicht zeigt: der Weg vom Zimmer zum Strand.“ | Ehrlich-Check | TikTok |
+| 20 | „Wir haben die Schritte gezählt: Zimmer bis Pool im [Hotel].“ | Messung | TikTok |
+| 21 | „Dieses Hotel würden wir unseren Eltern buchen.“ | Vertrauen | TikTok, Reel |
+| 22 | „Diesen Fehler sehen wir bei Türkei-Buchungen jede Woche.“ | Fehler | TikTok |
+| 23 | „Ein Detail, das nur Stammgäste kennen.“ | Insider | TikTok |
+| 24 | „Kommentiere ‚Liste‘ und wir schicken dir alle 5 Hotels per DM.“ | DM-Mechanik | Instagram |
+| 25 | „Prospekt gegen Wirklichkeit: [Hotel] im Oktober.“ | Vergleich | TikTok, Reel |
+| 26 | „Welche Zimmerkategorie lohnt sich? Wir zeigen alle drei.“ | Vergleich | TikTok, Karussell |
+| 27 | „Seit 2014 Türkei-Spezialisten: Diese 3 Hotels buchen unsere Kunden immer wieder.“ | Expertise | TikTok, Reel |
+
+Zahlen in den Hooks (Preise, Grad, Schritte) müssen vor dem Posten aus eigenen Angeboten oder Messungen stammen. Abgrenzung: Hook 4 und 5 nutzen das verbreitete Begleitungs-Muster, nicht die Markenformel „Du & ich“ von Urlaubspiraten. Hook 15 greift dasselbe Thema auf wie Hotelreport (Erwartung an Sterne), wird aber ohne Moderator und mit eigenen Belegbildern umgesetzt.
+
+## 8. Erfolgreiche Content-Serien
+Kein Serientyp hält sein Niveau zuverlässig: Die meisten datierten Serien fallen in der zweiten Hälfte, auch solche mit wechselndem Objekt (Weihnachtsmarkt −76 %, Team und Office −69 %, Lappland −52 %, Murre −33 %, schauinsland-Hotel-Spotlights −22 %). Nur Hotelreports Frühbucher-Serie steigt (+26 %). Für eine Ermüdung beim gleichen Hotel gibt es keinen Beleg: Bei haydi-weg war die Mardan-Geschichte die fünfte Mardan-Folge und die stärkste (A für Werte, C für die Deutung; Hälften nur aus reifen Beiträgen).
+
+| Serie | Account | n (davon reif) | Zeitraum | Median Views (alle) | Spanne | Median 1. → 2. Hälfte (reif) | Einordnung |
+| Creator-Serie mit @Mirko (TUI BLUE Seno) | TUI | 10 (10) | 19.08.–30.09. | 4,25 Mio. | 1,9–9,6 Mio. | 4,1 → 4,4 Mio. | konstant; Hinweis auf Bezahlung (C) |
+| Lappland- und Polarlicht-Deals | Urlaubspiraten | 7 (5) | 04.08.–20.10. | 158.100 | 25.700–859.000 | 477.850 → 229.300 | keine klare Richtung: erster Beitrag ist Ausreißer, die beiden Oktober-Beiträge (198.500 und 52.300) sind unreif |
+| Hotel-Spotlights | schauinsland | 22 (20) | 30.07.–26.10. | 75.100 | 1.491–504.500 | 91.150 → 71.500 | leicht fallend |
+| Weihnachtsmarkt- und Advents-Deals | Urlaubspiraten | 15 (13) | 03.08.–22.10. | 62.600 | 2.205–1,6 Mio. | 154.150 → 36.950 | Median fallend, Einzeltreffer bleiben möglich: London 1,6 Mio. und Elsass 413.800 liegen in der zweiten Hälfte (C) |
+| Türkei-Vorfreude | Murre | 24 (21) | 01.08.–26.10. | 54.800 | 6.440–288.600 | 82.100 → 54.800 | rund ein Drittel niedriger zum Saisonende |
+| Frühbucher und Tipps 2027 | Hotelreport | 6 (6) | 08.08.–16.10. | 43.300 | 26.100–54.600 | 39.500 → 49.600 | steigend vor der Buchungssaison |
+| „unnützes Wissen“ (Playlist, 126 Beiträge) | schauinsland | 20 sichtbar | undatiert | 22.050 | 4.921–2,1 Mio. | – | Langläufer mit Ausreißern |
+| Menorca-Vlog Teil 1–3 | schauinsland | 3 (3) | 05.–07.10. | 17.300 | 5.242–24.400 | – (n < 4) | je Teil steigend |
+| Mardan Palace | haydi-weg | 5 (5) | 31.08.–05.10. | 15.900 | 2.797–82.200 | 19.950 → 42.499 (n klein, je 2 Beiträge) | keine Ermüdung belegt: stärkste Folge ist die fünfte (Geschichte) |
+| Hoteltipp (Playlist) | HolidayCheck | 17 | undatiert | 3.520 | 789–3,2 Mio. | – | 4 Beiträge über 1 Mio., Rest niedrig |
+| Team und Office | Urlaubsguru | 15 (13) | 30.07.–26.10. | 2.078 | 946–67.300 | 5.125 → 1.581 | fallend, unter Account-Median 3.963 |
+| TUI Palma Marathon | TUI | 7 (5) | 16.–23.10. | 1.157 | 621–1.725 | 1.363 → 750 (n klein) | unter Account-Median 2.513 |
+| Reiseziel-Guides „Speichert euch das Reel“ | HolidayCheck | 7 (7) | 03.08.–02.10. | 920 | 524–4.197 | 959 → 920 | stabil, unter Account-Median 1.120 |
+| Hotel-Akte | haydi-weg | 2 (2) | 11.–12.10. | 373 | 342–404 | – | unter eigenem Median 1.221; fällt in den Oktober-Rückgang des Kontos |
+
+Hälften = reife Beiträge (bis 19.10.) chronologisch geteilt; bei ungerader Zahl bleibt der mittlere Beitrag außen vor. Serien sind über Stichwörter in der Caption abgegrenzt (Regeln in der Datentabelle, Blatt Serien), Überschneidungen sind möglich. Bei Serien unter 4 Beiträgen („Hot or Not“ von Hotelreport mit 47.900 und 78.300, Straßenumfragen von Urlaubsguru, Emoji-Quiz von HolidayCheck) ist keine Aussage zur Ermüdung möglich.
+Playlists als Serien-Architektur (A): schauinsland ordnet nach Ländern (Spanien 28, Ägypten 12, Türkei 9 Beiträge) und Themen (Travelhacks 11, Rund ums Fliegen 15). DERTOUR hat Quiz-Reihen (Quiz Time 13, Flaggen raten 8, Umrisse raten 5). Beautiful Destinations führt „Hotels & Stays“ mit 132 Beiträgen, Reiseuhu „Reisedeals“ mit 102. haydi-weg hat noch keine Playlist.
+Folgerung (C): Für haydi-weg spricht mehr für eine Serie mit wechselndem Hotel und festem Ablauf (z. B. „Hotel-Check Türkei“), weil sie Abwechslung und Wiedererkennung verbindet. Ein Nachteil weiterer Folgen zum selben Haus ist aber nicht belegt.
+Fünf Leitfragen zu Serien (C auf Basis der Belege)
+- Hotelgeschichten: Die Mardan-Geschichte ist bisher ein Einzeltreffer (82.200 Views). Ob Geschichten zu neuen, selbst besuchten Häusern ebenso tragen, ist offen. Die beiden Hotel-Akten zu fremden Häusern (342 und 404 Views) fallen in den Oktober-Rückgang des Kontos und sagen deshalb wenig. Geprüft wird das in T1 und T8.
+
+- Hotelvergleiche: Gefragt sind Vergleiche entlang einer Entscheidung: gleiche Ausstattung (Swim-up-Zimmer, TUI 371.900), Preis-Leistung (Hotelreport 66.100), Zielgruppe (Familie, HolidayCheck 5,5-fach). Listen ohne Urteil laufen schwächer (Ratgeber 0,84-fach).
+
+- Reise-Wissen: Gespeichert und geteilt werden Planungsdaten wie Ferien, Märkte und Saison (Saves 2,0 %) und Erwartungskorrekturen (Hotelreport). Allgemeine Tipps liegen unter dem Median.
+
+- Destination Stories: Orte tragen mit Begleitungsfrage und Saison, etwa Edinburgh mit „Du & ich hier im Herbst?“ (695.400), nicht als reine Bildstrecke.
+
+- Cinematic Travel: Bilder allein tragen in dieser Stichprobe nicht. Beautiful Destinations erreicht 4.518 Views im Median bei 5,5 Mio. Followern; ein schauinsland-Beitrag mit ähnlicher Bildsprache und Superlativ-Frage kam auf 479.400 (Einzelfall, keine belegte Ursache, C).
+
+## 9. Plattformvergleich Instagram gegen TikTok
+Ein fairer Reichweitenvergleich zwischen den Plattformen ist nur für haydi-weg möglich, denn die Instagram-Reichweite fremder Accounts ist nicht sichtbar (D). Likes gegen Likes kommt Hotelreport auf TikTok auf rund das 8- bis 10-Fache (985–1.181 gegen 124, n = 3, B). Bei haydi-weg zeigt Phase 1 ein anderes Bild: Reels erreichen auf beiden Plattformen gleich viel (Faktor 1,0 bei 10 Reel-Paaren), Foto- und Karussellbeiträge laufen auf TikTok stärker (3,3-fach bei 9 Paaren), und die meisten Follows kamen bisher über Instagram, etwa 217 Follows aus der Mardan-Geschichte gegenüber 70 auf TikTok (B).
+
+| Kriterium | TikTok | Instagram | Folgerung für haydi-weg (C) |
+| Messbarkeit fremder Accounts | Views je Beitrag sichtbar (A) | nur Likes und Kommentare, keine Views (D) | Wettbewerb über TikTok beobachten |
+| Reichweite kleiner Accounts | Murre: 4.345 Follower, Median 57.700; Hotelreport: 25.900 Follower, Median 30.200 | Hotelreport: 8.171 Follower, Median 124 Likes ; Reichweite nicht sichtbar (D) | Wettbewerb auf TikTok messen; Reichweite nur mit eigenen Daten vergleich en |
+| Tragende Formate | Hotel-Spotlight, Deal, Mikro-POV, Bewertung | Reels mit Superlativ-Frage, Kommentar-zu-DM; Karussell uneinheitlich | Hotel-Inhalte zuerst auf TikTok testen |
+| Sichtbare Interaktion | Saves und Shares je Beitrag | Kommentare, teils durch DM-Aufforderungen | Instagram für Anfragen per DM nutzen |
+| Fotobeiträge und Karussells | Fotos 0,91-fach, Videos 1,0-fach des Account-Medians | haydi-weg-Karussells 6 Likes, Reels 21 (Median) | Karussells nur als Speicher-Format, nicht als Reichweitenformat |
+| haydi-weg heute | 2.785 Follower, Median 1. 221 Views, 438 je 1.000 Follower | 2.599 Follower, Median 6 Likes ; Reels im Median 2.010 Aufrufe (Phase 1) | Reels auf beiden Plattformen gleichauf, Fotobeiträge auf TikTok stärker; Follows bisher vor allem über Instagram (Phase 1) |
+| Türkei-Hotel-Konkurrenz | Hotelreport und Murre aktiv, Bentour seit 25.08. still | Hotelreport 15,2 Likes je 1.000 Follower (höchster Wert der Stichprobe); Bentour aktiv, aber 0 Kommentare | Auf beiden Plattformen gibt es Resonanz für Türkei-Hotelurteile; Hotelbeiträge ohne Urteil bleiben auf Instagram ohne Kommentare (C) |
+
+Gleicher Inhalt, zwei Plattformen (A): Urlaubspiraten spielt Deals auf beiden Kanälen aus. Zum Ziel Andorra erschien am 22. und 23.10. auf beiden Kanälen ein Beitrag. Auf TikTok (Thermalbad Caldea) kam er auf 113.500 Views, auf Instagram auf 3.776 Likes und 3.678 Kommentare. Die hohe Kommentarzahl auf Instagram geht mit einer Aufforderung einher, die auf TikTok fehlt (C): „Schreibe ‚Andorra‘ in die Kommentare und wir schicken dir den Link per DM“.
+Folgerung (C): Ein Hotelvideo, zwei Aufgaben, als Hypothese für die Tests. Auf TikTok soll es Suchbegriffe besetzen und ist mit dem Wettbewerb vergleichbar. Auf Instagram, wo bisher die meisten Follows entstanden, soll es zusätzlich per Kommentar oder DM zur Beratung führen. Welche Plattform mehr Follower je Beitrag bringt, klären die November-Tests.
+
+## 10. Zielgruppen- und Positionierungsanalyse
+In der Stichprobe besetzt kein Account Modell F im deutschsprachigen Türkei-Segment. Gemeint ist ein Kanal mit Expertenwissen und eigenen Filmaufnahmen, ohne Moderator vor der Kamera. Am nächsten kommen Hotelreport beim Wissen und schauinsland bei den Hotelbildern. Das ist ein vorläufiger Befund aus 19 Accounts (C).
+
+| Modell | Beispiele in der Stichprobe | Unverwechselbar durch | Warum man folgt | Glaubwürdigkeit durch | Kommerzieller Druck | Persönliche Erfahrung | Visuelle Wiedererkennung | Passung haydi-weg (C) |
+| A Klassisches Reisebüro | Bentour, Urlaubsperle, schauinsland reisebüro Hannover/Leonberg | Angebote, Kontakt in der Bio | Deals | Veranstaltermarke | hoch | gering | gering (Hotelfotos mit Text) | niedrig bis Frühjahr 2027, da keine dominanten Angebote erlaubt |
+| B Reise-Influencer | Murre, Urlaubsdesign, REISE TIPPS | Person, Erlebnis, Gefühl | Identifikation, Vorfreude | eigenes Erleben | mittel (z. B. Transfer-Empfehlung) | zentral | Text-POV (Murre) | mittel: POV ohne Gesicht übertragbar, Personenmarke nicht |
+| C Digitales Reise-Magazin | TRAVELBOOK, reisereporter, Beautiful Destinations | Themenbreite, Redaktion | Inspiration, News | Medienmarke | niedrig bis mittel (Partner-Content) | gering | Bildsprache | niedrig: austauschbar, TRAVELBOOK im Median 30 Likes bei 36.000 Followern |
+| D Hoteltest und Hotelvergleich | Hotelreport, HolidayCheck, turkiyehotels | Urteile, Daten, Hotelnamen | Entscheidungshilfe | Urteil plus Daten (Weiterempfehlung in %) | mittel | hoch (Hotelreport) | Studiowand, Bauchbinde, Bewertungs-Badge | hoch: trifft die Phase-1-Stärke Hotelvideos |
+| E Reise-Informationskanal | Urlaubspiraten, Urlaubsguru, HolidayCheck-Guides | Nutzwert, Deals, Listen | Sparen, Planen | Erfahrung, Masse | hoch (Deals) | mittel | Text-Listen über Bewegtbild | mittel: Listen liefen bei haydi-weg mit dem 0,2 7 -Fachen schwach |
+| F Hybrid: Expertenwissen und eigene Filmaufnahmen | kein reiner Vertreter; Teile bei schauinsland (Hotel-Spotlights), TUI (Hotelvergleiche ohne Person), Hotelreport (Expertise) | – | – | – | – | – | – | höchste Passung, Befund vorläufig |
+
+Zielgruppenansprache (A/C): Große Marken sprechen Paare und Freundesgruppen an („Du & ich“, „Mit wem“). Hotelreport spricht Familien und Frühbucher an („Sommerferien 2027“, „Familienurlaub“). Murre spricht Türkei-Wiederholer an („Wer ist alles im Oktober in der Türkei?“). Die Phase-1-Zielgruppe von haydi-weg ist 25 bis 54 Jahre alt, knapp die Hälfte lebt im DACH-Raum (48,8 %). Zu ihr passen Familien- und Paar-Ansprache gleichermaßen.
+
+### Drei mögliche Differenzierungsrichtungen
+Die Entscheidung fällt in Phase 3.
+
+| Richtung | Kern | Dafür (Belege) | Dagegen (Risiken) |
+| 1. Der ehrliche Hotel-Check Türkei (Modell D ohne Gesicht) | Urteil plus eigene Aufnahmen plus Reisebüro-Wissen | Hotel ist die stärkste breite Formatklasse (1,24-fach). Bei haydi-weg liegt Hotel beim 1, 67 -Fachen. Hotelreport zeigt Nachfrage nach Urteilen (Median 30.200, Kommentare bis 0,39 %). Phase 1: Hotelvergleiche 4 von 4 mit Follows | Hotelreport besetzt die Meinung mit Gesicht. Offene Urteile können Hotelpartner berühren. Ohne Stimme oder Gesicht fehlt die Person hinter dem Urteil |
+| 2. Hotelgeschichten und Cinematic (Modell F, Erzählfokus) | Geschichte hinter dem Haus, Drohne, Doku-Stil | Mardan-Geschichte: 82.200 TikTok-Views, Phase 1: 152.273 Instagram-Aufrufe und 217 Follows. In der Stichprobe gibt es keine wiederkehrende Hotelgeschichten-Serie (vorläufig). Passt zu YouTube | Bisher ein Einzeltreffer (n = 1 ). Recherche-Aufwand. Nicht jedes Hotel hat eine Geschichte |
+| 3. Vorfreude und Planung Türkei (Modell B/E ohne Gesicht) | Mikro-POVs, Saison-Listen, Wintersonne | Murre: Median 57.700 mit 6-Sekunden-POVs. Listen erzeugen Saves bis 2,0 %. Geringer Aufwand | Emotion allein zeigt keine Expertise. Listen liefen bei haydi-weg schwach. Murres reife Beiträge fallen zum Saisonende um rund ein Drittel (82.100 → 54.800) |
+
+Die Richtungen schließen sich nicht aus. Richtung 1 und 2 nutzen dasselbe Material, Richtung 3 kann als Zubringer dienen (C).
+
+## 11. Content-Gap-Analyse
+Die größten Chancen liegen dort, wo Hotel-Expertise und echte Aufnahmen zusammenkommen. Der Türkei-Hotel-Check ohne Moderator erreicht 44 von 50 Punkten, Hotelgeschichten, „Prospekt gegen Wirklichkeit“ und Daten-Siegel plus eigener Besuch je 41. Alle 22 Chancen sind vorläufig: Sie beruhen auf 19 Accounts, und eine dort fehlende Serie ist keine bewiesene Marktlücke (C).
+Marktumfeld (A laut Quelle): Die Türkei ist nach Spanien das zweitbeliebteste Urlaubsziel der Deutschen, bei 20 % aller Urlaubsreisen wurden bereits KI-Anwendungen für Information oder Buchung genutzt, der Anteil der Online-Buchungen stieg 2025 auf fast 58 % (Reiseanalyse 2026, tageskarte). Für den Winter 2026/27 meldet DERTOUR fast doppelt so viele Ägypten-Buchungen, Thailand liegt vorn (echo24).
+Bewertung: 10 Kriterien je 1–5 Punkte, in dieser Reihenfolge: Beleg der Lücke · Relevanz für die Zielgruppe · geringe Konkurrenz · Aufmerksamkeit · Vertrauen · eigenes Material · geringer Aufwand · Wiederholbarkeit · Differenzierung · strategische Bedeutung. Die Punkte sind Einschätzungen (C) auf Basis der genannten Belege.
+
+| # | Chance | Beobachtung (Beleg) | Punkte je Kriterium | Summe /50 |
+| 1 | Türkei-Hotel-Check ohne Moderator | Einziger aktiver deutscher Türkei-Hotelprüfer ist Hotelreport, mit Gesicht (Median 30.200). Bentour postet seit 25.08. nicht auf TikTok und hat auf Instagram 0 Kommentare (A) | 4·5·3·4·5·5·4·5·4·5 | 44 |
+| 2 | Hotelgeschichten als Serie | Keine Geschichten-Serie in der Stichprobe gefunden. Mardan-Geschichte: 82.200 Views (A), 67-fach Median (B ) | 3·4·5·5·4·4·2·4·5·5 | 41 |
+| 3 | Prospekt gegen Wirklichkeit | Kein Account zeigt den Vergleich ausdrücklich. Über 75 % sorgen sich um KI- oder Fake-Bewertungen (Abschnitt 7) | 3·4·5·4·5·4·3·4·5·4 | 41 |
+| 4 | Daten-Siegel plus eigener Besuch | HolidayCheck, schauinsland und Urlaubsperle nutzen Weiterempfehlungsquoten, keiner verbindet sie mit eigener Prüfung vor Ort (A) | 4·4·4·3·5·4·4·5·4·4 | 41 |
+| 5 | Zwei Hotels, gleicher Preis | Phase 1: Hotelvergleiche 4 von 4 mit Follows. TUI-Hotelvergleich 371.900 Views (A), 148-fach (B ) | 4·5·3·4·4·5·3·5·3·4 | 40 |
+| 6 | Zimmerkategorien im Vergleich | Roomtours bei Urlaubsdesign und TUI, Kategorienvergleich nicht gesehen (A) | 3·5·4·3·5·4·3·5·4·4 | 40 |
+| 7 | Familien und Teenager Türkei | haydi-weg „Teenager Hotels“ 8.592 Views (7, 0 -fach); HolidayCheck „Familienurlaub in der Türkei?“ 5,5-fach (A /B ) | 4·5·3·4·4·4·4·5·3·4 | 40 |
+

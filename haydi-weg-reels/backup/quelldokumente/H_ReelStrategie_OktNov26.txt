@@ -1,0 +1,176 @@
+
+# Reel-Strategie Okt/Nov 2026 – haydi-weg
+ · 
+
+## Warum der letzte Plan nicht gezogen hat
+Der alte Plan („7 Hotels, 70 Ideen“, Hotel-Akte + Reisewissen, 25 Reels/Monat) war ein Produktionsplan, kein Reichweitenplan. Aus heutiger Sicht vier Gründe:
+- Hotel-zentriert statt zuschauer-zentriert. 70 Ideen zu 7 Hotels sprechen Leute an, die diese Hotels schon kennen. Urlaubsguru startet fast jedes Reel bei der Situation des Zuschauers („Habt ihr Pläne für den September?“), nicht beim Produkt.
+
+- Keine wiedererkennbare Serie. 70 verschiedene Ideen sind 70 Einzelstücke. Große Accounts fahren 3–4 feste Formate, die man am ersten Frame erkennt.
+
+- Doku-Stil ohne Hook-Disziplin. 30–50 s Voiceover-Doku verliert in den ersten 2 Sekunden gegen ein Overlay mit einer klaren Behauptung, Zahl oder Frage. Instagram rankt Reels vor allem nach Wiedergabedauer (datenwerk, Okt. 2026).
+
+- Kein eingebauter Grund zu speichern oder zu teilen. Reichweite bei Reise-Content kommt über Saves (Listen, Preise, Fehler) und Shares („schick das deiner Reisebegleitung“), nicht über Likes.
+
+Was diesmal anders ist: 4 feste Formate, jeder Hook nach einer Formel, jedes Reel mit Save- oder Share-Grund, 5 Reels pro Woche als Serie statt 25 Einzelstücke im Monat. Ziele weltweit wie bei Urlaubsguru und schauinsland (Malediven, Sansibar, Dubai, Thailand, Kreta), keine selbst gefilmten Hotels mehr. Material: B-Roll der Hotels und Veranstalter, lizenzfreie Clips, ElevenLabs-Voiceover.
+Offene Frage: Welche 3 Reels hatten im letzten Plan die meiste Reichweite, welche die wenigste? Das sagt mehr als jede Theorie.
+
+## Hook-Muster der drei Accounts
+Alle drei Accounts starten beim Zuschauer, nicht beim Hotel: eine Zahl, eine Frage oder ein Kontrast in der ersten Zeile, das Hotel kommt erst als Beweis. Instagram blockiert automatisches Mitlesen, deshalb stammen die Beispiele von den TikTok-Kanälen der Marken (gleicher Content, cross-gepostet), aus Google-Snippets ihrer Instagram-Posts und aus Branchenpresse.
+
+| Account | Hook (Overlay oder erste Caption-Zeile) | Muster dahinter | Signal |
+| Urlaubsguru | „5 Sterne Hotel auf Kreta für so wenig Geld!?“ , Overlay nennt den Preis ab 545 € | Preis-Schock: Sterne + Zahl + Ungläubigkeit | 3.822 Likes, 68 Kommentare |
+| Urlaubsguru | „Habt ihr Pläne für den September?“ | Frage an die Situation des Zuschauers, nicht ans Produkt | Profil-Top-Video |
+| Urlaubsguru | Serien-Cliffhanger: fragt, wer die nächste Folge will | Serie statt Einzelstück, Kommentar als Abstimmung | Profil-Top-Video |
+| Urlaubsguru | „Klo ✨ with a view ✨“ (Malediven) | Banales Detail + Luxus-Kontrast, 3 Wörter | #geheimtipp #reisetipps |
+| Urlaubsguru | „Schon mal in einem davon gewesen?“ (Hotel-Karussell) | Ja/Nein-Frage, die jeder beantworten kann | 593 Likes (2021, Feed) |
+| schauinsland-reisen | „Wer packt schon mal den Koffer?“ (Steigenberger Pure Lifestyle, Ägypten) | Vorfreude-Imperativ: Zuschauer ist gedanklich schon unterwegs | 1.523 Likes, 72 Kommentare |
+| schauinsland-reisen | Overlay „Diese Reiseziele enttäuschen nie!“ , Caption fragt, wohin man immer wieder fliegen würde | Superlativ + Community-Frage | 113 Likes (Liste ohne Zahl zieht schwach) |
+| schauinsland-reisen | „Welches Hotel spricht euch am ehesten an?“ (#neueröffnung Mallorca) | A/B-Auswahl als Kommentar-Trigger | Neueröffnung als FOMO |
+| schauinsland-reisen | Hotel als „12/10“ bewertet; „beste Fernreise“ mit 7-Tage-Serie Sansibar | Bewertungs-Superlativ + Serie | Hotelname erst in der Caption |
+| schauinsland-reisen (Influencer) | Comedy-Clip „Liegen reservieren“ | Relatable Urlaubs-Chaos, Marke nur als Tag | 36.900 Likes, stärkstes Stück überhaupt |
+| TUI Deutschland | Bio-CTA #discoveryoursmile, Hochglanz-Destinationen, 291.000 Follower ( Instagram ) | UGC-Sammlung + Imagefilm, kaum Hook-Logik | Große Marke, wenig Reel-Dynamik |
+| Nische (Creator) | „Sieht aus wie Malediven… ist aber Antalya“ | Plot-Twist in zwei Halbsätzen | Meistkopierter Hook der Türkei-Nische |
+| Nische (Creator) | „9 komplett NEUE Luxusresorts in Türkei“ , Save-Aufforderung in der Caption | Zahl + NEU + Liste = Speichern | Save-Listen dominieren #türkeiurlaub |
+
+Was sich bei allen wiederholt:
+- Zahl in der ersten Zeile: Sterne, Preis, Anzahl (5, 545 €, 9, 12/10). Ohne Zahl bleibt der Hook schwach (113 Likes vs. 1.523).
+
+- Eine Frage, die jeder beantworten kann: „Schon mal da gewesen?“, „Welches?“, „Wer packt?“. Die Antwort kostet drei Wörter, deshalb kommen Kommentare.
+
+- Kontrast oder Ungläubigkeit: „für so wenig Geld!?“, „sieht aus wie… ist aber“, Klo mit Aussicht. Das Gehirn muss den Widerspruch auflösen und schaut weiter.
+
+- Hotelname nie im Hook. Er kommt im letzten Overlay oder in der Caption, damit der Hook nicht nach Werbung aussieht.
+
+- Emojis als Satzzeichen: 🤯 👀 🥺 markieren die Emotion schneller als jedes Wort. Maximal zwei pro Zeile.
+
+- Serien und Marken-Ton: Urlaubsguru verkauft laut Bio Travel Inspo, Tipps und Büro-Chaos, nicht Reisen. schauinsland nutzt Instagram ausdrücklich für Infotainment, Ziel ist Markenbekanntheit bei Jüngeren, nicht Buchungen (reisevor9). Urlaubsguru ist damit die größte deutsche Reisemarke auf TikTok, während TUI und GetYourGuide sich dort schwertun (OMR).
+
+Caption-Aufbau bei Urlaubsguru, immer gleich: Hook-Zeile mit Emoji, dann 1–3 Fakten-Zeilen mit Emoji-Bullets (📅 Reisezeit, 🏨 Hotel, 🍽️ Verpflegung, 💶 Preis), dann eine Frage oder Link-Hinweis, dann 5–8 Hashtags aus Ziel + Reiseart + Gefühl + Marke (#kreta #allinclusive #urlaubsreif #fernweh #urlaubsguru).
+
+## Das Prinzip dahinter
+Die Emotion ist Vorfreude mit Erlaubnis: „Das ist schön, das kann ich mir leisten, und ich darf es jetzt wollen.“ Jedes virale Reel der drei Accounts erzeugt in zwei Sekunden Fernweh und löst es sofort mit einem Beweis auf (Zahl, Bild, Name), damit aus dem Gefühl ein Plan wird. Nicht Luxus-Bewunderung aus der Ferne, sondern „das ist näher, als du denkst“.
+Die Formel hinter jedem Reel:
+Drei Regeln, die die Formel tragen:
+- Der Zuschauer ist die Hauptfigur, das Hotel die Kulisse. „Wer packt den Koffer?“ funktioniert, „Willkommen im Avia Resort“ nicht.
+
+- Jedes Reel hat einen Speicher- oder Teil-Grund: Preis (speichern), Liste (speichern), Kontrast (an die Reisebegleitung schicken). Instagram rankt nach Wiedergabedauer und Weiterleitungen, Likes sind zweitrangig (datenwerk).
+
+- Kurz schlägt vollständig. 7–15 s für Preis und Kontrast, 20–30 s nur für Listen. Der alte 30–50-s-Doku-Stil ist das Gegenteil davon.
+
+Für ein Reisebüro kommt ein vierter Punkt dazu: Die Reels, die später Kunden bringen, sind nicht die viralsten, sondern die nützlichsten (Preisvergleich, Buchungsfehler, Insider-Fragen). Anfragen entstehen aus den unglamourösen Reels (Worldvia, Okt. 2026). Deshalb mischt der Plan unten Reichweiten-Reels (Preis, Kontrast) mit Vertrauens-Reels (Listen, Insider).
+
+## Die Reel-Formatvorlage für haydi-weg
+Vier feste Formate plus ein Ad-hoc-Format, alle ohne eigenen Dreh produzierbar: B-Roll von Hotels und Veranstaltern (bei Sales & Marketing des Hotels anfragen, Partner-Mediatheken der Veranstalter), lizenzfreie Clips, ElevenLabs-Voiceover. Das Voiceover spricht die Overlay-Zeilen aus und hängt pro Clip einen Satz Detail an, mehr nicht.
+
+| Format | Hook-Typ | Länge | Save/Share-Grund | Beispiel-Hook |
+| PREIS-SCHOCK | Sterne + Zahl + „!?“ | 7–12 s | Preis speichern | 5 Sterne in Belek für so wenig Geld?! 🤯 |
+| PLOT-TWIST | „Sieht aus wie… ist aber…“ / „Ist das wirklich…?“ | 8–15 s | An die Reisebegleitung schicken | Ist das wirklich Kreta? 🇬🇷 |
+| SPEICHER-LISTE | Zahl + Liste / Fehler / Top 5 | 20–30 s | Liste speichern | 5 Neueröffnungen 2026, die noch fast keiner kennt 🆕 |
+| HOTEL-DROP | Neueröffnung oder virales Hotel + Auswahlfrage (schauinsland-Kern) | 10–15 s | Kommentar (A/B, „wer packt?“), FOMO „noch keiner kennt“ | Neueröffnung in Lara, die gerade alle buchen 🆕 |
+| SERIE (Sonderwoche) | „Folge 1/5“ + Cliffhanger (Urlaubsguru-Kern) | 10–15 s | Kommentar „Wer will Folge 2?“, Follow für die nächste Folge | Malediven-Woche 🏝️ Folge 1: das günstigste neue Resort |
+| RELATABLE (ad hoc) | Reisebüro-Alltag als Text-Meme über lizenzfreiem Clip, ohne Gesicht | 5–8 s | Weiterleiten („das bist du“) | Kunde: „Nur mal gucken.“ 2 Stunden später: gebucht 😂 |
+
+Overlay-Struktur, Zeile für Zeile (jede Zeile = ein Clip, 2–3 s):
+Bei SPEICHER-LISTE: Zeile 1 Hook, dann pro Punkt eine Zeile mit Nummer („1/5“), Zeile 6 „Speichern für die nächste Buchung“.
+Caption-Gliederung (die erste Zeile ist die einzige, die im Feed sichtbar ist, max. 90 Zeichen):
+Die 3 psychologischen Trigger, die diesen Content viral machen:
+- Vorfreude durch Probewohnen. Der Hook setzt den Zuschauer gedanklich ins Hotel („Wer packt den Koffer?“, „Stell dir vor, das ist dein Ausblick im Dezember“). Das Gehirn belohnt die Vorstellung wie ein kleines Stück Urlaub, der Zuschauer bleibt bis zum Ende.
+
+- Erreichbarkeits-Schock. Luxus plus eine konkrete, niedrige Zahl (Preis, Flugminuten, Transferzeit) erzeugt den Widerspruch „das kann nicht stimmen“. Der Zuschauer schaut zu Ende, um ihn aufzulösen, und speichert, weil die Zahl später nützlich ist.
+
+- Mitreden können. Eine Frage, die drei Wörter Antwort braucht, oder ein Kontrast, den man jemandem zeigen muss („Sieht aus wie Malediven“). Kommentare und Weiterleitungen sind für Instagram das stärkste Signal, und beide entstehen nur, wenn das Reel dem Zuschauer etwas zum Sagen gibt.
+
+## Reel-Plan Oktober (14.–31.10.)
+13 Reels in 2,5 Wochen, 5 pro Woche: Mo/Mi/Do 18:00, Fr 17:00, So 19:00. Rotation PLOT-TWIST → HOTEL-DROP → SPEICHER-LISTE → PREIS-SCHOCK. Ziel-Mix rund 60 % Türkei, Ägypten, Spanien, Griechenland, der Rest weltweit. Preise mit ___ kommen aus dem tagesaktuellen „Angebot des Tages“, nie geschätzt. Hotel-Fakten (Eröffnungen, Preise ab) stammen aus den verlinkten Quellen, Stand Oktober 2026, vor dem Schnitt kurz prüfen.
+
+| Datum | Format | Overlay Zeile 1 (Hook) | Overlay Zeilen 2–5 | Rückfrage in der Caption | Material · Ziel |
+| Mi 14.10. | PLOT-TWIST | Warum türkische Hotels so riesig sind 🏨 | Bis zu 10 Restaurants, alle inklusive · 5 Pools, Aquapark, Kids-Club · Shows, Hamam, Sport im Preis · Das Hotel ist der Urlaub | Alles im Hotel oder lieber raus ? | Reise wissen, lizenzfreie Resort-Clips ohne erkennbares Hotel · 🇹🇷 |
+| Do 15.10. | HOTEL-DROP | Dubais berühmtestes Hotel wird umgebaut 🚧 | Burj Al Arab · Wiedereröffnung Ende 2027 angekündigt · Segel-Architektur · Helikopter-Shot | Noch vorher hin oder auf 2027 warten ? | Burj Al Arab , lizenzfrei · 🇦🇪 |
+| Fr 16.10. | SPEICHER-LISTE | 5 Hotels, die gerade TikTok dominieren 📱 | 5/5 RIU Plaza España (Glassteg über Madrid) · 4/5 Sani Resort · 3/5 Ikos Dassia · 2/5 Cullinan Belek · 1/5 Liberty Signa | In welchem wart ihr schon? | Holiday Hypermarket, Juni 2026 , Hotel-Material · Mix |
+| So 18.10. | PREIS-SCHOCK | 5 Sterne in Side für so wenig Geld?! 🤯 | Neueröffnung 2026 · Pool · Zimmer · ab ___ € p. P. / 7 Nächte | Wer packt schon mal den Koffer? | Cenger Blue Collection oder Hotel aus dem Angebot des Tages, Hotel-Material · 🇹🇷 |
+| Mo 19.10. | PLOT-TWIST | Ist das wirklich Kreta? 🇬🇷 | Bungalows auf Holzstegen über türkisem Wasser · Adults only · 3,5 h Flug · All Inclusive | Kreta oder Malediven? | Stella Island , Hotel-Material · 🇬🇷 |
+| Mi 21.10. | HOTEL-DROP | Der Pool, der über den Alpen schwebt 🏔️ | Sky-Pool ragt aus dem Hotel · Südtirol · Nebelmeer im Herbst · Wellness | Berge oder Meer im November? | Alpin Panorama Hotel Hubertus , Hotel-Material · 🇮🇹 |
+| Do 22.10. | SPEICHER-LISTE | 3 Fehler, die fast jeder bei All Inclusive macht | 1/3 Nur auf Sterne schauen (5★ ist nicht gleich 5★) · 2/3 Transferzeit ignorieren · 3/3 All Inclusive mit Ultra verwechseln | Welchen habt ihr schon gemacht? | lizenzfreie Hotelclips · 🇹🇷🇪🇬 |
+| Fr 23.10. | PREIS-SCHOCK | 7 Nächte Ägypten All Inclusive ab ___ €?! 🇪🇬 | Rotes Meer · Riff vom Hotelstrand · Zimmer · 27 Grad im November | Hurghada oder Sharm? | Hotel aus dem Angebot des Tages, Hotel-Material · 🇪🇬 |
+| So 25.10. | PLOT-TWIST | Sieht aus wie Venedig… 🛶 | …ist aber ein All-Inclusive-Hotel in Antalya · Kanäle und Gondeln · Pool · Zimmer | Venedig oder Strand, was zuerst? | Venezia Palace Deluxe Resort (Kundu), Hotel-Material · 🇹🇷 |
+| Mo 26.10. | HOTEL-DROP | Neueröffnung in Lara, die gerade alle buchen 🆕 | Seit Mai 2026 offen · Swim-up-Zimmer · Pool direkt am Strand · All Inclusive | Wer packt schon mal den Koffer ? | Voyage Kundu , nur wenn das Hotel bis dahin Clips liefert – sonst Hotel tauschen · 🇹🇷 |
+| Mi 28.10. | PREIS-SCHOCK | Weihnachten unter Palmen für ___ € p. P.?! 🎄 | Pool am 24.12. · Zimmer · Galadinner inklusive · Preis | Weihnachten im Hotel oder zu Hause? | Angebot des Tages, Hotel-Material · 🇹🇷🇪🇬 |
+| Do 29.10. | SPEICHER-LISTE | 5 Neueröffnungen 2026, die noch fast keiner kennt 🆕 | 5/5 Adalya Bliss (Side, Adults only) · 4/5 Sentido Serra (Manavgat) · 3/5 Ikos Kissamos (Kreta) · 2/5 TULUA Sahl Hasheesh (Ägypten) · 1/5 RAH GILI (Malediven) | Welches zuerst? | Neueröffnungs-Liste , Hotel-Material · Mix |
+| Fr 30.10. | PLOT-TWIST | Hättest du gedacht, dass das All Inclusive ist? 👀 | Design-Resort · Pool · Zimmer · „Und ja, alles inklusive“ | Design-Hotel oder Klassiker? | Ikos Kissamos (Kreta, 2026), Hotel-Material · 🇬🇷 |
+
+Caption-Beispiel für den 14.10., nach der Gliederung oben:
+
+## Reel-Plan November (1.–30.11.)
+22 Reels, gleiche Slots. Thematischer Bogen: Wintersonne (1.–8.11.), Malediven-Serienwoche nach Urlaubsguru-Muster „Wer will Folge 2?“ (9.–15.11.), Frühbucher und Fernreisen (16.–22.11.), Black-Friday-Woche und Dezember-Fernweh (23.–30.11.). Temperaturen sind ungefähre Tageshöchstwerte, Malediven-Preise sind Veranstalter-Angaben für 1 Woche inkl. Flug p. P. (Stand der Quelle, vor dem Schnitt prüfen).
+
+| Datum | Format | Overlay Zeile 1 (Hook) | Overlay Zeilen 2–5 | Rückfrage in der Caption | Material · Ziel |
+| So 1.11. | SPEICHER-LISTE | 5 Ziele, die im Dezember wärmer sind als dein Wohnzimmer 🌡️ | 5/5 Antalya ca. 17° · 4/5 Kanaren ca. 22° · 3/5 Hurghada ca. 24° · 2/5 Dubai ca. 26° · 1/5 Dom Rep ca. 29° | Wohin zuerst? | lizenzfrei · Mix |
+| Mo 2.11. | PREIS-SCHOCK | Hurghada 7 Nächte All Inclusive ab ___ €?! 🤿 | Riff · Pool · Zimmer · Preis | Taucher oder Liegen-Typ? | Hotel-Material · 🇪🇬 |
+| Mi 4.11. | HOTEL-DROP | Neu am Roten Meer: Boho-Resort statt Bettenburg 🌵 | Neueröffnung 2026 · Sahl Hasheesh · Pool · Zimmer · Hausriff | Boho oder Klassik-Resort? | TULUA Sahl Hasheesh , Hotel-Material · 🇪🇬 |
+| Do 5.11. | PLOT-TWIST | Gleiches Geld. Zwei Hotels. 💶 | Links 3★ Deutschland mit Frühstück · Rechts 5★ Türkei All Inclusive · Preis identisch · „Flug ist schon drin“ | Welches nehmt ihr? | Split-Screen, lizenzfrei + Hotel-Material · 🇹🇷 |
+| Fr 6.11. | SPEICHER-LISTE | 3 Fragen, die wir jedem Kunden vor der Buchung stellen 🧳 | 1/3 Wie weit darf der Strand sein? · 2/3 Buffet oder à la carte? · 3/3 Ruhe oder Animation? | Was wäre eure Antwort? | Reisebüro-Insider, lizenzfreie Hotelclips · Mix |
+| So 8.11. | PREIS-SCHOCK | Silvester am Strand für ___ € p. P.?! 🎆 | Strand · Pool · Gala inklusive · Preis | Böller oder Meeresrauschen? | Angebot des Tages, Hotel-Material · 🇹🇷🇪🇬 |
+| Mo 9.11. | SERIE 1/5 | Malediven-Woche 🏝️ Folge 1: das günstigste neue Resort | Eröffnet Nov. 2025 · Adults only · Wasservilla · ab ca. 2.255 € p. P./Woche inkl. Flug | Wer will Folge 2? | Nala Maldives , Hotel-Material · 🇲🇻 |
+| Mi 11.11. | SERIE 2/5 | Folge 2: die Neueröffnung, die alle feiern | Seit Feb. 2026 · Süd-Malé-Atoll · Kulinarik-Fokus · ab ca. 2.916 € p. P./Woche | Wer will Folge 3? | RAH GILI , Hotel-Material · 🇲🇻 |
+| Do 12.11. | SERIE 3/5 | Folge 3: 16 Hektar Insel fast für dich allein | Shaviyani-Atoll · Tauchen vor der Villa · Sandstrand rundum · ab ca. 2.782 € p. P./Woche | Wer will Folge 4? | Fairmont Sirru Fen Fushi , Hotel-Material · 🇲🇻 |
+| Fr 13.11. | SERIE 4/5 | Folge 4: das Luxus-Upgrade | Shaviyani-Atoll · Wassersport · Overwater-Villa · ab ca. 3.371 € p. P./Woche | Wer will das Finale? | JW Marriott Maldives , Hotel-Material · 🇲🇻 |
+| So 15.11. | SERIE 5/5 | Finale: das Resort, das noch keiner buchen kann 🔒 | 120 Villen · Süd-Malé-Atoll · 20–30 Min. Transfer · Eröffnung Ende 2026/2027 | Welche Folge war eure? | Mandarin Oriental Bolidhuffaru , Render-/Hotel-Material · 🇲🇻 |
+| Mo 16.11. | SPEICHER-LISTE | 3 Dinge, die bei Ultra All Inclusive meistens drin sind 🍹 | 1/3 Importgetränke · 2/3 À la carte ohne Aufpreis · 3/3 24-h-Snacks · und was fast nie: Spa, Motor-Wassersport | Wusstet ihr das? | lizenzfreie Buffet-/Bar-Clips · 🇹🇷 |
+| Mi 18.11. | PREIS-SCHOCK | Kanaren im Dezember: 22 Grad für ___ €?! 🌋 | Strand · Pool · Zimmer · Preis | Teneriffa oder Gran Canaria? | Hotel-Material/lizenzfrei · 🇪🇸 |
+| Do 19.11. | HOTEL-DROP | Sansibar: das Hotel, das Honeymoon-Paare gerade buchen 💍 | Kompletter Neubau 2026 · Strand · Pool · All Inclusive | Mit wem würdet ihr hin? | Riu Palace Swahili , Hotel-Material · 🇹🇿 |
+| Fr 20.11. | PLOT-TWIST | Dieses Hotel hat einen eigenen Freizeitpark 🎢 | Achterbahn vor dem Zimmer · Wasserpark inklusive · Belek · Familien-Suiten | Mit Kindern oder ohne? | Land of Legends Kingdom Hotel (Belek), Hotel-Material · 🇹🇷 |
+| So 22.11. | PREIS-SCHOCK | Sommer 2027 jetzt schon für ___ € p. P.?! ☀️ | Frühbucher-Rabatt ___ % · Hotel · Pool · Preis | Frühbucher oder Last Minute? | Angebot des Tages, Hotel-Material · 🇹🇷🇬🇷 |
+| Mo 23.11. | SPEICHER-LISTE | 3 Wahrheiten über Black-Friday-Reisedeals 🛍️ | 1/3 Echte Rabatte gibt es oft auf Sommer 2027 · 2/3 „bis zu 50 %“ gilt selten fürs Wunschhotel · 3/3 Preis vorher screenshotten | Bucht ihr am Black Friday? | lizenzfreie Hotelclips · Mix |
+| Mi 25.11. | HOTEL-DROP | Thailand: das erste RIU in Phuket 🇹🇭 | Kompletter Neubau 2026 · Strand · Pool · All Inclusive in Thailand | Thailand im Winter: ja oder nein? | Riu Palace Phuket , Hotel-Material · 🇹🇭 |
+| Do 26.11. | PLOT-TWIST | Was du in einem türkischen 5-Sterne-Hotel beim Check-in bekommst 👋 | Welcome-Drink · Armband · Upgrade-Frage · „Und Buffet ab Minute 1“ | Euer bestes Check-in-Erlebnis? | Hotel-Material/lizenzfreie Lobby-Clips · 🇹🇷 |
+| Fr 27.11. | PREIS-SCHOCK | Black Friday: 5 Sterne für ___ € p. P. 🖤 | Hotel · Pool · Zimmer · Preis + Gültigkeit | Wohin geht es? | Angebot des Tages, Hotel-Material · Mix |
+| So 29.11. | SPEICHER-LISTE | 5 Hotel-Extras, die fast keiner nutzt, obwohl sie oft inklusive sind 🍹 | 1/5 Kids-Club · 2/5 Hamam-Grundnutzung · 3/5 Wassersport ohne Motor · 4/5 Minibar-Refill · 5/5 Late Check-out auf Anfrage | Welches habt ihr schon genutzt? | lizenzfreie Hotelclips · 🇹🇷🇪🇬 |
+| Mo 30.11. | PLOT-TWIST | Links Deutschland im Dezember. Rechts Antalya. 👀 | Split: grauer Himmel · Pool · Regen · Strand · „3,5 Stunden dazwischen“ | Wo wärt ihr lieber? | Split-Screen, lizenzfrei · 🇹🇷 |
+
+Zwei Regeln für den Monat: Die Malediven-Woche ist der erste Serien-Test; jede Folge endet mit dem Cliffhanger auf die nächste, und die Caption fragt nach der nächsten Folge, nie nach einer Buchung. Läuft sie, folgt im Dezember eine Dubai- oder Sansibar-Woche. Hotel-B-Roll ersetzt lizenzfreie Clips, sobald das Hotel liefert.
+
+## Produktions-Workflow
+Ein Produktionstag pro Woche reicht für 5 Reels, wenn Hooks und Overlays aus den Tabellen oben kommen und nicht neu erfunden werden. Material-Quellen, komplett ohne eigenen Dreh: B-Roll beim Hotel anfragen (Sales & Marketing, gleicher Kontaktweg wie die Kooperationsanfragen), Partner-Mediatheken der Veranstalter, bei Neueröffnungen Renderings des Hotels, sonst lizenzfreie Clips der Destination. Fremdes Material immer mit Hotelname in der Caption nennen.
+- Sonntag, 30 Min.: die 5 Zeilen der Woche aus der Tabelle kopieren, Preise aus dem Angebot des Tages eintragen, Material-Clips raussuchen (pro Reel 4–6 Clips à 2–3 s).
+
+- Montag, 2 h: alle 5 Reels in CapCut schneiden. Overlay Zeile 1 steht ab Frame 0 und ist zugleich das Cover. Logo in Weiß nur im letzten Standbild.
+
+- ElevenLabs-Skript = Overlay-Zeilen wörtlich + ein Detailsatz pro Clip. Tempo zügig, Pause vor der Auflösung. Trend-Audio leise unter dem Voiceover.
+
+- Caption nach der Gliederung schreiben, Hashtags aus dem festen Set, Reel in Instagram planen (Mo/Mi/Do 18:00, Fr 17:00, So 19:00). Dieselbe Datei auf TikTok, Caption ohne Hashtag-Mix ändern.
+
+- Hook-Test: bei jedem PREIS-SCHOCK eine zweite Version mit anderem Hook als Trial Reel an Nicht-Follower ausspielen; die stärkere Version bleibt.
+
+Messen, alle 14 Tage, pro Format statt pro Reel:
+
+| Kennzahl | Ziel ab Woche 3 | Konsequenz |
+| Durchschnittliche Wiedergabedauer | über 70 % der Länge | darunter: Hook kürzen, Clip 1 stärker |
+| Speichern je 1.000 Views | 10+ bei Listen und Preis | darunter: Zahl fehlt oder ist nicht konkret |
+| Weiterleitungen je 1.000 Views | 5+ bei Plot-Twist | darunter: Kontrast zu schwach |
+| Kommentare | 1+ je 1.000 Views | darunter: Rückfrage zu kompliziert |
+| Follower aus Reels | Anteil Nicht-Follower-Reichweite steigt | sinkt: Format wechseln, nicht Thema |
+
+Nach zwei Wochen gewinnt das Format mit den meisten Speicherungen plus Weiterleitungen je 1.000 Views einen zusätzlichen Slot; das schwächste verliert seinen. Nicht das Thema wechseln, nur das Format.
+
+## Quellen
+- Urlaubsguru auf TikTok, Kreta-Reel ab 545 €, #urlaubsguru, Instagram-Caption 2021 via Pinterest
+
+- schauinsland-reisen: Steigenberger-Reel, Reiseziele-Reel, Mallorca-Neueröffnung, Kooperation CLMNS BROCK
+
+- TUI Deutschland auf Instagram
+
+- reisevor9: Was Schauinsland auf Social Media macht (Sept. 2026)
+
+- OMR: Tourismus-Marken auf TikTok
+
+- datenwerk: Instagram Reels Algorithmus 2026 (Okt. 2026)
+
+- Worldvia: Reels für Reiseberater, Herbst 2026
+
+- Nischen-Hooks: #türkeiurlaub, Malediven-Hotel-Türkei
+
+- Virale Hotels: HolidayCheck: TikTok-famous Hotels (Feb. 2026), Holiday Hypermarket: 10 Hotels auf TikTok (Juni 2026)
+
+- Neueröffnungen: sonnenklar.TV Reisebüro: 20 Neueröffnungen 2026, Urlaubstracker: Neue Hotels Türkei 2026, L'TUR Neueröffnungen, Holidaylifestyle Malediven und Indischer Ozean, Luxatolls: Neue Malediven-Resorts 2026–2027, La Revue des Hôtels: VAE-Eröffnungen (Okt. 2026), RIU: Projekte 2026
+

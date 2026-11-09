@@ -1,0 +1,407 @@
+
+# haydi-weg · Reel-Sprechtexte für ElevenLabs (8.–31.10.)
+ · 
+
+## So nutzt du die Skripte in ElevenLabs
+Alle 24 Reels ab 8.10. sind fertig: Den grauen Kasten pro Reel komplett kopieren, in ElevenLabs einfügen, generieren. Die Befehle in eckigen Klammern spricht die KI nicht aus, sie steuert damit nur die Betonung.
+
+### Einstellungen
+
+| Einstellung | Wert | Warum |
+| Modell | Eleven v4 (falls nicht verfügbar: Eleven v3) | Nur v4 und v3 verstehen die Befehle in eckigen Klammern. |
+| Nicht verwenden | Multilingual v2, Flash, Turbo v2.5 | Dort werden die Befehle mitgesprochen – „eckige Klammer excited“. |
+| Stimme | immer dieselbe deutsche Stimme | Die Stimme ist eure Wiedererkennung ohne Gesicht. |
+| Stability | mittel, ca. 40–50 % (kurz testen) | Ignoriert die Stimme die Befehle → Stability senken. Klingt sie unruhig → erhöhen. |
+| Similarity | Standard lassen | Hält die Stimme nah am Original. |
+| Tempo | in CapCut auf 1,05–1,1× | Eleven v4 hat keinen Tempo-Regler; leicht schneller wirkt bei Reels lebendiger. |
+| Takes | 2–3 pro Reel generieren | Den natürlichsten nehmen. Einzelne Sätze lieber neu generieren als das ganze Skript. |
+
+### Die Befehle, die wir nutzen
+
+| Befehl | Wirkung | Typischer Einsatz |
+| [excited] | begeistert, mehr Energie | Highlights, Überraschungen |
+| [curious] | neugierig, fragend | Hooks mit Frage, Rätsel |
+| [surprised] | überrascht | unerwartete Zahl oder Wendung |
+| [awe] | staunend | starke Bilder: Pool, Palast, Aussicht |
+| [whispers] | flüsternd | Geheimnis-Hooks („Das hier … ist kein Museum.“) |
+| [softly] | leise, warm | ruhige Schlusssätze |
+| [slowly] | langsamer, mit Gewicht | große Zahl im Hook |
+| [cautiously] | vorsichtig, warnend | Fehler, Warnungen |
+| [sarcastic] | ironisch | „Dubai ist nur was für Reiche?“ |
+| [mischievously] | verschmitzt | Pointen, Insider-Tipps, Teaser |
+| [chuckles] | kurzes Schmunzeln | nach einem kleinen Witz |
+| [laughs] | lacht | echte lustige Stelle, sparsam |
+| [sighs] | seufzt | Problem-Hooks („Zwei Stunden Bus …“) |
+| [gasps] | hält kurz die Luft an | Schock-Moment |
+| [happily] | freundlich, positiv | Call-to-Action am Ende |
+| [pause] | kurze Pause | vor der Auflösung |
+
+### Regeln, damit es echt klingt
+- Befehle stehen vor dem Satz, den sie betreffen, und immer auf Englisch. Höchstens 1–2 pro Satz, sonst klingt es überspielt.
+
+- Pausen entstehen über „…“ (zögernd) und „–“ (kurz). Pausen-Tags wie break funktionieren in v4 nicht.
+
+- GROSSBUCHSTABEN betonen ein einzelnes Wort. Nie ganze Sätze.
+
+- Zahlen und Jahre stehen als Wörter, damit sie richtig ausgesprochen werden („zweitausendsiebenundzwanzig“, „vierzig Dollar zweiundsechzig“).
+
+- Schwierige Namen stehen in Lautschrift, zum Beispiel „Sjell“ statt „Ciel“. Unter jedem Reel steht, welche Untertitel du danach in CapCut korrigieren musst.
+
+- Platzhalter stehen in «spitzen Klammern», nie in eckigen – sonst hält die KI sie für einen Befehl. Vor dem Generieren ersetzen.
+
+- Jede Zeile im Kasten ist ein Schnitt. Die Tabelle darüber zeigt, welches Bild zu welchem Satz gehört.
+
+### Was die Texte auf Reichweite trimmt
+- Der erste Satz ist der Hook: Neugier, Kontrast oder eine überraschende Zahl, keine Einleitung.
+
+- Der Suchbegriff fällt in den ersten 5 Sekunden, damit Instagram und TikTok das Thema einordnen.
+
+- Jedes Reel hat genau einen Call-to-Action: folgen, teilen oder speichern.
+
+- Konsequent „du“, kurze Sätze, gesprochene Sprache. Der letzte Satz führt zurück zum ersten Bild (Loop).
+
+## Reels 8.–11. Oktober
+
+### Do 8.10. · ESTA: fast doppelt so teuer
+Reise-News · ca. 15–18 s · Cover: „ESTA: fast doppelt so teuer“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | Reisepass · Text groß: 21 $ | „Bis September …“ |
+| 2 | harter Schnitt · Text groß: 40,62 $ ab 16.10. | „Ab Freitag …“ |
+| 3 | Kalender · Text: gilt 2 Jahre | „Gut zu wissen …“ |
+| 4 | Warnsymbol · Text: nur offiziell beantragen | „Aber das Wichtigste …“ |
+| 5 | New-York-Skyline (Loop zum Pass) | „Schick das …“ |
+
+Untertitel prüfen: „USA“ und „ESTA“ groß schreiben, Beträge als „21 $“ und „40,62 $“.
+
+### Fr 9.10. · Das ist kein Museum (Swandor Topkapi Palace)
+Das ist nicht … #1 · ca. 25 s · Cover: „Das ist kein Museum.“ · Ziel: Watchtime
+
+| # | Bild | Satz beginnt mit |
+| 1 | Drohnenanflug auf die Fassade | „Das hier …“ |
+| 2 | Eingang, Details · Text: Swandor Topkapi Palace · Antalya | „Das ist ein Hotel …“ |
+| 3 | Split: Original in Istanbul / Hotel | „Links das Original …“ |
+| 4 | Innenhof, Gänge | „Als ich zum ersten Mal …“ |
+| 5 | Abend, die Lichter gehen an | „Aber dann …“ |
+| 6 | beleuchtete Fassade hält · Text: Traum oder zu kitschig? | „Traum oder zu kitschig …“ |
+
+Untertitel prüfen: „Topkapı-Palast“ mit türkischem ı, „1,4 Milliarden Dollar“.
+
+### Sa 10.10. · Mallorca: Der beste Monat ist nicht Juli
+Unterschätzt #1 · ca. 20 s · Cover: „Mallorca: Der beste Monat ist nicht Juli“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | voller Sommerstrand · Text: Mallorca im Juli | „Alle fahren …“ |
+| 2 | leere Bucht · Text: Mallorca im Oktober | „Ich flieg …“ |
+| 3 | jemand schwimmt im Meer | „Das Meer …“ |
+| 4 | Wanderweg Tramuntana | „In der Tramuntana …“ |
+| 5 | Café in Palma | „Und in Palma …“ |
+| 6 | Bucht bei Cala Ratjada (Loop) | „Mein Tipp …“ |
+
+Untertitel korrigieren: „Ratschada“ → „Ratjada“.
+
+### So 11.10. · Höher als der Eiffelturm (Ciel Dubai Marina) · Flex
+Reise-News · ca. 18 s · Cover: „Höher als der Eiffelturm – und du kannst hier schlafen“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | Kamerafahrt am Turm hoch · Text: 377 m | „Dieses Hotel …“ |
+| 2 | Skyline Dubai Marina · Text: Ciel Dubai Marina | „Das Ciel …“ |
+| 3 | Grafik: Eiffelturm 330 m neben Ciel 377 m | „Dreihundertsiebenundsiebzig …“ |
+| 4 | Pool · Text: Pool im 76. Stock | „Und im …“ |
+| 5 | Blick vom Pool nach unten (Loop) | „Würdest du …“ |
+
+Untertitel korrigieren: „Sjell“ → „Ciel“. Nicht „ganz oben“ und nicht „der höchste Pool der Welt“ sagen – belegt ist „einer der höchsten“.
+
+## Reels 12.–18. Oktober
+
+### Mo 12.10. · Hotel-Akte #1: Mardan Palace
+Hotel-Akte #1 · ca. 40–45 s · Cover: „1,4 Milliarden – dann war der Strom weg“ · Ziel: Watchtime und Follows
+
+| # | Bild | Satz beginnt mit |
+| 1 | Drohne über dem Mardan · Badge HOTEL-AKTE #1 · Text: 1,4 Milliarden $? | „Dieses Hotel …“ |
+| 2 | kurze Schwarzblende · Text: … dann war der Strom weg | „Anderthalb Jahre …“ |
+| 3 | Lobby, Kronleuchter · Text: Mardan Palace · Antalya | „Das ist der Mardan …“ |
+| 4 | Feuerwerk oder Abendlicht · Namen als Text | „Auf der Party …“ |
+| 5 | Gold-Decken, Marmor | „Gold an den Decken …“ |
+| 6 | Pool von oben | „Und dieser Pool …“ |
+| 7 | ruhige Abendaufnahme · Text: 2010 · 2015 | „Aber Ende …“ |
+| 8 | Gäste am Pool heute, dann zurück zur Drohne | „Heute kannst du …“ |
+
+Aussprache: Klingen die Namen deutsch, im Kasten so schreiben: „Schärren Stoun, Ritschard Gier, Mareia Kärri“ – und die Untertitel danach korrigieren.
+
+### Di 13.10. · Der größte Last-Minute-Fehler
+Bevor du buchst … #1 · ca. 20–25 s · Cover: „Last Minute: der größte Fehler“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Hände am Laptop mit Hotelsuche (lizenzfrei) · Badge BEVOR DU BUCHST #1 | „Der größte …“ |
+| 2 | Familie am Pool | „Wer drei Wochen …“ |
+| 3 | Text: Die Regel: Lass eins offen | „Die Regel …“ |
+| 4 | Abflugtafel · Text: 1 · Abflughafen | „Den Abflughafen …“ |
+| 5 | Karte mit Zielen · Text: 2 · Ziel | „Das Ziel …“ |
+| 6 | Strand · Text: 3 · Hotel | „Oder das Hotel …“ |
+| 7 | Strandclip (Loop zum Laptop) | „Eins davon offen …“ |
+
+### Mi 14.10. · Teneriffa: Welche Seite passt zu dir?
+A oder B #1 · ca. 25 s · Cover: „Teneriffa: Welche Seite passt zu dir?“ · Ziel: Shares und Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Split: Norden mit Wolken, Süden mit Sonne · Badge A ODER B #1 | „Gleiche Insel …“ |
+| 2 | animierte Karte Teneriffa | „Auf Teneriffa …“ |
+| 3 | Costa Adeje · Text: Süden: Sonne + Strandhotels | „Im Süden …“ |
+| 4 | grüne Landschaft · Text: Norden: grün + ursprünglich | „Der Norden …“ |
+| 5 | Teide · Text: höchster Berg Spaniens | „Dazwischen …“ |
+| 6 | Text: Sonne → Süden · Natur → Norden + Mietwagen | „Die einfache Regel …“ |
+| 7 | zurück zum Split (Loop) | „Schick das …“ |
+
+Untertitel korrigieren: „Adeche“ → „Adeje“.
+
+### Do 15.10. · Rhodos oder Kos? Der 3-Fragen-Test · Flex
+Der 3-Fragen-Test #1 · ca. 20 s · Cover: „Rhodos oder Kos? Der 3-Fragen-Test“ · Ziel: Shares. Läuft das Mardan-Reel vom 12.10. deutlich über dem Schnitt, kommt hier stattdessen Mardan Teil 2 (Skript am 26.10.).
+
+| # | Bild | Satz beginnt mit |
+| 1 | Split Rhodos / Kos · Badge 3-FRAGEN-TEST #1 | „Rhodos oder Kos …“ |
+| 2 | Rhodos-Altstadt abends · Text: 1 · Altstadt oder Strandbar? | „Erstens …“ |
+| 3 | Lindos / Radweg Kos · Text: 2 · Ausflug oder Fahrrad? | „Zweitens …“ |
+| 4 | Karte beider Inseln · Text: 3 · groß oder kurze Wege? | „Drittens …“ |
+| 5 | Text: Zähl deine Punkte | „Zähl …“ |
+| 6 | zurück zum Split (Loop) | „Und jetzt …“ |
+
+### Fr 16.10. · Familienhotel: Nicht auf den Pool schauen
+Bevor du buchst … #2 · ca. 30 s · Cover: „Familienhotel? Nicht auf den Pool schauen“ · Ziel: Shares und Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Kinder am Pool · Badge BEVOR DU BUCHST #2 | „Familien schauen …“ |
+| 2 | Wege zwischen Zimmer, Restaurant, Strand · Text: 1 · die Wege | „Erstens …“ |
+| 3 | Hotel-Totale · Text: Quattro Family Club Dem · Alanya | „Im Quattro …“ |
+| 4 | Kinderclub · Text: 2 · Kinderclub, der betreut | „Zweitens …“ |
+| 5 | Familienzimmer · Text: 3 · Platz im Zimmer | „Drittens …“ |
+| 6 | flaches Becken · Text: 4 · flaches Becken | „Viertens …“ |
+| 7 | Buffet · Text: 5 · Essen, das Kinder essen | „Und fünftens …“ |
+| 8 | zurück zu den Kindern am Pool (Loop) | „Schick das …“ |
+
+### Sa 17.10. · 5 Dinge, die du vor jedem Abflug checken musst
+Gut zu wissen #1 · ca. 25 s · Cover: „5 Dinge vor jedem Abflug“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | volle Abflughalle · Badge GUT ZU WISSEN #1 | „Herbstferien …“ |
+| 2 | Reisepass · Text: 1 · Ausweis gültig? | „Erstens …“ |
+| 3 | Handy mit Bordkarte · Text: 2 · online einchecken | „Zweitens …“ |
+| 4 | Powerbank · Text: 3 · Powerbank ins Handgepäck | „Drittens …“ |
+| 5 | offener Koffer · Text: 4 · Foto vom Koffer | „Viertens …“ |
+| 6 | Kreditkarte · Text: 5 · Karte fürs Ausland | „Und fünftens …“ |
+| 7 | zurück zur Abflughalle (Loop) | „Speicher dir …“ |
+
+### So 18.10. · Malediven ohne Resort: 3 Regeln · Flex
+Unterschätzt #2 · ca. 25 s · Cover: „Malediven ohne Resort: 3 Regeln“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Wasservilla · Badge UNTERSCHÄTZT #2 | „Malediven …“ |
+| 2 | Einheimischen-Insel, kleines Gästehaus | „Auf vielen …“ |
+| 3 | Café am Strand · Text: 1 · kein Alkohol | „Regel eins …“ |
+| 4 | Strand mit Schild · Text: 2 · Bikini nur am Bikini-Strand | „Regel zwei …“ |
+| 5 | Speedboot · Text: 3 · Anreise planen | „Regel drei …“ |
+| 6 | Riff, klares Wasser (Loop) | „Speicher dir …“ |
+
+## Reels 19.–25. Oktober
+
+### Mo 19.10. · Hurghada oder Marsa Alam?
+A oder B #2 · ca. 25 s · Cover: „Hurghada oder Marsa Alam? Die einfache Antwort“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | eure Riff-Aufnahme · Badge A ODER B #2 | „Hurghada oder …“ |
+| 2 | Promenade, Boote · Text: Hurghada: Programm + kurze Wege | „Hurghada ist …“ |
+| 3 | Hausriff vom Strand · Text: Marsa Alam: Riff vor der Tür | „Marsa Alam …“ |
+| 4 | Schildkröte (nur eigenes Material) · Text: mit Glück: Schildkröten | „Mit etwas Glück …“ |
+| 5 | Text: Programm → Hurghada · Schnorcheln → Marsa Alam | „Also …“ |
+| 6 | zurück zum Riff (Loop) | „Schick das …“ |
+
+### Di 20.10. · Zwei Stunden Bus nach dem Nachtflug
+Bevor du buchst … #3 · ca. 25 s · Cover: „Vor der Hotelbuchung: diese 3 Fragen“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Transferbus nachts (lizenzfrei) · Badge BEVOR DU BUCHST #3 · Text: 2 h Bus nach dem Nachtflug | „Zwei Stunden …“ |
+| 2 | Text: 3 Fragen vor jeder Buchung | „Drei Fragen …“ |
+| 3 | Bus, Karte · Text: 1 · Wie lang ist der Transfer? | „Erstens …“ |
+| 4 | Sand, Kies, Steg aus euren Aufnahmen · Text: 2 · Sand, Kies oder Steg? | „Zweitens …“ |
+| 5 | À-la-carte-Restaurant, Liegen · Text: 3 · Was kostet extra? | „Drittens …“ |
+| 6 | zurück zum Bus (Loop) | „Speicher dir …“ |
+
+Untertitel prüfen: „À-la-carte“ mit Akzent.
+
+### Mi 21.10. · Das ist nicht die Karibik (Sardinien)
+Das ist nicht … #2 · ca. 15–18 s · Cover: „Das ist nicht die Karibik.“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | türkisestes Wasser · Badge DAS IST NICHT … #2 | „Das hier …“ |
+| 2 | Costa Smeralda · Text: Sardinien · ca. 2 h Flug | „Das ist Sardinien …“ |
+| 3 | kleine Bucht im Norden | „Im Norden …“ |
+| 4 | langer Sandstrand im Süden | „… im Süden …“ |
+| 5 | zurück zum türkisen Wasser (Loop) | „Schick das …“ |
+
+### Do 22.10. · Dubai mit kleinem Budget · Flex
+Reise-Tipp · ca. 25 s · Cover: „Dubai mit kleinem Budget? So geht's“ · Ziel: Saves und Follows
+
+| # | Bild | Satz beginnt mit |
+| 1 | Burj-Clip · Text: Dubai = nur für Reiche? | „Dubai ist …“ |
+| 2 | Metro · Text: Metro statt Taxi | „Fahr Metro …“ |
+| 3 | Kite Beach · Text groß: Strand: 0 € | „Strände wie …“ |
+| 4 | Wasserspiele · Text groß: Wasserspiele: 0 € | „Die Wasserspiele …“ |
+| 5 | Abra auf dem Creek · Text: ein paar Dirham | „Mit dem Abra-Boot …“ |
+| 6 | Streetfood in Deira · Text: essen wie vor Ort | „Und iss da …“ |
+| 7 | zurück zu den Wasserspielen (Loop) | „Folg uns …“ |
+
+### Fr 23.10. · Antalya ist nicht gleich Antalya
+Welcher Ort passt zu dir? #1 · ca. 30 s · Cover: „Türkische Riviera: Welcher Ort passt zu dir?“ · Ziel: Shares und Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Drohne Küstenlinie · Badge WELCHER ORT PASST ZU DIR? #1 | „Antalya ist …“ |
+| 2 | Lara/Kundu-Drohne (Mardan, Swandor) · Text: Lara & Kundu | „Lara und Kundu …“ |
+| 3 | Belek, Selectum · Text: Belek | „Belek …“ |
+| 4 | Side · Text: Side | „Side …“ |
+| 5 | Kemer, NG Phaselis · Text: Kemer | „Kemer …“ |
+| 6 | Alanya, Quattro · Text: Alanya | „Und Alanya …“ |
+| 7 | zurück zur Küstenlinie (Loop) | „Schick das …“ |
+
+Aussprache: Sagt die Stimme „Seide“ statt „Side“, im Kasten „Sie-de“ schreiben und den Untertitel korrigieren.
+
+### Sa 24.10. · 4 Fehler, die dich im Urlaub Geld kosten
+Gut zu wissen #2 · ca. 25 s · Cover: „Diese 4 Fehler kosten dich Geld“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | Kartenterminal in Großaufnahme · Badge GUT ZU WISSEN #2 · Text: Euro oder Lira? | „Das Kartenterminal …“ |
+| 2 | Text: 1 · immer in Landeswährung zahlen | „Fehler eins …“ |
+| 3 | Wechselstube · Text: 2 · kein Geld am Flughafen tauschen | „Fehler zwei …“ |
+| 4 | Handy am Strand · Text: 3 · Türkei & Ägypten: kein EU-Roaming | „Fehler drei …“ |
+| 5 | Kreditkarte · Text: 4 · Auslandsgebühr checken | „Und Fehler vier …“ |
+| 6 | eure Strandaufnahme (Loop) | „Schick das …“ |
+
+Untertitel korrigieren: „E-U-Roaming“ → „EU-Roaming“.
+
+### So 25.10. · Um fünf dunkel? Hier nicht.
+Wo ist es jetzt warm? #2 · ca. 20–25 s · Cover: „Um fünf dunkel? Hier nicht.“ · Ziel: Saves und Follows
+
+| # | Bild | Satz beginnt mit |
+| 1 | dunkle Straße im Herbst (lizenzfrei) · Badge WO IST ES JETZT WARM? #2 | „Die Uhren …“ |
+| 2 | harter Schnitt mit Sound: Kanaren-Sonne · Text: ca. 24 °C | „Aber hier …“ |
+| 3 | eure Ägypten-Aufnahmen · Text: ca. 27 °C | „Ägypten …“ |
+| 4 | Dubai · Text: ca. 30 °C | „Dubai …“ |
+| 5 | Phuket · Text: ca. 31 °C | „Thailand …“ |
+| 6 | eure Dom.-Rep.-Aufnahmen · Text: ca. 30 °C | „Und die Karibik …“ |
+| 7 | kurz dunkle Straße, dann wieder Sonne (Loop) | „Folg uns …“ |
+
+Untertitel korrigieren: „Puket“ → „Phuket“, „Kau Lak“ → „Khao Lak“.
+
+## Reels 26.–31. Oktober
+
+### Mo 26.10. · Hotel-Akte #2: Mardan, Teil 2 · Flex
+Hotel-Akte #2 · ca. 35–40 s · Cover: „Sand aus Ägypten, Fische im Pool“ · Ziel: Watchtime und Follows. Nur posten, wenn Teil 1 über dem Schnitt lief; sonst ein anderes eigenes Hotel mit echter Geschichte.
+
+| # | Bild | Satz beginnt mit |
+| 1 | Pool von oben · Badge HOTEL-AKTE #2 · Text: Aquarium im Pool? | „Dieses Hotel hatte …“ |
+| 2 | Strand · Text: Sand aus Ägypten | „Der Sand …“ |
+| 3 | Pool, Nahaufnahme · Text: rund 2.400 Fische | „Im Pool …“ |
+| 4 | Decken · Text: Blattgold | „An Decken …“ |
+| 5 | Fassade · Text: Vorbild: Dolmabahçe-Palast | „Das Hauptgebäude …“ |
+| 6 | Brücken über den Pool · Text: Brücken nach Da-Vinci-Entwurf | „Und die Brücken …“ |
+| 7 | zurück zur Drohne (Loop) | „Welches Detail …“ |
+
+Untertitel korrigieren: „Dolmabachtsche“ → „Dolmabahçe“. Vorher prüfen, ob Aquarium und Blattgold noch so vorhanden sind – deshalb „damals“.
+
+### Di 27.10. · Platz 2 am Mittelmeer: 9 Zimmer
+Unterschätzt #3 · ca. 20–25 s · Cover: „Platz 2 am Mittelmeer: 9 Zimmer“ · Ziel: Saves
+
+| # | Bild | Satz beginnt mit |
+| 1 | Dorf aus der Luft · Badge UNTERSCHÄTZT #3 · Text: 9 Zimmer | „Das zweitbeliebteste …“ |
+| 2 | Text: HolidayCheck Award 2026 | „So sagen es …“ |
+| 3 | Strand von Sarti · Text: Apollon Xenonas · Sarti, Chalkidiki | „Es heißt …“ |
+| 4 | kleine Häuser im Ort · Text: noch 2 weitere aus den Top 10 | „Und im selben Dorf …“ |
+| 5 | kurzer Mallorca-Clip · Text: Platz 1: Mallorca | „Platz eins …“ |
+| 6 | Blick auf den Berg Athos am Abend (Loop zum Dorf) | „Sandstrand …“ |
+
+Untertitel korrigieren: „Holiday Check“ → „HolidayCheck“, „Ksenonas“ → „Xenonas“.
+
+### Mi 28.10. · Thailand im Winter: diese Insel lieber nicht
+A oder B #3 · ca. 25–30 s · Cover: „Thailand im Winter: diese Insel lieber nicht“ · Ziel: Saves und Follows
+
+| # | Bild | Satz beginnt mit |
+| 1 | Regen auf Palmen · Badge A ODER B #3 · Text: Koh Samui im Dezember? | „Thailand im Dezember …“ |
+| 2 | animierte Karte mit beiden Küsten | „Thailand hat …“ |
+| 3 | Phuket, Khao Lak · Text: Andamanensee: Nov–Apr | „Puket und …“ |
+| 4 | Koh Samui · Text: Golf von Thailand: Okt–Dez oft Regen | „Koh Samui …“ |
+| 5 | Text: Winter → Andamanensee · Sommer → Koh Samui | „Also …“ |
+| 6 | Strand in der Sonne (Loop) | „Folg uns …“ |
+
+Untertitel korrigieren: „Puket“ → „Phuket“, „Kau Lak“ → „Khao Lak“.
+
+### Do 29.10. · Punta Cana ist nicht gleich Punta Cana · Flex
+120 Hotels, 1 Lektion #1 · ca. 30 s · Cover: „Karibik: Das sage ich jedem vor der Buchung“ · Ziel: Saves und Profilbesuche
+
+| # | Bild | Satz beginnt mit |
+| 1 | Strand Bávaro (eigen) · Badge 120 HOTELS, 1 LEKTION #1 | „Punta Cana …“ |
+| 2 | Karte · Text: über 10 Hotels selbst getestet | „Wir waren …“ |
+| 3 | Split Bávaro / Bayahibe | „Die Strände …“ |
+| 4 | Restaurant im Resort · Text: Restaurants checken | „All Inclusive …“ |
+| 5 | Isla Saona · Text: Isla Saona | „Plan einen …“ |
+| 6 | Wal · Text: Buckelwale: Jan–März | „Und zwischen …“ |
+| 7 | zurück zum Strand (Loop) | „Speicher dir …“ |
+
+Untertitel korrigieren: „Bajaíbe“ → „Bayahibe“. Wenn ihr den Strand-Unterschied konkret benennen könnt, ersetzt „ganz anders“ durch eure Erfahrung.
+
+### Fr 30.10. · Dieses Detail übersieht fast jeder (Selectum) · Flex
+Hättest du's gesehen? #1 · ca. 20 s · Cover: „Fast jeder Gast übersieht das“ · Ziel: Watchtime und Kommentare. Standard ist eine Fortsetzung des stärksten Oktober-Formats; dieses Skript ist die Alternative und nur sinnvoll, wenn das Detail wirklich überrascht.
+
+| # | Bild | Satz beginnt mit |
+| 1 | Hotel-Totale · Badge HÄTTEST DU'S GESEHEN? #1 | „Dieses Detail …“ |
+| 2 | Pool · Text: Der Pool? | „Ist es …“ |
+| 3 | Lobby · Text: Die Lobby? | „Die Lobby …“ |
+| 4 | Zimmer · Text: Das Zimmer? | „Das Zimmer …“ |
+| 5 | langsamer Zoom aufs Detail | «Detail-Satz» |
+| 6 | harter Schnitt zurück zur Totale (Loop) | „Selectum …“ |
+
+Vor dem Generieren den «Platzhalter» ersetzen – inklusive der spitzen Klammern.
+
+### Sa 31.10. · Turbulenzen? Dann sitzt du falsch.
+Gut zu wissen #3 · ca. 25 s · Cover: „Turbulenzen? Dann sitzt du falsch.“ · Ziel: Shares
+
+| # | Bild | Satz beginnt mit |
+| 1 | Kabine, leichtes Wackeln · Badge GUT ZU WISSEN #3 · Text: Turbulenzen? | „Wer bei …“ |
+| 2 | Blick auf die Tragfläche · Text: über den Tragflächen | „Über den Tragflächen …“ |
+| 3 | vordere Reihen · Text: Ruhe & schnell raus: vorne | „Vorne …“ |
+| 4 | Notausgang · Text: Beinfreiheit: Notausgang | „Viel Beinfreiheit …“ |
+| 5 | Fenster mit Aussicht · Text: Aussicht: vor der Tragfläche | „Für die beste …“ |
+| 6 | Gang · Text: oft aufstehen: Gang | „Und wer …“ |
+| 7 | zurück zur Tragfläche (Loop) | „Schick das …“ |
+
+## Checkliste vor dem Export
+- Modell steht auf Eleven v4 (oder v3) – nicht Multilingual v2
+
+- Ganzen Kasten kopiert, Platzhalter in «spitzen Klammern» ersetzt
+
+- 2–3 Takes angehört; kein Befehl wurde mitgesprochen
+
+- Hook-Satz klingt in den ersten 1,5 Sekunden fertig, ohne Anlauf
+
+- In CapCut auf 1,05–1,1× beschleunigt, Musik bei 10–20 % unter der Stimme
+
+- Untertitel korrigiert (Lautschrift zurück in die richtige Schreibweise, siehe Hinweis unter jedem Reel)
+
+- Schnitt auf Satzende, ein Bild pro Zeile, letztes Bild führt zurück zum ersten
+
+## Vor dem Posten prüfen
+- 8.10. ESTA: Am Posting-Tag kurz prüfen, ob der offizielle Antrag über Website oder App läuft.
+
+- 12. und 26.10. Mardan: „1,4 Milliarden“, Poolgröße, Sand, Fische und Blattgold sind Angaben aus Berichten zur Eröffnung – deshalb „angeblich“, „laut Hotel“ und „damals“. Keine Aussagen über den früheren Besitzer ergänzen.
+
+- 27.10. Sarti: Die zwei weiteren Sarti-Hotels in den Top 10 in der Original-Liste von HolidayCheck gegenprüfen.
+
+- 25.10. Temperaturen: Durchschnittswerte für November, mit einer Klimatabelle gegenprüfen.
+
+## Quellen ElevenLabs (Stand 7.10.2026)
+- Prompting Eleven v3 / v4 – ElevenLabs Docs: Befehle in eckigen Klammern, keine Pausen-Tags in v3/v4, Großbuchstaben für Betonung
+
+- What are Eleven v3 Audio Tags – ElevenLabs Blog: Liste der Befehle, mehrere Befehle pro Satz
+
+- What is Eleven v4 – ElevenLabs Help Center: Stability und Similarity statt Style und Speed, kein SSML
+
+- Eleven v4 – ElevenLabs Docs (Deutsch): Deutsch wird unterstützt
+

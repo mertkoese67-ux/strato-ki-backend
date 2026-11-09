@@ -1,0 +1,381 @@
+
+# Skriptpakete Top 12
+
+## So sind die Pakete gebaut
+Auswahl: die besten Reels nach Konsensnote, mit mindestens zwei Paketen pro Serie, damit jedes Format eine fertige Vorlage hat: Montag (Fakt oder Fake?) Reels 04, 10, 28, 34, 37 · Mittwoch (Was dir keiner sagt) Reels 11, 26, 32, 35, 38 · Freitag (Reisewissen) Reels 06, 12. Die Freitagsserie ist in der Zweitbewertung am schwächsten; ihre übrigen Folgen brauchen die meiste Nacharbeit (Tab 7).
+Arbeitsweise: 1) Voice-over-Text unverändert in ElevenLabs (Modell Eleven v3) einfügen; die eckigen Klammern sind Audio-Tags und werden nicht gesprochen. 2) Audio exportieren und erst dann in CapCut auf die Satzgrenzen schneiden – deshalb stehen hier bewusst keine Timecodes. 3) Hook-Overlay (Manrope ExtraBold, 3–6 Wörter, ein Wort in #FBDC15) und Untertitel (Manrope SemiBold) nie gleichzeitig; während der Hook-Zeile keine Untertitel. 4) Kein Pop/Bounce, Logo nur weiß. 5) Vor Freigabe Higgsfield-Vorabcheck > 80 und die Punkte unter „Vor Posting prüfen“.
+Länge: Die Wortzahl ist gezählt; die Sekundenangabe ist eine Schätzung bei rund 2,5 gesprochenen Wörtern pro Sekunde. Maßgeblich ist die exportierte Audiodatei (Ziel 25–45 s).
+
+## Paket 1 · Reel 04 · Mo 16.11.2026 · Fakt oder Fake? #2
+Stammt das Matterhorn aus Afrika? · Schweiz (Zermatt) · Konsens 7,72 (Redaktion 8,45 · Zweitbewertung 7,00)
+ElevenLabs-Voice-over · 67 Wörter · geschätzt ca. 27 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Fakt oder Fake: Das ganze Matterhorn stammt aus Afrika? | Pexels 33853660 – Matterhorn mit Spiegelung, ruhige Totale | Hook „Fakt oder Fake?“ + „ganz aus Afrika?“ (keine Untertitel während Hook) | – |
+| 2 | Schau auf den Fuß des Berges. | Pexels 34685189 – Luftaufnahme, langsamer Zoom Richtung Bergfuß | Untertitel | – |
+| 3 | Dort verläuft eine dunkle Linie im Gelände. | Standbild aus 34685189, Linie in #FBDC15 nachgezeichnet | Pfeil + Linie (eigene Grafik) | SRF-Infografik: schwarze Linie an der Basis |
+| 4 | Als Afrika und Europa zusammenstießen, wurde ein Stück der Afrikanisch-Adriatischen Platte über alten Meeresboden geschoben. | Eigene Plattengrafik in #1C2C5C/#0CA0DE, zwei Platten schieben sich übereinander | Labels „Afrikanisch-Adriatische Platte“ / „alter Meeresboden“ | SRF-Infografik |
+| 5 | Also: Fake. Das ganze Matterhorn stammt nicht aus Afrika. | Matterhorn-Totale 33853660, Linie bleibt eingeblendet | Untertitel, Wort „Fake“ gelb | – |
+| 6 | Aber alles über dieser Linie – bis hinauf zum Gipfel. | Pexels 34685189 – Kamerafahrt nach oben zum Gipfel | Untertitel | Planet Outdoor: Gipfelgestein afrikanisch |
+| 7 | Nächsten Montag: eine Wüste, in der es mehr regnet als bei uns. | Endcard Serie „Fakt oder Fake?“ (Markenfarben, Logo weiß) | „Nächste Folge: Montag“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Ganz aus Afrika? | Matterhorn-Totale, „Afrika“ gelb |
+| 2 | Fakt oder Fake #2 | Matterhorn mit Spiegelung |
+| 3 | Der Gipfel ist Afrika | Gipfel in Großaufnahme |
+
+Stockliste: Pexels 33853660 (Matterhorn mit Spiegelung); Pexels 34685189 (Matterhorn, Luft); Pexels 33853657 (Wanderung am Matterhorn). Suche: matterhorn reflection lake, matterhorn aerial, zermatt matterhorn winter. Hürden: Plattengrafik selbst bauen (Markenfarben). Keine Bergsteiger-Unfallbilder.
+Faktencheck – gesichert: Grenze Piemont-Ozean / Afrikanisch-Adriatische Platte verläuft durchs Matterhorn, sichtbar als schwarze Linie an der Basis; Hebung bis 1,5 mm/Jahr (SRF Infografik) · Gipfelgestein afrikanisch (Planet Outdoor); Höhe 4.478 m (Leica/Poretti-Vermessung, Wikipedia)
+Faktencheck – vor Posting prüfen: „Afrika“ als Afrikanisch-Adriatische Platte / afrikanischer Sporn präzisieren, nicht „Kontinent Afrika“ · Dunkle Linie: SRF-Infografik als Bildbeleg verwenden
+Quellen: srf.ch · planetoutdoor.de
+Caption Instagram:
+Fakt oder Fake #2: Stammt das ganze Matterhorn aus Afrika? Fake – aber der obere Teil schon: Er ist ein Rest der Afrikanisch-Adriatischen Platte, der Sockel ehemaliger Meeresboden. 🇨🇭 Hättest du’s gewusst?
+#matterhorn #zermatt #schweiz #alpen #faktoderfake #reisewissen
+Caption TikTok: Halb Schweiz, halb Afrika 🇨🇭 #matterhorn #zermatt #faktoderfake
+Plattform-Einstieg: Instagram – Matterhorn mit Spiegelung, Overlay „Fakt oder Fake?“. · TikTok – „Ist dieser Berg aus Afrika? 🤔“ als nativer Text, Antwort erst nach der dunklen Linie.
+
+## Paket 2 · Reel 06 · Fr 20.11.2026 · Reisewissen in 30 Sekunden #2
+Warum es auf den Kanaren im Januar 21 Grad hat · Spanien (Kanaren) · Konsens 7,50 (Redaktion 8,35 · Zweitbewertung 6,65)
+ElevenLabs-Voice-over · 79 Wörter · geschätzt ca. 32 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Graues Deutschland im Januar. | Generischer Regenhimmel-Clip (Suche „rainy city street grey“), kein erkennbarer fremder Ort | Hook (keine Untertitel während Hook) | – |
+| 2 | Viereinhalb Flugstunden später: tagsüber rund 21 Grad an der Küste. | Hartschnitt Pexels 35854131 – Maspalomas-Dünen in der Sonne | „4,5 h später“, „21 Grad“ gelb | AEMET: Jan.-Ø-Max 20,8–21,0 °C; Flugpläne DUS–LPA ca. 4:30 h |
+| 3 | Warum ist es hier im Januar so mild? | Pexels 29459287 – Küste Gran Canaria von oben | Untertitel | – |
+| 4 | Die Kanaren liegen auf rund 28 Grad Nord – auf ähnlicher Breite wie die Sahara. | Eigene Kartengrafik: Kanaren + Breitenlinie | „28° N“ | AEMET/Britannica |
+| 5 | Gleichzeitig gleichen Passatwind und der kühle Kanarenstrom aus. Deshalb ist auch der Sommer selten extrem heiß. | Brandung/Küste aus 29459287, Wolkenbänder | Pfeile Passat/Strömung (Grafik) | hellocanaryislands, Britannica |
+| 6 | Ehrlich gesagt: Die 21 Grad sind Tageshöchstwerte an der Küste. Oben am Teide kann im Winter Schnee liegen. | Pexels 35648259 – Teide | Untertitel | AEMET (Tageshöchstwert) |
+| 7 | Nächsten Freitag: Warum dir Essen im Flugzeug fade schmeckt. | Endcard Serie „Reisewissen in 30 Sekunden“ | „Nächste Folge: Freitag“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Im Januar 21 Grad? | Maspalomas-Dünen in Sonne, „21 Grad“ gelb |
+| 2 | Warum die Kanaren warm sind | Küste Gran Canaria von oben |
+| 3 | 4,5 h bis zur Wintersonne | Split grauer Himmel / Strand |
+
+Stockliste: Pexels 35854131 (Maspalomas); Pexels 29459287 (Küste Gran Canaria); Pexels 15507593 (Hafen Las Palmas). Suche: maspalomas dunes aerial, gran canaria coast aerial, tenerife coast, rainy city street grey. Hürden: Grauer-Himmel-Clip darf keinen erkennbaren fremden Ort als „Deutschland“ ausgeben – generisch halten oder deutschen Ort mit Angabe wählen.
+Faktencheck – gesichert: Breite ca. 28° N; Jan. Ø-Max Santa Cruz de Tenerife 21,0 °C, Flughafen Gran Canaria 20,8 °C (AEMET 1981–2010) · Passatwinde und kühler Kanarenstrom (hellocanaryislands, Britannica) · Flugzeit DUS–LPA/TFS ca. 4 h 30 min (Flugpläne)
+Faktencheck – vor Posting prüfen: Keine Wassertemperatur ohne Quelle nennen · 21 °C immer als Tageshöchstwert formulieren
+Quellen: aemet.es · hellocanaryislands.com · britannica.com
+Caption Instagram:
+Reisewissen #2: Warum die Kanaren im Januar so mild sind ☀️ Rund 28° Nord, dazu Passatwind und der kühle Kanarenstrom. Ergebnis: im Januar tagsüber um 21 Grad an der Küste, im Sommer selten extreme Hitze. In den Bergen kann es schneien.
+#kanaren #grancanaria #teneriffa #wintersonne #reisewissen #winterurlaub
+Caption TikTok: Darum ist es dort im Winter so mild 🌴 #kanaren #wintersonne #grancanaria #reisewissen
+Plattform-Einstieg: Instagram – Grau-zu-Sonne-Schnitt in Sekunde 1, Overlay „4,5 h später“. · TikTok – Nativer Text „Deutschland im Januar vs. 4,5 h später“ über Split-Screen.
+
+## Paket 3 · Reel 10 · Mo 30.11.2026 · Fakt oder Fake? #4
+Wo steht der älteste Weihnachtsmarkt? · Deutschland/Österreich (Dresden, Bautzen, Wien) · Konsens 7,83 (Redaktion 8,50 · Zweitbewertung 7,15)
+ElevenLabs-Voice-over · 91 Wörter · geschätzt ca. 36 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Dresden sagt: Wir sind die Ältesten. Bautzen sagt: Nein, wir. | Pexels 856064 – Striezelmarkt am Abend | Hook „Dresden vs. Bautzen“ (keine Untertitel während Hook) | – |
+| 2 | Fakt oder Fake: Der älteste Weihnachtsmarkt Deutschlands steht in Dresden? | Lichterketten-Detail (aus 856064) | „Fakt oder Fake?“ | – |
+| 3 | Dresdens Striezelmarkt ist seit 1434 urkundlich belegt. | Striezelmarkt-Totale | „1434“ gelb | dresden.de, Travelbook |
+| 4 | Bautzen beruft sich auf 1384 – damals ein Fleischmarkt bis in die Weihnachtszeit. | Eigene Kartengrafik Sachsen mit Bautzen (kein fremdes Marktbild) | „1384“ gelb | Travelbook |
+| 5 | Kommt also drauf an, wie man zählt. | Split Striezelmarkt / Karte Bautzen | Untertitel | – |
+| 6 | Das private Rekord-Institut für Deutschland nennt Dresden den ältesten beurkundeten Weihnachtsmarkt – und Bautzen den ältesten in einer Chronik erwähnten. | Split bleibt, Labels einblenden | „beurkundet“ / „Chronik“ | Travelbook (Rekord-Institut 2015) |
+| 7 | Und Wien? Nennt oft 1296 – laut Stadt ist das genaue Datum unbekannt. | Pexels 19959845 – Wiener Christkindlmarkt | Untertitel | wien.gv.at |
+| 8 | Team Dresden oder Team Bautzen? Nächsten Montag: Seen, die jedes Jahr ein Stück wachsen. | Endcard Serie „Fakt oder Fake?“ | „Team Dresden / Team Bautzen?“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Ältester Weihnachtsmarkt? | Striezelmarkt bei Nacht, „Ältester“ gelb |
+| 2 | Dresden vs. Bautzen | Split Striezelmarkt / Karte Bautzen |
+| 3 | Fakt oder Fake #4 | Lichterketten-Detail Weihnachtsmarkt |
+
+Stockliste: Pexels 856064 (Striezelmarkt am Abend); Pexels 19959845 (Wiener Christkindlmarkt); Pexels 34671324 (Weihnachtsmarkt Wien). Suche: striezelmarkt dresden evening, dresden christmas market, vienna christkindlmarkt, christmas market lights. Hürden: Kein freier Bautzen-Clip gefunden: Bautzen als Karten-/Textgrafik, nicht mit fremdem Marktbild bebildern.
+Faktencheck – gesichert: Dresden 1434 urkundlich; Bautzen 1384 (Chronik, Fleischmarkt); Rekord-Institut 2015 (Travelbook, dresden.de) · Frankfurt 1393 urkundlich; Wien: meist 1296 genannt, genaues Datum laut Stadt unbekannt (wien.gv.at)
+Faktencheck – vor Posting prüfen: Keine Ausgabenummern („643. Striezelmarkt“) nennen
+Quellen: travelbook.de · dresden.de · wien.gv.at
+Caption Instagram:
+Fakt oder Fake #4: Steht der älteste Weihnachtsmarkt Deutschlands in Dresden? Dresden: urkundlich seit 1434. Bautzen: 1384 – damals ein Fleischmarkt. Und Wien nennt oft 1296. Team Dresden oder Team Bautzen? 🎄
+#weihnachtsmarkt #striezelmarkt #dresden #bautzen #wien #faktoderfake #adventszeit
+Caption TikTok: Der Streit um den ältesten Weihnachtsmarkt 🎄 #weihnachtsmarkt #dresden #bautzen #faktoderfake
+Plattform-Einstieg: Instagram – Striezelmarkt, Overlay „Dresden vs. Bautzen“. · TikTok – Nativer Text „Team Dresden oder Team Bautzen?“ über Marktbild.
+
+## Paket 4 · Reel 11 · Mi 02.12.2026 · Was dir keiner sagt #4
+Meerseite heißt nicht Meerblick · ortsunabhängig (Hotelbeschreibungen) · Konsens 7,93 (Redaktion 8,65 · Zweitbewertung 7,20)
+ElevenLabs-Voice-over · 72 Wörter · geschätzt ca. 29 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Meerseite heißt nicht Meerblick. | Split: Pexels 11919299 (Balkon mit Meer) / generischer Wand-Blick | Hook „Meerseite ≠ Meerblick“ (keine Untertitel während Hook) | – |
+| 2 | Meerblick heißt: Du siehst das Meer – nach gängiger Auslegung auch mal nur mit gedrehtem Kopf. | Pexels 11919299 – Balkon mit Meerblick | Label „Meerblick“ | TCS, dpa-Ratgeber |
+| 3 | Meerseite heißt: Das Zimmer liegt zur Meerseite. Ob du Wasser siehst, ist offen. | Generischer Hotelfenster-Clip mit Gebäudeblick | Label „Meerseite“ | TCS, dpa-Ratgeber |
+| 4 | Und noch drei Klassiker: | Hotelzimmer mit Vorhang (generisch) | „3 Klassiker“ | – |
+| 5 | Zentrale Lage – kann laut sein. | Belebte Straße (generisch) | „zentral = laut?“ | TCS |
+| 6 | Aufstrebender Ort – oft Baustellen. | Baustelle in Ortslage (generisch) | „aufstrebend = Baustelle?“ | TCS |
+| 7 | Landestypische Bauweise – oft dünne Wände. | Hotelflur/Zimmer (generisch) | „landestypisch = dünne Wände?“ | TCS |
+| 8 | Was dir wichtig ist, muss in der Buchungsbestätigung stehen. Ein Katalogfoto reicht nicht. | Pexels 9387510 – Meerblick vom Gästehaus | Untertitel, „Buchungsbestätigung“ gelb | dpa, AG München 2024 |
+| 9 | Nächsten Mittwoch: Was Venedig 2027 von Tagesgästen verlangen will. | Endcard Serie „Was dir keiner sagt“ | „Nächste Folge: Mittwoch“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Meerseite ≠ Meerblick | Balkon mit Meer, „Meerblick“ gelb |
+| 2 | Hotel-Deutsch übersetzt | Hotelzimmer mit Vorhang |
+| 3 | Was „zentral“ wirklich heißt | belebte Straße unter Hotelbalkon |
+
+Stockliste: Pexels 11919299 (Balkon mit Meerblick); Pexels 9387510 (Meerblick vom Gästehaus); Pexels: „hotel window view building“ (generisch). Suche: hotel balcony sea view, hotel window wall view, busy street below hotel, construction site town. Hürden: Keine erkennbaren Hotelnamen oder Logos; Rechtshinweis nur für deutsches Pauschalreiserecht formulieren.
+Faktencheck – gesichert: Meerblick vs. Meerseite, zentrale Lage, aufstrebender Ort, landestypische Bauweise (TCS, dpa-Ratgeber) · Anspruch nur bei vertraglicher Zusage; Minderung möglich (dpa, AG München 2024)
+Faktencheck – vor Posting prüfen: „Seitlicher Meerblick“ nicht verwenden (keine belastbare Quelle) · Für AT/CH keine Rechtsaussage treffen
+Quellen: tcs.ch · tageskarte.io · justiz.bayern.de
+Caption Instagram:
+Was dir keiner sagt #4: Hoteldeutsch übersetzt 🏨 Meerblick = du siehst das Meer Meerseite = Zimmer liegt zur Meerseite, Blick nicht garantiert Zentrale Lage = kann laut sein Aufstrebender Ort = oft Baustellen Was dir wichtig ist, muss in der Buchungsbestätigung stehen. Speichern!
+#reisetipps #hotel #urlaub #meerblick #pauschalreise #wasdirkeinersagt
+Caption TikTok: Hotel-Deutsch, das du kennen solltest 🙃 #reisetipps #hotel #meerblick #urlaub
+Plattform-Einstieg: Instagram – Zwei Bilder im Schnitt (Meer/Wand) in Sekunde 0–1, Overlay „Meerseite ≠ Meerblick“. · TikTok – „POV: Meerseite gebucht“ über Wand-Blick.
+
+## Paket 5 · Reel 12 · Fr 04.12.2026 · Reisewissen in 30 Sekunden #4
+Rotes Meer: im Winter badewarm – und extra salzig · Ägypten (Rotes Meer) · Konsens 7,50 (Redaktion 8,55 · Zweitbewertung 6,45)
+ElevenLabs-Voice-over · 80 Wörter · geschätzt ca. 32 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Bei uns Dezember-Grau – im Roten Meer selten unter 22 Grad Wasser. | Pexels 27263908 – Riff im Roten Meer, Sonnenstrahlen | Hook „Dezember: 22 Grad?“ (keine Untertitel während Hook) | Planet Wissen/WDR |
+| 2 | Das Rote Meer liegt weit im Süden, zwischen Wüsten – mit viel Sonne, auch im Winter. | Pexels 27263876 – Korallen, Taucher | Untertitel | – |
+| 3 | Und noch etwas ist besonders: In das Rote Meer fließt kein einziger Fluss. | Riff-Totale (27263908) | „0 Flüsse“ gelb | Planet Wissen/WDR |
+| 4 | Kein Süßwasser vom Land, dazu starke Verdunstung – deshalb ist es mit bis zu rund vier Prozent Salz eines der salzigsten Meere. | Unterwasser mit Lichtreflexen, eigene Grafik Salzkristall | „bis zu ~4 % Salz“ | Planet Wissen/WDR |
+| 5 | Die Wärme lieben Korallen – zu lange Hitze setzt ihnen aber zu. | Korallen-Detail (27263876) | Untertitel | Planet Wissen/WDR |
+| 6 | Nächsten Freitag: Warum man in Kappadokien in Felsen schläft. | Endcard Serie „Reisewissen in 30 Sekunden“ | „Nächste Folge: Freitag“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Im Dezember 22 Grad? | Riff mit Sonnenstrahlen, „22 Grad“ gelb |
+| 2 | Kein Fluss im Roten Meer | Taucher über Korallen |
+| 3 | Warum so salzig? | Unterwasser-Totale |
+
+Stockliste: Pexels 27263908 (Rotes Meer, Ägypten); Pexels 27263876 (Rotes Meer, Korallen); Pexels 31991098 (Riff, Ort prüfen). Suche: egypt red sea coral reef, red sea snorkeling corals fish, red sea diving. Hürden: Nur Clips mit Ägypten/Rotes-Meer-Angabe als solche bezeichnen. Keine Hotel-/Ortsnamen ohne passendes Bild.
+Faktencheck – gesichert: Selten unter 22 °C im Winter; keine Flüsse münden ins Rote Meer; hohe Verdunstung; Salzgehalt bis zu rund 4 %; Korallen begünstigt, durch Erwärmung bedroht (Planet Wissen/WDR) · AA: Hurghada/Rotes Meer in keiner Warnzone (Stand 06.11.2026)
+Faktencheck – vor Posting prüfen: Nordteil (Hurghada) im Februar eher um 21–22 °C: „selten unter 22“ nur mit WDR-Zitat, keine eigene Zahl für Februar · Wärme nicht mit fehlenden Flüssen oder Verdunstung begründen (Verdunstung kühlt) · AA-Lage Ägypten am Vortag
+Quellen: planet-wissen.de · auswaertiges-amt.de
+Caption Instagram:
+Reisewissen #4: Das Rote Meer fällt selbst im Winter selten unter 22 °C – es liegt im sonnigen Süden. Und es ist besonders salzig: Kein Fluss mündet hinein, viel Wasser verdunstet. Ideal für Wintersonne in Ägypten 🐠
+#rotesmeer #ägypten #hurghada #marsaalam #wintersonne #reisewissen
+Caption TikTok: Badewarm und extra salzig 🌊 #ägypten #rotesmeer #wintersonne #reisewissen
+Plattform-Einstieg: Instagram – Unterwasser-Riff, Overlay „Dezember: 22 Grad?“. · TikTok – „Wer will im Dezember ins Meer? 🙋“ als Text über Riff.
+
+## Paket 6 · Reel 26 · Mi 06.01.2027 · Was dir keiner sagt #9
+Ob dein Ballon startet, entscheidet eine Flagge · Türkei (Kappadokien) · Konsens 7,93 (Redaktion 8,55 · Zweitbewertung 7,30)
+ElevenLabs-Voice-over · 85 Wörter · geschätzt ca. 34 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Ballonfahrt gebucht. Ob du fliegst, entscheidet morgens eine Flagge. | Pexels 35383606 – Ballons bei Sonnenaufgang | Hook „Grün, Gelb oder Rot?“ (keine Untertitel während Hook) | – |
+| 2 | In Kappadokien vergibt die türkische Luftfahrtbehörde jeden Morgen eine Farbe. | Pexels 18156638 – Ballons über Felsen | „SHGM“ klein | Wego 2026, istiklal 2026 |
+| 3 | Grün: Start frei. Gelb: warten. Rot: Alle Flüge fallen aus. | Eigene Grafik: drei Farbflächen nacheinander | „Grün / Gelb / Rot“ | Wego 2026, tgrthaber |
+| 4 | Meist entscheidet der Wind. | Pexels 15173032 – Ballons in Bewegung | Untertitel | istiklal 2026 |
+| 5 | Auch bei Grün darf der Pilot absagen – und wie viele Ballons gleichzeitig fahren, ist begrenzt. | Ballons am Boden vor dem Start (aus 18156638) | Untertitel | Wego 2026 |
+| 6 | Unser Tipp: Plane die Fahrt gleich für einen der ersten Tage – dann bleibt ein Ersatztag. Und frag vorher, was bei einer Absage mit deinem Geld passiert. | Ballon-Totale über dem Tal | „Tipp: früh einplanen“ | – (Erfahrungstipp, keine Faktbehauptung) |
+| 7 | Nächsten Mittwoch: der Filmstrand in Thailand, an dem Baden verboten ist. | Endcard Serie „Was dir keiner sagt“ | „Nächste Folge: Mittwoch“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Grün, Gelb oder Rot? | Ballons bei Sonnenaufgang, Farbpunkte |
+| 2 | Ballon gebucht – und dann? | Ballons am Boden vor Start |
+| 3 | Die Flaggen-Regel | Ballon-Totale über Tal |
+
+Stockliste: Pexels 35383606 (Ballons bei Sonnenaufgang); Pexels 18156638 (Ballons über Felsen); Pexels 15173032 (fliegende Ballons). Suche: cappadocia hot air balloons sunrise, balloons over rocks sunset, balloon inflating ground. Hürden: Nur Clips mit Kappadokien-Angabe; keine Unfallbilder.
+Faktencheck – gesichert: SHGM-Flaggen grün/gelb/rot, Absagen meist wegen Wind; Pilot kann auch bei Grün absagen; Zahl gleichzeitiger Ballons begrenzt (Wego 2026, istiklal 2026, tgrthaber)
+Faktencheck – vor Posting prüfen: Kein konkretes Ballonlimit für 2026 nennen · Behördenseite SHGM gegenlesen · Umbuchung/Erstattung bei Absage nur allgemein („beim Anbieter klären“) erwähnen
+Quellen: blog.wego.com · istiklal.com.tr
+Caption Instagram:
+Was dir keiner sagt #9: In Kappadokien vergibt die Luftfahrtbehörde SHGM jeden Morgen eine Flagge – Grün, Gelb oder Rot. Bei Rot fallen alle Ballonfahrten aus, meist wegen Wind. Tipp: Fahrt früh im Urlaub einplanen. 🎈
+#kappadokien #cappadocia #ballonfahrt #türkei #reisetipps #wasdirkeinersagt
+Caption TikTok: Darum fällt dein Ballonflug aus 🎈 #kappadokien #ballonfahrt #türkei
+Plattform-Einstieg: Instagram – Ballon-Sonnenaufgang, drei Farbpunkte als Overlay. · TikTok – Ampel-Grafik grün/gelb/rot über Ballons.
+
+## Paket 7 · Reel 28 · Mo 11.01.2027 · Fakt oder Fake? #10
+Liegt der größte Wasserfall Europas in der Schweiz? · Schweiz (Schaffhausen) · Konsens 7,75 (Redaktion 8,55 · Zweitbewertung 6,95)
+ElevenLabs-Voice-over · 79 Wörter · geschätzt ca. 32 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz? | Pexels 29038189 – Rheinfall aus der Luft | Hook „Fakt oder Fake?“ (keine Untertitel während Hook) | – |
+| 2 | Hoch ist er nicht: nur 23 Meter. | Pexels 37924187 – seitlich, Felsen im Fall | „23 m“ | Wikipedia-Daten, Schwarzwaldportal |
+| 3 | Aber 150 Meter breit. Und im Sommer stürzen im Schnitt rund 600.000 Liter Wasser pro Sekunde hinab. | Pexels 38371519 – Gischt nah | „150 m breit“, „~600 m³/s im Sommer“ | Wikipedia-Daten (Ø Sommer ca. 600 m³/s) |
+| 4 | Also: Kommt drauf an, wie man misst. | Luftbild 29038189 | Untertitel | – |
+| 5 | Nach der Wassermenge gilt der Rheinfall als einer der größten Wasserfälle Europas. Höhere gibt es viele. | Rheinfall-Totale | „gilt als“ | Europeana/Badisches Landesmuseum, Schwarzwaldportal |
+| 6 | Am meisten Wasser führt er im Sommer – im Winter ist es deutlich weniger. | Pexels 38371519 – Sommerlicht | „Sommer: am meisten Wasser“ | Wikipedia-Daten (Winter ca. 250 m³/s) |
+| 7 | Nächsten Montag: Machen auf den Malediven Fische Sand? | Endcard Serie „Fakt oder Fake?“ | „Nächste Folge: Montag“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Größter Wasserfall Europas? | Rheinfall-Totale, „Europas“ gelb |
+| 2 | Nur 23 Meter hoch | Rheinfall mit Felsen |
+| 3 | Fakt oder Fake #10 | Rheinfall von oben |
+
+Stockliste: Pexels 29038189 (Rheinfall, Luft); Pexels 37924187 (Rheinfall dramatisch); Pexels 38371519 (Rheinfall im Sommer). Suche: rhine falls aerial, rhine falls switzerland, rhine falls summer. Hürden: Keine – Material vorhanden. Winterclip nicht mit Sommerzahl kombinieren.
+Faktencheck – gesichert: 150 m breit, 23 m hoch; Ø Sommer ca. 600 m³/s, Winter ca. 250 m³/s; mittlere Wasserführung 373 m³/s (Wikipedia-Daten, Schwarzwaldportal) · „einer der größten und wasserreichsten Wasserfälle Europas“ (Europeana/Badisches Landesmuseum, Schwarzwaldportal)
+Faktencheck – vor Posting prüfen: Nicht absolut „der größte“ sagen, nur „gilt als“/„einer der größten“
+Quellen: schwarzwaldportal.com · doc.surf
+Caption Instagram:
+Fakt oder Fake #10: Liegt der größte Wasserfall Europas in der Schweiz? Kommt drauf an: nur 23 m hoch, aber 150 m breit und im Sommer rund 600 m³ Wasser pro Sekunde. Nach Wassermenge gilt der Rheinfall als einer der größten Europas. 🇨🇭
+#rheinfall #schaffhausen #schweiz #wasserfall #faktoderfake #ausflugstipp
+Caption TikTok: Kommt drauf an, wie man misst 🇨🇭 #rheinfall #schweiz #faktoderfake
+Plattform-Einstieg: Instagram – Drohne über Rheinfall, Overlay „Fakt oder Fake?“. · TikTok – „Norwegen? Island? Nein – Schweiz?!“ als Text.
+
+## Paket 8 · Reel 32 · Mi 20.01.2027 · Was dir keiner sagt #11
+Das Drehkreuz auf der Seceda · Italien (Südtirol, Seceda) · Konsens 7,80 (Redaktion 8,35 · Zweitbewertung 7,25)
+ElevenLabs-Voice-over · 91 Wörter · geschätzt ca. 36 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Sommer 2025: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz. | Pexels 32070087 – Seceda aus der Luft | Hook „Sommer 2025: ein Drehkreuz“ (keine Untertitel während Hook) | The Independent (via inkl) |
+| 2 | Bauern verlangten fünf Euro pro Person – als Protest. | Pexels 32070073 – Seceda-Grat; Drehkreuz nur als Icon | „5 €“ gelb | The Independent (via inkl) |
+| 3 | Denn die Wiesen auf der Seceda sind Almen. Die Besitzer müssen sie mähen und pflegen. | Pexels 32053942 – Wiesen von oben | Untertitel | Tourismusverband Gröden (zitiert) |
+| 4 | Und an Spitzentagen kamen rund 8.000 Menschen. | Grat-Totale | „~8.000 an einem Tag“ | The Independent (via inkl) |
+| 5 | Der Tourismusverband nannte das Drehkreuz eine private Aktion, Land und Gemeinde wollten es entfernen. | Wiesen mit Wanderweg | Untertitel | The Independent (via inkl) |
+| 6 | Für die Seilbahn wird inzwischen eine Tagesgrenze diskutiert. | Seceda-Gipfel | „Tagesgrenze im Gespräch“ | ÖAMTC 31.08.2026 |
+| 7 | Heißt für dich: auf dem Weg bleiben, Müll mitnehmen – und die Seilbahn im Sommer vorab reservieren. | Grat im Abendlicht | „Weg bleiben · Müll mit · reservieren“ | in den Bergen 2026 (Reservierung empfohlen) |
+| 8 | Nächsten Mittwoch: die berühmte Algarve-Höhle, in der du nicht an Land darfst. | Endcard Serie „Was dir keiner sagt“ | „Nächste Folge: Mittwoch“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Plötzlich ein Drehkreuz | Seceda-Grat, „Drehkreuz“ gelb |
+| 2 | Diese Wiese gehört jemandem | Seceda-Wiesen von oben |
+| 3 | Seceda: was du wissen musst | Grat im Abendlicht |
+
+Stockliste: Pexels 32070087 (Seceda, Luft); Pexels 32070073 (Seceda-Grat); Pexels 32053942 (Seceda von oben). Suche: seceda aerial, seceda ridge dolomites, dolomites meadow summer. Hürden: Kein lizenzierter Clip des Drehkreuzes – nur als Text/Icon zeigen, kein Fremdbild verwenden. Keine erkennbaren Personen in Großaufnahme.
+Faktencheck – gesichert: Drehkreuz Juli 2025 durch Bauern, 5 €/Person, als Protest; rund 8.000 Menschen an einem Tag; Tourismusverband: private Initiative, Entfernung geplant (The Independent via inkl) · 2026: Tagesgrenze 3.000–4.000 für Seilbahn mit Zeitfenstern im Gespräch, nicht beschlossen (ÖAMTC, 31.08.2026)
+Faktencheck – vor Posting prüfen: Aktuellen Stand Seilbahn-Kontingent 2027 vor Posting · Nicht behaupten, das Drehkreuz stehe noch
+Quellen: inkl.com · oeamtc.at
+Caption Instagram:
+Was dir keiner sagt #11: Die Seceda-Wiesen sind Almen, die Bauern pflegen. Im Juli 2025 stellten sie aus Protest ein Drehkreuz auf (5 €). Für die Seilbahn wird jetzt eine Tagesgrenze diskutiert (Stand Aug. 2026). Tipp: auf dem Weg bleiben, Seilbahn vorab reservieren. 🇮🇹
+#seceda #dolomiten #südtirol #gröden #wandern #wasdirkeinersagt
+Caption TikTok: Die Geschichte hinter dem Drehkreuz 🏔️ #seceda #dolomiten #südtirol
+Plattform-Einstieg: Instagram – Seceda-Drohne, Overlay „Plötzlich ein Drehkreuz“. · TikTok – „2025: 5 Euro für einen Wanderweg?!“ als Text über Grat.
+
+## Paket 9 · Reel 34 · Mo 25.01.2027 · Fakt oder Fake? #12
+Ein Strand soll wachsen – für ein Wrack · Griechenland (Zakynthos) · Konsens 7,90 (Redaktion 8,60 · Zweitbewertung 7,20)
+ElevenLabs-Voice-over · 94 Wörter · geschätzt ca. 38 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack? | Pexels 36610498 – Navagio aus der Luft | Hook „Fakt oder Fake?“ (keine Untertitel während Hook) | – |
+| 2 | Das Wrack liegt seit Oktober 1980 in dieser Bucht – und nur noch rund 25 Meter vom Wasser entfernt. | Pexels 30641844 – rostiges Wrack auf dem Sand | „seit 1980“, „~25 m“ | Euronews 13.07.2026 |
+| 3 | Seitdem heißt die Bucht Navagio – Schiffswrack. | Bucht-Totale mit Steilwänden | „Navagio = Schiffswrack“ | To Vima |
+| 4 | Und die Erosion setzt dem Wrack zu. | Wrack-Detail (30641844) | Untertitel | Euronews 13.07.2026 |
+| 5 | Deshalb: Fakt – zumindest als Plan. Mit rund 45.000 Kubikmetern Kies soll der Strand 30 Meter Richtung Meer wachsen. | Pexels 38014553 – Bucht von oben; Grafik-Pfeil Richtung Meer | „+30 m (Plan)“ | Euronews 13.07.2026 |
+| 6 | Betreten darfst du den Strand trotzdem nicht: Er ist wegen Steinschlaggefahr gesperrt, 2026 auch vom Wasser aus. Ansehen kannst du ihn von oben. | Bucht von oben (36610498) | „gesperrt (Stand 2026)“ | To Vima 02.06.2026, Euronews |
+| 7 | Nächsten Montag: Warum die Sonne in Palmas Kathedrale eine Acht malt. | Endcard Serie „Fakt oder Fake?“ | „Nächste Folge: Montag“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Strand für ein Wrack? | Navagio von oben, „Wrack“ gelb |
+| 2 | 30 Meter mehr Strand | Wrack auf dem Sand |
+| 3 | Fakt oder Fake #12 | Bucht mit Steilwänden |
+
+Stockliste: Pexels 36610498 (Navagio, Luft); Pexels 30641844 (rostiges Wrack am Navagio-Strand); Pexels 38014553 (Navagio, Luft). Suche: navagio beach aerial, navagio shipwreck, zakynthos cliffs. Hürden: Clips mit Menschen am Strand stammen aus der Zeit vor der Sperre – nicht als aktuelle Situation darstellen; besser leere Bucht zeigen.
+Faktencheck – gesichert: Plan: 30 m Verlängerung mit ca. 45.000 m³ Kies, Wrack derzeit ca. 25 m vom Wasser; Strandung Oktober 1980; Sperre bis 31.10.2026, Bewertung zweimal jährlich (Euronews 13.07.2026) · Sperre 2026 an Land und auf See (To Vima, 02.06.2026)
+Faktencheck – vor Posting prüfen: Zugangsstatus 2027 vor Posting · Schmuggel-Geschichte nicht erzählen (unbelegt) · Kein Zeitplan für die Verlängerung nennen
+Quellen: euronews.com · tovima.com
+Caption Instagram:
+Fakt oder Fake #12: Griechenland will den Navagio-Strand um 30 m verlängern, um das Wrack vor Erosion zu schützen (Plan laut Euronews, Juli 2026). Der Strand ist wegen Steinschlag gesperrt – Blick nur von oben. Stand vor der Reise prüfen. 🇬🇷
+#zakynthos #navagio #griechenland #shipwreckbeach #faktoderfake #reisewissen
+Caption TikTok: Rettungsplan fürs Wrack 🇬🇷 #zakynthos #navagio #faktoderfake
+Plattform-Einstieg: Instagram – Navagio-Luftbild, Overlay „Fakt oder Fake?“. · TikTok – „Ein Strand soll wachsen… für DAS?“ als Text über Wrack.
+
+## Paket 10 · Reel 35 · Mi 27.01.2027 · Was dir keiner sagt #12
+Die Höhle, in der du nicht an Land darfst · Portugal (Algarve) · Konsens 7,65 (Redaktion 8,30 · Zweitbewertung 7,00)
+ElevenLabs-Voice-over · 83 Wörter · geschätzt ca. 33 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Benagil: Du kannst hineinfahren – aber nicht an Land gehen. | Pexels 40000897 – Benagil-Höhle mit Lichtkegel | Hook „Benagil: kein Anlanden“ (keine Untertitel während Hook) | Edital 019/2024 |
+| 2 | Seit August 2024 gelten für die berühmte Höhle an der Algarve neue Regeln der Hafenbehörde. | Pexels 36749585 – Algarve-Küste mit Booten | „seit 13.08.2024“ | Lusa, The Portugal News |
+| 3 | Kein Anlanden am Strand in der Höhle. Kein Hineinschwimmen, auch nicht mit Schwimmhilfe. Und Kajak nur mit Guide. | Eigene Grafik: drei Icons nacheinander über Höhlenbild | „kein Anlanden · kein Schwimmen · Kajak nur mit Guide“ | Edital 019/2024 (The Portugal News) |
+| 4 | Wie kommst du dann rein? Mit einer lizenzierten Bootstour – oder einer geführten Kajak- oder SUP-Tour. | Pexels 36749598 – Boote vor der Klippe | Untertitel | Portugal Getaways 2026 |
+| 5 | Kostenlos: Vom Küstenwanderweg schaust du von oben durch das Loch in der Decke. | Luftbild Küste (36749585) | „Blick von oben: gratis“ | Portugal Getaways 2026 |
+| 6 | Nächsten Mittwoch, im Staffelfinale: Was du für den Pragser Wildsee im Sommer brauchst. | Endcard Serie „Was dir keiner sagt“ | „Staffelfinale: Mittwoch“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Kein Anlanden! | Höhle mit Lichtkegel, „Kein“ gelb |
+| 2 | Benagil: die neuen Regeln | Algarve-Küste aus der Luft |
+| 3 | So kommst du rein | Boot vor Höhleneingang |
+
+Stockliste: Pexels 40000897 (Benagil-Höhle); Pexels 36749585 (Algarve-Küste mit Booten); Pexels 36749598 (Klippe und Boote). Suche: benagil cave, algarve coastline boats aerial, algarve sea cave. Hürden: Clips mit Menschen am Höhlenstrand (vor 2024) nicht als heutige Praxis zeigen – mit „früher“ kennzeichnen oder meiden.
+Faktencheck – gesichert: Edital 019/2024 der Capitania Portimão, gültig ab 13.08.2024: kein Anlanden/Aufenthalt am Höhlenstrand, kein Zugang schwimmend/mit Schwimmhilfen, keine Kajakvermietung ohne Guide (Lusa, The Portugal News, Portugal Getaways 2026)
+Faktencheck – vor Posting prüfen: Keine Bußgeldhöhe nennen · Stand 2027 am Vortag
+Quellen: cloud.theportugalnews.com · aman-alliance.org · portugalgetaways.com
+Caption Instagram:
+Was dir keiner sagt #12: In der Benagil-Höhle (Algarve) darfst du seit 13.08.2024 nicht mehr an Land gehen und nicht hineinschwimmen. Kajak nur mit Guide. Hinein per Bootstour – oder kostenlos von oben auf dem Küstenwanderweg schauen. 🇵🇹
+#benagil #algarve #portugal #lagoa #reisetipps #wasdirkeinersagt
+Caption TikTok: Benagil-Regeln seit 2024 🇵🇹 #benagil #algarve #reisetipps
+Plattform-Einstieg: Instagram – Lichtkegel in der Höhle, Overlay „Kein Anlanden“. · TikTok – „Dieses Foto ist seit 2024 nicht mehr erlaubt“ über Höhlenstrand.
+
+## Paket 11 · Reel 37 · Mo 01.02.2027 · Fakt oder Fake? #13
+Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale · Spanien (Mallorca) · Konsens 7,70 (Redaktion 8,40 · Zweitbewertung 7,00)
+ElevenLabs-Voice-over · 95 Wörter · geschätzt ca. 38 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Am Dienstag, 2. Februar, malt die Sonne eine Acht in diese Kathedrale – und dann erst wieder im November. | Pexels 32951982 – Kathedrale mit Küste im Morgenlicht | Hook „Di., 2. Februar“ (keine Untertitel während Hook) | Mallorca Magazin |
+| 2 | La Seu, die Kathedrale von Palma. | Pexels 32952219 – Kathedrale aus der Luft | Untertitel | – |
+| 3 | So funktioniert's: Kurz nach Sonnenaufgang fällt Licht durch die große Rosette im Osten … | Eigene Illustration (als „Illustration“ gekennzeichnet): Rosette Ost, Lichtstrahl | „Illustration“ | Mallorca Magazin |
+| 4 | … und wirft einen Lichtkreis genau unter die Rosette auf der Gegenseite. Zusammen sieht das aus wie eine Acht. | Illustration: zweiter Kreis entsteht, Acht in #FBDC15 | „= 8“ | Mallorca Magazin |
+| 5 | Das klappt nur am 2. Februar und am 11. November – früh morgens und nur, wenn keine Wolke dazwischenkommt. | Pexels 30115226 – Kathedrale | „2.2. & 11.11. · nur bei klarem Himmel“ | Mallorca Magazin |
+| 6 | Also: Fakt. Am Dienstag früh in Palma? Dann hin da. | Kathedrale mit Küste | Untertitel | – |
+| 7 | Das war Fakt oder Fake, Staffel eins. Welche Folge war deine liebste? | Endcard Serie „Fakt oder Fake?“ – Staffelfinale | „Staffel 1 · deine Lieblingsfolge?“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | 2. Februar: Acht aus Licht | Kathedrale im Morgenlicht, „Acht“ gelb |
+| 2 | Nur 2 Tage im Jahr | Kathedrale vom Meer |
+| 3 | Fakt oder Fake #13 | Rosetten-Illustration in Markenfarben |
+
+Stockliste: Pexels 32952219 (Kathedrale Palma, Luft); Pexels 30115226 (Kathedrale Palma); Pexels 32951982 (Kathedrale mit Küste). Suche: palma cathedral aerial, palma de mallorca cathedral sunrise, la seu palma. Hürden: Kein freier Clip des Lichtphänomens gefunden: Die Acht als eigene, gekennzeichnete Illustration zeigen. Bei klarem Himmel am 2.2. keine fremden Social-Clips verwenden.
+Faktencheck – gesichert: Licht-Acht am 2. Februar und 11. November bei Sonnenaufgang, abhängig vom Wetter (Mallorca Magazin, mehrere Jahrgänge) · Rosette mit 11,38 m Durchmesser (Mallorca Magazin 2024)
+Faktencheck – vor Posting prüfen: Öffnungszeit der Kathedrale am 2.2.2027
+Quellen: mallorcamagazin.com
+Caption Instagram:
+Fakt oder Fake #13: Am 2. Februar und am 11. November zeichnet die aufgehende Sonne in der Kathedrale von Palma eine Acht aus Licht – wenn der Himmel klar ist. Schick das deinen Mallorca-Leuten ☀️
+#mallorca #palma #kathedrale #laseu #faktoderfake #reisewissen
+Caption TikTok: Dienstag früh in Palma ☀️ #mallorca #palma #lichtspiel #faktoderfake
+Plattform-Einstieg: Instagram – Kathedrale vom Meer, Overlay „Di., 2. Februar“ ab Sekunde 0. · TikTok – „Dienstag auf Mallorca 👀“ als nativer Text, Kathedrale.
+
+## Paket 12 · Reel 38 · Mi 03.02.2027 · Was dir keiner sagt #13
+Pragser Wildsee: im Sommer nur mit Reservierung · Italien (Südtirol, Pragser Wildsee) · Konsens 7,68 (Redaktion 8,55 · Zweitbewertung 6,80)
+ElevenLabs-Voice-over · 112 Wörter · geschätzt ca. 45 s
+Szenenplan Satz für Satz (ohne Timecodes – Schnitt nach finaler Audiodatei)
+
+| # | Satz | Bild / Clip | Overlay / Grafik | Beleg |
+| 1 | Seit einigen Jahren kommst du hier im Hochsommer tagsüber nur mit Reservierung ins Tal. | Pexels 15708467 – Pragser Wildsee, Drohne | Hook „Hochsommer: nur mit Reservierung“ (keine Untertitel während Hook) | stol.it (Plan Prags) |
+| 2 | Der Pragser Wildsee in Südtirol. | See-Totale (15708467) | Untertitel | – |
+| 3 | Im Sommer 2026 galt: vom 1. Juli bis 15. September, zwischen 9 und 16 Uhr, nur mit Online-Reservierung oder Genehmigung. | Eigene Grafik Kalender + Uhr über Seebild | „1.7.–15.9. · 9–16 Uhr (2026)“ | suedtirol.com, dolomiti.it, ÖAMTC |
+| 4 | Ohne Auto-Reservierung kommst du zu Fuß, mit dem Rad oder mit dem Bus – auch der wird dann vorab gebucht. | Uferweg (15708467) | Untertitel | suedtirol.com |
+| 5 | Vor 9 und nach 16 Uhr ging es ohne Reservierung, solange Parkplätze frei waren. Und morgens ist das Licht am schönsten. | See im Morgenlicht | „vor 9 / nach 16 Uhr“ | stol.it |
+| 6 | Die Regeln für 2027 kommen noch – prüf sie vor der Reise auf der offiziellen Seite des Pragser Tals. | See-Totale | „Regeln 2027: offizielle Seite prüfen“ | – |
+| 7 | Das war ‚Was dir keiner sagt‘, Staffel eins. Welche Regel sollen wir als Nächstes erklären? | Endcard Serie „Was dir keiner sagt“ – Staffelfinale | „Staffel 1 · dein Themenwunsch?“ | – |
+
+Cover
+
+| # | Headline | Bild |
+| 1 | Reservierung nicht vergessen | See mit Spiegelung, „Reservierung“ gelb |
+| 2 | Pragser Wildsee: die Regel | Bootshaus am See |
+| 3 | Früh kommen lohnt sich | See im Morgenlicht |
+
+Stockliste: Pexels 15708467 (Pragser Wildsee, Drohne); Pexels 28963732 (Bergsee in den Dolomiten, Ort prüfen); Pexels 25858228 (Bergsee mit Spiegelung, Ort prüfen). Suche: lago di braies drone, lake braies reflection, braies boathouse. Hürden: Nur 15708467 ist eindeutig als Pragser Wildsee gekennzeichnet – andere Clips vor Verwendung abgleichen. Keine Ticket-/Schranken-Fremdbilder.
+Faktencheck – gesichert: 2026: 1.7.–15.9., 9–16 Uhr Zufahrt nur mit Online-Reservierung/Durchfahrtsgenehmigung; Bus mit Reservierung; See kostenlos (suedtirol.com, dolomiti.it, ÖAMTC 31.08.2026) · Außerhalb 9–16 Uhr ohne Reservierung, sofern Parkplätze frei (stol.it) · „Plan Prags“ mit Zufahrtsbeschränkung seit einigen Jahren, früher 10.7.–10.9. (stol.it)
+Faktencheck – vor Posting prüfen: Regeln und Preise 2027 auf prags.bz vor Posting · Keine Preise nennen
+Quellen: suedtirol.com · dolomiti.it · stol.it
+Caption Instagram:
+Was dir keiner sagt #13: Am Pragser Wildsee galt im Sommer 2026 (1.7.–15.9., 9–16 Uhr): Zufahrt ins Tal nur mit Online-Reservierung. Früh oder spät geht es ohne, der See selbst ist kostenlos. Regeln 2027 vor der Reise prüfen. Welche Regel sollen wir als Nächstes erklären? 🇮🇹
+#pragserwildsee #lagodibraies #südtirol #dolomiten #reisetipps #wasdirkeinersagt
+Caption TikTok: Das musst du vorher wissen 🏔️ #pragserwildsee #südtirol #reisetipps
+Plattform-Einstieg: Instagram – See-Spiegelung, Overlay „Hochsommer: nur mit Reservierung“. · TikTok – „Das gilt hier im Hochsommer 👇“ über See.

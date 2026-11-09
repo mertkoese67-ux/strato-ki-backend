@@ -1,0 +1,46 @@
+# CapCut-Schnittplan H28 · Liegt der größte Wasserfall Europas in der Schweiz?
+
+Mo 11.01.2027 · Fakt oder Fake? #10 · Schweiz (Schaffhausen) · Cluster Natur-WOW
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:34:21 (34.7 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz?  
+**Musik:** kraftvoll-ruhig 90 BPM, Impact bei 600.000, warm am Ende; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Serienkarte:** letzte Szene, Markenfarben, Logo weiß
+
+| Szene | TC Start | TC Ende | Dauer s | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:04:19 | 4.6 | Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz? | Rheinfall aus der Luft: breite Wasserwand, Gischtwolke, Schloss Laufen am Ufer | Rheinfall, Neuhausen/Schaffhausen | Drohne frontal | Totale | langsamer Push-in | Sommer, Mittag | rhine falls aerial, rheinfall drone summer | Hard Cut (Kaltstart) | keiner | Hook-Overlay: FAKT ODER FAKE? · „größter Wasserfall Europas?“ (gelb: größter) | kraftvoll-ruhig, 90 BPM | Rauschen | keine Untertitel (Hook) |
+| 2 | 00:00:04:19 | 00:00:07:19 | 3.0 | [curious] Hoch ist er nicht: nur dreiundzwanzig Meter. | Seitliche Ansicht mit Felsen im Fall, Höhenlinie 23 m als Grafik | Rheinfall, Südufer | Bodenkamera seitlich | Halbtotale | statisch + Maßlinie | Mittag | rhine falls side view rock, rheinfall felsen | Hard Cut | Schnitt | Maßlinie „23 m“ | Puls | Zeichen-Whoosh | 1 Zeile, „23“ gelb |
+| 3 | 00:00:07:19 | 00:00:13:15 | 5.9 | Aber hundertfünfzig Meter breit – und im Sommer stürzen rund sechshunderttausend Liter pro Sekunde hinab. | Gischt in Nahaufnahme, dann Breitenlinie 150 m über der Totale; Zähler 600.000 l/s | Rheinfall | Nah → Drohne | Nah → Totale | Slider → Flug | Mittag | rhine falls spray close, rhine falls wide aerial | Hard Cut | Schnitt | „150 m breit“ · „~600.000 l/s (Sommer)“ | Beat öffnet | Impact leise | 2 Zeilen, Zahlen als Ziffern gelb |
+| 4 | 00:00:13:15 | 00:00:16:16 | 3.0 | Also: Kommt drauf an, wie man misst. | Luftbild hält, Stempel | Rheinfall | Drohne | Totale | statisch | Mittag | rhine falls aerial | Hard Cut | Schnitt | Stempel „KOMMT DRAUF AN“ | Auflösung | Stempel | 1 Zeile, „misst“ gelb |
+| 5 | 00:00:16:16 | 00:00:23:06 | 6.7 | Nach der Wassermenge gilt der Rheinfall als einer der größten Wasserfälle Europas. Höhere gibt es viele. | Rheinfall-Totale mit Overlay „gilt als“; kleine Grafik: Höhe vs. Menge als zwei Balken | Rheinfall | Drohne | Totale | Orbit | Mittag | rhine falls total | Hard Cut | Schnitt | „nach Wassermenge · gilt als“ · Balken Höhe/Menge | Puls | – | 2 Zeilen, „Wassermenge“ gelb |
+| 6 | 00:00:23:06 | 00:00:30:09 | 7.1 | Tipp: Im Sommer führt er am meisten Wasser – und Boote bringen dich zum Felsen mitten im Fall. | Boot nähert sich dem Felsen mitten im Fall, Menschen klein auf dem Felsen (keine Gesichter) | Rheinfall, Mittelfelsen | Bodenkamera/Drohne tief | Totale | Push-in | Sommer | rhine falls boat rock, rheinfall boot felsen | Hard Cut | Schnitt | Nutzwert-Overlay „Sommer · Boot zum Felsen“ | warm, Abschluss | Rauschen laut | 2 Zeilen, „Felsen“ gelb |
+| 7 | 00:00:30:09 | 00:00:34:21 | 4.4 | Nächsten Montag: Machen auf den Malediven Fische Sand? | Serienkarte „Fakt oder Fake?“ #10 | – | Grafik | Vollbild | Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | FAKT ODER FAKE? #10 · Montag: Fische machen Sand? | Outro | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Rheinfall Luft** – Pexels 29038189 · Suche: rhine falls aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 1,4,5
+- **Rheinfall dramatisch** – Pexels 37924187 · Suche: rhine falls dramatic · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 2
+- **Rheinfall im Sommer** – Pexels 38371519 · Suche: rhine falls summer · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 3,6
+- **Boot zum Mittelfelsen** – Pexels Suche „rhine falls boat“ · Suche: rhine falls boat rock, rheinfall schifffahrt · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 6
+- **Maßlinien/Balken** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 2,3,5
+- **Serienkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 7
+
+## Fakten
+
+- ✅ 150 m breit, 23 m hoch; Ø Sommer ca. 600 m³/s, Winter ca. 250 m³/s; mittlere Wasserführung 373 m³/s (Wikipedia-Daten, schwarzwaldportal.com)
+- ✅ „einer der größten und wasserreichsten Wasserfälle Europas“ (Europeana/Badisches Landesmuseum, schwarzwaldportal.com)
+- ✅ Bootsfahrten zum Felsen mitten im Fall (Saison) (rheinfall.ch – Saison vor Posting prüfen)
+- ⚠️ prüfen: Nicht absolut „der größte“ sagen – nur „gilt als“/„einer der größten“
+- ⚠️ prüfen: Winterclip nicht mit Sommerzahl kombinieren
+- ⚠️ prüfen: Bootssaison 2027 prüfen (Posting im Januar: Tipp bezieht sich auf Sommer)
+
+Quellen: schwarzwaldportal.com · doc.surf · rheinfall.ch
+
+## Vor Posting prüfen
+
+- [ ] „gilt als“
+- [ ] Sommerclip/Sommerzahl
+- [ ] Bootssaison

@@ -1,0 +1,195 @@
+{
+ "stand": "2026-11-09T03:49:46.690Z",
+ "html": "/home/user/strato-ki-backend/haydi-weg-reels/studio/reel-studio-v38.html",
+ "passed": 31,
+ "failed": 0,
+ "seconds": 18,
+ "results": [
+  {
+   "id": "T01",
+   "name": "Studio lädt ohne JavaScript-Fehler",
+   "ok": true,
+   "detail": "keine Fehler"
+  },
+  {
+   "id": "T02",
+   "name": "Hauptplan 39 Reels geladen, 51 Specials erhalten",
+   "ok": true,
+   "detail": "main=39 specials=51 alle=90"
+  },
+  {
+   "id": "T02b",
+   "name": "IDs H01–H39 vollständig und eindeutig",
+   "ok": true,
+   "detail": "H01,H02,H03…"
+  },
+  {
+   "id": "T03",
+   "name": "Alle Studio-Karten vorhanden",
+   "ok": true,
+   "detail": "Content-Studio – Konzept & Produktionsstatus | Hook-Studio – 5 Hooks, Bewertung, Sieger & 3 Cover | CapCut-Studio – vollständiger Schnittplan (16 Felder je Szene) | KI-Produktionsplan | Sprechtext für ElevenLabs | Fertiges Video aus CapCut | Voiceover – damit die Untertitel exakt sitzen | Audio-Analyse – reale Sprechdauer | Hook – Schlagzeile am Anfang | Untertitel | Beschreibung für Instagram, Ti"
+  },
+  {
+   "id": "T04",
+   "name": "Hook-Studio: 5 bewertete Hooks, Sieger wechselbar und gespeichert",
+   "ok": true,
+   "detail": "rows=5 pick=2"
+  },
+  {
+   "id": "T04b",
+   "name": "195 Hooks mit je 7 Kriterien bewertet",
+   "ok": true,
+   "detail": "39 × 5 = 195"
+  },
+  {
+   "id": "T05",
+   "name": "Cover: 3 Konzepte, Übernahme als Hook-Overlay wirkt auf Kopfzeile",
+   "ok": true,
+   "detail": "hook=\"*×4* Hotelbetten seit 2002\""
+  },
+  {
+   "id": "T05b",
+   "name": "117 Cover-Konzepte insgesamt",
+   "ok": true,
+   "detail": "117"
+  },
+  {
+   "id": "T06",
+   "name": "Sprechtexte: 39 vollständig, Zahlen ausgeschrieben, ≤3 Tags, keine Platzhalter, 50–95 Wörter",
+   "ok": true,
+   "detail": "alle ok"
+  },
+  {
+   "id": "T06b",
+   "name": "Sprechtext-Kopierknopf vorhanden",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "id": "T07",
+   "name": "CapCut-Plan: 16 Felder je Szene, Timecodes HH:MM:SS:FF, Status vorläufig ohne Audio",
+   "ok": true,
+   "detail": "rows=7 cols=18 badge=Zeiten vorläufig"
+  },
+  {
+   "id": "T07b",
+   "name": "Alle 39 Schnittpläne mit vollständigen Feldern",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "id": "T08",
+   "name": "Timecode-Mathematik (30 fps, HH:MM:SS:FF, lückenlose Szenen, Summe = Gesamt)",
+   "ok": true,
+   "detail": "{\"a\":true,\"b\":true,\"c\":true,\"d\":true,\"cont\":true,\"sum\":true,\"t\":\"00:01:01:01\"}"
+  },
+  {
+   "id": "T09",
+   "name": "Audio-Upload WAV: Datei gespeichert, reale Dauer erkannt, CapCut-Zeiten „aus Audio“",
+   "ok": true,
+   "detail": "dur=20.043990929705217 badge=Zeiten aus Audio letzte Szene Ende=00:00:20:20"
+  },
+  {
+   "id": "T09b",
+   "name": "Audio-Analyse zeigt Segmente, Silbenkerne und Abweichung zur Schätzung",
+   "ok": true,
+   "detail": "8Audio-Analyse – reale Sprechdauer & SynchronisationDateivo_test.wavReale Sprechdauer00:00:20:01 (20.04 s)Schätzung vorher00:00:33:26 → Abweichung −13.8 sSprechtempo4.14 Wörter/s (83 Wörter)Sprachsegmente6 erkannt · erstes ab 00:00:00:03Silbenkerne61 erkannt ("
+  },
+  {
+   "id": "T11",
+   "name": "Untertitel aus Audio: Zeilen monoton, erste ≥ Stimmstart, letzte ≤ Audioende",
+   "ok": true,
+   "detail": "{\"n\":23,\"first\":0.2,\"last\":19.670000000000005,\"mono\":true,\"dur\":20.043990929705217,\"vs\":0.1}"
+  },
+  {
+   "id": "T12",
+   "name": "Manuelle Zeitkorrektur je Zeile wird übernommen und gespeichert",
+   "ok": true,
+   "detail": "{\"src\":\"manual\",\"n\":23,\"t2\":1.24}"
+  },
+  {
+   "id": "T12b",
+   "name": "Zurück auf automatische Zeiten",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "id": "T13",
+   "name": "Speicherung: Audio, Notizen und Hook-Wahl überleben das Neuladen (localStorage + IndexedDB)",
+   "ok": true,
+   "detail": "{\"cur\":\"H03\",\"vo\":\"vo_test.wav\",\"notes\":\"Testnotiz 123\",\"pick\":2,\"have\":true}"
+  },
+  {
+   "id": "T10",
+   "name": "Audio-Upload MP3: dekodiert, Dauer erkannt",
+   "ok": true,
+   "detail": "{\"real\":true,\"dur\":20.043990929705217}"
+  },
+  {
+   "id": "T14",
+   "name": "Export CapCut-Schnittplan CSV",
+   "ok": true,
+   "detail": "haydi-weg_2026-11-16_H04_stammt-das-matterhorn-aus-afrika_capcut.csv"
+  },
+  {
+   "id": "T14b",
+   "name": "Export Produktionspaket ZIP (Schnittplan, Sprechtext, SRT, Hooks, Cover, Stock, Fakten, Captions, Audio)",
+   "ok": true,
+   "detail": "haydi-weg_2026-11-16_H04_stammt-das-matterhorn-aus-afrika_produktionspaket.zip"
+  },
+  {
+   "id": "T14c",
+   "name": "Export SRT mit Zeitstempeln",
+   "ok": true,
+   "detail": "haydi-weg_2026-11-16_H04_stammt-das-matterhorn-aus-afrika_untertitel.srt"
+  },
+  {
+   "id": "T14d",
+   "name": "Export Gesamtpaket aller 39 (ZIP)",
+   "ok": true,
+   "detail": "haydi-weg_hauptplan_2026-11-09_bis_2027-02-05.zip"
+  },
+  {
+   "id": "T15",
+   "name": "Freigabe ohne Fakten-/Material-/Hook-Check wird blockiert (mit Hinweis)",
+   "ok": true,
+   "detail": "Freigabe erst, wenn Faktencheck, Materialcheck, Vortags-Prüfung und Hook-QA abgehakt sind."
+  },
+  {
+   "id": "T15b",
+   "name": "Ungültige Import-Datei wird abgewiesen",
+   "ok": true,
+   "detail": "Kein Hauptplan-Format (reels_hauptplan_v2) erkannt."
+  },
+  {
+   "id": "T16",
+   "name": "Hauptplan-JSON-Import ersetzt Inhalte, behält Studio-Zustand (Audio) je Reel-ID",
+   "ok": true,
+   "detail": "title=TEST-IMPORT Matterhorn vo=vo_test.mp3"
+  },
+  {
+   "id": "T16b",
+   "name": "Importierter Hauptplan überlebt Neuladen und lässt sich auf die eingebettete Fassung zurücksetzen",
+   "ok": true,
+   "detail": "TEST-IMPORT Matterhorn"
+  },
+  {
+   "id": "T17",
+   "name": "Specials (v37-Daten) rendern unverändert, ohne Hauptplan-Karten",
+   "ok": true,
+   "detail": "special=V-N01 cards=9"
+  },
+  {
+   "id": "T18",
+   "name": "Mobile Ansicht (390 px): kein horizontales Scrollen, Reel-Auswahl mit allen Reels",
+   "ok": true,
+   "detail": "{\"sw\":390,\"iw\":390,\"pick\":90}"
+  },
+  {
+   "id": "T19",
+   "name": "Keine JavaScript-Fehler während der gesamten Testfahrt",
+   "ok": true,
+   "detail": "keine"
+  }
+ ]
+}

@@ -1,0 +1,664 @@
+
+# haydi-weg 90-Tage-Content-Strategie – Phase 3
+ · 
+
+## 1. Entscheidungen auf einen Blick
+haydi-weg wird in den nächsten 90 Tagen ein Hotelkanal vom Reisebüro: selbst besuchte Hotels, ehrlich eingeordnet, filmisch erzählt, ohne Moderator und ohne Verkauf. Der Plan umfasst 111 Inhalte mit 162 Veröffentlichungen vom 04.11.2026 bis 30.01.2027. Gestartet wird am Mittwoch, 04.11.; die drei Beiträge vom 02. und 03.11. sind verlegt, nichts ist gestrichen (Abschnitt 7). Er ist vollständig geplant, der November ist produktionsfertig.
+
+| Entscheidung | Festlegung | Grundlage |
+| Positionierung | „Hotels, selbst besucht und ehrlich eingeordnet – vom Reisebüro, ohne Moderator“ | Hotel ist die stärkste eigene Formatklasse (1,67-fach), Nische in der Stichprobe von 19 Accounts frei (vorläufig) |
+| Menge pro Monat | 17 Videos (5 Hotel-Checks und -Geschichten, 4 Vergleiche, 4 Reiseinfos, 4 WOW-Edits), 8 Instagram-Karussells, 12 TikTok-Fotobeiträge | Startmodell aus dem Auftrag; Mengen ändern sich nur nach Testergebnissen |
+| Säulenmix | Videos: Hotel 29 %, Vergleich 24 %, Reisewissen 24 %, WOW 24 %. Alle Inhalte: 61 % mit direktem Hotelbezug | Hotelvergleiche 4 von 4 mit Follows; „selbst getestet“ einziges Karussell-Thema mit Follows |
+| Kernserien | Hotel-Duell (wöchentlich), Hotel in 25 Sekunden → ab Dezember Hotel-Check, Hotelgeschichten (monatlich, abhängig von T1 und T8), Wohin im Winter?, Reisebüro-Wissen, Selbst besucht (Karussells), haydi-weg Cinematic | Phase 2: Serien bauen Wiedererkennung, garantieren aber keine Reichweite |
+| Plattformrollen | Instagram: Follower-Quelle (Reels 19 Uhr, Karussells mit eigener Erfahrung). TikTok: Reichweite und Suche (Hotelnamen im Hook, Playlists, Fotobeiträge für Saisonthemen) | Phase 1: die meisten Follows kamen über Instagram; TikTok-Fotobeiträge tragen bei Saisonthemen |
+| Tests | T1–T8 im November, je Test eine Variable; Auswertung 01.12., 03.12. , 04.12. und 08.12., Entscheidung am 07.12. | Phase 1, angepasst in Phase 2 |
+| Ziel 30.01.2027 | Instagram-Follower: Minimum 3.200, Ziel 4.000, Stretch 5.300 (Stand 26.10.2026: 2.606) | Netto-Bedarf für 10.000 am 30.04.2027: 278 pro Woche; dafür müssten es am 30.01. rund 6.400 sein |
+| Kapazität | Bedarf 407 Stunden vom 28.10. bis 30.01. gegen 348 Stunden angenommene Kapazität (28 h in Normalwochen, weniger in Reise- und Feiertagswochen): 117 % , mit Skripten aus den Fortsetzungspaketen rund 102 %. Spitze vor der Reise: rund 11 7 Stunden in KW 44–46 | Aufwandsschätzung je Format (Produktionsplan) |
+
+Drei Punkte, die das Team bis 30.10. klärt:
+- Kapazität vor der Reise: Zwei Batch-Wochen mit je etwa 40 Stunden (KW 45 und 46) einplanen. Reicht das nicht, entfallen zuerst N17 und N16, D03 rückt in den Januar.
+
+- Leon während der Reise: Er setzt Karussells und Fotobeiträge im Karussell-Studio um, veröffentlicht und sammelt die Messwerte. Kann er das nicht, müssen auch diese vor dem 14.11. fertig sein.
+
+- Lizenzen: Fremdmaterial für Marina Bay Sands bis 06.11., für Burj Al Arab bis 13.11. schriftlich sichern, sonst greifen die Alternativen im Kalender.
+
+Verbindliche Regeln bis Ende Januar: keine Person als Moderator, keine erkennbaren Kinder, keine Preise, keine Buchungs- oder DM-Aufforderung, kein Link in Captions, höchstens 5 Hashtags auf Instagram, Musik nur mit kommerzieller Lizenz, Siegel „Selbst besucht“ nur bei eigenem Material, jeder Fakt mit Quelle, kein Anbieter wird schlechtgemacht, Kooperationen und Einladungen werden gekennzeichnet.
+Unterlagen: Excel-Kalender (alle 162 Veröffentlichungen mit 18 Pflichtfeldern, Produktionsplan, Tests), Reel Production Bible (21 fertige Video-Pakete, Briefings Dezember und Januar), Carousel Design & Copy Bible (25 fertige Beiträge: alle 20 aus dem November und die 5 während der Reise; Konzepte Dezember und Januar), Growth & Performance Dashboard (Excel).
+
+## 2. Ausgangslage
+Phase 1 und Phase 2 liefern eine klare Stärke und viele offene Fragen. Belegt ist, dass eigene Hotelaufnahmen Reichweite bringen und dass Vergleiche und Beiträge mit eigener Erfahrung Follower gewinnen. Nicht belegt ist, warum die Mardan-Geschichte so stark lief und ob sich das wiederholen lässt. Diese Fragen klären die Tests im November.
+
+### Stand am Stichtag
+
+| Kennzahl | Wert | Stichtag, Quelle | Status |
+| Instagram-Follower | 2.606 | 26.10.2026, Zielgruppen-Export | A |
+| TikTok-Follower | 2.7 85 | 27.10.2026, Phase 2 (Briefing: 2.733) | A |
+| Brutto-Neufollower Instagram | 4 2 –48 pro Woche | 09.–24.10.2026; Entfolgungen nicht gemessen | B |
+| Beitragsbezogene Follows | 285 in 90 Tagen, davon 217 aus der Mardan-Geschichte | 28.07.–25.10.2026 | A, B |
+| Follows je 1.000 erreichte Konten | 1,69, ohne Mardan-Geschichte 1,24 | 90 Tage | B |
+| Median-Aufrufe Instagram-Reels | 2.010 | 90 Tage | B |
+| Median-Reichweite Instagram-Karussells | 100 Konten (knapp 4 % der Follower) | 90 Tage | B |
+| Median-Views TikTok | 1.221 (39 reife Beiträge); Videos ab 09.10. nur 424 | Stand 27.10.2026 | B |
+| Zielgruppe | 74 % 25–54 Jahre, 57 % Männer, DACH 48,8 %, Region Minden 7,3 % | 26.10.2026 | A |
+| YouTube | über 55.000 Abonnenten (Phase 2: über 53.000; vor Nutzung in der Bio in YouTube Studio prüfen) | Oktober 2026 | Angabe |
+
+A gemessen · B nachgerechnet · C plausible Hypothese · D nicht belegt.
+
+### Was wir übernehmen und was wir testen
+
+| Erkenntnis | Beleg | Umgang im Plan |
+| Eigene Hotelaufnahmen bringen Reichweite | Die fünf meistgesehenen Beiträge beider Plattformen zeigen selbst gefilmte Hotels (B) | Kern beider Kanäle: 61 % der Inhalte mit direktem Hotelbezug |
+| Vergleiche gewinnen Follower | 4 von 4 Vergleichen mit Follows, 6,2 Shares je 1.000 Aufrufe (B, n = 4) | Hotel-Duell wöchentlich; Test T4 für die Länge |
+| „Selbst getestet“ ist das einzige Karussell-Thema mit Follows | 2 Karussells, 14 von 14 Karussell-Follows (B, n klein) | Test T5: 4 gegen 4 Karussells |
+| Karussells werden kaum ausgespielt | 12 von 13 liefen um 12 Uhr (B), Ursache offen (C) | Test T7: 12 gegen 18 Uhr |
+| Die Mardan-Geschichte war ein Ausreißer | 152.273 Aufrufe, 217 Follows (A); Ursache nicht isolierbar (C) | Tests T1, T2, T8 mit zwei neuen Hotels, ohne Mardan |
+| Eine Frage oder Zahl im ersten Bild unterscheidet Spitzen von schwachen Beiträgen | 10 von 16 gegen 3 von 16 (Phase 2, C) | Test T3; Hook immer im ersten Bild |
+| TikTok-Fotobeiträge tragen bei Saisonthemen | Wintersonne Rotes Meer 4,7-fach (B) | Fotobeiträge für Saison und Listen; Test T6 gegen Video |
+| Views sind kein Follower-Maß | Swandor 23.10.: 11.868 Konten, 5 Follows (A) | Primär-KPI je Format, Netto-Wachstum wöchentlich |
+| Serien halten ihr Niveau nicht automatisch | meiste Wettbewerbsserien fallen in der zweiten Hälfte (Phase 2, B/C) | Serien mit wechselndem Hotel, Entscheidung nach je 4 Folgen |
+| Bezahlte Ausspielung verzerrt Wettbewerbswerte | 7 von 28 Top-Beiträgen mit starken Hinweisen (C) | Keine Ziele aus fremden Spitzenwerten |
+
+Was dieser Plan anders macht als der Reel-Plan vom Oktober: Der Oktober-Plan setzte auf Material der Hotels und auf lizenzfreie Videos statt auf eigene Drehs. Beide Analysen zeigen aber eigene Aufnahmen als die belegte Stärke, und der Auftrag fordert Hotel-Checks und Hotelgeschichten. Deshalb kommen eigene Aufnahmen zuerst; Fremdmaterial läuft nur im Test T8 und in einzelnen Reisewissen-Videos, immer mit Lizenz.
+
+## 3. Positionierung und Zielgruppen
+Positionierung für 90 Tage: haydi-weg zeigt Hotels, die das Team selbst besucht hat, und ordnet sie ehrlich ein: für wen sie passen, was man vorher wissen sollte, was sie besonders macht. Dazu kommt Reisebüro-Wissen für echte Entscheidungen. Erzählt wird mit eigenen, hochwertigen Bildern und einer ruhigen Stimme, ohne Gesicht vor der Kamera und ohne Angebot.
+Das ist eine Verbindung der Richtungen 1 und 2 aus Phase 2: der ehrliche Hotel-Check und die Hotelgeschichte mit Cinematic-Bildern. Richtung 3 (Vorfreude und Planung) dient als Zubringer über Saisonthemen und Fotobeiträge.
+
+### Warum man haydi-weg folgt
+
+| Versprechen | Wie es sichtbar wird |
+| Wir waren da | Siegel „Selbst besucht · Monat Jahr“, Orts-Tag, eigene Aufnahmen; über 120 selbst besuchte Hotels als Beleg in der Bio (Wortlaut aus Phase 1) |
+| Wir ordnen ein | Jedes Hotelvideo endet mit „Für wen?“; Vergleiche mit Urteil je Reisetyp |
+| Wir sagen auch, was nicht passt | „Passt weniger, wenn …“ statt Hochglanz; Winterwetter ehrlich (N04) |
+| Wir wissen, was vor der Buchung zählt | Reisebüro-Wissen: Silvester-Gala, Katalogsprache, Check-in, Reisedokumente |
+| Es sieht gut aus | Cinematic-Standard, ein Look pro Woche, keine Vorlagen-Optik |
+
+### Abgrenzung
+
+| Account | Was sie prägt | Was haydi-weg anders macht |
+| Urlaubsguru, Urlaubspiraten | Deals, Masse, Listen, Kommentar-zu-DM | keine Angebote, keine DM-Mechanik, Hotelurteil statt Schnäppchen |
+| Hotelreport | Urteile mit Gesicht im Studio | ohne Moderator, eigene Aufnahmen vor Ort, Reisebüro-Praxis |
+| schauinsland, TUI | Markenmaterial und Hotel-Spotlights | eigener Blick auf Hotels verschiedener Veranstalter, mit „Für wen“; Partnerschaften (z. B. mit Selectum) werden offen genannt |
+
+Keine Formulierungen, Serienmarken oder Dramaturgien dieser Accounts werden übernommen; die Begleitungs-Formel „Du & ich“ bleibt tabu.
+
+### Zielgruppen
+
+| Gruppe | Wer | Was sie braucht | Formate | Anteil am Plan |
+| Z1 Familien mit Kindern | Eltern 30–50, Sommerferien NRW und Niedersachsen | Kinderclub, Rutschen, Strand, Zimmer, Ferientermine | Hotel-Duell, Karussells „Selbst besucht“, Ranking im Januar | 36 % |
+| Z2 Paare 30–55 | Komfort, Ruhe, Stil | Lage, Atmosphäre, Adults-only-Bereiche | Hotelgeschichten, Hotel-Checks, WOW | 20 % |
+| Z3 Türkei-Wiederholer | deutschsprachig, auch Deutsch-Türken | neue Häuser, Vergleiche, Hintergründe | Geschichten, Duelle, Rätsel | 11 % |
+| Z4 Winter-Sonnensucher | Reisen November bis März | Temperaturen, Ziele, Einreise | Wohin im Winter?, Ägypten, Kanaren | 9 % |
+| Z5 Hotel- und Architekturfans | teilen gern, folgen seltener | Besonderes, Superlative mit Beleg | Hotelgeschichten, Showcases | 5 % (dazu Reichweite) |
+| Z6 Erstbucher und Planer | wenig Reiseerfahrung | Begriffe, Abläufe, Dokumente | Reisebüro-Wissen | 14 % |
+| Z7 Fernreise-Planer | Winter und Frühjahr | Klima, Flugzeit, Kinder | Fernweh, Singapur, Dubai, Karibik | 5 % |
+
+Anteile nach der primären Zielgruppe der 111 Inhalte; viele Beiträge erreichen zusätzlich weitere Gruppen.
+
+### Qualifizierte deutschsprachige Follower
+Nur 48,8 % der Instagram-Follower leben im DACH-Raum. Der Plan richtet sich deshalb bewusst an Deutschland: deutsche Sprache in Bild und Ton, Ferientermine NRW und Niedersachsen, Abflughäfen der Region, Familienentscheidungen für den Sommer 2027. Gemessen wird im Dashboard der DACH-Anteil der Follower einmal im Monat.
+
+## 4. Content-System
+Fünf Säulen, sieben Serien, ein fester Test-Rahmen. Priorität haben die Säulen, die in den eigenen Daten Follows gebracht haben: Hotelvergleiche und Beiträge mit eigener Hotelerfahrung. Hotelgeschichten bekommen einen festen Platz, bleiben aber an die Tests T1 und T8 gebunden.
+
+### Säulen und Anteile
+
+| Säule | Rolle | Videos pro Monat | Anteil Videos | Anteil aller 111 Inhalte | Formate | Primäre KPI |
+| A Hotel-Check | Vertrauen und Follows durch eigene Einordnung | 2–5 (zusammen mit B: 5) | 20 % | 41 % (mit Karussells und Fotobeiträgen „Selbst besucht“) | Hotel in 25 Sekunden, ab Dezember Hotel-Check mit festem Raster, Karussell „Selbst besucht“, Hotel-Steckbrief | Follows je 1.000, Saves |
+| B Hotelgeschichte | Reichweite und Shares, Markenerzählung | 0–3 (zusammen mit A: 5) | 10 % | 5 % | Geschichte 60–75 s | Follows je 1.000, Ø Wiedergabe |
+| C Vergleich und Ranking | Follows, Saves, Kommentare | 4 | 24 % | 11 % | Hotel-Duell kurz und lang, Ranking | Follows je 1.000, Saves |
+| D Reisewissen | Saves, Vertrauen, Suche | 4 | 24 % | 33 % (mit Karussells und Fotobeiträgen) | Reisebüro-Wissen, Wohin im Winter?, Ferienkalender | Saves, Shares |
+| E Cinematic und WOW | Shares, Markenbild, neue Zuschauer | 4 | 24 % | 11 % | Hotel Showcase, Destination WOW, Pure Cinematic, Cinematic Storytelling | Shares, Wiedergabe in % |
+
+Begründung: Hotelvergleiche brachten 4 von 4 Mal Follows und die zweithöchste Share-Rate (B, n = 4). Die beiden Karussells mit eigener Erfahrung holten alle 14 Karussell-Follows. Eigene Hotelclips liefern die Reichweite, aber wenige Follows (0,89 je 1.000), deshalb bekommen sie im Plan eine Frage, eine Einordnung und eine Serie. Reisebüro-Wissen holte auf Instagram 2,24 Follows je 1.000 Konten und lag damit über dem Kontoschnitt, erreichte aber wenige Menschen; Ratgeber liefen im Wettbewerb nur 0,27-fach (Phase 2). Es bleibt deshalb für Saves, Suche und Follows, nur noch als konkrete Entscheidungshilfe statt als Tippliste. Die Ratgeber-Fotobeiträge auf TikTok laufen im Dashboard als eigene Gruppe und werden im Januar nach ihren Werten reduziert oder behalten. WOW-Edits sind die günstigste Reichweitenwette und prüfen, welche Bildsprache trägt.
+
+### Serien
+
+| Serie | Plattform | Takt | Aufbau | Bleibt, wenn … |
+| Hotel-Duell | beide | wöchentlich | „A oder B?“, fünf Kriterien mit Nummer, Urteil je Reisetyp, Frage | Follows je 1.000 mindestens auf Kontoschnitt (1,24) |
+| Hotel in 25 Sekunden | beide | November wöchentlich (Testvorlage) | Hook, vier Fakten, „Für wen?“ | wird ab Dezember zum Hotel-Check; bleibt als Kurzformat, wenn T1 den Rundgang vorn sieht |
+| Hotel-Check | beide | ab Dezember 1–2 pro Woche | festes Raster: Lage · Strand · Pool · Zimmer · Essen · Für wen, Urteil | 3 von 4 Folgen über dem Minimum |
+| Hotelgeschichten | beide | 2–3 im November (Tests), danach monatlich , wenn T1 die Geschichte vorn sieht (im Januar wird dann J08 oder J16 zur Geschichte) | Frage → drei Enthüllungen → Einordnung → Für wen → Frage | T1: Geschichte bei beiden Hotels vorn und mindestens 1,5-fache Sehdauer |
+| Wohin im Winter? (später Wohin im Sommer?, Wohin im Frühling?) | beide, Fotos v. a. TikTok | 2 pro Monat | Ziele mit belegten Werten, Vergleich, Speichern | Saves über 1,7 je 1.000 |
+| Reisebüro-Wissen | beide | 2 pro Monat | fünf Fragen oder Punkte, Tipp, Frage | Saves und Shares über Reel-Median |
+| Selbst besucht | Instagram-Karussell, TikTok-Foto | 4 pro Monat | Liste selbst besuchter Hotels nach einem Kriterium | T5: mindestens doppelt so viele Follows wie „allgemein“ |
+| haydi-weg Cinematic | beide | wöchentlich | vier Varianten, Frage am Ende | Shares je 1.000 über Reel-Median (1,9) |
+
+Jede Serie trägt einen Serienhinweis mit Folgennummer und läuft auf TikTok als Playlist. Nach vier Folgen entscheidet das Dashboard über Fortsetzung.
+
+### Formate im Test (nicht bewiesen)
+- Hotelgeschichte gegen Rundgang (T1) und eigenes gegen lizenziertes Material (T8)
+
+- lange gegen kurze Hotel-Duelle (T4)
+
+- Frage gegen Zahl im ersten Bild (T3), bekanntes gegen weniger bekanntes Hotel (T2)
+
+- „Selbst besucht“ gegen allgemeine Karussells (T5), 12 gegen 18 Uhr (T7)
+
+- TikTok-Fotobeitrag gegen Video zum selben Thema (T6)
+
+- vier WOW-Varianten (Auswertung 01.02.2027)
+
+- Hotel-Rätsel und Abstimmungen auf TikTok („Errätst du das Hotel?“, „Nur eins darfst du wählen“)
+
+- POV-Fotoreihen ohne Person („Ein Tag im Hotel“)
+
+### Bewusst nicht produziert
+
+| Thema oder Format | Grund |
+| Memes, Stimmungsbilder, Trend-Witze | auf beiden Plattformen am schwächsten (Phase 1) |
+| News ohne eigenen Bezug (z. B. Neueröffnungen, die wir nicht kennen) | „Neu auf Kreta“ mit 93 Konten; keine Glaubwürdigkeit ohne Besuch |
+| Hotel-Akten mit Fremdmaterial außerhalb von T8 | Atlantis-Akte 1.854 Aufrufe, 0 Follows |
+| Preise, Deals, „Angebot des Tages“ im Feed | Markenregel bis Januar; Story-Angebote bleiben getrennt und nicht im Plan |
+| Kommentar-zu-DM, Links, Buchungsaufforderungen | Markenregel; Phase 2 sah DM-Mechanik bei Deal-Accounts, das passt nicht zur Positionierung |
+| Person vor der Kamera | Markenregel bis Januar |
+| Vergleiche, die Anbieter oder Hotels schlechtmachen | „Wir wollen niemanden schlecht reden“ |
+| Wiederholungen: Brückentage, Riviera-Orte (Lara, Belek, Side), Ultra All Inclusive gegen All Inclusive, Teenager-Hotels (frühestens im Frühjahr 2027 als Update mit neuen Häusern) | gab es schon |
+| Weihnachtsmarkt-Formate | kein Hotelbezug, passt nicht zur Positionierun g |
+| YouTube-Ankündigungen als Caption, zweite Fassung am Folgetag | Swandor 23.10.: viel Reichweite, kaum Follows; Hotel-Akte #2 konkurrierte mit dem Original |
+| Ferien anderer Bundesländer als NRW und Niedersachsen | Zielgruppe und Markenregel |
+
+## 5. Instagram-Strategie
+Instagram ist bisher die Hauptquelle der Follows. Reels erreichen dort so viel wie auf TikTok, Karussells kaum. Ziel ist deshalb nicht mehr Reichweite um jeden Preis, sondern mehr Follows je erreichtem Konto.
+
+| Baustein | Vorgabe | Begründung |
+| Reels | 17 pro Monat, 19 Uhr, eigene Instagram-Fassung: Cover-Headline als Entscheidungsfrage, erste Caption-Zeile mit Hotel oder Ort | Testkonstante; Follower am aktivsten 18–21 Uhr (C) |
+| Karussells | 8 pro Monat; im November Test T5 („selbst besucht“ gegen allgemein) und T7 (12 gegen 18 Uhr) | Karussells holten Follows nur mit eigener Erfahrung im Titel (B, n = 2) |
+| Caption | Hook plus Hotelname, 3–5 Zeilen belegte Fakten, eine Frage; kein Link, keine DM-Aufforderung | Phase 1: Swandor 23.10. mit YouTube-Hinweis kaum Follows |
+| Hashtags | höchstens 5, Hotel, Ort, Thema | Instagram begrenzt seit Ende 2025 auf 5 |
+| Alternativtext | bei jedem Beitrag mit Hotel und Ort | Auffindbarkeit, Barrierefreiheit |
+| Grund zum Folgen | Serienhinweis mit Folgennummer im Bild und in der Caption („Folge 3 von Hotel-Duell“) | statt YouTube-Ankündigung |
+| Community | erste 60 Minuten nach Veröffentlichung Kommentare beantworten, als Reisebüro, nie im Namen des Hotels; Fragen mit einem belegten Detail beantworten | Interaktion bisher niedrig; Kommentare sind das stärkste Vertrauenssignal |
+
+### Profil
+- Bio (Vorschlag): „Hotels, selbst besucht und ehrlich eingeordnet. Über 120 Hotels selbst besucht. Reisebüro in Minden. YouTube: 55.000+ Abonnenten.“ Link nur haydiweg.de.
+
+- Angepinnt: die Mardan-Geschichte, „5 Hotels, selbst getestet“ und ab Dezember der beste November-Beitrag nach Follows.
+
+- Highlights: Hotel-Duell · Hotelgeschichten · Wohin im Winter? · Selbst besucht. Cover in Dunkelblau mit weißem Symbol.
+
+### Stories (außerhalb der Plan-Zählung)
+Die Stories bleiben ein eigener Kanal. Empfehlung: Das „Angebot des Tages“ behält seinen Platz, dominiert aber nicht. Daneben täglich eine Story ohne Verkauf: eine Abstimmung zum nächsten Duell, ein Detail aus dem Dreh, ein Hinweis auf den neuen Beitrag. Abstimmungen liefern zugleich Themen für Dezember und Januar.
+
+### Was Instagram im Dashboard bewertet
+Follows je 1.000 erreichte Konten (Ziel über 1,24, stark ab 2,5), Saves und Shares je 1.000 Aufrufe, Profilaufrufe je 1.000. Bewertet wird nur ab 500 erreichten Konten (Karussells ab 150), darunter zählt der Beitrag als „Daten fehlen“.
+
+## 6. TikTok-Strategie
+Auf TikTok sind Reichweite und Suche messbar, und dort laufen die Hotelvideos mit eigenem Material am stärksten (alle sieben besten Tage folgten auf ein eigenes Hotelvideo). TikTok soll neue Zuschauer über Hotelnamen und Saisonfragen finden und ihnen einen Grund geben, der Serie zu folgen.
+
+| Baustein | Vorgabe | Begründung |
+| Videos | dieselben 17 Videos pro Monat, eigene TikTok-Fassung: Hook mit Hotelname bei Vergleichen („Selectum oder Quattro?“), Caption mit Suchbegriffen im ersten Satz | „1001 Nacht“ holte 15,5 % der Views über die Suche (C) |
+| Testvideos | Hook unverändert, damit T1–T3 und T8 auf beiden Plattformen dieselbe Variable messen | Variablenschutz |
+| Fotobeiträge | 12 pro Monat, für Saisonthemen und Listen; im November T6 (Foto gegen Video) und T7 (12 gegen 18 Uhr) | Wintersonne Rotes Meer 4,7-fach; Ratgeber und Listen sonst schwach (Phase 2) |
+| Playlists | Hotelgeschichten · Hotel-Duell · Hotel in 25 Sekunden / Hotel-Check · Wohin im Winter? · Reisebüro-Wissen | Wettbewerber ordnen Serien in Playlists (Phase 2) |
+| Ortsmarkierung | bei jedem Hotel- und Ortsbeitrag | Auffindbarkeit |
+| Hashtags | 3–5, Hotel, Ort, Thema; keine Massen-Hashtags | Suche statt Hashtag-Feed |
+| Musik | nur Commercial Music Library oder lizenzierte Titel | Unternehmenskonto |
+| Interaktion | Kommentare in der ersten Stunde beantworten; Rätsel und Abstimmungen als eigene Fotoformate | Kommentare stärken die Ausspielung (C) |
+
+### Was TikTok im Dashboard bewertet
+Neue Follower je 1.000 Views (stark ab 1,5, Minimum 0,8), Anteil nach 3 Sekunden (T3), Ø Wiedergabe gemessen am Längenkriterium aus Phase 1: 16–30 s mindestens 31 % und 12 % ganz angesehen, 31–60 s mindestens 20 % und 6 %, Geschichten mindestens 20 s und 10 %. Bewertet wird ab 500 Views.
+
+### Erste Prüfaufgabe in Woche 1
+Die TikTok-Videos ab 09.10. liefen im Median nur bei 424 Views (Phase 2), die Ursache ist offen. In der ersten Novemberwoche werden die Traffic-Quellen und Haltekurven der Oktober-Videos in TikTok Studio gesichert. Liegt der Einbruch an der „Für dich“-Ausspielung, bleibt der Plan; liegt er an einzelnen Formaten, werden diese im Dezember nicht wiederholt.
+
+## 7. Veröffentlichungsrhythmus
+Jede Woche hat dieselbe Grundform, damit Tests vergleichbar bleiben und das Team im Takt produziert. Pro Woche erscheinen etwa vier Videos auf beiden Plattformen, zwei Instagram-Karussells und drei TikTok-Fotobeiträge.
+
+### Wochenstruktur
+
+| Tag | Instagram | TikTok | Uhrzeit |
+| Montag | Karussell | Fotobeitrag | November: 12 oder 18 Uhr nach T7-Plan; ab Dezember Gewinnerzeit, sonst 18 Uhr |
+| Dienstag | Reel: Hotelgeschichte, Hotel-Duell oder Hotel-Check | Video | 19 Uhr |
+| Mittwoch | Karussell | Fotobeitrag | wie Montag |
+| Donnerstag | Reel: Hotel in 25 Sekunden bzw. Hotel-Check, Reisewissen | Video | 19 Uhr |
+| Freitag | – (Ausnahme n: Karussell K-N1 am 06.11., Reel Marina Bay Sands am 13.11., Karussell K-N2 am 20.11. ) | Fotobeitrag | wie Montag |
+| Samstag | Reel: Hotel-Duell oder Reisewissen | Video | 19 Uhr |
+| Sonntag | Reel: WOW-Edit oder Reisewissen | Video | 19 Uhr |
+
+Ausnahmen: Der Start liegt am Mi 04.11. Deshalb läuft die Spice-Geschichte am Mi 04.11., das Karussell K-N1 am Fr 06.11. und K-N2 am Fr 20.11.; die Fotobeiträge F-N01 und F-N02 laufen als zweiter Fotobeitrag am Mo 09.11. (12 Uhr) und Mi 11.11. (18 Uhr). Alle anderen Termine bleiben. Am Mo 30.11. gibt es weder Karussell noch Fotobeitrag, weil der November mit 8 und 12 voll ist; kein Video am 24.12., kein Fotobeitrag am 25.12. und 01.01.; der letzte Sonnenuntergang 2026 am 31.12. um 15 Uhr. Feiertage sind Testhypothesen, keine Belege.
+
+### Mengen je Monat
+
+| Monat | Videos | davon A+B / C / D / E | Instagram-Karussells | TikTok-Fotos | Veröffentlichungen |
+| November | 17 | 5 / 4 / 4 / 4 | 8 | 12 | 54 |
+| Dezember | 17 | 5 / 4 / 4 / 4 | 8 | 12 | 54 |
+| Januar | 17 | 5 / 4 / 4 / 4 | 8 | 12 | 54 |
+| Summe | 51 | 15 / 12 / 12 / 12 | 24 | 36 | 162 |
+
+### Themenbogen
+
+| Phase | Zeitraum | Schwerpunkt | Beispiele |
+| Test und Wintersonne | November | T1–T8, Winterziele, Silvester | Spice- und NG-Geschichten, Hotel-Duelle, Dezember-Sonne, Silvester-Gala |
+| Reise und Jahresende | Dezember | Material aus Istanbul und Sharm, Fernreise, Jahresrückblick | Burj Al Arab, Pera Palace, Hurghada oder Sharm, Ranking 2026 |
+| Frühbucher und Familien | Januar | Sommerferien NRW und Niedersachsen, Ostern, Griechenland, Familien-Checks | Babyclub oder Miniclub , Familienhotel-Ranking, Ferienkalender 2027 |
+
+Jede Woche enthält mindestens ein Hotelvideo, einen Vergleich oder ein Ranking und einen Beitrag ohne Hotelbezug. Mehr als drei Hotelvideos in Folge gibt es nicht; einzige Ausnahme sind D11 bis D14 über die Feiertage. KW 52 hat nur drei Videos und deshalb keinen Vergleich. Ein Hotel ist höchstens zweimal in vier Wochen Hauptthema eines Videos, auch wenn Alternativen greifen. Foto- und Karussellbeiträge zu einem einzelnen Hotel liegen nie in derselben Woche wie ein Video zu diesem Hotel; Listen mit mehreren Hotels zählen nicht mit. Die November-Testhäuser erscheinen innerhalb ihrer 7-Tage-Messung gar nicht in anderen Beiträgen.
+
+### Videoplan im Überblick
+Alle Felder (Hook, Material, Zielgruppe, KPI, Aufwand, Faktenstatus, Deadlines) stehen im Excel-Kalender.
+November
+
+| Datum | Säule | Video | Test |
+| Mi 04 .11. | B | Spice Hotel & Spa: Warum ein Hotel in Belek nach Marrakesch aussieht | T1, T2, T8 |
+| Do 05.11. | A | NG Phaselis Bay in 25 Sekunden | T1, T2, T3 |
+| Sa 07.11. | C | Hotel-Duell: Selectum Luxury Belek oder Quattro Family Club Dem? | T4 |
+| So 08.11. | D | Türkische Riviera im Dezember: Lohnt sich das? | – |
+| Di 10.11. | C | Hotel-Duell: Swandor Topkapi Palace oder Mirage Park Resort? | T4 |
+| Do 12.11. | E | Ela Excellence Resort Belek: Hotel Showcase | T2, T3 |
+| Fr 13.11. | B | Marina Bay Sands: Wie kommt ein Pool auf drei Hoteltürme? (Lizenzmaterial) | T8 |
+| Sa 14.11. | D | Wo ist es im Dezember warm? 5 Ziele im Temperatur-Check | T6 |
+| So 15.11. | E | Türkische Riviera: zwischen Bergen und Meer | – |
+| Di 17.11. | B | NG Phaselis Bay: Ein Hotel mit dem Namen einer 2.700 Jahre alten Stadt | T1, T2, T8 |
+| Do 19.11. | A | Spice Hotel & Spa in 25 Sekunden | T1, T2, T3 |
+| Sa 21.11. | C | Hotel-Duell: Ela Excellence oder Selectum Luxury – Belek mit Kindern | T4 |
+| So 22.11. | D | Silvester im Hotel: Das solltest du vor der Buchung klären | T6 |
+| Di 24.11. | C | Hotel-Duell: Mirage Park oder Quattro Family Club – Familienhaus oder Familienzimmer? | T4 |
+| Do 26.11. | E | Swandor Hotels Kemer: Hotel Showcase | T2, T3 |
+| Sa 28.11. | D | Sommer 2027: Jetzt frühbuchen oder auf Last Minute warten? | – |
+| So 29.11. | E | Ein Abend an der Riviera | – |
+
+Dezember
+
+| Datum | Säule | Video | Test |
+| Di 01.12. | B | Burj Al Arab: Der Mythos vom 7-Sterne-Hotel (Lizenzmaterial) | T8 |
+| Do 03.12. | C | Hotel-Duell: Spice Hotel & Spa oder NG Phaselis Bay? | – |
+| Sa 05.12. | D | Kinderreisepass gibt es nicht mehr: Was Kinder jetzt für den Urlaub brauchen | – |
+| So 06.12. | E | Mardan Palace: ein Palast in drei Sätzen | – |
+| Di 08.12. | A | Selectum Luxury Resort Belek im Hotel-Check | T3-R (falls offen) |
+| Do 10.12. | D | Kanaren im Winter: Wie warm ist es wirklich? (Lizenzmaterial) | – |
+| Sa 12.12. | C | Hurghada oder Sharm El Sheikh: Welche Küste passt zu dir? (materialabhängig) | – |
+| So 13.12. | E | Istanbul zwischen zwei Kontinenten (materialabhängig) | – |
+| Di 15.12. | A | Mirage Park Resort im Hotel-Check: glutenfrei im All Inclusive | T3-R (falls offen) |
+| Do 17.12. | D | Ägypten-Einreise 2027: Pass, Ausweis, Visum | – |
+| Sa 19.12. | C | Zwei Swandor-Hotels: Swandor Kemer oder Swandor Topkapi Palace? | – |
+| So 20.12. | E | Quattro Family Club Dem: Hotel Showcase | – |
+| Di 22.12. | B | Pera Palace Istanbul: das Hotel des Orient-Express (materialabhängig) | T8-R (falls offen) |
+| Sa 26.12. | A | Sharm El Sheikh: unser Hotel der Reise im Check (materialabhängig) | – |
+| So 27.12. | D | Fernweh im Winter: 3 Ziele mit 30 Grad (Lizenz/Archiv) | – |
+| Di 29.12. | C | Ranking: 5 Hotels, die uns dieses Jahr überrascht haben | – |
+| Do 31.12. | E | Der letzte Sonnenuntergang 2026 (materialabhängig) | – |
+
+Januar
+
+| Datum | Säule | Video | Test |
+| Sa 02.01. | D | Familienurlaub 2027: 5 Fragen, bevor ihr bucht | – |
+| So 03.01. | E | Sharm El Sheikh: das Rote Meer vom Ufer aus (materialabhängig) | – |
+| Di 05.01. | C | Hotel-Duell: Babyclub oder Miniclub? Ela Excellence oder Quattro Family Club | – |
+| Do 07.01. | A | Swandor Hotels Kemer im Hotel-Check | T3-R (falls offen) |
+| Sa 09.01. | D | Griechenland 2027: Kreta, Rhodos oder Kos? (Lizenzmaterial) | – |
+| So 10.01. | E | Spice Hotel & Spa: Gewürze, Bögen und Licht | – |
+| Di 12.01. | C | Zwei Paläste an der Riviera: Mardan Palace oder Swandor Topkapi Palace? | – |
+| Do 14.01. | A | Karibik-Check: ein Hotel in der Dominikanischen Republik (materialabhängig) | – |
+| Sa 16.01. | D | Transferzeit: Warum sie bei der Hotelwahl zählt | – |
+| So 17.01. | E | Mirage Park: ein Morgen zwischen Bergen und Meer | – |
+| Di 19.01. | C | Türkei oder Ägypten in den Sommerferien 2027? | – |
+| Do 21.01. | A | Ela Excellence Resort Belek im Familien-Check | T3-R (falls offen) |
+| Sa 23.01. | D | Osterferien 2027: Wo ist es Ende März schon warm? | – |
+| So 24.01. | E | Vorfreude auf Juli | – |
+| Di 26.01. | C | Unser Familienhotel-Ranking für die Sommerferien 2027 | – |
+| Do 28.01. | A | Mardan Palace im Alltags-Check | – |
+| Sa 30.01. | A | Istanbul: unser Stadthotel der Reise im Check (materialabhängig) | – |
+
+Zu jedem materialabhängigen Beitrag nennt der Kalender eine umsetzbare Alternative mit eigenem Material.
+
+## 8. November-Experimente T1–T8
+Alle acht Tests aus Phase 1 laufen im November, mit den Anpassungen aus Phase 2: zwei neue, selbst besuchte Häuser statt Mardan (T1), Bekanntheit gemessen an der Zahl öffentlicher Bewertungen (T2), Info-Variante mit Zahl im ersten Bild und Hotelname in beiden Varianten (T3), gleiches erstes Bild bei Foto und Video (T6), längere Laufzeit für T5, falls die Reichweite fehlt. Kein Test ist statistisch signifikant; entschieden wird nach den vorher festgelegten Regeln, jedes Ergebnis gilt als vorläufig.
+
+| Test | Variante 1 | Variante 2 | Konstant | Primär-KPI | Entscheidungsregel | Auswertung |
+| T1 Geschichte gegen Rundgang | Geschichte: Spice 0 4 .11., NG 17.11. | Rundgang 25 s: NG 05.11., Spice 19.11. | Hotel je Paar, Reihenfolge getauscht, 19 Uhr | Follows je 1.000 (IG) bzw. Follower je 1.000 Views (TT); Sehdauer | Geschichte bei beiden Häusern vorn und mindestens 1,5-fache Sehdauer → Hotelgeschichte als Monatsserie; sonst Hotel-Check priorisieren | 01.12. |
+| T2 Bekannt gegen weniger bekannt | Spice (5.541 Bewertungen) 19.11., Ela (1.256) 12.11. ; Nebenvergleich: Spice-Geschichte 0 4 .11. | NG (295) 05.11., Swandor Kemer (129) 26.11. ; Nebenvergleich: NG-Geschichte 17.11. | Testvorlage, donnerstags, 19 Uhr | Views nach 7 Tagen | Bekannte Häuser in beiden Paaren mindestens doppelt so stark → Drehplanung 2027 auf bekannte Häuser | 03.12. |
+| T3 Neugier gegen Zahl | Frage: NG 05.11., Ela 12.11. | Zahl: Spice 19.11., Swandor Kemer 26.11. | Testvorlage, Hotelname im Orts-Tag, gekreuzt mit T2 | Anteil nach 3 s (TikTok) | Frage in beiden Paaren mindestens 1,5-fach → Standard; sonst T3-R im Dezember | 03.12. |
+| T4 Kurz gegen lang | 28 s: 07.11., 24.11. | 70 s: 10.11., 21.11. | Raster „A oder B?“, 19 Uhr | Follows je 1.000; Sehdauer absolut, Saves | Lang mindestens gleichauf → lange Duelle zulassen; deutlich schwächer → auf 30 s kürzen | 01.12. |
+| T5 Karussell: selbst besucht gegen allgemein | K-N1, K-N3, K-N5, K-N7 | K-N2, K-N4, K-N6, K-N8 | gekreuzt mit T7 ; je Variante ein Freitag (Start 04.11.), sonst Montage und Mittwoche | Follows je 1.000 Konten | Selbst besucht mindestens doppelt so stark und mindestens 5 Follows → Standard; unter 1.500 Konten je Variante → Laufzeit bis Dezember | 03.12. |
+| T6 Foto gegen Video | Foto: Dezember-Sonne 11 .11., Silvester 27.11. | Video: Dezember-Sonne 14.11., Silvester 22.11. | gleiches erstes Bild, Reihenfolge getauscht | Follower je 1.000 Views (TikTok) | Video mindestens 1,5-fach → Saisonthemen als Video; sonst bleibt das Foto Reichweitenformat | 0 4 .12. |
+| T7 Mittags gegen abends | alle Karussells und Fotos um 12 Uhr | alle um 18 Uhr | TikTok: je Uhrzeit gleich viele Montage, Mittwoche, Freitage; Instagram: je Uhrzeit ein Freitag, Montag und Mittwoch 1:2 bzw. 2:1 | Reichweite bzw. Views nach 48 h | Eine Zeit im Median mindestens 1,5-fach → Standard; sonst 18 Uhr | 03.12. |
+| T8 Eigenes gegen Fremdmaterial | eigen: Spice 0 4 .11., NG 17.11. | lizenziert: Marina Bay Sands 13.11., Burj Al Arab 01.12. | gleiche Dramaturgie, 19 Uhr | Follows je 1.000; Sehdauer, Shares | Eigenes mindestens 1,5-fach → Fremdmaterial-Geschichten einstellen; sonst höchstens eine pro Monat | 08.12. |
+
+### Variablenschutz
+- In jedem Testvideo gleich: Hook-Text im ersten Bild, kein Logo-Intro, Serienhinweis am Ende, 19 Uhr, Musiktyp je Format.
+
+- Die vier Clips für T2 und T3 nutzen dieselbe Testvorlage (Kapitel 0 der Reel-Bible). Zwei davon zählen als WOW-Edit (Hotel Showcase), weil der Standardplan sonst sechs statt fünf Hotelvideos bräuchte.
+
+- Ein Testhotel erscheint während seiner 7-Tage-Messung in keinem anderen Beitrag; deshalb fehlt Ela in K-N5 und F-N08 (18.11.). Grenzfall: K-N7 und F-N11 (25.11.) zeigen Swandor Kemer einen Tag vor dessen Testclip. Weitere bekannte Störfaktoren: In T1 unterscheiden sich im Spice-Paar auch Hook-Typ (N01 Frage, N11 Zahl wegen T3) und Musik, und die Sehdauer in Sekunden begünstigt die längere Geschichte. In T8 sind die Fremdmaterial-Hotels weltbekannt, die eigenen nicht. In T7 liegt das Mardan-Rätsel (F-N05), also das bekannteste Hotel des Kontos, im 12-Uhr-Arm; der Median über sechs Fotobeiträge dämpft das. Beide Ergebnisse zeigen deshalb nur eine Richtung.
+
+- Werbung läuft im November nicht. Wird doch ein Beitrag beworben, fällt er aus dem Test.
+
+### Messung während der Reise
+Vom 16.11. bis 06.12. trägt Leon die Werte nach 48 Stunden und 7 Tagen ins Dashboard ein, montags den Followerstand beider Plattformen. Am 07.12. werden alle Regeln angewendet und die Dezember-Briefings angepasst (Format der Hotelvideos, Hook-Art, Länge der Duelle, Uhrzeit der Karussells und Fotos).
+
+### Wiederholung im Dezember
+
+| Test | Wenn offen | Beiträge |
+| T3 | Info gegen Neugier bei Hotel-Checks | D05 (Zahl), D09 (Frage); im Januar J04 (Frage) und J12 (Zahl) |
+| T5 | Laufzeit verlängern | Karussells K-D1 bis K-D8 nach Variante getrennt (5 × selbst besucht, 2 × allgemein ohne den Kalenderbeitrag K-D2), gepoolt ausgewertet |
+| T7 | kein klares Ergebnis: 18 Uhr bleibt nach der Regel, keine Wiederholung | alle Karussells und Fotos ab Dezember um 18 Uh r |
+| T8 | eigenes gegen lizenziertes Material bei derselben Hotelart | D13 Pera Palace (eigene Außenaufnahmen) ; ohne Burj-Lizenz wird T8 nur mit Marina Bay Sands ausgewertet (vorläufig) |
+| T1, T2, T4, T6 | eine weitere Runde mit zwei neuen Beiträgen im Januar | nach Entscheidung am 07.12. |
+
+## 9. Wachstumsziele
+Das Ziel bleibt: 10.000 Instagram-Follower bis 30.04.2027. Ausgangswert sind 2.606 Follower am 26.10.2026. Dafür braucht es 278 Follower netto pro Woche, gemessen sind bisher 42–48 brutto. Auf diesem Pfad müssten es am 30.01.2027 rund 6.400 sein. Kein Szenario dieses Plans erreicht das allein organisch; selbst das Stretch-Szenario bräuchte ab Februar mehr Tempo oder zusätzlich bezahlte Reichweite. Die Szenarien sind Rechenmodelle, keine Prognosen.
+
+### Drei Szenarien bis 30.01.2027
+
+| Kennzahl | Ausgangswert (Stichtag) | Minimum | Ziel | Stretch |
+| Instagram-Follower am 30.01.2027 | 2.606 (26.10.2026) | 3.200 | 4.000 | 5.300 |
+| Netto-Wachstum Instagram pro Woche | 4 2 –48 brutto (09.–24.10.), netto unbekannt | 45 | 100 | 200 |
+| Fortgeschrieben auf 30.04.2027 | – | ca. 3.800 | ca. 5.300 | ca. 7.900 |
+| Beitragsbezogene Follows Instagram pro Monat | 95 (davon 72 aus der Mardan-Geschichte); ohne sie ca. 23 | 80 | 200 | 400 |
+| Follows je 1.000 erreichte Konten (Kontoschnitt) | 1,24 ohne Mardan, 1,69 mit | 1,24 | 1,8 | 2,5 |
+| Beiträge mit mehr als 100 Follows | 1 in 90 Tagen | 0 | 1 bis 30.11., danach 1 pro Monat | 2 pro Monat |
+| Median-Aufrufe Instagram-Reels | 2.010 | 1.500 | 2.500 | 4.000 |
+| Erreichte Konten Instagram pro Monat | 139.740 (30 Tage mit Mardan-Treffer) | 40.000 | 80.000 | 150.000 |
+| Median-Reichweite Karussells | 100 Konten | 150 | 300 | 600 |
+| Median-Views TikTok-Testbeiträge | 1.221 | 1.000 | 1.300–3.200 | über 3.200 |
+| TikTok-Beiträge mit mindestens 5-fachem Median | 15 % | 10 % | 15–25 % | über 25 % |
+| TikTok-Follower pro Woche | nicht gemessen (2.7 85 am 27.10. ) | 30 | 70 | 150 |
+| Share-Rate Reels (Shares je 1.000 Aufrufe, Median) | 1,9 | 2,0 | 3,0 | 3,8 |
+| Save-Rate Reels (Median) | ca. 0,85 | 0,9 | 1,3 | 1,7 |
+| Save-Rate Karussells und Listen | 1,7 | 2 | 5 | 10 |
+| Videos, die ihr Längenkriterium erreichen (TikTok) | nicht gemessen | 40 % | 60 % | 80 % |
+| Profilaufrufe je 1.000 Aufrufe | Instagram 5,5, TikTok 6,0 | 5,5 / 6,0 | 7 | 9 |
+| Produktionsaufwand pro Monat | nicht erfasst | bis 150 h | bis 125 h | bis 110 h bei gleicher Menge |
+| Werbeausgaben | 0 € | 0 € | 0 € | höchstens 200 €, frühestens im Januar und nur nach der Regel unten |
+
+Herleitung: TikTok-Zielbereiche aus Phase 2 (Klassenmedian bis eigenes oberes Quartil), Schwellen „stark“ aus der Bewertungsmatrix von Phase 1 (je 2-facher eigener Median), Follower-Szenarien als lineare Fortschreibung mit Treffern nach dem Muster der Mardan-Geschichte. Status aller Ziele: C.
+
+### Wann das Ziel neu bewertet wird
+
+| Prüftermin | Bedingung | Konsequenz |
+| 07.12.2026 | kein Beitrag mit mehr als 100 Follows im November | Phase-1-Regel greift: Ziel für 30.04. ehrlich auf 5.000–6.000 setzen, Plan bleibt, Fokus auf Follow-Formate |
+| 07.12.2026 | ein Format zweimal über „stark“ bei Follows | erster bezahlter Test im Januar mit höchstens 100 €, nur DACH, nur dieses Format |
+| 04.01.2027 | Netto-Wachstum vier Wochen unter 60 pro Woche | Mengen umverteilen: schwächste Säule −1 Video, stärkste +1 |
+| 01.02.2027 | Ziel-Szenario erreicht (4.000) | Monetarisierungs-Vorbereitung für das Frühjahr beginnen |
+| 01.02.2027 | unter Minimum (3.200) | Ursachenanalyse, Ziel 30.04. neu setzen, keine Mengenerhöhung |
+
+Bezahlte Reichweite bleibt getrennt messbar: Werbeausgaben und „bezahlt“ stehen je Beitrag im Dashboard, bezahlte Beiträge zählen nicht in die Formatbewertung. Der frühere Wert von 0,41 USD je Follower ist nicht prüfbar; erst ein eigener Test liefert Kosten je Follower.
+
+## 10. Messsystem
+Gemessen wird jeder Beitrag dreimal und das Konto einmal pro Woche. Entschieden wird über Formate, nicht über einzelne Beiträge, und nur mit ausreichenden Daten. Das Growth & Performance Dashboard (Excel) enthält alle 162 geplanten Veröffentlichungen schon als Zeilen; das Team trägt nur Messwerte ein, Raten und Empfehlungen rechnen sich selbst.
+
+### Routine
+
+| Wann | Was | Wer |
+| 48 h nach Veröffentlichung | Views, erreichte Konten, Follows | Operations (Leon) |
+| 7 Tage danach | Views, Konten, Shares, Saves, Kommentare, Follows, Ø Wiedergabe, ganz angesehen, Anteil nach 3 s, Profilaufrufe | Operations |
+| 30 Tage danach | Views, Konten, Follows | Operations |
+| jeden Montag | Followerstand Instagram und TikTok (für Netto-Wachstum), Wochenreport, Aufwand der Woche | Operations, Strategist (Mert) |
+| monatlich | DACH-Anteil der Follower, Formatentscheidungen, Mengenverteilung ; 30 Minuten Wettbewerbs-Blick auf fünf Accounts aus Phase 2 (nur Auffälligkeiten notieren) | Strategist |
+
+### Kennzahlen
+
+| Kennzahl | Formel | Instagram | TikTok |
+| Follower-Konversion | Follows ÷ erreichte Konten × 1.000 (IG), Follower ÷ Views × 1.000 (TT) | Minimum 1,24 · Ziel 1,8 · stark 2,5 | Minimum 0,8 · Ziel 1,1 · stark 1,5 |
+| Share-Rate | Shares ÷ Views × 1.000 | Minimum 2,0 · Ziel 3,0 · stark 3,8 | Minimum 2,0 · Ziel 3,0 · stark 3,8 |
+| Save-Rate | Saves ÷ Views × 1.000 | Videos: Minimum 0,9 · Ziel 1,3 · stark 1,7; Karussells und Fotos: 2 · 5 · 10 | Videos: Minimum 0,9 · Ziel 1,3 · stark 1,7; Fotos: 2 · 5 · 10 |
+| Profilaufrufe | Profilaufrufe ÷ Views × 1.000 | Ziel 7 | Ziel 7 |
+| Wiedergabe | Ø Sekunden ÷ Länge | Längenkriterium aus Phase 1 | Längenkriterium aus Phase 1 |
+| Netto-Wachstum | Followerstand Montag minus Vorwoche | Ziel 100 pro Woche | Ziel 70 pro Woche |
+| Kosten je Follow | Werbeausgaben ÷ Follows | nur bei bezahlten Beiträgen | nur bei bezahlten Beiträgen |
+
+Mindestdaten: 500 erreichte Konten bzw. 500 Views und 7 Tage Laufzeit; Instagram-Karussells ab 150 Konten, weil ihr Median bisher bei 100 liegt. Darunter zählt ein Beitrag als „Daten fehlen“. Bezahlte Beiträge zählen nie in die Formatbewertung.
+
+### Entscheidungsregeln je Format
+Bewertet wird jede Formatgruppe (zum Beispiel „Hotel-Duell lang auf Instagram“), sobald mindestens drei reife Beiträge mit ausreichenden Daten vorliegen.
+
+| Entscheidung | Regel | Konsequenz |
+| SKALIEREN | Median der Primär-KPI erreicht das Ziel, mindestens drei Viertel der Beiträge liegen darüber, und mindestens ein Beitrag ist „stark“ | ein zusätzlicher Platz pro Monat, wenn Kapazität frei ist; sonst Platz von einem pausierten Format |
+| OPTIMIEREN | alle übrigen Fälle mit genug Daten, meist Median zwischen Minimum und Ziel | genau eine Variable ändern (Hook, Länge, Uhrzeit oder Cover) für die nächsten vier Beiträge |
+| ERNEUT TESTEN | weniger als drei Beiträge mit ausreichenden Daten, oder Testpaare widersprechen sich | zwei weitere Beiträge mit gleichem Aufbau |
+| PAUSIEREN | mindestens drei Viertel der Beiträge unter dem Minimum und keine Nebenkennzahl auf Ziel-Niveau | vier Wochen Pause, Platz geht an das stärkste Format |
+
+Treffer-Regel: Erreicht ein Beitrag das 5-Fache des eigenen Medians und zugleich mindestens Ziel-Niveau bei der Follower-Konversion oder mehr als 100 Follows, folgt innerhalb von 14 Tagen eine Fortsetzung mit demselben Aufbau, aber neuem Hotel oder neuem Winkel.
+
+### Anpassung für Dezember und Januar
+
+| Termin | Grundlage | Was sich ändern kann |
+| 07.12. | T1–T7 und erste Formatwerte | Format der Hotelvideos (Geschichte oder Check), Hook-Standard, Länge der Duelle, Uhrzeit von Karussells und Fotos, Foto oder Video für Saisonthemen, Karussell-Standard |
+| 08 .12. | T8 | Fremdmaterial-Geschichten weiter oder eingestellt |
+| 04.01. | Dezember-Werte, Netto-Wachstum | Verteilung der 17 Videos auf die Säulen (±1 je Säule) |
+| 01.02. | 90-Tage-Bilanz, WOW-Varianten | Mengen und Mix für Februar bis April, Entscheidung über 25+ Videos |
+
+### Aufbau des Dashboards
+Anleitung · Einstellungen (Schwellen und Ziele, veränderbar) · Beitragslog (alle Veröffentlichungen, Eingaben 48 h, 7 Tage, 30 Tage, berechnete Raten, Empfehlung je Beitrag) · Formate (22 Formatgruppen mit je mindestens drei Beiträgen, Median-Werten und Entscheidung; dazu die WOW-Varianten für den 01.02.) · Tests (T1–T8 mit Vergleichsquoten und Regel, für T2 zusätzlich eine Einschätzung, wie auffällig das erste Bild ist) · Wochenreport (Mengen, Summen, Follower, Netto-Wachstum gegen die drei Szenarien) · KPI-Definitionen.
+
+## 11. Produktionssystem
+Die zehn Expertenrollen sind eine Arbeitsteilung für Planung und Kontrolle, kein Personalplan. Umgesetzt wird von Mert und Leon. Der Plan rechnet mit 28 Stunden pro Woche für beide zusammen; diese Zahl ist eine Annahme und lässt sich im Excel ändern, alle Auslastungen rechnen dann neu.
+
+### Workflow
+
+| Schritt | Rolle | Person (Annahme) | Werkzeug | Ergebnis |
+| 1 Recherche | Travel Research & Fact-Checking | Leon | Veranstalter- und Hotelseiten, Asset-Bibliothek | Faktenliste mit Quelle |
+| 2 Idee | Chief Strategist, Creative Director | Mert | Kalender | Thema, Hook-Richtung |
+| 3 Skript | Storytelling & Scriptwriting | Mert (November und Dez.-Woche 1 fertig in der Reel-Bible) | Reel-Bible | Voiceover, Schnittplan |
+| 4 Faktencheck | Fact-Checking | Leon | Faktenliste | jede Zahl mit Quelle, Status im Kalender |
+| 5 Materialauswahl | Short-Form Video | Mert | Asset-Bibliothek | Clipliste je Einstellung |
+| 6 Schnitt und Design | Short-Form Video, Art Director | Mert; Fotobeiträge und Karussell-Fassungen Leon | CapCut, Reel-Studio, Karussell-Studio, ElevenLabs | Export Instagram und TikTok |
+| 7 Freigabe | Quality Assurance | wer nicht produziert hat | Freigabe-Check, Qualitätsraster | Status „Freigabe“, Punkte ≥ 80 |
+| 8 Veröffentlichung | Instagram- und TikTok-Growth | Mert, während der Reise Leon | Meta Business Suite, TikTok Studio | Status „Geplant“ |
+| 9 Reporting | Operations & Performance | Leon | Dashboard | 48 h, 7 Tage, 30 Tage, Wochenreport |
+| 10 Optimierung | Chief Strategist | Mert | Dashboard, Formatentscheidung | Anpassung im Kalender |
+
+### Standardwoche
+
+| Tag | Aufgabe | Dauer |
+| Montag | Wochenreport, Followerstand, Planung der nächsten Woche, Faktencheck | 2,5 h |
+| Dienstag bis Donnerstag | Batch-Produktion für die Folgewoche: zuerst alle Materialauswahlen, dann alle Schnitte, dann Fassungen | 18–22 h |
+| Freitag | Freigaben, Captions, Einplanen der Folgewoche | 2,5 h |
+| täglich | Kommentare in der ersten Stunde nach Veröffentlichung | 2 h pro Woche |
+
+Produziert wird immer eine Woche im Voraus. Ausnahmen: die Vorproduktion vor der Reise und die Feiertage.
+
+### Zeitbudgets je Format
+
+| Format | Mit fertigem Skript | Skript zusätzlich |
+| Hotelgeschichte (eigenes Material) | 5,0 h | 2,5 h |
+| Hotelgeschichte (lizenziert) | 6,0 h inkl. Lizenzklärung | 2,5 h |
+| Hotel in 25 Sekunden, Hotel Showcase | 2,5–3,0 h | 0,5 h |
+| Hotel-Check | 4,0 h | 1,5 h |
+| Hotel-Duell kurz / lang | 3,0 h / 4,5 h | 1,0 h |
+| Reisewissen-Video | 3,0–3,5 h | 1,0 h |
+| WOW-Edit | 2,5–3,5 h | 0,5 h |
+| TikTok-Fassung eines Videos | 0,3 h | – |
+| Instagram-Karussell | 2,5 h | 1,0 h |
+| TikTok-Fassung eines Karussells | 0,75 h | – |
+| TikTok-Fotobeitrag nur für TikTok | 1,5 h | 0,5 h |
+| Fix je Woche (Report, Community, Planung) | 4,5 h | – |
+
+### Auslastung und Engpässe
+
+| Woche | Bedarf | Kapazität (Annahme) | Auslastung | Maßnahme |
+| KW 44 (ab 28.10.) | 13 h | 28 h | 47 % | vorbei; noch offene Aufgaben mit Deadline in KW 44 kommen zu KW 45 hinzu |
+| KW 45 (Start 04.11.) | 48 h | 40 h (Batch-Woche) | 121 % | Batch-Tage, Leon übernimmt Faktencheck und Lizenzen; K-N2 ist auf den 20.11. verlegt |
+| KW 46 | 55 h | 40 h (Batch-Woche) | 138 % | Reise-Fallback: N17 entfällt, N16 entfällt oder geht in J01 auf, D03 rückt auf den 16.01. (spart rund 9 h) |
+| KW 47–49 (Reise) | 9–14 h | 12 h (Leon) | 75–114 % | Leon setzt Karussells und Fotos aus der Bible um (in KW 47 zusätzlich K-N2), Messung, Community |
+| KW 50 (Rückkehr) | 36–45 h | 28 h | 129–162 % | Leon wählt das Material für D05–D08 schon in KW 49 vor; Rohskripte für D05 und D06 liegen vor |
+| KW 51 | 25–31 h | 28 h | 88–110 % | Januar-Woche 1 vorziehen, wenn Luft ist |
+| KW 52–53 (Feiertage) | 24–32 h | 20 h / 16 h | 122–198 % | Deadlines rücken auf den 23.12. bzw. 30.12.; P3-Beiträge (D17) entfallen zuerst |
+| KW 1–3 | 27–34 h | 28 h | 97–123 % | mit Skripten aus Fortsetzungspaketen um 100 %, sonst P3 (J08, J09, J14, J17) streichen |
+
+Der erste Wert gilt mit Skripten aus den Fortsetzungspaketen, der zweite ohne. Insgesamt liegt der Plan bei 102–117 % der angenommenen Kapazität. Er ist machbar, aber nur mit Batch-Wochen vor der Reise und mit klarer Streichliste. Die Priorität steht bei jedem Beitrag im Kalender (P1 Test oder Kern, P2 wichtig, P3 streichbar).
+
+### Betrieb während der Reise (16.11.–06.12.)
+- Alle Videos bis 07.12. sind bis 13.11. freigegeben und bis 14.11. eingeplant (Excel-Tab „Einstellungen“).
+
+- Instagram: In der Meta Business Suite lassen sich Beiträge laut Metricool bis zu 29 Tage im Voraus planen; das reicht ab 14.11. bis 13.12.
+
+- TikTok: Die Angaben schwanken zwischen 10 Tagen (mobiler Browser) und 30 Tagen (Desktop). Am 28.10. in TikTok Studio am Desktop prüfen. Reicht das Fenster nicht, plant Leon am 24.11. die zweite Hälfte ein; Fotobeiträge veröffentlicht er manuell.
+
+- Leon: setzt alle Karussells und Fotobeiträge vom 16.11. bis 07.12. nach der Bible um (K-N6 bis K-D2, darunter das verlegte K-N2, sowie F-N07 bis F-D03, Fortsetzungspaket Dez-1 eingeschlossen), Mert gibt sie spätestens zwei Tage vor Veröffentlichung per Handy frei; trägt Messwerte ein; beantwortet Kommentare als Reisebüro.
+
+- Drehen auf der Reise: Istanbul und Sharm El Sheikh nur mit der Pocket 4 Pro. Die Drohne bleibt zu Hause: In Ägypten sind Einfuhr und Nutzung ohne Genehmigung des Verteidigungsministeriums verboten, in Istanbul nur mit Genehmigung erlaubt. Drehgenehmigung im Pera Palace vorher anfragen. Für jedes Hotel Besuchsdatum notieren.
+
+### Asset-Bibliothek
+
+| Ordner | Inhalt | Benennung |
+| 01_Rohmaterial | Originaldateien je Hotel und Besuch | Hotel_Ort_JJJJ-MM |
+| 02_Auswahl | Clips je Beitrag | ID_Einstellungsnummer (z. B. V-N01_03) |
+| 03_Projekte | CapCut-Projekte, Reel-Studio-Exporte | ID |
+| 04_Export | fertige Videos und Slides | ID_IG_v1, ID_TT_v1, nach Freigabe v2 |
+| 05_Grafiken | Karten, Kalender, Dokumente | Thema_JJJJ-MM |
+| 06_Lizenzen | Lizenznachweise für Musik und Fremdmaterial | ID_Anbieter_Clipnummer |
+| 07_Messwerte | Screenshots aus Insights und TikTok Studio | ID_48h, ID_7d, ID_30d |
+
+Der Excel-Tab „Asset-Bibliothek“ führt je Hotel: Materialbeleg, Drohne, Besuchsmonat, belegte Fakten mit Quelle, Bewertungen, geplante Beiträge. Vorhandene YouTube-Hotelvorstellungen werden aus den Originalprojekten neu im Hochformat geschnitten, nicht aus dem komprimierten YouTube-Video. Captions verweisen nicht auf YouTube.
+
+### Prioritäten nach Wirkung und Aufwand
+
+|  | geringer Aufwand | hoher Aufwand |
+| hohe erwartete Wirkung | Hotel-Duell kurz, Hotel in 25 Sekunden, TikTok-Fassungen, Karussell „Selbst besucht“ | Hotelgeschichten mit eigenem Material, lange Duelle, Ranking |
+| geringere erwartete Wirkung | Pure Cinematic, Fotobeiträge zu Reisewissen | Fremdmaterial-Geschichten (nur für T8), Destination-Videos mit Lizenzmaterial |
+
+Wirkung ist hier eine begründete Erwartung aus Phase 1 und 2 (C), keine Messung; das Dashboard ersetzt sie ab Dezember durch eigene Werte.
+
+## 12. Qualitätsstandard
+Alle 111 geplanten Beiträge sind nach dem Raster bewertet. 104 liegen bei mindestens 80 Punkten, der Durchschnitt beträgt 80,8. Sieben Beiträge, deren Inhalt erst nach der Reise oder der Archivsichtung feststeht, stehen vorläufig darunter: die Hotel-Checks V-D14, V-J08 und V-J17 (75) sowie die Reise-Karussells und -Fotos K-D3, F-D04, K-D8 und F-D12 (74). Ihr Mehrwert zählt bis dahin höchstens 12 von 20. Sie werden nur freigegeben, wenn sie danach mindestens 80 erreichen, sonst läuft die festgelegte Alternative. V-D07 (Hurghada oder Sharm) bleibt bei 81, weil Thema und Fakten feststehen und nur das Bildmaterial an der Reise hängt. Die Punkte sind eine kreative Prüfung des Konzepts (C), keine Prognose der Reichweite. Am schwächsten schneiden im Durchschnitt Storytelling und visuelle Qualität ab; daran setzt die Freigabe an.
+
+### Bewertungsraster
+
+| Kriterium | Punkte | Volle Punkte, wenn | Typischer Abzug |
+| Hook und Aufmerksamkeit | 15 | Ort oder Hotel plus Zahl, Frage oder Gegensatz in den ersten 2 Sekunden, Bild und Text sagen dasselbe | allgemeiner Einstieg, Hook erst nach Sekunde 3 |
+| Inhaltlicher Mehrwert | 20 | mindestens drei belegte, überprüfbare Fakten oder ein klares Urteil für einen Gästetyp | reine Bildfolge, Fakten ohne Quelle |
+| Storytelling | 15 | Spannung, Auflösung, ein Schlussbild oder eine Schlussfrage | Aufzählung ohne Bogen |
+| Visuelle Qualität | 15 | eigenes, ruhiges Material, durchgehende Farbkorrektur, keine Wiederholung von Einstellungen | Fremd- oder Stockmaterial, Wackler, überladene Grafik |
+| Natürlichkeit und Sprache | 10 | Voiceover klingt gesprochen, kurze Sätze, keine Werbefloskeln | KI-Ton, Superlative ohne Beleg |
+| Zielgruppenpassung | 10 | eine Zielgruppe benannt, Nutzen für genau diese Gruppe | „für alle“ |
+| Markenwiedererkennung | 5 | Farben, Manrope, Siegel „Selbst besucht“, Logo weiß | fremde Vorlage |
+| Share- und Save-Potenzial | 5 | Liste, Vergleich oder Checkliste zum Aufheben oder Weiterschicken | Einzelbild ohne Nutzwert |
+| Realistische Produktion | 5 | Material liegt vor, Aufwand im Wochenbudget | Material offen, Lizenz ungeklärt |
+
+Bewertet wird in zwei Schritten: Jeder Formattyp hat einen Grundwert (z. B. Hotelgeschichte mit eigenem Material 85, Hotel-Duell 84, Reisewissen 81, Pure Cinematic 80), danach gibt es Zu- und Abschläge je Beitrag, etwa für Fremdmaterial, einen schwächeren Hook oder einen besonders klaren Vergleich. Beides steht im Excel-Tab „Qualität“.
+
+### Ergebnis
+
+| Gruppe | Anzahl | Durchschnitt | Spanne |
+| Videos | 51 | 81,7 | 75–86 |
+| Instagram-Karussells | 24 | 80,3 | 74–81 |
+| TikTok-Fotobeiträge | 36 | 80,0 | 74–82 |
+| Gesamt | 111 | 80,8 | 74–86 |
+
+| Kriterium | Durchschnitt | Maximum | Anteil |
+| Hook und Aufmerksamkeit | 12,3 | 15 | 82 % |
+| Inhaltlicher Mehrwert | 16,2 | 20 | 81 % |
+| Storytelling | 10,0 | 15 | 67 % |
+| Visuelle Qualität | 11,9 | 15 | 79 % |
+| Natürlichkeit und Sprache | 8,1 | 10 | 81 % |
+| Zielgruppenpassung | 8,9 | 10 | 89 % |
+| Markenwiedererkennung | 4,2 | 5 | 83 % |
+| Share- und Save-Potenzial | 4,8 | 5 | 95 % |
+| Realistische Produktion | 4,5 | 5 | 90 % |
+
+40 Beiträge liegen genau bei 80 Punkten, die meisten davon Karussells und Fotobeiträge. Sie sind freigegeben, aber nicht stark. Die höchsten Werte haben die Hotelgeschichten und Duelle mit eigenem Material (84–86 Punkte, darunter V-N01 Spice, V-N10 NG Phaselis Bay, V-J07 Mardan gegen Swandor Topkapi und V-J15 Familienhotel-Ranking). Die neun P3-Beiträge, die bei Kapazitätsengpässen zuerst entfallen, liegen im Schnitt bei 79,1 Punkten, weil zwei der vorläufigen Checks darunter sind.
+Grenze des Rasters: Die Punkte bewerten das Konzept, nicht die Richtigkeit der Fakten. Die unabhängige Prüfung hat in fünf Paketen mit 81 bis 85 Punkten Faktenfehler gefunden (Abschnitt 14). Der Faktencheck bleibt deshalb ein eigener Schritt vor jeder Freigabe.
+
+### Überarbeitet vor Aufnahme in den Plan
+13 Konzepte lagen zunächst bei 79 Punkten und wurden überarbeitet. Vier davon (K-D3, F-D04, K-D8, F-D12) stehen inzwischen vorläufig bei 74, weil ihr Inhalt erst auf der Reise entsteht:
+
+| ID | Änderung |
+| V-N07 | Hook auf das Schiffsbild geschärft, Lizenzklärung als eigener Produktionsschritt |
+| V-N17 | Schlussfrage ergänzt, damit der Clip einen Anlass zum Kommentieren hat |
+| V-D06 | Badeampel für Dezember und Januar als Kernnutzen, Entscheidungsfrage statt Ortsliste |
+| V-D08 | Schlusskarte mit Entscheidungsfrage Europa oder Asien, Karten-Insert |
+| V-J02 | Schlusskarte mit belegter Wassertemperatur und Flugzeit |
+| V-J05 | je Insel eine Empfehlung für eine Zielgruppe und ein Satz „Das muss man wissen“ |
+| K-D3, F-D04 | jede Beobachtung mit Foto und Datum belegt |
+| K-D8, F-D12 | jede Station mit Foto, Gehzeit und Tageszeit |
+| F-N05 | Auflösung mit drei belegten Fakten |
+| F-N09 | je Hotel ein belegter Fakt statt nur ein Bild |
+| F-D10 | Vergleichsgrafik Januar und Februar |
+
+### Freigabe-Check vor jeder Veröffentlichung
+Die Freigabe macht immer die Person, die den Beitrag nicht produziert hat. Ein Beitrag geht erst raus, wenn alle Punkte erfüllt sind:
+- Rechtschreibung und Stil: Untertitel, Overlays und Caption gelesen; Zahlen im Untertitel als Ziffern, im Voiceover ausgeschrieben.
+
+- Fakten und Hotelangaben: jede Zahl mit Quelle in der Faktenliste, Status „geprüft“ im Kalender; Hotelangaben gegen die Hotelseite oder zwei Veranstalter geprüft und mit Prüfdatum.
+
+- Natürliche Sprache: Voiceover einmal laut gehört; keine Floskeln wie „Pure Luxus“ oder „ein Traum“ ohne Inhalt.
+
+- Visuelle Umsetzbarkeit: Hook und Untertitel nie gleichzeitig im Bild, sichere Zonen eingehalten, unten rechts frei für das Logo.
+
+- Markenkonsistenz: #1C2D5C, #0CA0DE, #FBDC15; Manrope; Logo weiß; Siegel „Selbst besucht“ nur bei eigenem Material mit Besuchsmonat.
+
+- Wiederholungen: kein Hotel zweimal in derselben Woche, keine Testhotels während ihres Testfensters in anderen Beiträgen (Grenzfall K-N7 und F-N11 am Vortag von N15, siehe Abschnitt 8).
+
+- Rechte am Material: Musik mit kommerzieller Lizenz, Fremdmaterial mit Nachweis im Lizenzordner, keine Drohnenaufnahmen ohne Genehmigung.
+
+- Keine irreführenden Aussagen: keine Preise in Karussells, keine Rankings ohne genannte Kriterien, keine Vergleiche, die ein Hotel schlechtmachen.
+
+- Plattform: Instagram- und TikTok-Fassung getrennt exportiert, eigene Caption und Hashtags, Cover geprüft.
+
+- Kooperation: Besteht eine Geschäftsbeziehung, eine Einladung oder ein Gratisaufenthalt (etwa bei Selectum), wird der Beitrag als Werbung oder Kooperation gekennzeichnet. Die Regel lässt Mert einmal rechtlich prüfen (Abschnitt 14).
+
+## 13. Voraussetzungen für 25 und mehr Videos pro Monat
+Mehr Videos gibt es erst, wenn feststeht, welche Formate tragen, und wenn die Qualität bei 17 Videos stabil ist. Frühester Termin ist die Entscheidung am 01.02.2027 für Februar oder März. Erhöht wird in zwei Stufen, nicht auf einmal.
+
+### Bedingungen (alle müssen erfüllt sein)
+
+| Bereich | Bedingung | Geprüft im |
+| Wirkung | mindestens zwei Formatgruppen im Status SKALIEREN, keine Säule mehr bei ERNEUT TESTEN wegen fehlender Daten | Dashboard, Tab „Formate“ |
+| Wachstum | Instagram am 01.02. mindestens im Minimum-Szenario (3.200); darunter keine Mengenerhöhung (Abschnitt 9) | Dashboard, Tab „Wochenreport“ |
+| Qualität | vier Wochen in Folge alle Videos im Freigabe-Check bei mindestens 80 Punkten, keine Faktenkorrektur nach Veröffentlichung, Storytelling im Schnitt mindestens 11 von 15 | Kalender, Tab „Qualität“ |
+| Kapazität | Auslastung bei 17 Videos vier Wochen in Folge höchstens 90 %, und die zusätzlichen rund 7 Stunden pro Woche für die erste Stufe sind fest eingeplant (mehr Stunden, eine dritte Person für den Schnitt oder feste Schnittvorlagen) | Kalender, Tab „Wochenübersicht“ |
+| Material | mindestens 12 Hotels mit bestätigtem eigenem Material und geprüften Fakten in der Asset-Bibliothek (heute 9, dazu die Hotels der Reise) und Rohmaterial für acht Wochen im Voraus | Kalender, Tab „Asset-Bibliothek“ |
+| Vorlagen | für jedes Format, das zusätzliche Plätze bekommt, gibt es eine feste Schnittvorlage, mit der ein Video in höchstens 3,5 Stunden fertig ist | Reel-Bible, Kapitel 0 |
+
+Die Material-Bedingung ist die engste: Mit der Regel „jedes Hotel höchstens zweimal in vier Wochen als Hauptthema“ reichen neun Hotels für rund 18 Hotelvideos im Monat. Bei 25 Videos mit dem heutigen Hotelanteil wären es etwa 15, das lässt kaum Spielraum für Ausfälle.
+
+### Stufen
+
+| Stufe | Videos pro Monat | Zusätzliche Plätze gehen an | Mehraufwand (Annahme) |
+| 0 (Start) | 17 | – | – |
+| 1 | 21 | die zwei stärksten Formate im Status SKALIEREN, je +2 | rund 30 h pro Monat (4 Videos zu je etwa 3,5 h plus TikTok-Fassung) |
+| 2 | 25 | wie Stufe 1, nur wenn Stufe 1 vier Wochen hält; dazu bis zu 2 Videos nur für TikTok, wenn T1–T3 dort einen klaren Formatgewinner zeigen | weitere rund 30 h pro Monat |
+
+Karussells und Fotobeiträge bleiben bei 8 und 12 pro Monat. Sie ändern sich nur, wenn T5, T6 oder T7 das nahelegen.
+
+### Zurück auf die vorige Stufe, wenn …
+- der Median der Primär-KPI der skalierten Formate in den vier Wochen nach der Erhöhung um mehr als 20 % unter den Wert davor fällt,
+
+- zwei Wochen hintereinander die Auslastung über 110 % liegt oder ein Beitrag ohne vollständigen Freigabe-Check online geht,
+
+- oder ein Hotel häufiger als zweimal in vier Wochen als Hauptthema eingeplant werden müsste.
+
+Menge ist kein Ziel an sich. Beide Audits zeigen, dass hohe Produktionsmengen allein kein wirksamer Wachstumshebel sind. Deshalb entscheidet über eine Erhöhung das Dashboard, nicht der Kalender.
+
+## 14. Finale Qualitätskontrolle, Annahmen und Unterlagen
+Ein separater Prüfdurchlauf, der an der Erstellung nicht beteiligt war, hat am 27.10.2026 alle fünf Unterlagen gegen den Auftrag, Phase 1 und 2 und externe Quellen geprüft. Sein Urteil: Freigabe nur mit Auflagen, 28 Befunde (2 kritisch, 11 mittel, 15 gering). Alle Befunde sind danach bearbeitet. Bei den Korrekturen kam ein weiterer Punkt hinzu: Der Mardan Palace wird seit 2026 von Swandor geführt, für den Winter 2026/27 ist eine größere Renovierung angekündigt (rustourismnews, 26.05.2026).
+
+### Befunde und Korrekturen
+
+| Befund der Prüfung | Schwere | Korrektur | Wo |
+| Strandlänge bei Spice (270 m) und Selectum (250 m) als Entfernung gelesen; beide liegen direkt am Strand | kritisch | Voiceover, Einblendungen, Captions und Daten korrigiert, abwertender Satz in D05 gestrichen; N01, N11, N12 und D02 werden mit dem neuen Text vertont | N01, N11, N12, D02, D05, K-N7, Kalender |
+| D03: „außerhalb der EU braucht jedes Kind einen Reisepass“ | kritisch | Die Türkei akzeptiert den Personalausweis auch für Kinder (ADAC), Ägypten mit zwei Passfotos (touristik-aktuell); Voiceover, Schnittplan und Captions neu, die Empfehlung Reisepass bleibt | D03, Kalender |
+| Freigabe bei 13 Reise-Beiträgen erst am oder nach dem Veröffentlichungstag | mittel | „Mert per Handy“ von der Rückkehrregel ausgenommen, jeder Schritt frühestens nach dem vorigen; D05 komplett bis 07.12. | Produktionsplan |
+| Ela in K-N5 und F-N08 während ihres Testfensters | mittel | Ela aus beiden Beiträgen genommen (5 statt 6 Hotels), Störfaktoren richtig dokumentiert | Karussell-Bible, Abschnitt 8 |
+| Hotel zweimal in einer Woche, zwei Rätsel gespoilert, doppelte Alternativen | mittel | Rätsel getauscht (F-N05 Mardan, F-D02 Topkapi), F-J03 Selectum, F-J09 Swandor Kemer; neue Alternativen für D01, D07, D14, J16 und J17; Regel „höchstens drei Hotelvideos in Folge“ | Kalender, Bibles, Abschnitt 7 |
+| Dashboard: Formatgruppen zu klein, WOW-Entscheidung nicht erzeugbar | mittel | 22 Gruppen mit je mindestens drei Beiträgen; WOW-Edits plattformübergreifend, eigene Tabelle für den 01.02. mit N06 und N15 | Dashboard |
+| Dashboard: Karussells fast nie bewertbar, Treffer-Regel und Referenzwert verzerrt | mittel | Karussells ab 150 Konten; Referenz-Median aus allen reifen Beiträgen; Treffer mit 7-Tage-Werten | Dashboard, Abschnitt 10 |
+| Testtermine, Wiederholungen und Störfaktoren | mittel | T6 am 04.12., T1 einheitlich am 01.12.; T7-Wiederholung gestrichen (Regel 18 Uhr); T5-R nach Variante getrennt; T8 ohne Burj-Lizenz vorläufig; J04 und J12 mit Frage- bzw. Zahl-Hook; Störfaktoren in T1 und T8 offen genannt | Abschnitt 8, Kalender, Dashboard |
+| „Über 120 Fünf-Sterne-Hotels“ nicht belegt, Abonnentenzahl abweichend | mittel | Wortlaut aus Phase 1: „über 120 Hotels selbst besucht“; Abonnentenzahl vor Nutzung in YouTube Studio prüfen | Abschnitte 2, 3, 5, D16 |
+| Keine Regel zur Kennzeichnung von Kooperationen | mittel | Punkt im Freigabe-Check und in den Markenregeln, „unabhängig“ ersetzt, rechtliche Prüfung als Aufgabe | Abschnitte 1, 3, 12 |
+| TikTok-Fotobeiträge ohne Cover-Optionen und Gestaltungsangaben | mittel | Tabelle mit drei Cover-Optionen, finaler Headline, Layout und Bildkonzept für alle 15 Fotobeiträge bis 07.12. | Karussell-Bible |
+| Mirage-Angaben in fertigen Videos nicht bestätigt | mittel | Mit reischeck belegt (Familienhäuser 144/188 m², eigene glutenfreie Küche, Aqua-Pool 822 m²); Strandart bleibt ungenannt; schriftliche Bestätigung des Hotels als Aufgabe | Bibles, Kalender |
+| Qualitätspunkte schematisch, Faktenfehler nicht erkannt | mittel | Sieben Beiträge mit offenem Inhalt vorläufig unter 80 (drei Checks 75, vier Reise-Karussells und -Fotos 74) , J16 auf 84; Grenze des Rasters offengelegt | Kalender, Abschnitt 12 |
+| 15 kleinere Punkte | gering | 42–48 statt 41–48; TikTok 2.785; Begründung Reisewissen präzisiert; 30.11. als Ausnahme; Hotelgeschichte im Januar nach T1 möglich; J03 neu gefasst; Ziffern im Voiceover, Tippfehler, Caption-Format; Superlative in Suchbegriffen und „buchen“ im Hook ersetzt; Selectum-Rutschenpool für Erwachsene, NG-Babyclub nur mit Elternteil; Alternativen ohne Lizenz; WOW-Briefs ergänzt; 12 Einstellungen, drei Orte in N09, Ausnahme für Kalendergrafiken; OPTIMIEREN-Regel an die Formel angepasst, D06 auf Dezember und Januar; Kapazitätssatz, monatlicher Wettbewerbs-Blick, Spalte „Auffälligkeit“ für T2 | mehrere |
+
+Bewusst nicht geändert: Die Saisonthemen „Wo ist es warm?“ laufen sechsmal, weil sie die Serie „Wohin im …?“ bilden; F-D10 (Februar, Kurz- und Mittelstrecke) und D15 (Januar, Fernreise) liegen nah beieinander, behandeln aber verschiedene Ziele. Die Ela-Kinderclub-Fakten kommen in N06, N12, J03 und J12 vor. Das ist gewollt: Im Januar buchen Familien den Sommer, und wer seit November folgt, kennt die frühen Videos meist nicht. Jedes Video stellt eine andere Frage (Vorstellung, Vergleich mit Selectum, Altersgruppen der Clubs, Alltag mit Kindern), und es bleibt bei höchstens zwei Ela-Videos in vier Wochen. Zusätzlich geändert: Mardan ist nicht mehr im Winter-Spa-Karussell (K-D1 jetzt mit drei Spas), J07 nennt den Betreiberwechsel, J16 hat eine Alternative für den Fall der Renovierung.
+Zweite Prüfung: Eine zweite unabhängige Prüfung hat kontrolliert, ob die 28 Befunde behoben sind: 19 vollständig, 9 teilweise, keiner offen. Dabei kamen 18 neue Punkte hinzu, fast alle gering und meist durch die Korrekturen selbst entstanden. Der einzige mittlere betraf das Dashboard: Hatte eine Testvariante 0 Follows, fiel die Entscheidungsregel falsch aus. Alle 18 sind korrigiert, das Dashboard ist mit diesem Fall neu durchgerechnet. Außerdem gilt die Qualitätsbewertung jetzt einheitlich: Beiträge, deren Inhalt an der Reise hängt, stehen vorläufig unter 80 (Abschnitt 12). Bewusst offen bleiben die Besuchsmonate je Hotel (Aufgabe für Mert) und die YouTube-Abonnentenzahl, die vor Nutzung in YouTube Studio geprüft wird.
+
+### Die 15 Kontrollfragen
+
+| # | Frage | Prüfung vorher | Stand jetzt | Begründung |
+| 1 | Wurden die Erkenntnisse aus Phase 1 und 2 korrekt übernommen? | teilweise | ja , bis auf die Abonnentenzahl | Ausgangswerte, Testaufbau, Szenarien und Phase-2-Anpassungen stimmen; korrigiert sind 42–48, 2.785, „120 Hotels“ und der Befund zu Reisewissen ; die YouTube-Abonnentenzahl weicht von Phase 2 ab und wird vor Nutzung in YouTube Studio geprüft |
+| 2 | Ist der gesamte 90-Tage-Zeitraum geplant? | ja | ja | 162 Veröffentlichungen vom 0 4.11. bis 30.01. (Start verschoben, kein Beitrag gestrichen) ; Lücken nur am 30.11., 24.12., 25.12. und 01.01., alle begründet |
+| 3 | Stimmen Veröffentlichungszahlen und Produktionsmengen? | ja | ja | 51 Videos, 24 Karussells, 36 Fotobeiträge; je Monat 17 / 8 / 12, Säulen 5 / 4 / 4 / 4 |
+| 4 | Gibt es doppelte oder zu ähnliche Themen? | teilweise | nein, mit zwei bewussten Ausnahmen | keine Dubletten, kein Hotel öfter als zweimal in vier Wochen als Videothema; die Ela-Kinderclub-Fakten wiederholen sich mit Absicht (siehe „Bewusst nicht geändert“), die Saison-Serie „Wohin im …?“ wiederholt das Muster absichtlich |
+| 5 | Hat jeder Beitrag eine klare Zielgruppe? | ja | ja | alle 111 Inhalte mit primärer Zielgruppe Z1–Z7 |
+| 6 | Hat jedes Video einen konkreten Hook? | teilweise | ja | alle 51 mit Hook im Bild; T3-Wiederholungen J04 als Frage ohne Zahl, J12 mit Zahl; die drei Checks mit offenem Hotel bekommen den gesprochenen Einstieg nach der Hotelwahl |
+| 7 | Sind die Voiceovers natürlich und vollständig? | teilweise | teilweise | November und Reisewoche fertig und korrigiert; Dezember ab 08.12. und Januar folgen als Fortsetzungspakete, wie im Auftrag erlaubt |
+| 8 | Sind die Karussells redaktionell und visuell hochwertig? | teilweise | ja für alle fertigen Beiträge | 10 Karussells und 15 Fotobeiträge bis 07.12. vollständig gestaltet und korrigiert; Dezember ab 09.12. und Januar als Konzepte |
+| 9 | Sind die Inhalte ohne Moderator umsetzbar? | ja | ja | kein Beitrag braucht eine Person vor der Kamera |
+| 10 | Werden Instagram und TikTok getrennt optimiert? | ja | ja | eigene Captions, Suchbegriffe, Hashtags, Cover und Formate; gleiche Hooks nur in Testvideos |
+| 11 | Ist der Produktionsumfang realistisch? | teilweise | teilweise | 117 % der angenommenen Kapazität (102 % mit Skripten), Spitzen in KW 46, 50 und 53; machbar nur mit Batch-Wochen, Leon während der Reise und Streichliste |
+| 12 | Werden messbare KPIs verwendet? | ja | ja | Formeln, Schwellen und Entscheidungsregeln im Dashboard, mit Testdaten durchgerechnet , auch für 0 Follows in einer Variante |
+

@@ -1,0 +1,745 @@
+
+# Briefings Woche 5–8 (Reels 13–24)
+Jedes Briefing zeigt drei Noten: die Redaktionsnote, eine unabhängige Zweitbewertung (ohne Kenntnis der Redaktionsnoten erstellt) und den Konsens als Mittelwert. Kein Reel erreicht im Konsens 8/10 – deshalb hat jedes Reel eine konkrete Nacharbeit; was bereits eingearbeitet ist, steht unter „Umgesetzt“.
+
+## Woche 5 · 07.12.–11.12.2026
+
+### Reel 13 · Mo 07.12.2026 · Fakt oder Fake? #5
+Seen, die ihre Dämme selbst bauen · Kroatien (Plitvicer Seen) · Cluster: Natur-WOW · Redaktion 8,30 · Zweitbewertung 6,75 · Konsens 7,53 / 10
+
+| Feld | Inhalt |
+| Thema | Die Kalktuff-Barrieren der Plitvicer Seen wachsen je nach Stelle um einige Millimeter bis über einen Zentimeter pro Jahr (am Kozjak-Ausfluss rund 5,6 mm). Seen steigen oder verschmelzen; vor rund 400 Jahren wurden zwei Seen zum heutigen Kozjak-See. Baden ist verboten, UNESCO-Welterbe seit 1979. |
+| DACH-Bedürfnis | Kroatien ist Auto-Urlaubsziel vieler Deutscher und Österreicher; Plitvice ein Klassiker – mit einem Fakt, den kaum ein Besucher kennt. |
+| Emotion | Staunen |
+| Payoff | Fakt: Die Barrieren wachsen jedes Jahr ein Stück. Plitvice ist eine Landschaft, die sich ständig verändert. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Die meisten Seen verlanden. Diese hier bauen ihre Dämme selbst. | 9 | Klarer Widerspruch zur Erwartung. |
+| Überraschung | Vor rund 400 Jahren sind hier zwei Seen zu einem verschmolzen. | 8 | Stark, aber erst nach Kontext verständlich. |
+| Mystery | Diese Wasserfälle sehen in hundert Jahren anders aus als heute. | 7 | Plausibel, aber Prognose. |
+| Frage | Fakt oder Fake: Diese Seen wachsen jedes Jahr? | 8 | Serienritual. |
+| Mini-Story | Jedes Jahr lagert sich Kalk an Moosen ab – Millimeter für Millimeter, Damm für Damm. | 8 | Poetisch, eher Beat als Hook. |
+
+Sieger: „Die meisten Seen verlanden. Diese hier bauen ihre Dämme selbst.“ – Der Widerspruch „verlanden vs. selbst bauen“ erzeugt sofort die Frage nach dem Wie – die Antwort liefert das Video.
+Startbild 0–2 s: Kaskaden zwischen Seen, Drohnenblick. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Kaskaden.
+
+- Spannung (3–9 s): „Fakt oder Fake: Diese Dämme wachsen?“
+
+- Erklärung (9–19 s): „Fakt. Kalk aus dem Wasser lagert sich an Moosen ab und bildet Tuff-Barrieren – je nach Stelle einige Millimeter bis über einen Zentimeter pro Jahr.“
+
+- Beleg (19–26 s): „Vor rund 400 Jahren sind dadurch zwei Seen zum heutigen Kozjak-See verschmolzen.“
+
+- Nutzen (26–31 s): „Und wichtig für deinen Besuch: Baden ist im Nationalpark verboten.“
+
+- Schluss (31–35 s): „Nächsten Montag: Wo steht Spaniens höchster Berg?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Diese Seen wachsen | Kaskaden-Totale, „wachsen“ gelb |
+| 2 | Fakt oder Fake #5 | Wasserfall in Plitvice |
+| 3 | Dämme aus Kalk | Nahaufnahme Tuff-Barriere |
+
+Warum folgen: Montags „Fakt oder Fake?“ – die Natur liefert die besten Rätsel.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Kaskaden in Sekunde 0, Overlay „Fakt oder Fake?“. | „Diese Seen bauen sich selbst?! 🤯“ über Kaskaden. |
+| Overlay | Diese Seen wachsen? | Diese Seen bauen sich selbst |
+| Suchbegriffe | Plitvicer Seen Tipps, Plitvice Wasserfälle, Kroatien Nationalpark | Plitvicer Seen |
+
+Caption Instagram:
+Fakt oder Fake #5: Die Plitvicer Seen bauen ihre Dämme selbst. Kalk lagert sich an Moosen ab – je nach Stelle einige Millimeter bis über einen Zentimeter pro Jahr. Vor rund 400 Jahren verschmolzen so zwei Seen. Baden ist verboten. 🇭🇷
+#plitvice #kroatien #nationalpark #faktoderfake #naturwunder #roadtrip
+Caption TikTok: Plitvice verändert sich jedes Jahr 🇭🇷 #plitvice #kroatien #faktoderfake
+Stock · Suche: plitvice lakes waterfall, plitvice aerial autumn, plitvice cascades · Kandidaten: Pexels 32321347 (Wasserfall Plitvice); Pexels 37263084 (Plitvice im Herbst, Luft); Pexels 32322296 (Wasserfall Plitvice) · Rechte/Hürden: Keine Schwimmer im Bild (Badeverbot).
+Fakten gesichert: Tuff-Barrieren wachsen je nach Stelle mm bis >1 cm/Jahr; Kozjak-Ausfluss ca. 5,6 mm/Jahr; zwei Seen vor ca. 400 Jahren verschmolzen; Badeverbot; UNESCO 1979 (Nationalpark Plitvice)
+Vor Posting prüfen: Grund des Badeverbots nicht ohne Quelle nennen
+Quellen: np-plitvicka-jezera.hr · np-plitvicka-jezera.hr
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 9 · Originalität 8 · Share/Save 7 · Produktion 9 → 8,30. Überraschender Fakt zu bekanntem Ziel, Primärquelle Nationalpark, sehr gutes Bild.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 7 · DACH 6 · WOW 8 · Originalität 7 · Share/Save 5 · Produktion 9 → 6,75. Stärke: Wenig bekannter Naturmechanismus, Top-Bilder, sauber belegte Zahlen. Schwäche: Payoff abstrakt (Millimeter), Kroatien-Bezug im Dezember schwach.
+Konsens 7,53 < 8 → Nacharbeit: Payoff greifbar machen (Zentimeter pro Jahrzehnt, verschmolzene Seen im Bild); Reisetipp ergänzen (Nebensaison, früher Einlass). Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 14 · Mi 09.12.2026 · Was dir keiner sagt #5
+Venedig will 2027 an 72 Tagen Eintritt · Italien (Venedig) · Cluster: Mythos/Realität · Redaktion 8,20 · Zweitbewertung 6,65 · Konsens 7,42 / 10
+
+| Feld | Inhalt |
+| Thema | Venedig verlangt von Tagesgästen Eintritt für die Altstadt (2026: 60 Tage zwischen April und Juli, 5 € bei früher Buchung, sonst 10 €, 8:30–16 Uhr). 2027 sollen es laut Stadtratsbeschluss 72 Tage werden (Fr–So vom 26.3. bis 15.8.), weiterhin höchstens 10 €; Rom muss noch zustimmen. Übernachtungsgäste zahlen stattdessen Kurtaxe. |
+| DACH-Bedürfnis | Venedig-Tagesausflüge (Gardasee, Adria, Städtetrip) planen viele für Frühjahr/Sommer. Das spart Ärger und Geld. |
+| Emotion | Ärger vermeiden |
+| Payoff | Tagesgäste der Altstadt zahlen an bestimmten Tagen 5–10 €; wer übernachtet, ist befreit. 2027 geplant: 72 Tage, Wochenenden von Ende März bis Mitte August. |
+| Länge · Aufwand | ca. 35–37 s · niedrig (Faktenstand prüfen) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Venedig ist eine Stadt – und verlangt trotzdem Eintritt. | 8 | Gut, aber bekannt seit 2024. |
+| ★ Überraschung | Venedig will 2027 an 72 Tagen Eintritt verlangen. | 9 | Neue Zahl, aktuell, konkret. |
+| Mystery | Wer in Venedig übernachtet, zahlt etwas nicht, das Tagesgäste zahlen müssen. | 7 | Zu verklausuliert. |
+| Frage | Musst du für Venedig 2027 Eintritt zahlen? | 8 | Nutzwert, suchstark. |
+| Mini-Story | Wochenende in Venedig geplant? Dann brauchst du vielleicht vorher ein Ticket. | 7 | Weich. |
+
+Sieger: „Venedig will 2027 an 72 Tagen Eintritt verlangen.“ – Die neue Zahl 72 ist Nachricht und Nutzwert zugleich; „will“ hält die Aussage korrekt, solange Rom nicht zugestimmt hat.
+Startbild 0–2 s: Gondel im Kanal, Overlay „72 Tage Eintritt?“.
+Beats & Bildfolge (ca. 35–37 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Gondel.
+
+- Status heute (3–12 s): „Seit 2024 zahlen Tagesgäste an bestimmten Tagen. 2026 waren es 60 Tage – 5 Euro bei früher Buchung, sonst 10.“
+
+- Neu (12–20 s): „2027 sollen es 72 Tage werden: Freitag bis Sonntag, von Ende März bis Mitte August. Rom muss noch zustimmen.“
+
+- Wer zahlt nicht (20–28 s): „Übernachtungsgäste zahlen stattdessen Kurtaxe, Kinder unter 14 sind befreit, Inseln wie Murano und Burano nicht betroffen.“
+
+- Tipp (28–33 s): „Gilt nur für die Altstadt zwischen 8:30 und 16 Uhr. Vor der Reise die offizielle Seite prüfen.“
+
+- Schluss (33–37 s): „Nächsten Mittwoch: ein Dorf mit rund 740 Einwohnern und bis zu 10.000 Besuchern am Tag.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Venedig: 72 Tage Eintritt? | Gondel im Kanal, „72 Tage“ gelb |
+| 2 | Eintritt für eine Stadt | Rialto-Gegend mit Menschen |
+| 3 | Venedig 2027: das gilt | Kanal-Totale |
+
+Warum folgen: Mittwochs Regeln, die sich gerade ändern – damit du vorbereitet bist.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Gondel, Overlay „72 Tage Eintritt?“. | „Venedig kostet jetzt Eintritt?!“ als Text über Kanal. |
+| Overlay | Venedig: 72 Tage Eintritt? | Venedig kostet Eintritt?! |
+| Suchbegriffe | Venedig Eintritt 2027, Venedig Gebühr Tagesgäste, Venedig Ticket | Venedig Eintritt |
+
+Caption Instagram:
+Was dir keiner sagt #5: Venedig will 2027 an 72 Tagen Eintritt für Tagesgäste (Fr–So, 26.3.–15.8.; Rom muss noch zustimmen). 2026: 60 Tage, 5 € bei früher Buchung, sonst 10 €. Übernachtungsgäste sind befreit (Kurtaxe). Stand: 06.11.2026.
+#venedig #italien #venedigeintritt #städtereise #reisetipps #wasdirkeinersagt
+Caption TikTok: Das gilt 2027 (geplant) 🇮🇹 #venedig #italienurlaub #reisetipps
+Stock · Suche: venice gondola canal, venice crowds tourists, venice grand canal aerial · Kandidaten: Pexels 35739115 (Gondelfahrt); Pexels 18493879 (ruhige Kanäle); Pexels 39617919 (Gondel) · Rechte/Hürden: Keine Drehkreuz-/Ticketbilder ohne Lizenz. Stand vor Posting prüfen (Rom-Zustimmung).
+Fakten gesichert: 2026: 60 Tage (3.4.–26.7.), 5 €/10 €, 8:30–16 Uhr, Ausnahmen (tio.ch, ÖAMTC) · 2027: Stadtratsbeschluss 72 Tage, Fr–So 26.3.–15.8., max. 10 €, Zustimmung Rom ausstehend (tio.ch, Stand Okt. 2026)
+Vor Posting prüfen: Offizielle Seite cda.ve.it am Vortag · Frist für 5-€-Tarif nicht in Tagen nennen · Übernachtungsgäste sind befreit, müssen sich aber online registrieren – im Voice-over erwähnen, falls 2027 so bestätigt
+Quellen: tio.ch · oeamtc.at
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 7 · DACH 9 · WOW 8 · Originalität 7 · Share/Save 9 · Produktion 9 → 8,20. Aktuell und nützlich; Thema an sich bekannt, die 2027-Zahl macht es neu.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 7 · Spannung 5 · DACH 8 · WOW 6 · Originalität 5 · Share/Save 8 · Produktion 8 → 6,65. Stärke: Echte Neuigkeit mit hohem Nutzwert für Venedig-Tagesausflügler aus D/A. Schwäche: Viele Zahlen hintereinander, wenig Spannung; Gondelbilder generisch; Stand kann bis Posting kippen.
+Konsens 7,42 < 8 → Nacharbeit: Auf drei Kerninfos kürzen (wer, wann, wie befreit); Hook auf „Tagesausflug vom Gardasee/von der Adria“ zuspitzen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 15 · Fr 11.12.2026 · Reisewissen in 30 Sekunden #5
+Warum man in Kappadokien in Felsen schläft · Türkei (Kappadokien) · Cluster: Hotelkonzept · Redaktion 8,50 · Zweitbewertung 6,15 · Konsens 7,33 / 10
+
+| Feld | Inhalt |
+| Thema | Kappadokien besteht aus weichem Tuff aus Vulkanasche (Erciyes, Hasan Dağı). Menschen lebten hier über Jahrhunderte in Felswohnungen; im Tal von Zelve noch bis 1952, dann Umsiedlung wegen Erosion und Einsturzgefahr. Heute übernachten Urlauber in Höhlenhotels. UNESCO-Welterbe seit 1985. |
+| DACH-Bedürfnis | Kappadokien ist bei D/A/CH-Reisenden stark gefragt. Zuschauer verstehen das Hotelkonzept statt nur ein schönes Zimmer zu sehen. |
+| Emotion | Staunen, Fernweh |
+| Payoff | Weicher Vulkanstein ließ sich aushöhlen – daraus wurden Wohnungen, heute Hotelzimmer. In Zelve lebten Menschen bis 1952 in Felsen. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Früher zogen Menschen hier wegen Einsturzgefahr aus. Heute schlafen Urlauber in Felszimmern. | 8 | Stark, braucht Präzisierung (Zelve vs. Hotels anderswo). |
+| ★ Überraschung | In diesem Tal lebten Menschen noch bis 1952 in Felshöhlen. | 9 | Konkretes Jahr, überraschend jung. |
+| Mystery | Warum schläft man in Kappadokien in einem Felsen? | 8 | Suchstark, klare Frage. |
+| Frage | Würdest du in einer Höhle übernachten? | 5 | Engagement-Frage ohne Information. |
+| Mini-Story | Vulkane spucken Asche, die Asche wird zu weichem Stein – und Menschen graben sich darin Häuser. | 8 | Gute Erzählung, zu lang. |
+
+Sieger: „In diesem Tal lebten Menschen noch bis 1952 in Felshöhlen.“ – Die Jahreszahl 1952 macht die Höhlenwohnung zur jüngeren Geschichte und leitet direkt zum heutigen Hotelkonzept über.
+Startbild 0–2 s: Felswohnungen von Zelve/Göreme in der Morgensonne. Overlay „bis 1952“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Felswohnungen.
+
+- Warum (3–11 s): „Kappadokien besteht aus Tuff – verfestigter Vulkanasche. Weich genug, um Räume hineinzugraben.“
+
+- Geschichte (11–19 s): „Über Jahrhunderte lebten Menschen in solchen Felswohnungen. In Zelve bis 1952 – dann mussten sie wegen Einsturzgefahr ins neue Dorf ziehen.“
+
+- Heute (19–27 s): „Das Prinzip lebt weiter: In der Region gibt es heute Höhlenhotels, in denen du im Fels schläfst.“
+
+- Einordnung (27–31 s): „UNESCO-Welterbe seit 1985.“
+
+- Schluss (31–35 s): „Nächsten Freitag: Warum Flugzeugfenster abgerundete Ecken haben.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Schlafen im Fels | Felswohnungen, „Fels“ gelb |
+| 2 | Bis 1952 in Höhlen | Zelve-Tal von oben |
+| 3 | Das Höhlenhotel-Prinzip | Feenkamine bei Sonnenaufgang |
+
+Warum folgen: Freitags das Warum hinter Orten, die du schon auf Fotos gesehen hast.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Felswohnungen, Overlay „bis 1952“, Stimme sofort. | „Bis 1952 wohnten hier Menschen 🤯“ als Text. |
+| Overlay | Bis 1952 in Höhlen | Hier wohnten Menschen bis 1952 |
+| Suchbegriffe | Kappadokien Höhlenhotel, Kappadokien Geschichte, Zelve Freilichtmuseum | Kappadokien Höhlen |
+
+Caption Instagram:
+Reisewissen #5: Warum schläft man in Kappadokien im Fels? Weicher Tuff aus Vulkanasche ließ sich aushöhlen. In Zelve lebten Menschen bis 1952 in Felswohnungen. Heute lebt das Prinzip in Höhlenhotels weiter. 🇹🇷
+#kappadokien #cappadocia #türkei #höhlenhotel #reisewissen #göreme
+Caption TikTok: Das Höhlenhotel-Prinzip 🇹🇷 #kappadokien #türkei #reisewissen
+Stock · Suche: cappadocia cave dwellings, zelve open air museum, goreme aerial sunrise, cappadocia fairy chimneys · Kandidaten: Pexels 29330430 (Höhlenwohnungen Kappadokien); Pexels 31802109 (Kappadokien, Luft); Pexels 16646053 (Göreme-Nationalpark) · Rechte/Hürden: Hotel-Clips mit erkennbarem Namen (z. B. Pexels 5372078) meiden; Zelve nur so bezeichnen, wenn der Clip Zelve zeigt.
+Fakten gesichert: Tuff aus Vulkanasche (Erciyes, Hasan Dağı); Zelve bewohnt bis 1952, Umsiedlung wegen Erosion/Einsturzgefahr; UNESCO 1985 (Kulturministerium Türkei, History Hit)
+Vor Posting prüfen: Nicht behaupten, heute lebe niemand mehr in Höhlen
+Quellen: teda.ktb.gov.tr · historyhit.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 9 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 9 → 8,50. Hotelkonzept mit Geschichte statt Hotelwerbung, Kernziel Türkei, Primärquelle Ministerium.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 6 · Follow 6 · Spannung 5 · DACH 7 · WOW 8 · Originalität 5 · Share/Save 5 · Produktion 8 → 6,15. Stärke: Schöne Bilder, Jahreszahl 1952 macht Geschichte nahbar. Schwäche: Höhlenhotels sind auserzählt; Payoff „weicher Stein“ erwartbar; UNESCO-Beat ist Füller.
+Konsens 7,33 < 8 → Nacharbeit: Konkreten Nutzwert ergänzen (Höhlenzimmer: Licht, Fenster, Raumklima – belegt); UNESCO-Beat streichen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 6 · 14.12.–18.12.2026
+
+### Reel 16 · Mo 14.12.2026 · Fakt oder Fake? #6
+Spaniens höchster Berg steht nicht auf dem Festland · Spanien (Teneriffa) / Deutschland · Cluster: Natur-WOW · Redaktion 8,55 · Zweitbewertung 6,15 · Konsens 7,35 / 10
+
+| Feld | Inhalt |
+| Thema | Der Teide auf Teneriffa ist mit 3.715 m (IGN) der höchste Berg Spaniens – rund 750 m höher als die Zugspitze (2.962 m). Vom Meeresboden aus ragt der Vulkan rund 7.500 m auf. |
+| DACH-Bedürfnis | Teneriffa ist ein Top-Winterziel. Der Zugspitz-Vergleich macht die Größe für DACH sofort greifbar. |
+| Emotion | Staunen |
+| Payoff | Fake: Spaniens höchster Berg steht auf Teneriffa – der Teide, 3.715 m, rund 750 m höher als die Zugspitze; vom Meeresboden gemessen rund 7.500 m. |
+| Länge · Aufwand | ca. 31–33 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Spaniens höchster Berg steht nicht auf dem Festland. | 8 | Gut, aber ohne DACH-Anker. |
+| Überraschung | Dieser Berg auf Teneriffa ist rund 750 Meter höher als die Zugspitze. | 9 | DACH-Vergleich, konkrete Zahl. |
+| Mystery | Vom Meeresboden aus gemessen ist dieser Vulkan rund 7.500 Meter hoch. | 8 | Starke Zahl, aber erklärungsbedürftig. |
+| ★ Frage | Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland? | 9 | Serienfrage mit überraschender Fake-Auflösung. |
+| Mini-Story | Morgens Strand auf Teneriffa, mittags Schnee am Vulkan – das geht auf einer Insel. | 7 | Schön, aber Schnee nicht garantiert. |
+
+Sieger: „Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland?“ – Die Frage klingt selbstverständlich („natürlich auf dem Festland“) – die Fake-Auflösung überrascht, die Zugspitze sichert danach den DACH-Bezug.
+Startbild 0–2 s: Teide mit Lavafeldern unter blauem Himmel (Ort noch nicht eingeblendet). Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 31–33 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook, Ortsname noch nicht im Bild.
+
+- Spannung (3–9 s): „Die Pyrenäen? Die Sierra Nevada?“ Grafik Spanien-Karte, Festland leuchtet.
+
+- Auflösung (9–16 s): „Fake. Spaniens höchster Berg steht auf einer Insel: der Teide auf Teneriffa, 3.715 Meter.“
+
+- DACH-Vergleich (16–22 s): Split mit Zugspitze: „Rund 750 Meter höher als die Zugspitze.“
+
+- Twist (22–29 s): „Und vom Meeresboden aus gemessen ragt der Vulkan rund 7.500 Meter auf.“
+
+- Schluss (29–33 s): „Nächsten Montag: Unter Istanbul steht ein Medusenkopf auf dem Kopf.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Höher als die Zugspitze | Teide-Totale, „Zugspitze“ gelb |
+| 2 | Nicht auf dem Festland | Teide mit Wolkenmeer |
+| 3 | Fakt oder Fake #6 | Split Teide / Zugspitze |
+
+Warum folgen: Montags „Fakt oder Fake?“ mit einem Vergleich, den du aus der Heimat kennst.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Teide-Totale, Overlay „Fakt oder Fake?“, in Sekunde 2 „+750 m vs. Zugspitze“. | Split-Screen Teide vs. Zugspitze, Text „Welcher ist höher?“ |
+| Overlay | Höher als die Zugspitze? | Welcher ist höher? |
+| Suchbegriffe | Teide Höhe, höchster Berg Spaniens, Teneriffa Teide | Teide Zugspitze |
+
+Caption Instagram:
+Fakt oder Fake #6: Steht Spaniens höchster Berg auf dem Festland? Fake – er steht auf Teneriffa. Der Teide misst 3.715 m, rund 750 m mehr als die Zugspitze. Vom Meeresboden aus sind es rund 7.500 m. 🌋
+#teneriffa #teide #kanaren #zugspitze #faktoderfake #reisewissen
+Caption TikTok: Teneriffa vs. Zugspitze 🏔️ #teneriffa #teide #zugspitze #faktoderfake
+Stock · Suche: teide volcano, teide national park, zugspitze eibsee aerial winter · Kandidaten: Pexels 35648259 (Teide); Pexels 15238954 (Teide unter blauem Himmel); Pexels 30402431 (Eibsee und Zugspitze, Winter) · Rechte/Hürden: Keine – Material vorhanden.
+Fakten gesichert: Teide 3.715 m (IGN 1983, Grafcan 2011); Zugspitze 2.962 m; ca. 7.500 m ab Meeresboden (Teneriffa News, Grafcan, zugspitze.de, Wikipedia)
+Vor Posting prüfen: 7.500 m als „vom Meeresboden aus“ formulieren · Keine Höhe für Festlandgipfel nennen, solange nicht mit IGN geprüft · Nutzwert-Option: Genehmigung für den Gipfelweg (Parque Nacional) vorab – nur mit Quelle
+Quellen: teneriffa-news.com · zugspitze.de
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 10 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 9 → 8,55. DACH-Vergleich macht ein bekanntes Ziel neu; Originalität mittel.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 6 · Follow 6 · Spannung 5 · DACH 8 · WOW 7 · Originalität 4 · Share/Save 5 · Produktion 9 → 6,15. Stärke: Guter Zugspitz-Vergleich, passend zur Teneriffa-Wintersaison. Schwäche: Teide als höchster Berg Spaniens kennen viele Urlauber; Fakt bei Sekunde 3, danach wenig Spannung.
+Konsens 7,35 < 8 → Nacharbeit: Meeresboden-Twist (7.500 m) als Hook; Nutzwert ergänzen: Seilbahn und Gipfelgenehmigung vorab. Umgesetzt in diesem Stand: Frage auf „Festland“ gedreht (Antwort Fake), Auflösung von Sekunde 3 auf ca. 9–16 verschoben, 3.718-Hinweis gestrichen. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 17 · Mi 16.12.2026 · Was dir keiner sagt #6
+740 Einwohner, bis zu 10.000 Besucher · Österreich (Hallstatt) · Cluster: Mythos/Realität · Redaktion 8,25 · Zweitbewertung 6,40 · Konsens 7,33 / 10
+
+| Feld | Inhalt |
+| Thema | Hallstatt hat rund 740 Einwohner (737 laut Statistik Austria, 1.1.2025), an Spitzentagen laut Medienberichten aber bis zu 10.000 Besucher; 2025 wurden rund 1,2 Mio. Tagesgäste gemeldet. Reisebusse brauchen seit 2019 gebuchte Zeitfenster. Eine Besuchergrenze wurde 2025 diskutiert. |
+| DACH-Bedürfnis | Hallstatt steht auf vielen Österreich-Listen. Zuschauer erfahren, wie sie respektvoll und entspannter besuchen. |
+| Emotion | Überraschung, Respekt |
+| Payoff | Ein Dorf mit rund 740 Menschen trägt an Spitzentagen bis zu 10.000 Gäste. Deshalb gibt es Bus-Zeitfenster – und wer früh oder außerhalb der Saison kommt, erlebt es ruhiger. |
+| Länge · Aufwand | ca. 34–36 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Rund 740 Einwohner – und an Spitzentagen bis zu 10.000 Besucher. | 9 | Zahlenkontrast, sofort begreifbar. |
+| Überraschung | In dieses Dorf dürfen Reisebusse nur mit gebuchtem Zeitfenster. | 8 | Konkret, aber weniger emotional. |
+| Mystery | Warum dieses Dorf in Österreich seinen Besuchern Regeln macht. | 7 | Vage. |
+| Frage | Würdest du in einem Dorf wohnen, das täglich Tausende fotografieren? | 6 | Engagement-Frage. |
+| Mini-Story | Ein Salzdorf am See, ein berühmtes Foto – und plötzlich kommen Busse aus aller Welt. | 7 | Gute Stimmung, unklarer Zeitpunkt. |
+
+Sieger: „Rund 740 Einwohner – und an Spitzentagen bis zu 10.000 Besucher.“ – Das Verhältnis 740 zu 10.000 erklärt das Problem ohne Wertung und macht neugierig auf die Regeln.
+Startbild 0–2 s: Hallstatt von oben am See, dann Menschenmengen auf dem Platz (nur wenn Clip vorhanden). Overlay „740 vs. 10.000“.
+Beats & Bildfolge (ca. 34–36 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Hallstatt.
+
+- Kontext (3–9 s): „Hallstatt in Oberösterreich – ein Postkartenmotiv am See.“
+
+- Zahlen (9–17 s): „Rund 740 Menschen leben hier. An Spitzentagen kommen laut Medienberichten bis zu 10.000 Besucher.“
+
+- Regel (17–25 s): „Seit 2019 brauchen Reisebusse gebuchte Zeitfenster. Über eine Tagesgrenze wurde 2025 diskutiert.“
+
+- Tipp (25–32 s): „Früh morgens, abends oder außerhalb der Hauptsaison ist es ruhiger. Und: Wohnhäuser sind privat.“
+
+- Schluss (32–36 s): „Nächsten Mittwoch: Warum ein Bali-Strand gerade Gerichte beschäftigt.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | 740 Einwohner, 10.000 Gäste | Hallstatt-Totale, „10.000“ gelb |
+| 2 | Hallstatt hat Regeln | Seeufer mit Kirche |
+| 3 | So besuchst du Hallstatt | Hallstatt im Nebel |
+
+Warum folgen: Mittwochs, was hinter berühmten Reisezielen wirklich los ist – fair erzählt.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Hallstatt-Totale, Overlay „740 vs. 10.000“. | „POV: Du wohnst in Hallstatt“ über Menschenmenge. |
+| Overlay | 740 Einwohner, 10.000 Gäste | POV: Du wohnst in Hallstatt |
+| Suchbegriffe | Hallstatt Tipps, Hallstatt Besucher, Hallstatt beste Zeit | Hallstatt |
+
+Caption Instagram:
+Was dir keiner sagt #6: Hallstatt hat rund 740 Einwohner – an Spitzentagen kommen bis zu 10.000 Besucher. Reisebusse brauchen Zeitfenster. Tipp: früh, spät oder außerhalb der Saison kommen. 🇦🇹
+#hallstatt #österreich #salzkammergut #overtourism #reisetipps #wasdirkeinersagt
+Caption TikTok: 740 Einwohner vs. 10.000 Besucher 🇦🇹 #hallstatt #österreich #overtourism
+Stock · Suche: hallstatt aerial, hallstatt misty lake, hallstatt tourists crowd · Kandidaten: Pexels 37011265 (Hallstatt, Luft); Pexels 35374097 (Hallstatt mit Nebel); Pexels 36113643 (See bei Hallstatt) · Rechte/Hürden: Keine Gesichter von Anwohnern; Zaun von 2023 nicht als aktuell zeigen.
+Fakten gesichert: 737 Einwohner (Statistik Austria, 1.1.2025); bis zu 10.000 Besucher an Spitzentagen; ca. 1,2 Mio. Tagesgäste 2025 (Medien); Bus-Zeitfenster seit 2019; Besuchergrenze 2025 diskutiert (The Local)
+Vor Posting prüfen: 1,2 Mio. teils als „erwartet“ berichtet – im Voice-over weglassen · Superlativ „meistfotografiert“ nicht verwenden · Bus-Zeitfenster seit 2019 oder 2020 – Gemeindequelle
+Quellen: thelocal.at · citypopulation.de
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 7 · DACH 9 · WOW 9 · Originalität 7 · Share/Save 8 · Produktion 9 → 8,25. Österreich-Anker, klare Zahlen; Overtourism-Thema bekannt, aber mit Nutzwert-Tipp.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 5 · DACH 8 · WOW 8 · Originalität 4 · Share/Save 5 · Produktion 8 → 6,40. Stärke: Klarer Zahlenkontrast, wunderschöne Bilder, Nähe zur DACH-Zielgruppe. Schwäche: Overtourism Hallstatt seit Jahren medial durchgekaut; Tipps generisch, Serienversprechen „keiner sagt“ greift nicht.
+Konsens 7,33 < 8 → Nacharbeit: Unbekannteren Aspekt nutzen (Advent/Winter ruhig, Beinhaus, Salzwelten) und Zeit-Tipp mit konkreter Uhrzeit liefern. Umgesetzt in diesem Stand: 10.000 als Medienangabe gekennzeichnet. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 18 · Fr 18.12.2026 · Reisewissen in 30 Sekunden #6
+Der Fenster-Mythos der Luftfahrt stimmt nur halb · ortsunabhängig (Flug) · Cluster: Reisewissen · Redaktion 7,95 · Zweitbewertung 4,75 · Konsens 6,35 / 10
+
+| Feld | Inhalt |
+| Thema | Oft heißt es, eckige Passagierfenster hätten die de Havilland Comet 1954 abstürzen lassen. Laut FAA begann der Bruch beim Elba-Absturz an einem Ausschnitt für ein Antennenfenster im Kabinendach; Ermüdungstests zeigten zudem Risse an Fensterecken. Die Lehre: An scharfen Ecken von Rumpfausschnitten bündeln sich Spannungen – Ausschnitte werden großzügig gerundet. |
+| DACH-Bedürfnis | Ein bekanntes Flug-Fun-Fact wird ehrlich korrigiert – genau der Reisebüro-Anspruch „wir sagen dir, was stimmt“. |
+| Emotion | Aha, Rechthaben |
+| Payoff | Halb wahr: Der Bruch begann an einem Ausschnitt im Kabinendach, nicht an einem Passagierfenster. Die Lehre gilt trotzdem – an Ausschnitten im Rumpf sind Ecken heute großzügig gerundet. |
+| Länge · Aufwand | ca. 33–35 s · mittel (Spannungsgrafik) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Alle erzählen: eckige Fenster ließen die Comet abstürzen. Ganz so war es nicht. | 8 | Stark, aber zwei Sätze. |
+| Überraschung | Der berühmte Comet-Bruch begann nicht an einem Passagierfenster – sondern im Dach. | 8 | Neu, aber setzt Vorwissen voraus. |
+| ★ Mystery | Die bekannteste Flugzeugfenster-Geschichte stimmt nur halb. | 9 | Kurz, macht neugierig, verspricht Korrektur. |
+| Frage | Warum sind Flugzeugfenster rund? | 6 | Suchbegriff, aber verbraucht. |
+| Mini-Story | 1954 stürzen zwei Jets des ersten Passagierjet-Typs ab. Die Ermittler finden Risse – im Dach. | 7 | Dramatisch; bei Absturzthemen zurückhaltend bleiben. |
+
+Sieger: „Die bekannteste Flugzeugfenster-Geschichte stimmt nur halb.“ – Statt des tausendfach erzählten Fun Facts korrigiert das Reel die Legende – das ist originell und passt zum Versprechen „Reiseprofis sagen dir, was stimmt“.
+Startbild 0–2 s: Nahaufnahme Flugzeugfenster mit runden Ecken, Wolken dahinter. Overlay „Stimmt nur halb“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Fenster-Detail.
+
+- Legende (3–9 s): „Die Geschichte geht so: Die Comet, der erste Passagierjet, stürzte 1954 wegen eckiger Fenster ab.“ (ruhige Wolkenbilder, keine Wrackbilder)
+
+- Korrektur (9–18 s): „Laut Untersuchung begann der Bruch beim Elba-Absturz an einem Ausschnitt für ein Antennenfenster im Kabinendach – nicht an einem Passagierfenster.“ Grafik: Rumpf mit Dach-Ausschnitt.
+
+- Kern (18–26 s): „Wahr ist: An scharfen Ecken von Ausschnitten bündeln sich Kräfte. Tests zeigten Risse auch an Fensterecken.“ Grafik: Spannungslinien Ecke vs. Rundung.
+
+- Lehre (26–31 s): „Deshalb sind Ausschnitte im Rumpf heute großzügig gerundet – auch dein Fenster.“
+
+- Schluss (31–35 s): „Nächsten Freitag, am ersten Weihnachtstag: Warum die Polarkreis-Linie beim Weihnachtsmann nicht mehr stimmt.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Stimmt nur halb | Fenster-Detail, „halb“ gelb |
+| 2 | Der Fenster-Mythos | Fenster mit Sonnenuntergang |
+| 3 | Comet: die wahre Ursache | Flügel über Wolken |
+
+Warum folgen: Freitags Reisewissen – auch wenn wir dafür einen beliebten Fun Fact korrigieren.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Fenster-Detail in Sekunde 0, Overlay „Stimmt nur halb“. | Text „Diesen Fun Fact hast du falsch gelernt“ über Fenster. |
+| Overlay | Der Fenster-Mythos | Diesen Fun Fact hast du falsch gelernt |
+| Suchbegriffe | Flugzeugfenster rund Grund, Comet Absturz Ursache, Flugzeugfenster Mythos | Flugzeugfenster Mythos |
+
+Caption Instagram:
+Reisewissen #6: Die Comet stürzte 1954 wegen eckiger Fenster ab? Halb wahr. Der Bruch beim Elba-Absturz begann laut Untersuchung an einem Antennen-Ausschnitt im Dach. Die Lehre gilt trotzdem: Ecken an Rumpf-Ausschnitten werden großzügig gerundet. ✈️
+#fliegen #flugzeug #reisewissen #luftfahrt #mythos
+Caption TikTok: Die Comet-Story – richtig erzählt ✈️ #flugzeug #reisewissen #mythos
+Stock · Suche: airplane window clouds, airplane window sunset, airplane wing flight · Kandidaten: Pexels 34467289 (Fenster mit Wolken); Pexels 3740041 (Sonnenuntergang); Pexels 38965935 (Flügel und Horizont) · Rechte/Hürden: Keine Absturz- oder Wrackbilder; Spannungsgrafik selbst bauen.
+Fakten gesichert: Comet-Abstürze 10.1.1954 (Elba) und 8.4.1954 (Neapel); Ermüdungsrisse, Elba-Bruch am ADF-Antennenfenster; Ermüdungstests scheiterten an Fensterecken (FAA Lessons Learned)
+Vor Posting prüfen: Nicht sagen, Passagierfenster hätten den Absturz ausgelöst · Nicht behaupten, vor 1954 habe es keine runden Fenster gegeben · „heute großzügig gerundet“ als allgemeine Konstruktionspraxis formulieren, nicht als Vorschrift
+Quellen: faa.gov
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 6 · Originalität 7 · Share/Save 9 · Produktion 8 → 7,95. Sehr teilbar und mit Primärquelle FAA; Bildwirkung begrenzt.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 5 · Follow 5 · Spannung 6 · DACH 5 · WOW 3 · Originalität 2 · Share/Save 5 · Produktion 7 → 4,75. Stärke: Respektvoll erzählt, einfache Grafik-Erklärung. Schwäche: Eines der meistgenutzten Fun-Fact-Themen; generische Fensterbilder, kaum Reise- oder DACH-Bezug.
+Konsens 6,35 < 8 → Nacharbeit: Durch weniger verbrauchtes Flugthema ersetzen oder unbekanntes Detail (ADF-Antennenfenster im Dach) zum Hook machen. Umgesetzt in diesem Stand: Neuer Dreh laut Nacharbeit: Mythos-Korrektur (Dach-Ausschnitt statt Passagierfenster) statt verbrauchtem Fun Fact. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 7 · 21.12.–25.12.2026
+
+### Reel 19 · Mo 21.12.2026 · Fakt oder Fake? #7
+Unter Istanbul steht Medusa auf dem Kopf · Türkei (Istanbul) · Cluster: Reisegeschichte · Redaktion 8,45 · Zweitbewertung 6,05 · Konsens 7,25 / 10
+
+| Feld | Inhalt |
+| Thema | In der Cisterna Basilica (Yerebatan) aus dem 6. Jahrhundert tragen 336 Marmorsäulen die Decke. In der Nordwestecke stehen zwei Säulen auf antiken Medusenköpfen – einer liegt auf der Seite, einer steht auf dem Kopf. Warum, ist nicht belegt: Fachleute vermuten wiederverwendete Blöcke, die passend gelegt wurden; eine Legende sagt, so sei Medusas Blick gebannt. |
+| DACH-Bedürfnis | Istanbul ist ein Top-Städteziel der Türkei-Fans aus D/A/CH. Zuschauer bekommen einen Grund, unter die Erde zu gehen. |
+| Emotion | Gänsehaut, Neugier |
+| Payoff | Fakt: Zwei Medusenköpfe tragen Säulen – einer kopfüber, einer seitlich. Der Grund bleibt ein Rätsel: Praxis oder Aberglaube. |
+| Länge · Aufwand | ca. 33–35 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Über dir Istanbul, unter dir ein Wald aus 336 Säulen. | 8 | Starkes Bild, ohne Medusa. |
+| Überraschung | In diesem Wasserspeicher steht Medusa auf dem Kopf. | 8 | Gut, aber „Wasserspeicher“ klingt trocken. |
+| Mystery | Warum liegt dieser Medusenkopf seit Jahrhunderten kopfüber? | 8 | Neugierig, ohne Ort. |
+| ★ Frage | Fakt oder Fake: Unter Istanbul steht ein Medusenkopf auf dem Kopf? | 9 | Serienritual plus Bildversprechen. |
+| Mini-Story | 52 Stufen hinunter, das Licht wird schwach – und dann schaut dich Medusa an. Verkehrt herum. | 8 | Atmosphärisch, etwas lang. |
+
+Sieger: „Fakt oder Fake: Unter Istanbul steht ein Medusenkopf auf dem Kopf?“ – Die Frage verbindet Ort, Mythos und Bildversprechen; die Kamera kann die Antwort zeigen.
+Startbild 0–2 s: Säulenwald der Zisterne mit Spiegelung im Wasser. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Säulenwald.
+
+- Ort (3–10 s): „Die Cisterna Basilica in Istanbul – ein Wasserspeicher aus dem 6. Jahrhundert. 336 Säulen tragen die Decke.“
+
+- Auflösung (10–18 s): „Fakt. In der hintersten Ecke stehen zwei Säulen auf Medusenköpfen. Einer liegt auf der Seite, einer steht auf dem Kopf.“
+
+- Rätsel (18–26 s): „Warum? Belegt ist es nicht. Fachleute vermuten, die Blöcke wurden einfach passend eingebaut. Die Legende sagt: So wird ihr Blick gebannt.“
+
+- Tipp (26–31 s): „Die Verwaltung wurde 2026 neu geregelt – Tickets und Zeiten vorher prüfen.“
+
+- Schluss (31–35 s): „Nächsten Montag: Häuser, die gebaut wurden, um Steuern zu sparen?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Medusa auf dem Kopf | Zisterne mit Spiegelung, „Medusa“ gelb |
+| 2 | Fakt oder Fake #7 | Säulenwald im roten Licht |
+| 3 | 336 Säulen unter Istanbul | Totale der Zisterne |
+
+Warum folgen: Montags „Fakt oder Fake?“ – mit ehrlicher Antwort, auch wenn sie „unbekannt“ lautet.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Säulenwald, Overlay „Fakt oder Fake?“. | „Medusa wohnt unter Istanbul 🐍“ als Text. |
+| Overlay | Medusa auf dem Kopf? | Medusa wohnt unter Istanbul |
+| Suchbegriffe | Cisterna Basilica Istanbul, Yerebatan Zisterne, Istanbul Sehenswürdigkeiten | Cisterna Basilica Medusa |
+
+Caption Instagram:
+Fakt oder Fake #7: Unter Istanbul steht ein Medusenkopf auf dem Kopf. Fakt! In der Cisterna Basilica tragen zwei Medusenköpfe Säulen – einer kopfüber, einer seitlich. Warum? Ungeklärt. 🇹🇷
+#istanbul #cisternabasilica #yerebatan #türkei #städtereise #faktoderfake
+Caption TikTok: Das Rätsel der Medusenköpfe 🐍 #istanbul #faktoderfake #türkei
+Stock · Suche: basilica cistern istanbul, basilica cistern reflections, istanbul aerial · Kandidaten: Pexels 31717852 (Cisterna Basilica); Pexels 31717843 (Zisterne mit Spiegelung); Pexels 34432936 (Istanbul, Luft) · Rechte/Hürden: Kein freier Clip der Medusenköpfe bestätigt – vor Schnitt in den Clips suchen; sonst Medusa nur als Text/Grafik, kein fremdes Medusa-Motiv einsetzen.
+Fakten gesichert: 336 Säulen, Bau 532 unter Justinian (6. Jh.); zwei Medusa-Basen in der NW-Ecke, eine seitlich, eine kopfüber; Grund unbelegt (istanbul.com, turkeyphotoguide) · Verwaltungswechsel Juni 2026, Ticketing neu (istanbul.com, Stand 2026)
+Vor Posting prüfen: Säulenhöhe (8 oder 9 m) nicht nennen · Öffnungszeiten/Preise am Vortag · Freigabe nur mit lizenziertem Clip der Medusenköpfe; sonst Thema tauschen (Ersatz: Galata-Turm-Geschichte o. Ä. neu prüfen)
+Quellen: istanbul.com · turkeyphotoguide.com
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 9 · DACH 8 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 8 → 8,45. Starkes Mystery mit ehrlicher Auflösung; Medusa-Clip selbst noch offen.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 6 · DACH 7 · WOW 6 · Originalität 4 · Share/Save 5 · Produktion 5 → 6,05. Stärke: Atmosphärische Zisternenbilder, Mystery mit ehrlich offener Antwort. Schwäche: Medusenköpfe sind das bekannteste Zisternendetail; kein bestätigter Medusa-Clip – Payoff-Bild fehlt womöglich.
+Konsens 7,25 < 8 → Nacharbeit: Vor Freigabe lizenzierten Medusa-Clip sichern, sonst Thema tauschen; Hook auf das Warum-Rätsel statt Fakt-Frage legen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 20 · Mi 23.12.2026 · Was dir keiner sagt #7
+Bali-Strand: Gericht streitet über einen Glasaufzug · Indonesien (Nusa Penida) · Cluster: Mythos/Realität · Redaktion 8,00 · Zweitbewertung 6,55 · Konsens 7,28 / 10
+
+| Feld | Inhalt |
+| Thema | Kelingking Beach auf Nusa Penida ist nur über einen steilen Klippenpfad erreichbar. Ein geplanter Glasaufzug wurde im Nov. 2025 zum Abriss verfügt; im Sept. 2026 gab ein Verwaltungsgericht dem Investor recht, Bali geht in Berufung. |
+| DACH-Bedürfnis | Bali ist bei DACH-Reisenden beliebt. Zuschauer erfahren, was das berühmte Foto nicht zeigt, und wie sie sicher bleiben. |
+| Emotion | Überraschung, Vorsicht |
+| Payoff | Der Weg zum Strand ist steil und gefährlich, es gab tödliche Stürze; ob der Aufzug kommt, ist rechtlich offen. Der Aussichtspunkt oben liefert das berühmte Foto auch ohne Abstieg. |
+| Länge · Aufwand | ca. 36–38 s · niedrig (Faktenstand prüfen) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Auf Instagram drei Sekunden. In echt ein steiler Abstieg über die Klippe. | 8 | Gut, aber Instagram-vs.-Realität ist bekannt. |
+| ★ Überraschung | Zu diesem Strand sollte ein gläserner Aufzug gebaut werden – jetzt streiten Gerichte darüber. | 9 | Neu, konkret, überraschend. |
+| Mystery | Das berühmteste Foto von Bali verschweigt einen Teil der Geschichte. | 7 | Vage. |
+| Frage | Würdest du diesen Weg zum Strand gehen? | 5 | Reine Engagement-Frage. |
+| Mini-Story | Viele sehen dieses Foto und wollen sofort runter. Was sie oft nicht wissen: Der Weg ist ein Abenteuer für sich. | 7 | Zu lang. |
+
+Sieger: „Zu diesem Strand sollte ein gläserner Aufzug gebaut werden – jetzt streiten Gerichte darüber.“ – Der Aufzug ist die echte Neuigkeit und führt organisch zum Sicherheitsnutzen.
+Startbild 0–2 s: Drohne über der T-Rex-förmigen Klippe, dann Zoom auf die Treppe am Hang. Overlay „Glasaufzug?“.
+Beats & Bildfolge (ca. 36–38 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Drohnenbild.
+
+- Kontext (3–10 s): „Kelingking Beach auf Nusa Penida – eines der bekanntesten Fotomotive Indonesiens.“
+
+- Realität (10–18 s): Menschen auf der Treppe: „Der Weg nach unten ist steil und gilt als gefährlich; es gab bereits tödliche Stürze.“
+
+- Wendung (18–27 s): „Ein Investor wollte deshalb einen Glasaufzug bauen. Bali ordnete 2025 den Abriss an, ein Gericht entschied 2026 für den Investor. Jetzt geht es in die Berufung.“
+
+- Nutzen (27–34 s): „Das berühmte Foto bekommst du auch oben am Aussichtspunkt. Wer runter will: feste Schuhe, nicht bei Nässe.“
+
+- Schluss (34–38 s): „Nächsten Mittwoch: Warum viele Häuser in Marrakesch kaum Fenster zur Straße haben.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Ein Aufzug zum Strand? | Klippe von oben, „Aufzug“ gelb |
+| 2 | Was das Foto verschweigt | Treppe am Hang mit Menschen |
+| 3 | Bali: Instagram vs. echt | Split Aussicht / Abstieg |
+
+Warum folgen: Mittwochs, was hinter berühmten Reisebildern steckt – sachlich, ohne Panik.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Drohnenbild + Overlay „Glasaufzug?“, Stimme ab Sekunde 0. | „Bali vs. Realität“ als nativer Text, Schnitt auf die Treppe. |
+| Overlay | Ein Glasaufzug zum Strand? | Bali-Foto vs. Realität |
+| Suchbegriffe | Kelingking Beach Weg, Nusa Penida Tipps, Kelingking Aufzug | Kelingking Beach, Nusa Penida Realität |
+
+Caption Instagram:
+Was dir keiner sagt #7: Zum Kelingking Beach auf Nusa Penida führt ein steiler Klippenpfad. Ein geplanter Glasaufzug beschäftigt gerade die Gerichte. Das berühmte Foto gibt es auch oben am Aussichtspunkt.
+#bali #nusapenida #kelingkingbeach #indonesien #reisetipps #wasdirkeinersagt
+Caption TikTok: Was das berühmte Bali-Foto nicht zeigt 👀 #bali #nusapenida #reisetipps #realität
+Stock · Suche: kelingking beach drone, kelingking stairs people, nusa penida aerial · Kandidaten: Pexels 15537790 (Menschen auf der Treppe); Pexels 15537787 (Kelingking Drohne); Pexels 33335639 (Klippe) · Rechte/Hürden: Keine Unfallbilder, keine Bilder des Aufzugs ohne Lizenz. Stand des Rechtsstreits am Vortag prüfen.
+Fakten gesichert: Abrissverfügung Nov. 2025; Sept. 2026 Urteil zugunsten des Investors, Bali geht in Berufung (Antara) · Tödlicher Sturz einer Urlauberin am 12.09.2026 (The Star)
+Vor Posting prüfen: Stand der Berufung am Postingtag · Ob der Pfad zeitweise gesperrt ist · Urteil und Ereignisse ab Sept. 2026 unmittelbar vor Posting erneut prüfen; Stürze ohne Zahl nennen
+Quellen: bali.antaranews.com · thestar.com.my
+Scorecard Redaktion: Hook 9 · Follow 7 · Spannung 8 · DACH 7 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 9 → 8,00. Aktuell und bildstark; Follow-Grund etwas schwächer, weil Einzelfall. Muss tagesaktuell geprüft werden.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 7 · DACH 5 · WOW 8 · Originalität 7 · Share/Save 5 · Produktion 8 → 6,55. Stärke: Aktueller Rechtsstreit als frischer Aufhänger zu ikonischem Motiv. Schwäche: Bali für DACH Nischen-Fernziel, Posting am 23.12. ungünstig; Payoff eher Sicherheitshinweis als Auflösung.
+Konsens 7,28 < 8 → Nacharbeit: In den Januar verschieben; Payoff klar machen: Was heißt der Streit konkret für deinen Besuch 2027? Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 21 · Fr 25.12.2026 · Reisewissen in 30 Sekunden #7
+Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr · Finnland (Rovaniemi) · Cluster: Reisewissen · Redaktion 8,35 · Zweitbewertung 6,60 · Konsens 7,47 / 10
+
+| Feld | Inhalt |
+| Thema | Der Polarkreis wandert derzeit jedes Jahr um rund 14–15 m nach Norden, weil die Neigung der Erdachse in einem Zyklus von rund 41.000 Jahren schwankt. Die weiße Linie im Santa Claus Village bei Rovaniemi markiert deshalb nicht mehr die aktuelle Lage; der echte Polarkreis liegt weiter nördlich. |
+| DACH-Bedürfnis | Am ersten Weihnachtstag ein leichtes, teilbares Weihnachtsthema – mit echtem Wissen statt Kitsch. |
+| Emotion | Schmunzeln, Aha |
+| Payoff | Die Erde „wackelt“: Der Polarkreis zieht jedes Jahr rund 14–15 m nach Norden. Wer über die Linie springt, steht nicht mehr auf dem echten Polarkreis. |
+| Länge · Aufwand | ca. 33–35 s · mittel (Erdachsen-Grafik) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Die berühmte Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr. | 9 | Überraschend, perfekt am 25.12. |
+| Überraschung | Der Polarkreis wandert jedes Jahr rund 14 Meter nach Norden. | 9 | Konkret, aber ohne Weihnachtsbezug. |
+| Mystery | Wer am Weihnachtsmann-Dorf über diese Linie springt, steht gar nicht auf dem Polarkreis. | 8 | Gut, etwas lang. |
+| Frage | Wusstest du, dass der Polarkreis wandert? | 6 | Abgenutzt. |
+| Mini-Story | Viele Besucher springen in Rovaniemi über eine weiße Linie. Der Polarkreis ist längst weitergezogen. | 8 | Schön, aber zwei Sätze. |
+
+Sieger: „Die berühmte Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr.“ – Am Weihnachtstag trifft „beim Weihnachtsmann stimmt was nicht“ den Moment; die Wissensauflösung folgt sofort.
+Startbild 0–2 s: Santa Claus Village bei Nacht im Schnee. Overlay „Diese Linie stimmt nicht“.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + Weihnachtsdorf.
+
+- Spannung (3–8 s): „Hier, bei Rovaniemi, verläuft angeblich der Polarkreis.“
+
+- Wendung (8–17 s): „Doch der Polarkreis wandert – derzeit rund 14 bis 15 Meter pro Jahr nach Norden.“
+
+- Erklärung (17–25 s): Grafik Erdachse: „Die Neigung der Erdachse schwankt in einem Zyklus von rund 41.000 Jahren. Damit verschiebt sich auch der Polarkreis.“
+
+- Auflösung (25–31 s): „Der echte Polarkreis liegt heute weiter nördlich. Frohe Weihnachten trotzdem.“
+
+- Schluss (31–35 s): „Nächsten Freitag, an Neujahr: die Brückentage 2027.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Diese Linie stimmt nicht | Weihnachtsdorf im Schnee, „stimmt nicht“ gelb |
+| 2 | Der Polarkreis wandert | verschneite Landschaft am Polarkreis |
+| 3 | 14 Meter pro Jahr | Erdachsen-Grafik in Markenfarben |
+
+Warum folgen: Freitags Reisewissen – heute mit Weihnachtsmann-Bonus.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Weihnachtsdorf bei Nacht, Overlay „Diese Linie stimmt nicht“. | „Sorry Weihnachtsmann, aber…“ als Text über das Dorf. |
+| Overlay | Diese Linie stimmt nicht | Sorry, Weihnachtsmann… |
+| Suchbegriffe | Polarkreis Rovaniemi, Polarkreis wandert, Santa Claus Village | Polarkreis Rovaniemi |
+
+Caption Instagram:
+Reisewissen #7: Der Polarkreis wandert! Derzeit rund 14–15 m pro Jahr nach Norden, weil die Erdachse schwankt. Die Linie im Santa Claus Village bei Rovaniemi zeigt deshalb nicht mehr den echten Polarkreis. Frohe Weihnachten 🎄
+#rovaniemi #lappland #polarkreis #weihnachtsmann #finnland #reisewissen
+Caption TikTok: Der Polarkreis zieht um 🎅 #lappland #rovaniemi #polarkreis #reisewissen
+Stock · Suche: santa claus village night, rovaniemi winter, arctic circle snowy landscape · Kandidaten: Pexels 29626863 (Santa Claus Village, Luft); Pexels 29626864 (Weihnachtsdorf Nacht); Pexels 35103896 (Landschaft am Polarkreis) · Rechte/Hürden: Keine Weihnachtsmann-Figur in Großaufnahme (Persönlichkeitsrechte des Darstellers); keine Entfernung zum echten Polarkreis nennen.
+Fakten gesichert: Drift ca. 14–15 m/Jahr nach Norden; Achsneigung schwankt ca. 2° in ca. 41.000 Jahren; Linie im Santa Claus Village nicht aktuell (Wikipedia/Wikiwand, The World, Finavia)
+Vor Posting prüfen: Keine Meterangabe zur Entfernung der echten Linie
+Quellen: wikiwand.com · theworld.org
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 8 · DACH 8 · WOW 8 · Originalität 9 · Share/Save 8 · Produktion 9 → 8,35. Originell und saisonal; DACH-Bezug über Lappland-Reisen. Quellenlage gut, aber nicht behördlich.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 7 · DACH 6 · WOW 7 · Originalität 7 · Share/Save 6 · Produktion 7 → 6,60. Stärke: Frischer Wissensfakt mit Weihnachtsbezug, saubere Erklärung. Schwäche: Erdachsen-Grafik abstrakt; am 25.12. geringe Nutzung, Lappland nur für Teil der Zielgruppe relevant.
+Konsens 7,47 < 8 → Nacharbeit: Drift greifbar machen (rund 4 cm pro Tag), Grafik als Pfeil über Schnee-Luftbild statt Erdachsen-Schema. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+## Woche 8 · 28.12.–01.01.2027
+
+### Reel 22 · Mo 28.12.2026 · Fakt oder Fake? #8
+Häuser, die man schnell abreißen konnte? · Italien (Apulien, Alberobello) · Cluster: Reisegeschichte · Redaktion 8,50 · Zweitbewertung 6,40 · Konsens 7,45 / 10
+
+| Feld | Inhalt |
+| Thema | Die Trulli von Alberobello sind typischerweise ohne Mörtel in Trockenbauweise errichtet. Der Überlieferung nach sollten sie sich schnell abreißen lassen, um königliche Kontrollen und Abgaben zu umgehen – belegt ist das nicht. UNESCO-Welterbe seit 1996; 1797 wurde Alberobello königliche Stadt. |
+| DACH-Bedürfnis | Apulien wird bei DACH-Urlaubern immer beliebter. Zuschauer bekommen die Geschichte hinter dem Postkartenmotiv – inklusive ehrlicher Einordnung. |
+| Emotion | Neugier, Schmunzeln |
+| Payoff | Teils Fakt, teils Legende: Ohne Mörtel – stimmt. Abriss gegen Steuern – erzählt man sich, bewiesen ist es nicht. |
+| Länge · Aufwand | ca. 34–36 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | Gebaut, um schnell wieder abgerissen zu werden – sagt zumindest die Legende. | 8 | Gut, verrät „Legende“ zu früh. |
+| Überraschung | Diese Häuser in Apulien stehen ohne Mörtel. | 8 | Klar, aber ohne Geschichte. |
+| Mystery | Warum baut man ein Haus, das sich schnell abreißen lässt? | 8 | Neugierig. |
+| ★ Frage | Fakt oder Fake: Diese Häuser wurden gebaut, um Steuern zu sparen? | 9 | Serienritual plus Geld-Thema. |
+| Mini-Story | Ein Graf, ein König und Häuser ohne Mörtel – so erzählt man sich die Geschichte von Alberobello. | 7 | Zu lang. |
+
+Sieger: „Fakt oder Fake: Diese Häuser wurden gebaut, um Steuern zu sparen?“ – Die Steuer-Frage ist emotional (jeder kennt Steuern) und das Serienformat erlaubt die ehrliche Antwort „halb Fakt, halb Legende“.
+Startbild 0–2 s: Luftaufnahme der Trulli-Dächer von Alberobello. Overlay „Fakt oder Fake?“.
+Beats & Bildfolge (ca. 34–36 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook über Trulli-Dächern.
+
+- Fakt-Teil (3–11 s): „Die Trulli von Alberobello sind typischerweise ohne Mörtel gebaut – Stein auf Stein.“
+
+- Legende (11–21 s): „Der Überlieferung nach sollten sie sich schnell abreißen lassen, wenn Kontrolleure des Königs kamen – um Abgaben zu sparen.“
+
+- Einordnung (21–28 s): „Bewiesen ist das nicht. Sicher ist: Seit 1996 sind die Trulli UNESCO-Welterbe.“
+
+- Urteil (28–32 s): „Also: Ohne Mörtel – Fakt. Steuertrick – Legende.“
+
+- Schluss (32–36 s): „Nächsten Montag: Sahen die Pyramiden schon immer so aus?“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Häuser gegen Steuern? | Trulli-Dächer, „Steuern“ gelb |
+| 2 | Ohne Mörtel gebaut | Trulli-Gasse |
+| 3 | Fakt oder Fake #8 | Trulli von oben |
+
+Warum folgen: Montags „Fakt oder Fake?“ – mit ehrlicher Antwort, auch wenn sie „Legende“ heißt.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Trulli-Luftbild, Overlay „Fakt oder Fake?“. | „Häuser gegen Steuern?! 🤔“ als Text. |
+| Overlay | Häuser gegen Steuern? | Häuser gegen Steuern?! |
+| Suchbegriffe | Trulli Alberobello Geschichte, Alberobello Tipps, Apulien Sehenswürdigkeiten | Trulli Alberobello |
+
+Caption Instagram:
+Fakt oder Fake #8: Wurden die Trulli in Alberobello gebaut, um Steuern zu sparen? Ohne Mörtel gebaut: Fakt. Abriss gegen Steuern: Überlieferung, nicht bewiesen. UNESCO-Welterbe seit 1996. 🇮🇹
+#apulien #alberobello #trulli #italien #faktoderfake #reisewissen
+Caption TikTok: Die Geschichte der Trulli 🇮🇹 #apulien #alberobello #faktoderfake
+Stock · Suche: alberobello trulli aerial, trulli houses alberobello street · Kandidaten: Pexels 34759812 (Trulli, Luft); Pexels 18195603 (Trulli di Alberobello); Pexels 34759685 (Trulli, Luft) · Rechte/Hürden: Keine – Material vorhanden.
+Fakten gesichert: Trockenbauweise, typischerweise ohne Mörtel; Abriss-/Steuer-Geschichte nur überliefert („it is said“); UNESCO 1996; 1797 königliche Stadt (UNESCO via Google Arts & Culture, Visit Italy)
+Vor Posting prüfen: Keine Aussage „in Minuten abreißbar“
+Quellen: artsandculture.google.com · visititaly.eu
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 9 · DACH 8 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 9 → 8,50. Starke Geschichte mit ehrlicher Auflösung; sehr gutes Bild.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 6 · Spannung 6 · DACH 6 · WOW 8 · Originalität 5 · Share/Save 5 · Produktion 9 → 6,40. Stärke: Steuer-Frage zieht, ehrliche Trennung Fakt/Legende, starke Bilder. Schwäche: Steuerlegende bekannt; Auflösung „Legende“ lässt Zuschauer etwas leer zurück.
+Konsens 7,45 < 8 → Nacharbeit: Payoff mit belegtem Detail stärken (Dachsymbole, 1797 Stadtrecht) und Apulien-Reisezeit-Tipp ergänzen. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 23 · Mi 30.12.2026 · Was dir keiner sagt #8
+Im Riad hast du keinen Ausblick – mit Absicht · Marokko (Marrakesch) · Cluster: Hotelkonzept · Redaktion 8,35 · Zweitbewertung 6,60 · Konsens 7,47 / 10
+
+| Feld | Inhalt |
+| Thema | Ein Riad (von arabisch „ryad“, Garten) ist ein traditionelles Stadthaus in der Medina, das sich nach innen öffnet: Zur Gasse gibt es kaum Fenster, Zimmer und Fenster gehen zum Innenhof. Gründe: Privatsphäre der Familie und Klima – der Hof mit Brunnen und Pflanzen kühlt, dicke Mauern halten Hitze und Lärm draußen. Heute sind viele Riads kleine Gästehäuser. |
+| DACH-Bedürfnis | Marrakesch ist für D/A/CH ein beliebter Kurztrip im Winter. Wer ein Riad bucht, weiß vorher, was ihn erwartet – Ruhe statt Aussicht. |
+| Emotion | Aha, Vorfreude |
+| Payoff | Keine Fenster zur Gasse – das ist Absicht. Dafür Stille, Schatten und ein Innenhof. Wer Ausblick will, geht auf die Dachterrasse. |
+| Länge · Aufwand | ca. 31–33 s · niedrig |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| ★ Kontrast | Draußen eine fensterlose Mauer. Drinnen ein Garten mit Brunnen. | 9 | Zwei Bilder, sofort verständlich. |
+| Überraschung | In einem Riad in Marrakesch hast du meist kein Fenster zur Straße. | 8 | Nutzwert, wenig Emotion. |
+| Mystery | Warum haben so viele Häuser in Marrakesch keine Fenster zur Gasse? | 8 | Gute Frage, „so viele“ vage. |
+| Frage | Weißt du, was ein Riad eigentlich ist? | 6 | Abgenutzt. |
+| Mini-Story | Du gehst durch eine unscheinbare Tür in der Gasse – und stehst plötzlich in einem Garten. | 8 | Schönes Bild, braucht passenden Clip. |
+
+Sieger: „Draußen eine fensterlose Mauer. Drinnen ein Garten mit Brunnen.“ – Der Kontrast Mauer/Garten ist das Konzept des Riads in zwei Sätzen und macht neugierig auf das Warum.
+Startbild 0–2 s: Enge Medina-Gasse mit hohen Mauern – Schnitt in bunten Innenhof mit Brunnen. Overlay „Draußen Mauer, drinnen Garten“.
+Beats & Bildfolge (ca. 31–33 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Gasse → Innenhof, Hook.
+
+- Begriff (3–9 s): „Riad kommt vom arabischen Wort für Garten. Gemeint ist ein Stadthaus, das sich nach innen öffnet.“
+
+- Grund 1 (9–15 s): „Zur Gasse gibt es kaum Fenster – das schützt die Privatsphäre der Familie.“
+
+- Grund 2 (15–22 s): „Und das Klima: Der Innenhof mit Brunnen und Pflanzen spendet Schatten, dicke Mauern halten Hitze und Lärm draußen.“
+
+- Nutzen (22–29 s): „Heißt für dich: Im Riad schläfst du ruhig – aber meist ohne Ausblick. Den gibt’s auf der Dachterrasse.“
+
+- Schluss (29–33 s): „Nächsten Mittwoch: Warum über deine Ballonfahrt in Kappadokien eine Flagge entscheidet.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Kein Fenster – mit Absicht | Innenhof mit Brunnen, „Absicht“ gelb |
+| 2 | Was ist ein Riad? | Medina-Gasse mit Mauern |
+| 3 | Draußen Mauer, drinnen Garten | Split Gasse / Innenhof |
+
+Warum folgen: Mittwochs, was du vor der Buchung wissen solltest – ehrlich und ohne Werbung.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Schnitt Gasse → Innenhof in Sekunde 0–1, Overlay „Draußen Mauer, drinnen Garten“. | „Hinter dieser Tür ist ein Garten 👀“ als Text. |
+| Overlay | Kein Fenster – mit Absicht | Hinter dieser Tür… |
+| Suchbegriffe | Riad Marrakesch was ist das, Riad Unterkunft, Marrakesch Medina übernachten | Riad Marrakesch |
+
+Caption Instagram:
+Was dir keiner sagt #8: Ein Riad in Marrakesch hat zur Gasse kaum Fenster – mit Absicht. Privatsphäre und Klima: Alles öffnet sich zum Innenhof. Ruhe statt Ausblick (der wartet auf der Dachterrasse). 🇲🇦
+#marrakesch #riad #marokko #städtereise #hotelkonzept #wasdirkeinersagt
+Caption TikTok: So funktioniert ein Riad 🇲🇦 #marrakesch #riad #marokko
+Stock · Suche: sunlit narrow alley moroccan medina, moroccan courtyard tiles, bahia palace courtyard, marrakech rooftop · Kandidaten: Pexels 39890091 (Gasse in einer Medina); Pexels 34527220 (marokkanischer Innenhof, Ort prüfen); Pexels 30054512 (Innenhof Bahia-Palast) · Rechte/Hürden: Bahia-Palast ist ein Palast, kein Riad – nur als „traditioneller Innenhof“ zeigen. Keine Hotelnamen; Gasse nur als Marrakesch bezeichnen, wenn der Clip es belegt.
+Fakten gesichert: Riad = Haus mit Innengarten/-hof in der Medina; Fenster zum Hof, kaum Außenfenster; Privatsphäre und Klima (marrakech-riads.com, Secret Escapes, Wego) · Kein Ausblick nach außen im Zimmer (indietraveller)
+Vor Posting prüfen: Riad vs. Dar nicht vertiefen · AA-Lage Marokko am Vortag
+Quellen: marrakech-riads.com · secretescapes.com · blog.wego.com
+Scorecard Redaktion: Hook 9 · Follow 9 · Spannung 7 · DACH 8 · WOW 9 · Originalität 8 · Share/Save 8 · Produktion 8 → 8,35. Hotelkonzept mit Buchungsnutzen; Spannung mittel, weil die Auflösung früh kommt.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 7 · Follow 7 · Spannung 6 · DACH 7 · WOW 6 · Originalität 6 · Share/Save 6 · Produktion 7 → 6,60. Stärke: Gutes Tür-Reveal-Konzept, nützliches Hotelkonzept vor der Buchung. Schwäche: Kein echter Riad-Clip gesichert (Bahia-Palast); Payoff „kein Ausblick“ wenig überraschend.
+Konsens 7,47 < 8 → Nacharbeit: Lizenzierten Riad-Innenhof-Clip sichern; Nutzen schärfen: Riad vs. Hotel (Ruhe, Lage, Dachterrasse) als Entscheidungshilfe. Offen vor Produktion. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.
+
+### Reel 24 · Fr 01.01.2027 · Reisewissen in 30 Sekunden #8
+Brückentage 2027: so holst du das Maximum raus · Deutschland (NRW, Niedersachsen) · Cluster: DACH-Saison · Redaktion 8,05 · Zweitbewertung 6,30 · Konsens 7,18 / 10
+
+| Feld | Inhalt |
+| Thema | 2027 fallen 1. Mai, 3. Oktober und beide Weihnachtstage aufs Wochenende. Wer Ostern, Himmelfahrt und Pfingsten geschickt nutzt, bekommt trotzdem lange Auszeiten (NRW zusätzlich Fronleichnam). |
+| DACH-Bedürfnis | Urlaubsanträge für 2027 werden jetzt gestellt. Ein konkreter Plan für NRW und Niedersachsen spart Urlaubstage. |
+| Emotion | Vorfreude, Cleverness |
+| Payoff | Ostern: 4 Tage → 10 frei. Pfingsten: 4 Tage → 9 frei. NRW mit Fronleichnam: 8 Tage → 16 frei. Himmelfahrt: 1 Tag → 4 frei. |
+| Länge · Aufwand | ca. 33–35 s · niedrig (Grafik) |
+
+Fünf Hooks (★ = Sieger)
+
+| Typ | Hook | Note | Bewertung |
+| Kontrast | 2027 ist ein schlechtes Feiertagsjahr. Mit diesen Tagen holst du trotzdem das Maximum raus. | 8 | Gut, aber lang. |
+| ★ Überraschung | 2027 fallen der 1. Mai, der 3. Oktober und Weihnachten aufs Wochenende. | 9 | Konkret und sofort relevant für jeden Arbeitnehmer. |
+| Mystery | Mit 4 Urlaubstagen 10 Tage frei – wenn du den Antrag rechtzeitig stellst. | 8 | Starkes Versprechen, Zahl prüfbar. |
+| Frage | Hast du deinen Urlaub für 2027 schon eingereicht? | 6 | Weich, kein Wissensversprechen. |
+| Mini-Story | Neujahr, Kalender auf, und dann der Schock: 2027 hat kaum Feiertage unter der Woche. | 7 | Emotional, aber übertreibt („kaum“). |
+
+Sieger: „2027 fallen der 1. Mai, der 3. Oktober und Weihnachten aufs Wochenende.“ – Am Neujahrstag trifft die nüchterne Kalender-Nachricht genau den Moment, in dem Menschen ihr Jahr planen; die Auflösung liefert sofort den Plan.
+Startbild 0–2 s: Kalenderblatt 2027 (eigene Grafik): 1. Mai, 3. Oktober, 25./26. Dezember werden rot auf Samstag/Sonntag markiert.
+Beats & Bildfolge (ca. 33–35 s; Sekunden sind Richtwerte, Schnitt erst nach finaler ElevenLabs-Datei):
+- Setup (0–3 s): Hook + markierte Wochenend-Feiertage.
+
+- Ostern (3–10 s): „Karfreitag bis Ostermontag: 4 Urlaubstage vom 30.3. bis 2.4. – 10 Tage frei.“
+
+- Himmelfahrt (10–15 s): „Freitag, 7. Mai, nehmen – 4 Tage frei.“
+
+- Pfingsten (15–22 s): „18. bis 21. Mai – 9 Tage frei.“
+
+- Nur NRW (22–30 s): „In NRW – nicht in Niedersachsen – kommt Fronleichnam am 27. Mai dazu: Mit 8 Urlaubstagen hast du 16 Tage frei.“
+
+- Schluss (30–35 s): „Speichern und weiterschicken. Nächsten Freitag: Wo du mitten in der Alhambra übernachten kannst.“
+
+Cover
+
+| # | Headline (2–6 Wörter) | Bild |
+| 1 | Brückentage 2027 | Kalendergrafik in Markenfarben, „2027“ gelb |
+| 2 | 4 Tage, 10 frei | Kalender mit markierter Osterwoche |
+| 3 | 2027: Feiertage am Wochenende | Kalender mit roten Wochenend-Markierungen |
+
+Warum folgen: Freitags Reisewissen, das man sofort benutzen kann – inklusive Kalender für NRW und Niedersachsen.
+Instagram vs. TikTok
+
+|  | Instagram | TikTok |
+| Einstieg | Kalender-Grafik füllt das Bild, rote Markierungen ploppen nicht (keine Bounce-Animation), sondern blenden ein. | Video statt Foto-Post (ein Brückentage-Fotopost existiert schon): Kalender wird in 3 Schritten durchgeklickt. |
+| Overlay | Brückentage 2027 | 10 Tage frei mit 4 Urlaubstagen |
+| Suchbegriffe | Brückentage 2027 NRW, Brückentage 2027 Niedersachsen, Urlaub 2027 planen | Brückentage 2027 |
+
+Caption Instagram:
+Reisewissen #8: Brückentage 2027 für NRW und Niedersachsen 📅 Ostern: 4 Urlaubstage (30.3.–2.4.) → 10 Tage frei Himmelfahrt: 1 Tag (7.5.) → 4 Tage frei Pfingsten: 4 Tage (18.–21.5.) → 9 Tage frei NRW (und andere Länder mit Fronleichnam): + 27.5. → mit 8 Tagen 16 Tage frei
+- Mai, 3. Oktober und Weihnachten fallen aufs Wochenende. Speichern & an die Kollegen schicken.
+
+#brückentage2027 #urlaubsplanung #nrw #niedersachsen #urlaub2027 #reisewissen
+Caption TikTok: Brückentage 2027 (NRW & Niedersachsen) 📅 #brückentage2027 #urlaub2027 #nrw #niedersachsen
+Stock · Suche: calendar flipping, beach relaxing sunbed, airport departure board · Kandidaten: Eigene Kalendergrafik (kein Stock nötig); Pexels: generische Strand-/Flughafen-B-Roll · Rechte/Hürden: Keine; Grafik in Markenfarben bauen. Österreich und Schweiz haben andere Feiertage – im Overlay klar „NRW & Niedersachsen“ schreiben.
+Fakten gesichert: Wochentage 2027 per Kalenderrechnung: 1.5. Sa, 3.10. So, 25./26.12. Sa/So, Karfreitag 26.3., Ostermontag 29.3., Himmelfahrt 6.5., Pfingstmontag 17.5., Fronleichnam 27.5. (NRW)
+Vor Posting prüfen: Gesetzliche Feiertage NRW/Niedersachsen 2027 mit Landesportal gegenlesen
+Quellen: [Eigene Kalenderrechnung (Osterformel), Gegencheck Landesportale NRW](Eigene Kalenderrechnung (Osterformel), Gegencheck Landesportale NRW/Nds)
+Scorecard Redaktion: Hook 9 · Follow 8 · Spannung 7 · DACH 10 · WOW 5 · Originalität 6 · Share/Save 10 · Produktion 10 → 8,05. Höchster Nutzwert und DACH-Bezug; Bild ist Grafik, Thema existiert als TikTok-Fotopost – deshalb Originalität 6.
+Zweitbewertung (unabhängig, ohne Kenntnis der Redaktionsnoten): Hook 8 · Follow 6 · Spannung 5 · DACH 8 · WOW 3 · Originalität 4 · Share/Save 9 · Produktion 8 → 6,30. Stärke: Perfektes Timing an Neujahr, korrekte Daten, sehr hoher Speicherwert. Schwäche: Brückentage-Content gibt es überall; nur NRW/Nds, AT/CH außen vor; optisch reine Kalendergrafik.
+Konsens 7,18 < 8 → Nacharbeit: Fronleichnam-Tipp für alle Länder mit Feiertag öffnen (BW, BY, HE, NRW, RP, SL); Österreich-Variante als Folgepost anbieten. Umgesetzt in diesem Stand: Fronleichnam nicht mehr als „NRW-Bonus“, sondern „nur NRW (nicht Niedersachsen)“; Caption für andere Länder geöffnet. Freigabe erst nach Nacharbeit und Higgsfield-Vorabcheck > 80.

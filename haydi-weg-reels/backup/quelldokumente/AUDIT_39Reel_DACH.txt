@@ -1,0 +1,370 @@
+
+# haydi-weg – Audit 39-Reel-Plan & DACH-Konkurrenzanalyse
+ · 
+
+## Kurzfazit
+Gesamtnote 4 von 10. Der Plan liefert starke Bilder, aber keinen Grund, ausgerechnet haydi-weg zu folgen. Entscheidung für die 39 Reels: 8 behalten, 10 völlig neu erzählen, 21 ersetzen.
+Die drei größten Probleme
+- 16 von 39 Reels sind in der geplanten Form nicht freigabefähig: Bildrechte nur beim Hotel, falscher Bildort (Waitomo) oder Reisewarnung bzw. Abraten des Auswärtigen Amts (Jemen, VAE, Jordanien, Venezuela, Musandam; Stand 06.11.2026).
+
+- Kaum DACH-Bezug: 1 von 39 Reels spielt in Türkei, Ägypten, Spanien oder Griechenland; alle 13 Hotels sind Premium- oder Ultra-Luxus; kein Reel nennt Flugzeit, Ferien oder Österreich/Schweiz.
+
+- Austauschbar: 26 Hooks beginnen mit „Dies…“. Muraka und Lappland hat Urlaubsguru bzw. Urlaubspiraten schon mit Millionen-Views besetzt.
+
+Die drei größten Hebel
+- Nutzwert und Mythen-Check mit DACH-Anker: Die stärksten Konkurrenzvideos sind Brückentage (4,6 Mio.) und „Paris hat nur ein Stoppschild“ (4,6 Mio.), nicht die schönsten Orte.
+
+- Serie mit Nummer als Folgegrund, dazu Profilname und Bio auf dasselbe Versprechen umstellen.
+
+- Instagram als Primärkanal: Gleiche Inhalte liefen dort bei Urlaubspiraten 4–16× besser als auf TikTok; TikTok bekommt eigene Hooks und Foto-Karussell-Varianten.
+
+Sofort korrigieren: Woche 8 heißt 28.12.2026–01.01.2027, Reel 24 läuft am Fr 01.01.2027 (nicht 2026).
+
+## Methodik und Datenlücken
+Alle Konkurrenzzahlen wurden am Abend des 06.11.2026 öffentlich abgerufen: TikTok-Profile im Desktop-Browser (Views aus dem Profilraster, Sortierung „Aktuelles“ und „Beliebt“), Instagram-Reels-Raster ohne Login (Views) plus die öffentlichen Beitrags-Metadaten (Likes, Kommentare, Datum). TikTok-Datum = aus der Video-ID decodiert.
+- Belegt (Beobachtung): Follower, Views, Likes, Kommentare, Datum, Caption-Anfang, Cover-Overlay-Text (per Screenshot von zwei Profilrastern).
+
+- Interpretation: Hook-Mechanik, Gründe für Shares/Saves/Follows. Im Text immer als „Lesart“ markiert.
+
+- Nicht verfügbar: Retention, Watch-Time, Saves, Shares, Follower-Zuwachs pro Video, Werbebudgets hinter einzelnen Beiträgen. Nichts davon wird geschätzt oder erfunden.
+
+- Lücken: Instagram sperrte nach 5 Profilen den anonymen Zugriff (HolidayCheck, Urlaubstracker, reisereporter: nur Followerzahl). Bei @juliantravelstheworld lud das TikTok-Raster nicht. Videos wurden nicht vollständig angesehen; Hook-Wortlaut stammt aus Cover-Overlay und Caption, nicht aus dem gesprochenen Text.
+
+- Eigene Ausgangslage (06.11.2026): Instagram @haydiwegreisen 2.652 Follower, 76 Beiträge, Profilname „Reisebüro Minden & Hotel-Vlogs“. TikTok @haydiweg 2.797 Follower, 3.266 Likes, Bio „Türkei-Spezialisten seit 2014 · Hotels ehrlich erklärt · Beratung & Buchung über den Link“.
+
+- Zielrechnung: 10.000 Instagram-Follower bis 30.04.2027 heißt +7.348 in 25 Wochen, also rund 294 pro Woche. Wer linear im Plan liegt, steht am 05.02.2027 bei ca. 6.470.
+
+- Faktencheck der 39 Reels: per Websuche gegen Primärquellen (Hotel-, Behörden-, Wissenschaftsseiten); Quellen am Ende.
+
+## (A) Konkurrenz-Belegtabelle
+Die großen DACH-Accounts erreichen mit aktuellen Beiträgen auf Instagram nur rund 2–30 % ihrer Followerzahl, auf TikTok teils unter 1 %; Ausreißer sind fast immer Nutzwert, Preisüberraschung, ein „existiert wirklich“-Moment oder ein saisonales Nahziel. Reine Destinations-Montagen (TRAVELBOOK) bleiben bei 1.500–8.000 Views. Abruf aller Werte: 06.11.2026.
+
+| Account (Plattform, Follower) | Beispiel | Datum | Views | Likes / Komm. | Beobachteter Hook (Cover/Caption) | Lesart |
+| Urlaubsguru TikTok (385.300) | Brückentage 2024 | 06.07.2023 | 4,6 Mio. | – | „Brückentage 2024 – Verdopple deinen Urlaub auf über 60 Tage“ + Monatsliste | Stärkster Wert des Profils: reiner DACH-Nutzwert, Save-Magnet |
+| Urlaubsguru TikTok | Muraka „Klo with a view“ | 01.09.2023 | 2,0 Mio. | – | „Mit wem würdest du hier übernachten?“ auf Unterwasser-Suite | Muraka lief bei Urlaubsguru 3× viral (auch 856.500 , 2022: „Hier kannst du im Ocean schlafen!“) |
+| Urlaubsguru TikTok | Kiribati-Fakt | 27.03.2023 | 2,0 Mio. | – | Kartenbild „Mein neues Lieblingsland: Kiribati“ | Karte + absurder Fakt, ohne Spektakelbild |
+| Urlaubsguru TikTok | Schönster See Deutschlands | 02.08.2020 | 1,6 Mio. | – | „Der schönste See Deutschlands“ + Quiz | Superlativ im eigenen Land, Kommentar-Streit |
+| Urlaubsguru TikTok | Profil, letzte 4 Wochen | 10–11/2026 | 482–3.750 | – | Büro-/Trend-Clips mit Team | Ausreißer nur Foto-Karussells ( „48 Reiseziele für 2027“ : 52.000) und Kooperationen ( Barbados : 112.700) |
+| Urlaubsguru Instagram (608.000) | Südafrika-Roadtrip | 20.10.2026 | 114.000 | 2.415 / 43 | „Die schönste Reise meines Lebens“ – André aus dem Team | Echte Person + Preisanker |
+| Urlaubsguru Instagram | Lappland | 20.10.2026 | 97.100 | 1.360 / 15 | „Braucht ihr noch mehr Gründe … nach Lappland?“ | Saison-Timing Winter |
+| Urlaubsguru Instagram | Alpen-Kurztrip | 05.11.2026 | 22.100 | 209 / 1 | „Der perfekte Alpen (Kurz-)Trip, trust us“ | Schönes Hotel ohne Überraschung = Mittelmaß |
+| Urlaubspiraten Instagram (892.000) | London Winter Wonderland | 01.11.2026 | 245.000 | 3.272 / 4.318 | „Schreibe LON in die Kommentare …“ | Kommentar-Keyword-Automatik treibt Kommentare künstlich hoch |
+| Urlaubspiraten Instagram | Edinburgh im Herbst | 04.11.2026 | 228.000 | 3.289 / 1.765 | „Kopfsteinpflaster, cozy Wollpulli und Harry-Potter-Feeling“ | Gefühl + Saison + Nahziel |
+| Urlaubspiraten Instagram | IKEA-Hotel | 30.10.2026 | 167.000 | 1.312 / 1.657 | „Es existiert ein echtes IKEA-Hotel“ | Existenz-Hook mit bekannter Marke aus dem Alltag |
+| Urlaubspiraten Instagram | Idstein im Taunus | 06.11.2026 | 78.800 | 516 / 423 | „Sieht aus wie aus dem Bilderbuch“ | Deutschland-Ziel funktioniert auf Instagram |
+| Urlaubspiraten TikTok (261.500) | Hotel mit Pool im Keller | 20.05.2026 | 3,6 Mio. | – | „In Italien gibt’s ein Hotel mit einem geheimen Pool im Keller“ | Erreichbares Europa-Hotel + Geheimnis, nicht Superluxus |
+| Urlaubspiraten TikTok | Annecy | 18.04.2026 | 1,8 Mio. | – | „Das Venedig der Alpen“ | Vergleich mit bekanntem Ort = sofort verständlich |
+| Urlaubspiraten TikTok | London für 133 € | 15.10.2026 | 1,6 Mio. | – | „Du & ich für 133 € p. P. inkl. Flug & Hotel nach London zur Weihnachtszeit?“ | Preisschock + Saison |
+| Urlaubspiraten TikTok | Santa Claus Express | 22.09.2025 | 1,5 Mio. | – | „Warum redet keiner über den Santa Claus Express Nachtzug nach Lappland?!“ | Insider-Lücke („keiner redet darüber“) |
+| Urlaubspiraten TikTok | Seidenstraße | 03.11.2026 | 10.000 | – | gleicher Inhalt wie Instagram (159.000) | Gleicher Inhalt läuft auf Instagram bis 16× besser |
+| schauinsland-reisen Instagram (140.000) | Hotelneueröffnungen 2026 | 14.11.2025 | 553.000 | 2.164 / 20 | „Ready für die schönsten Hotelneueröffnungen 2026?“ | Jahresliste mit Neuheitswert, Merkliste |
+| schauinsland Instagram | Regnum The Crown, Belek | 05.09.2025 | 343.000 | 3.847 / 102 | „Luxusurlaub im Regnum The Crown“ | Türkei-Luxushotel = DACH-Kernthema |
+| schauinsland Instagram | Hilton Mauritius | 06.11.2026 | 5.674 | 92 / 0 | „Können wir bitte zurück?“ | Austauschbarer Hotel-Hook |
+| TUI Deutschland Instagram (320.000) | Längster Pool auf Madeira | 26.10.2026 | 53.100 | 630 / 23 | „Kennst du das Hotel mit dem längsten Pool auf Madeira? 77 Meter“ | Bester organischer Wert: Superlativ + Zahl |
+| TUI Deutschland Instagram | Savoy Palace Tagesablauf | 06.11.2026 | 17.100 | 129 / 5 | „This could be your day!“ | Generischer Hotel-Montage-Hook |
+| TRAVELBOOK Instagram (36.000) | Travelbook Places: Belgische Küste | 03.11.2026 | 1.459 | 15 / 1 | Serien-Titel + Ortsbeschreibung | Wissens-Montage ohne Spannung: Warnsignal für den haydi-weg-Plan |
+| TRAVELBOOK Instagram | Flugplan-Änderungen | 21.10.2026 | 8.014 | 35 / 2 | „Einmal im Jahr wird der Flugplan neu gemischt“ | Nachricht mit persönlicher Betroffenheit schlägt Ortsporträt |
+| worldtravelfox TikTok (115.500) | Malediven-Villa für 75 € | 04.07.2025 | 848.700 | – | „75 € p. P. pro Nacht für eine Beach Pool Villa … geht nicht? Geht doch“ | Mythos „unbezahlbar“ gebrochen |
+| worldtravelfox TikTok | Ort existiert wirklich | 03.08.2026 | 353.200 | – | „… weniger als 0,01 % der Deutschen …“ | DACH-Bezug per Zahl statt Ortsname |
+| worldtravelfox TikTok | Lagune ohne Hai | 11.07.2026 | 271.000 | – | „In dieser Lagune gibt es keinen einzigen Hai“ | Sofort prüfbare Behauptung + Auflösung |
+| yulesy TikTok (467.300) | Paris: nur ein Stoppschild | 24.12.2021 | 4,6 Mio. | – | „Ganz Paris hat nur ein einziges Stoppschild“ (#gutzuwissen) | Kurios-Fakt zu Nahziel, Teilen „für den nächsten Trip“ |
+| yulesy TikTok | Budapest Thermalquellen | 09.10.2022 | 2,4 Mio. | – | „Wie viele Thermalquellen??“ | Zahl als Neugier-Frage |
+| juliantravelstheworld TikTok (118.700, 7 Mio. Likes) | Profil | 06.11.2026 | n. v. | – | Serien-Playlists Griechenland, Spanien, Kanaren | Raster lud nicht: Datenlücke |
+
+Weitere geprüfte DACH-Profile (nur Followerzahl, Instagram-Sperre): HolidayCheck 158.000, Urlaubstracker 586.000, reisereporter 59.000.
+Beobachtete Muster: (1) Cover tragen fast immer einen ganzen Satz als Overlay, oft als Frage oder Preis. (2) Die meisten Hits zeigen Nahziele oder klassische DACH-Ziele (London, Prag, Annecy, Mallorca, Kreta, Lappland). (3) Instagram-Hits der Marken haben Kommentar-Keyword-CTAs („Schreibe X“). (4) TikTok-Allzeit-Hits sind überwiegend 1–4 Jahre alt; aktuelle Marken-TikToks liegen oft unter 5.000 Views.
+
+## (B) 10 Erfolgsmechanismen und 10 Chancen
+Was bei der Konkurrenz trägt, ist fast nie das schönste Bild, sondern ein Satz, den man sofort versteht und weitererzählen will. Der Beleg steht jeweils dahinter; „Lesart“ ist Interpretation.
+
+### 10 übertragbare Mechanismen
+
+| # | Mechanismus | Beleg (Views) | Übertrag auf haydi-weg |
+| 1 | Nutzwert mit DACH-Kalender (Brückentage, Ferien) | Urlaubsguru Brückentage: 4,6 Mio. | Ferien NRW/Niedersachsen, Brückentage 2027, „Wann buchen?“ als Wissensreel ohne Angebot |
+| 2 | „Existiert wirklich“ mit Alltagsanker | IKEA-Hotel 167.000; Pool im Keller 3,6 Mio. | Ort/Hotel über etwas Bekanntes einführen (Marke, Film, Alltagsgegenstand) |
+| 3 | Vergleich mit Bekanntem | „Das Venedig der Alpen“ 1,8 Mio. | „Das Santorini der Türkei“-Logik, aber nur wenn sachlich haltbar |
+| 4 | Mythos- oder Preisbruch | Malediven-Villa 75 €: 848.700; London 133 €: 1,6 Mio. | Bis Ende 2026 ohne Angebot: „Malediven müssen nicht Luxus sein“ als Wissen; Preise erst ab Feb. 2027 |
+| 5 | Kurios-Fakt zu einem Nahziel | Paris-Stoppschild 4,6 Mio.; Budapest 2,4 Mio. | Fakten zu Orten, die DACH-Zuschauer wirklich bereisen |
+| 6 | Saison 4–8 Wochen vor Reisezeit | Lappland 97.100 (Okt.); Edinburgh 228.000 (Nov.) | Themen auf Buchungs- und Reisemomente legen, nicht auf Postingtage |
+| 7 | Prüfbare Behauptung + Zahl + Auflösung | „Keinen einzigen Hai“ 271.000; 77-m-Pool 53.100 (TUI-Bestwert) | Jeder Hook braucht eine konkrete Zahl oder Behauptung, die das Video einlöst |
+| 8 | Insider-Lücke | „Warum redet keiner über …“ 1,5 Mio. | Nur mit echtem Insiderwissen; sonst Clickbait |
+| 9 | Jahres-/Neuheitsliste als Merkliste | Hotelneueröffnungen 2026: 553.000; „48 Reiseziele 2027“-Karussell 52.000 (Profilschnitt < 4.000) | „Neueröffnungen 2027 Türkei/Ägypten“ im Januar |
+| 10 | Tag-a-friend-Frage auf Wow-Bild | „Mit wem würdest du hier übernachten?“ 2,0 Mio. | Nur als Zusatz am Ende, nie als Hook-Ersatz |
+
+### 10 Lücken und Chancen
+- Hintergrundgeschichten zu DACH-Lieblingszielen. Marken zeigen Hotels, kaum jemand erzählt faceless das „Warum“ hinter Türkei, Ägypten, Kanaren, Mallorca, Kreta. Genau das ist haydi-wegs Stimme.
+
+- Türkei-Kompetenz sichtbar machen. schauinsland erreicht mit einem Belek-Hotel 343.000 Views; haydi-weg nennt sich „Türkei-Spezialisten“, der Plan hat aber nur 1 von 39 Türkei-Themen.
+
+- Systematischer Mythen-Check. Kein Account im Sample macht „Stimmt das?“ als Serie. Faceless, Stockbild-tauglich, hoher Save-Wert.
+
+- Neueröffnungen 2027. Format ist bewiesen (553.000), Timing Januar, Rechte über Hotel-Pressematerial klärbar.
+
+- DACH-Bezug per Flugzeit und Zahl. Kein einziges der 39 Reels nennt Flugzeit ab D/A/CH oder einen Deutschland-Vergleich.
+
+- Karten- und Globus-Erklärungen. Kiribati-Karte 2 Mio. ohne Spektakelbild: billig, rechtssicher, wiedererkennbar.
+
+- Wintersonne-Nutzen Nov.–Feb. „Wo ist es im Januar warm, unter 5 Stunden Flug?“ fehlt im Plan völlig.
+
+- Nummerierte faceless Serie. Urlaubsgurus #gurufakten ist seit 2020 eingeschlafen; eine eigene Serie mit Nummer schafft den Folgegrund.
+
+- Österreich und Schweiz. Im Sample spricht niemand AT/CH gezielt an; der Plan hat 0 Reels mit AT/CH-Bezug (Abflug Wien/Zürich, Alpenphänomene).
+
+- Ehrliche Realität. worldtravelfox gewinnt mit Ironie zur Regenzeit (207.600). haydi-weg hat mit Nordlicht (15) und Kelingking (30) zwei Ansätze, die zur Serie „Was dir keiner sagt“ werden können.
+
+### Instagram vs. TikTok
+- Belegt: Gleiche Urlaubspiraten-Inhalte liefen auf Instagram 4–16× besser (Idstein 78.800 vs. 17.900; Seidenstraße 159.000 vs. 10.000; Edinburgh 228.000 vs. 15.800).
+
+- Belegt: Bei Urlaubsguru TikTok schlagen Foto-Karussells die aktuellen Videos (52.000 und 121.700 vs. meist unter 4.000).
+
+- Belegt: Die Instagram-Hits von Urlaubspiraten nutzen Kommentar-Keyword-Automatik; für haydi-weg bis Ende 2026 ausgeschlossen.
+
+- Lesart: TikTok belohnt Ich-Perspektive, Handyoptik und nativen Text; eine faceless Stockmontage mit polierten Covern hat dort strukturell weniger Chancen als auf Instagram. Instagram ist deshalb der Primärkanal für das 10.000-Ziel, TikTok bekommt pro Reel einen eigenen, frecheren Hook und Foto-Karussell-Varianten.
+
+## (C) 39er-Audit
+16 der 39 Reels sind in der geplanten Form nicht freigabefähig (Bildrechte, falscher Bildort oder AA-Reisehinweis), und nur 5 erreichen die Gesamtnote 6. Durchschnitt: 4,83 von 10. Gesamt = gewichtete Summe der Teilnoten (0–10); * = Datum im PDF falsch (01.01.2026 statt 01.01.2027). „Gesperrt“ gilt unabhängig von der Punktzahl.
+
+| Nr | Datum | Thema | Hook 20 % | Follow 20 % | Spannung 15 % | DACH 15 % | WOW 10 % | Orig. 10 % | Share/Save 5 % | Prod. 5 % | Gesamt | Rang | Freigabe | Entscheidung |
+| 01 | 09.11. | Sørvågsvatn | 6 | 3 | 5 | 3 | 8 | 3 | 4 | 8 | 4,70 | 21 | Korrektur | NEU ERZÄHLEN |
+| 02 | 11.11. | Marina Bay Sands Pool | 6 | 3 | 5 | 3 | 7 | 3 | 5 | 4 | 4,45 | 24 | Rechte offen | ERSETZEN |
+| 03 | 13.11. | Lençóis Maranhenses | 7 | 4 | 6 | 3 | 9 | 4 | 5 | 8 | 5,50 | 10 | Korrektur | NEU ERZÄHLEN |
+| 04 | 16.11. | Deadvlei | 6 | 3 | 5 | 3 | 8 | 3 | 3 | 6 | 4,55 | 22 | Korrektur | ERSETZEN |
+| 05 | 18.11. | The Muraka | 6 | 3 | 3 | 2 | 8 | 1 | 4 | 2 | 3,75 | 33 | gesperrt: Rechte | ERSETZEN |
+| 06 | 20.11. | Rosa Strände | 7 | 4 | 6 | 5 | 7 | 4 | 5 | 5 | 5,45 | 13 | Korrektur | NEU ERZÄHLEN |
+| 07 | 23.11. | Sokotra | 7 | 3 | 5 | 1 | 9 | 4 | 4 | 2 | 4,50 | 23 | gesperrt: AA, Rechte | ERSETZEN |
+| 08 | 25.11. | Skylodge Peru | 5 | 3 | 4 | 2 | 8 | 2 | 4 | 2 | 3,80 | 32 | gesperrt: Rechte | ERSETZEN |
+| 09 | 27.11. | Vulkan → Trauminsel | 2 | 4 | 5 | 2 | 5 | 5 | 4 | 6 | 3,75 | 34 | frei | ERSETZEN |
+| 10 | 30.11. | Salar de Uyuni | 5 | 3 | 5 | 2 | 9 | 2 | 5 | 8 | 4,40 | 25 | Korrektur | NEU ERZÄHLEN |
+| 11 | 02.12. | ICEHOTEL | 6 | 4 | 6 | 4 | 7 | 4 | 4 | 5 | 5,05 | 18 | Rechte offen | NEU ERZÄHLEN |
+| 12 | 04.12. | Polarlichter erklärt | 5 | 5 | 6 | 6 | 8 | 3 | 6 | 8 | 5,60 | 9 | frei | NEU ERZÄHLEN |
+| 13 | 07.12. | Zao Schneemonster | 7 | 4 | 6 | 3 | 8 | 6 | 4 | 5 | 5,40 | 14 | Rechte offen | BEHALTEN |
+| 14 | 09.12. | Kakslauttanen | 4 | 3 | 3 | 5 | 8 | 2 | 4 | 2 | 3,90 | 30 | gesperrt: Rechte | ERSETZEN |
+| 15 | 11.12. | Nordlicht-Garantie | 6 | 7 | 7 | 7 | 6 | 6 | 8 | 8 | 6,70 | 2 | frei | BEHALTEN |
+| 16 | 14.12. | Waitomo | 8 | 5 | 8 | 3 | 8 | 5 | 6 | 2 | 5,95 | 6 | gesperrt: Bildort | NEU ERZÄHLEN |
+| 17 | 16.12. | Treehotel | 4 | 3 | 5 | 3 | 8 | 2 | 4 | 2 | 3,90 | 31 | gesperrt: Rechte, Fakt | ERSETZEN |
+| 18 | 18.12. | Wüsten nachts kalt | 5 | 5 | 6 | 6 | 5 | 5 | 6 | 8 | 5,50 | 11 | frei | NEU ERZÄHLEN |
+| 19 | 21.12. | Grönland Eisberge | 4 | 3 | 4 | 3 | 9 | 4 | 3 | 5 | 4,15 | 29 | Rechte offen | ERSETZEN |
+| 20 | 23.12. | Jade Mountain | 7 | 3 | 6 | 2 | 8 | 5 | 4 | 2 | 4,80 | 20 | gesperrt: Rechte | ERSETZEN |
+| 21 | 25.12. | Dubai künstliche Inseln | 5 | 4 | 6 | 6 | 8 | 3 | 5 | 8 | 5,35 | 15 | gesperrt: AA | ERSETZEN |
+| 22 | 28.12. | Zhangjiajie | 5 | 3 | 5 | 2 | 9 | 2 | 4 | 8 | 4,35 | 26 | Korrektur | ERSETZEN |
+| 23 | 30.12. | Atlantis The Royal | 4 | 2 | 3 | 4 | 7 | 3 | 3 | 2 | 3,50 | 35 | gesperrt: AA, Rechte | ERSETZEN |
+| 24 | 01.01.* | Petra | 6 | 4 | 6 | 4 | 8 | 3 | 4 | 8 | 5,20 | 17 | gesperrt: AA, Datum | ERSETZEN |
+| 25 | 04.01. | Mount Roraima | 7 | 4 | 6 | 2 | 8 | 6 | 4 | 5 | 5,25 | 16 | gesperrt: AA | ERSETZEN |
+| 26 | 06.01. | Capella Ubud | 3 | 2 | 3 | 3 | 7 | 3 | 3 | 2 | 3,15 | 37 | gesperrt: Rechte | ERSETZEN |
+| 27 | 08.01. | Gili-Inseln | 6 | 6 | 6 | 5 | 7 | 5 | 8 | 8 | 6,05 | 5 | frei | BEHALTEN |
+| 28 | 11.01. | Kelimutu | 8 | 5 | 7 | 2 | 8 | 7 | 5 | 5 | 5,95 | 7 | Rechte offen | BEHALTEN |
+| 29 | 13.01. | Six Senses Zighy Bay | 3 | 2 | 4 | 3 | 7 | 4 | 3 | 2 | 3,40 | 36 | gesperrt: AA, Rechte | ERSETZEN |
+| 30 | 15.01. | Nusa Penida Realität | 6 | 6 | 7 | 5 | 8 | 4 | 7 | 8 | 6,15 | 4 | Korrektur | BEHALTEN |
+| 31 | 18.01. | Kawah Ijen | 7 | 5 | 8 | 3 | 9 | 5 | 5 | 5 | 5,95 | 8 | Rechte offen | BEHALTEN |
+| 32 | 20.01. | Giraffe Manor | 6 | 3 | 4 | 3 | 8 | 2 | 5 | 2 | 4,20 | 27 | gesperrt: Rechte | ERSETZEN |
+| 33 | 22.01. | Kappadokien | 3 | 5 | 5 | 8 | 9 | 4 | 5 | 8 | 5,50 | 12 | frei | NEU ERZÄHLEN |
+| 34 | 25.01. | Milford Sound | 5 | 4 | 6 | 2 | 8 | 5 | 4 | 8 | 4,90 | 19 | frei | ERSETZEN |
+| 35 | 27.01. | Amangiri | 3 | 2 | 3 | 2 | 8 | 3 | 3 | 2 | 3,10 | 39 | gesperrt: Rechte | ERSETZEN |
+| 36 | 29.01. | Malediven lokal vs. Resort | 5 | 7 | 6 | 7 | 7 | 6 | 8 | 8 | 6,45 | 3 | frei | BEHALTEN |
+| 37 | 01.02. | Lofoten | 3 | 3 | 3 | 5 | 9 | 3 | 4 | 8 | 4,20 | 28 | frei | NEU ERZÄHLEN |
+| 38 | 03.02. | Alila Jabal Akhdar | 3 | 2 | 3 | 3 | 7 | 3 | 3 | 2 | 3,15 | 38 | gesperrt: Rechte | ERSETZEN |
+| 39 | 05.02. | Großkreis-Flugrouten | 7 | 7 | 8 | 7 | 5 | 5 | 8 | 7 | 6,80 | 1 | frei | BEHALTEN |
+
+### Begründung je Reel
+Originalhook wörtlich aus dem PDF; Fakten- und Rechtehinweise aus dem Faktencheck (Quellen am Ende).
+
+| Nr | Originalhook | Wichtigste Schwäche | Chance / besserer Ansatz (1 Satz) |
+| 01 | „Dieser See sieht aus, als würde er über dem Atlantik schweben.“ | Weltweit tausendfach gezeigte Illusion; der See liegt nur ca. 32 m über dem Meer, die Auflösung „Perspektive“ ist dünn. | Als „Fakt oder Fake?“: zeigen, von welchem einen Standpunkt das berühmte Foto funktioniert. |
+| 02 | „Diesen Pool kannst du nicht einfach mit einem Ticket besuchen.“ | Poolbilder sind Privatgelände (meist nur Hotel- oder Editorial-Material); Singapur ist für DACH ein Randziel. | Die Nutzwert-Mechanik („kommst du da überhaupt rein?“) an einem DACH-Ziel mit lizenzierbaren Bildern wiederholen. |
+| 03 | „Diese Landschaft sieht aus wie eine Wüste. Doch zwischen den Dünen liegen Tausende Lagunen.“ | „Sieht aus wie“-Hook; Mitte November sinken die Lagunen (Okt.–Dez.), volle Stock-Lagunen wären saisonal irreführend. | Payoff „ist gar keine Wüste“: 1.200–1.600 mm Regen pro Jahr, 1,5- bis 2-mal so viel wie der deutsche Schnitt (791 mm, DWD); Ende Januar posten. |
+| 04 | „Diese Bäume sind seit Jahrhunderten tot – und stehen noch immer.“ | Ikone ohne neue Information, kein DACH-Bezug; Videos sind teils Death Valley oder Sossusvlei statt Deadvlei. | Ersetzen; falls behalten: „Warum diese Bäume seit ca. 600–700 Jahren nicht verrotten“. |
+| 05 | „Dieses Schlafzimmer liegt unter der Meeresoberfläche.“ | Urlaubsguru hatte genau dieses Hotel 3× viral (bis 2 Mio.): Kopie-Risiko. Keine freien Muraka-Clips. | Ersetzen. Kein Hotel zeigen, das ein Konkurrent schon besetzt hat. |
+| 06 | „Dieser Sand ist wirklich rosa – ganz ohne Filter.“ | Stock ist fast immer übersättigt, das widerspricht „ohne Filter“. Die Erklärung mit Homotrema rubrum gilt nur für Bermuda. | DACH-Version: Elafonisi auf Kreta (dezent rosa, Sandmitnahme verboten) vs. Budelli (seit 1994 gesperrt). |
+| 07 | „Diese Bäume sehen aus, als würden sie auf einem anderen Planeten wachsen.“ | AA warnt vor Reisen nach Jemen inkl. Sokotra; im Januar 2026 saßen Touristen dort fest. Im Stock gibt es KI-generierte Drachenbäume. | Ersetzen. Ein Reisebüro-Kanal bewirbt keine Ziele mit Reisewarnung. |
+| 08 | „Würdest du in dieser durchsichtigen Kapsel übernachten?“ | „Würdest du …?“ ist eine reine Engagement-Frage ohne Information; Bilder gibt es nur beim Betreiber. | Ersetzen. Die Frage höchstens als Schlusszeile, nie als Hook. |
+| 09 | „Viele tropische Inseln haben eine Geschichte, die Millionen Jahre zurückreicht.“ | Schwächster Hook des Plans: kein Bild, keine Spannung, kein Ort. | Ersetzen. Höchstens als Karten-Animation: „Warum die Malediven Ringe bilden“. |
+| 10 | „Hier verschwinden scheinbar Himmel und Erde.“ | Vage Formulierung, totgespielt; Spiegeleffekt nur in der Regenzeit (meist Dez.–Apr.), nicht garantiert. | „Nur ein paar Monate im Jahr wird dieser Ort zum Spiegel“, Größe als DACH-Anker (ca. 10.583 km², rund 4× Saarland). |
+| 11 | „Dieses Hotel wird jeden Winter neu aus Schnee und Eis gebaut.“ | Bekanntes Faktum, Kunstsuiten sind urheberrechtlich geschützt; Clips zeigen oft andere Eishotels. | Timing nutzen: ICEHOTEL 37 öffnet am 11.12.2026; Payoff „schmilzt im Frühjahr zurück in den Fluss Torne“. |
+| 12 | „Was bringt den Nachthimmel dazu, grün zu leuchten?“ | Lehrbuchfrage, austauschbar; die Erklärung allein erzeugt keinen Follow-Grund. | DACH-Dreh: Warum Polarlichter auch über Deutschland möglich sind und dort meist rötlich erscheinen; Sonnenmaximum war Okt. 2024. |
+| 13 | „Diese riesigen Gestalten sind eigentlich Bäume.“ | Am 07.12. sind die Monster erst halb ausgebildet (beste Zeit Ende Jan.–Feb.); kaum freie Clips. | Behalten, auf Ende Januar schieben; Payoff „sie verschwinden“ (Motten- und Borkenkäferschäden seit 2013). |
+| 14 | „Ein Bett unter einer Glaskuppel – mitten im finnischen Winter.“ | Beschreibung statt Hook; Glasiglu-Clips sind fast immer von anderen Resorts. | Ersetzen; Glasiglu-Fakt in Reel 15 integrieren. |
+| 15 | „Ein Nordlicht-Hotel bedeutet nicht automatisch Nordlichter.“ | Hook negativ und abstrakt; das Bild (Wolken) ist schwach. | Behalten, Hook konkret: „Du buchst Lappland für Polarlichter und siehst vielleicht keine. Darauf kommt es an.“ |
+| 16 | „Diese Sterne sind keine Sterne.“ | Top-Hook, aber in der Glowworm Cave gilt Fotoverbot: „Waitomo“-Clips stammen meist aus anderen Höhlen, also falscher Ort. | Ortsehrlich neu: „Neuseelands Glühwürmchen“, nur mit Clips, deren Höhle dokumentiert ist; Payoff Larven mit Klebefäden. |
+| 17 | „Dieses Hotelzimmer scheint zwischen den Bäumen zu verschwinden.“ | Beschreibung; die Behauptung „Infrarotfolie für Vögel“ ist physikalisch fragwürdig (Vögel sehen UV); Rechte schwer. | Ersetzen. |
+| 18 | „Tagsüber brütend heiß, nachts überraschend kalt – warum?“ | Lehrbuchfrage ohne Ort und ohne Nutzen. | Nutzen-Dreh: „Warum du für die Wüstensafari in Ägypten eine Jacke brauchst“ (trockene Luft speichert keine Wärme). |
+| 19 | „Diese gigantischen Eisformationen treiben langsam durchs Meer.“ | Beschreibung; eines von 7 Arktis-/Nordreels im Plan; im Dezember herrscht in Ilulissat Polarnacht. | Ersetzen; Arktis-Cluster auf maximal 3 Reels kürzen. |
+| 20 | „In diesen Suiten fehlt absichtlich eine Wand.“ | Starker Paradox-Hook, Fakt bestätigt, aber Bilder nur über das Hotel; Ultra-Luxus in der Karibik. | Ersetzen oder nur mit schriftlicher Hotel-Freigabe; die Mechanik „fehlt absichtlich“ für ein DACH-Hotel übernehmen. |
+| 21 | „Diese Inseln wurden nicht von der Natur geformt.“ | AA rät seit 29.10.2026 von nicht notwendigen VAE-Reisen ab; Postingtag ist der 1. Weihnachtstag. | Zurückstellen. Nach AA-Entwarnung: „Für diese Insel wurden ca. 94 Mio. m³ Meeressand bewegt.“ |
+| 22 | „Diese gewaltigen Felssäulen sehen aus wie eine Filmkulisse.“ | „Sieht aus wie“-Hook; die Avatar-Behauptung trägt nur als „gilt als Inspiration“ (Cameron nannte Huangshan). | Ersetzen. |
+| 23 | „Dieses Hotel sieht aus wie gestapelte Wolkenkratzer.“ | Zweites Dubai-Reel innerhalb von 5 Tagen; AA-Hinweis VAE; Bilder nur über das Hotel. | Ersetzen. |
+| 24 | „Hinter dieser engen Schlucht verbirgt sich eine ganze antike Stadt.“ | Datum falsch (01.01.2026 statt 2027); AA rät von nicht notwendigen Jordanien-Reisen ab; 2025 Sturzflut-Evakuierungen in Petra. | Zurückstellen. Später mit Payoff „Das Schatzhaus war nie ein Schatzhaus, sondern ein Grabmal“. |
+| 25 | „Dieser Berg sieht aus, als hätte jemand seine Spitze abgeschnitten.“ | Venezuela-Zugang (Paraitepui) liegt im AA-Warn- bzw. Abratebereich; wenige freie Clips. | Ersetzen. |
+| 26 | „Dieses Resort sieht aus wie ein verborgenes Expedition-Camp.“ | Schwacher Hook, Rechte nur beim Hotel; eines von 5 Indonesien-Reels zwischen 06. und 18.01. | Ersetzen. |
+| 27 | „Diese drei Inseln liegen nah beieinander – und fühlen sich völlig unterschiedlich an.“ | Hook mit 12 Wörtern zu lang; drei Inseln brauchen klare Typen. | Behalten. Hook: „Auf diesen drei Inseln gibt es keine Autos, und jede ist ein anderer Urlaub.“ |
+| 28 | „Diese drei Seen können ihre Farben verändern.“ | Ursache des Farbwechsels nicht abschließend geklärt; kaum freie Videos. | Behalten, Bilder vorab sichern; Auflösung ehrlich: „Forscher vermuten …“. |
+| 29 | „Dieses Luxusresort liegt versteckt zwischen steilen Bergen und einer einsamen Bucht.“ | Musandam: AA rät von Reisen ab; Paragliding-Anreise aktuell unklar; Rechte schwer. | Ersetzen. |
+| 30 | „Diesen Strand kennt fast jeder von Instagram. Aber der Weg dorthin ist eine andere Geschichte.“ | Hook mit 15 Wörtern zu lang; tödlicher Sturz am 12.09.2026, Lift-Rechtsstreit offen. | Behalten mit Respekt: Sicherheitsnutzen statt Sensation, Lift nicht als „abgerissen“ bezeichnen. |
+| 31 | „An diesem Vulkan sieht man nachts etwas, das wie blaue Lava aussieht.“ | Blue-Fire-Nachtclips selten, im Umlauf sind „blue lava“-Fakes. | Behalten mit Bildnachweis; Payoff „keine Lava, sondern brennende Schwefelgase“, plus Zugangsregeln als Nutzen. |
+| 32 | „Hier kann morgens eine Giraffe am Fenster auftauchen.“ | Totgespieltes Luxus-Motiv; Bilder nur über das Hotel. | Ersetzen. |
+| 33 | „Diese Landschaft wurde über Millionen Jahre geformt.“ | Schwächster Hook trotz des besten DACH-Themas im Plan. | Neu: Derinkuyu, unterirdische Stadt ca. 85 m tief, Schätzungen bis 20.000 Menschen (als Schätzung kennzeichnen). |
+| 34 | „Hier fallen Wasserfälle direkt von gewaltigen Felswänden ins Meer.“ | Beschreibung; Neuseeland ist für DACH ein Randziel. | Ersetzen durch den Unteren Düden-Wasserfall in Antalya: stürzt ca. 40 m direkt ins Mittelmeer. |
+| 35 | „Dieses Luxusresort ist so gestaltet, dass es fast Teil der Landschaft wird.“ | Austauschbarer Luxus-Hook, Rechte nur beim Hotel, kein DACH-Bezug. | Ersetzen. |
+| 36 | „Zwei Reisen auf die Malediven können völlig unterschiedlich aussehen.“ | Bester Nutzwert, aber vager Hook. | Behalten. Hook: „Malediven ohne Resort, seit 2009 erlaubt, aber ohne Alkohol.“ |
+| 37 | „Diese kleinen Fischerdörfer liegen zwischen Bergen und eisigem Meer.“ | Beschreibung ohne Spannung. | Neu: „Warum hier im Winter Tausende Fische an Holzgestellen hängen“ (Skrei Jan.–Apr., Stockfisch). |
+| 38 | „Dieser Pool liegt direkt an einer gewaltigen Berglandschaft.“ | Drittes Oman-/Golf-Hotel; Bilder nur über das Hotel; austauschbarer Hook. | Ersetzen. |
+| 39 | „Diese Flugroute sieht falsch aus – ist aber oft der kürzeste Weg.“ | Grönland-Überflug kommt nur „manchmal“ vor und muss per Flugtracking belegt werden. | Behalten. Beispiel Frankfurt–USA mit echter Tracking-Route; Animation selbst bauen. |
+
+## Plan als Ganzes
+Der Plan ist eine Sammlung weltbekannter Postkartenmotive ohne erkennbaren Absender. Die Mittwochs-Hotels sind die schwächste Säule (Ø 3,86), Freitags-Wissen die stärkste (Ø 5,69), Montags-Entdeckungen liegen bei 4,94.
+
+| Prüfpunkt | Befund | Folge |
+| Kalender Jahreswechsel | Woche 8 steht als „28.12–01.01.2026“, Reel 24 als „Fr 01.01.2026“. Richtig: 28.12.2026–01.01.2027; der 01.01.2026 war ein Donnerstag. Alle übrigen 38 Termine fallen korrekt auf Mo/Mi/Fr. | Korrigieren, sonst falsche Planung im Scheduler |
+| Feiertags-Slots | 21.12. bis 01.01. liegen 6 Reels, darunter Dubai-Inseln am 1. Weihnachtstag und Petra an Neujahr; keines nutzt den Anlass. | Slots mit Jahreswechsel- oder Vorfreude-Themen belegen |
+| Wiederholte Bildwelten | 7 Arktis-/Nordreels (11, 12, 14, 15, 17, 19, 37), 5 davon im Dezember; 5 Indonesien-Reels vom 06. bis 18.01. (26–31); 4 Golf-Reels (21, 23, 29, 38); 4 Wüsten (03, 04, 18, 35). | Gleiche Optik hintereinander senkt Wiedererkennung und Neugier |
+| Austauschbare Hooks | 26 von 39 Hooks beginnen mit „Dies…“, 8 nutzen „sieht aus wie/als“. 6 Hooks haben 12 oder mehr Wörter (03, 07, 27, 30, 31, 35) . | Jeder Hook könnte von jedem Account stammen |
+| Luxuslastigkeit | 13 von 13 Hotel-Reels sind Premium- oder Ultra-Luxus, keines in Türkei, Ägypten, Spanien oder Griechenland; 11 davon haben praktisch nur Hotelmaterial. | Kein Alltagsbezug für DACH-Familien und Paare; Rechteproblem |
+| DACH-Relevanz | 1 von 39 Reels spielt in einem der vier Kernziele (33 Kappadokien). Kein Reel nennt Flugzeit, Ferien, Preise oder einen D/A/CH-Vergleich; 0 Reels zu Österreich oder Schweiz. | Reichweite möglich, aber kaum passende Follower für ein Reisebüro |
+| Zuschauer-Nutzen | Nur 7 von 39 Reels liefern einen praktischen Takeaway (02, 15, 27, 30, 31, 36, 39). | Wenig Save-Gründe, wenig Folgegrund |
+| Saisonalität | Lençóis im Nov. (Lagunen sinken), Juhyō am 07.12. (zu früh), Grönland im Dez. (Polarnacht). Der Januar als Hauptbuchungszeit bleibt thematisch ungenutzt. | Bilder versprechen Zustände, die zum Postingtag nicht herrschen |
+| Sicherheitslage | 6 Reels betreffen Länder oder Regionen, für die das Auswärtige Amt am 06.11.2026 warnt oder abrät: 07 Jemen/Sokotra, 21 + 23 VAE, 24 Jordanien, 25 Venezuela, 29 Musandam. | Für einen Reisebüro-Kanal nicht vertretbar; vor jedem Posting neu prüfen |
+| Fakten | 7 Reels brauchen Korrekturen (01, 03, 04, 06, 10, 22, 30), 1 Behauptung ist fragwürdig (17, Infrarotfolie). | Ohne Korrektur angreifbar in den Kommentaren |
+| Produktionsrealität | Editorial-Material ist für einen kommerziellen Kanal nicht nutzbar. Pixabay verlangt für Privatgebäude und Marken die Zustimmung der Eigentümer, Pexels verbietet angedeutete Markenempfehlung. Abos im Budget: Storyblocks Small Business ca. 40 $/Monat (jährlich), Envato Core ab 16,50 $/Monat. | 16 Reels in der geplanten Form nicht produzierbar |
+| Konkurrenz-Überschneidung | Muraka lief bei Urlaubsguru 3× viral; Lappland/Glasiglu ist bei Urlaubsguru (1,2 Mio.) und Urlaubspiraten (1,5 Mio.) besetzt; „Würdest du …?“ ist Urlaubsguru-Mechanik. | Verstoß gegen die eigene Regel „keine kopierten Konkurrenzideen“ |
+| Profil-Bruch | Instagram heißt „Reisebüro Minden & Hotel-Vlogs“, TikTok-Bio „Türkei-Spezialisten · Hotels ehrlich erklärt · Beratung & Buchung“. Der Plan verspricht etwas anderes. | Wer vom Reel aufs Profil klickt, findet keinen Grund zu folgen |
+| PDF-Priorität | Die Prioritätsliste nennt 01, 03, 08, 10, 31. Davon ist 08 gesperrt, 03 und 10 brauchen Korrekturen, 01 ist schwach; nur 31 trägt. | Prioritätsliste verwerfen |
+
+## (D) Harte Gesamtbewertung: 4 von 10
+Als Moodboard für schöne Bilder taugt der Plan, als Wachstumsplan für 10.000 passende DACH-Follower nicht. Das Ziel braucht rund 294 neue Instagram-Follower pro Woche. Ein Plan ohne Folgeversprechen, mit 16 gesperrten Reels und einem Notenschnitt von 4,83 wird das nach meiner Einschätzung nicht liefern (Einschätzung, keine Messung).
+
+| Dimension | Note | Begründung |
+| WOW-Bild | 8 | Die eigentliche Stärke: fast jedes Motiv ist visuell stark. |
+| Kalender-Handwerk | 6 | Rhythmus Mo/Mi/Fr sauber eingehalten, aber falsches Jahr bei Woche 8 und Reel 24, Feiertage ungenutzt. |
+| Spannung/Payoff | 5 | Einige echte Auflösungen (16, 28, 31, 39), viele Reels enden bei „schön“. |
+| Hook-Qualität | 4 | 26 von 39 Hooks beginnen mit „Dies…“; nur 4 echte Paradox-Hooks (13, 16, 20, 28). |
+| Fakten & Sicherheit | 4 | 7 Korrekturen, 1 fragwürdige Behauptung, 6 Reels mit AA-Warnung oder -Abraten. |
+| Zuschauer-Nutzen | 4 | 7 von 39 Reels mit praktischem Takeaway. |
+| DACH-Relevanz | 3 | 1 Reel in den Kernzielen, keine Flugzeit, keine Ferien, kein AT/CH. |
+| Originalität | 3 | Überwiegend die bekanntesten Motive des Internets; Muraka und Lappland sind bei Urlaubsguru und Urlaubspiraten schon besetzt. |
+| Follow-Anreiz | 3 | Keine Serie, kein Versprechen, Profil sagt etwas anderes als die Reels. |
+| Produktionsrealität | 3 | 16 von 39 in der geplanten Form nicht freigabefähig, 11 von 13 Hotel-Reels nur mit Hotelmaterial möglich. |
+
+## (E1) Ranking, Top 12, Flop 12 und Ersatzkandidaten
+Kein einziges Hotel-Reel steht in den Top 12, und 9 der 12 schwächsten sind Hotel-Reels. Die Gewinner sind fast durchweg Wissens- und Nutzwert-Reels.
+Top 12 (Rang 1–12): 39 Flugrouten, 15 Nordlicht-Garantie, 36 Malediven lokal vs. Resort, 30 Nusa Penida, 27 Gili-Inseln, 16 Waitomo (gesperrt, wird neu erzählt), 28 Kelimutu, 31 Kawah Ijen, 12 Polarlichter, 03 Lençóis, 18 Wüste nachts kalt, 33 Kappadokien.
+Flop 12 (Rang 28–39): 37 Lofoten, 19 Grönland, 14 Kakslauttanen, 17 Treehotel, 08 Skylodge, 05 Muraka, 09 Vulkaninsel, 23 Atlantis The Royal, 29 Zighy Bay, 26 Capella Ubud, 38 Alila Jabal Akhdar, 35 Amangiri.
+Reserve statt Papierkorb: 20 Jade Mountain (bei schriftlicher Hotel-Freigabe), 21 Dubai-Inseln und 24 Petra (nach Ende des AA-Abratens) können später zurückkommen.
+
+### Fehlende Themencluster
+- Entdeckungen in den Kernzielen Türkei, Ägypten, Spanien, Griechenland
+
+- Reiseirrtümer und Mythen-Check (Handgepäck, „Meerblick“, Ausflugs-Absagen)
+
+- Flug- und Flughafenwissen (heute nur Reel 39)
+
+- DACH-Kalender und Saison: Brückentage 2027, Ferien, Wintersonne, Neueröffnungen 2027
+
+- Nahziele in Österreich, Schweiz, Deutschland
+
+- Bezahlbare Hotel-WOW-Momente im Pauschalmarkt
+
+- Termin-Phänomene im Planzeitraum (z. B. 02.02. Palma, 22.02. Abu Simbel)
+
+- Verhaltensregeln vor Ort (Verbote, Kleidung, Schutzgebiete) mit hohem Save-Wert
+
+### 21 Ersatzkandidaten
+Themen, keine Skripte. „Geprüft“ = Kernfakt in dieser Analyse mit Quelle belegt; „zu prüfen“ = vor dem Skript zwei Quellen einholen.
+
+| # | Thema | Cluster | DACH-Anker / Hook-Richtung | Fakt | Bildlage |
+| 1 | Licht-Acht in der Kathedrale von Palma | Termin-Phänomen, Spanien | Nur am 02.02. und 11.11. zeichnet die Morgensonne eine Acht; posten am 29.01. oder 01.02. | geprüft | Kathedrale leicht, Lichteffekt selten |
+| 2 | Sonnenwunder Abu Simbel | Storytelling, Ägypten | Am 22.02. und 22.10. erreicht die Sonne das Innerste, obwohl der Tempel versetzt wurde | geprüft | außen leicht, innen mittel |
+| 3 | Unterer Düden-Wasserfall | Entdeckung, Türkei | Stürzt aus ca. 40 m direkt ins Mittelmeer, ca. 8 km vom Zentrum Antalyas | geprüft | leicht |
+| 4 | La Geria, Lanzarote | Entdeckung, Kanaren | Jede Rebe wächst in ihrem eigenen Vulkantrichter | geprüft | leicht |
+| 5 | Grüner See, Steiermark | Entdeckung, Österreich | Ein See, der jedes Frühjahr einen Wanderweg verschluckt; Baden und Tauchen seit 2016 verboten | geprüft | mittel (keine Taucherbilder verwenden) |
+| 6 | Brückentage 2027 NRW/Niedersachsen | DACH-Trend | 1. Mai, 3. Oktober und Weihnachten fallen aufs Wochenende; Brückentage 07.05. und (nur NRW) 28.05. | geprüft (Kalender) | Grafik, kein Stock nötig |
+| 7 | Teide vs. Zugspitze | Reisewissen, Kanaren | Spaniens höchster Berg steht auf einer Insel und ist rund 750 m höher als die Zugspitze | zu prüfen | leicht |
+| 8 | Hotelneueröffnungen 2027 Türkei/Ägypten | Trend, Hotel-WOW | Jahresliste (Format-Beleg: 553.000 Views bei schauinsland) | zu recherchieren | nur mit schriftlicher Hotel-Freigabe |
+| 9 | Wintersonne im Januar unter 5 Std. Flug | DACH-Trend | Temperaturvergleich Kanaren, Rotes Meer, Madeira vs. Minden | zu prüfen | leicht |
+| 10 | Warum Flugzeugfenster rund sind | Reisewissen | Sicherheitsgeschichte hinter einem Alltagsdetail | zu prüfen | leicht |
+| 11 | Warum Essen im Flugzeug fade schmeckt | Reisewissen, Mythos | Kabinendruck und trockene Luft | zu prüfen | leicht |
+| 12 | Flüssigkeiten im Handgepäck 2027 | Reiseirrtum | Welche Regel gilt an welchem Flughafen | zu prüfen (Stand am Postingtag) | leicht |
+| 13 | Pamukkale-Terrassen | Was dir keiner sagt, Türkei | Warum du hier die Schuhe ausziehen musst | zu prüfen | leicht |
+| 14 | Versunkene Stadt Kekova bei Kaş | Entdeckung, Türkei | Ruinen unter dem Boot, Schwimmen dort nicht erlaubt | zu prüfen | mittel |
+| 15 | Ballonfahrten in Kappadokien | Was dir keiner sagt, Türkei | Warum Fahrten oft wetterbedingt abgesagt werden | zu prüfen | leicht |
+| 16 | Maya Bay, Thailand | Was dir keiner sagt | Berühmtester Strand Thailands mit Badeverbot | zu prüfen | leicht |
+| 17 | Hallstatt und Besucherlenkung | Was dir keiner sagt, Österreich | Wie ein Dorf mit Overtourism umgeht | zu prüfen | leicht |
+| 18 | Glacier Express | Reisewissen, Schweiz | „Langsamster Schnellzug der Welt“ nur als „gilt als“ | zu prüfen | mittel |
+| 19 | Warum das Rote Meer so heißt | Reisewissen, Ägypten | Namenserklärungen sauber als Theorien kennzeichnen | zu prüfen | leicht |
+| 20 | „Meerblick“ vs. „seitlicher Meerblick“ | Was dir keiner sagt, Hotel | Reisebüro-Kompetenz ohne Anbieter-Bashing | zu prüfen | generische Hotelbilder |
+| 21 | Cuevas del Drach, Mallorca | Entdeckung, Spanien | Unterirdischer See mit Konzert | zu prüfen | mittel |
+
+## (E2) Verbindliches Briefing für die Neuplanung
+Die Neuplanung verschiebt das Gewicht von „schönen Orten“ zu „Wissen, das man vor der nächsten Reise haben will“. Die WOW-Bilder bleiben als Träger, nicht als Inhalt.
+
+### Themenmix (39 Reels)
+
+| Cluster | Reels | Anteil | Regel |
+| Entdeckungen mit Paradox- oder Existenz-Hook | 9 | 23 % | Mind. 4 in Europa/Mittelmeer, unter 5 Std. Flug ab D/A/CH |
+| Reisewissen und Erklärformate (Karte, Flug, Natur-Warum) | 8 | 21 % | Immer mit Reisefolge: „Was heißt das für deinen Urlaub?“ |
+| Reiseirrtümer, Mythen-Check, „Was dir keiner sagt“ | 7 | 18 % | Quelle im Bild; kein Schlechtreden von Anbietern |
+| Storytelling: Geschichte hinter Ort oder Hotel | 6 | 15 % | Mind. 3 in Türkei, Ägypten, Spanien oder Griechenland |
+| Hotel-WOW | 5 | 13 % | Max. 1 Ultra-Luxus; mind. 3 im DACH-Pauschalmarkt; nur mit schriftlich freigegebenem Hotelmaterial |
+| DACH-Trendthemen und Saison | 4 | 10 % | Brückentage 2027, Neueröffnungen 2027, Wintersonne, Ferien NRW/Niedersachsen |
+
+Geografie: Mind. 18 der 39 Reels (ca. 45 %) spielen in Zielen mit großem DACH-Pauschalmarkt (Türkei, Ägypten, Spanien inkl. Kanaren/Balearen, Griechenland, Italien, Portugal, Kroatien, Österreich, Schweiz, Malediven, Thailand). Mind. 3 Reels zu Österreich oder Schweiz, max. 3 Arktis-Reels, nie mehr als 2 Reels derselben Region in Folge, 0 Ziele mit AA-Warnung oder -Abraten zum Postingtag. Die bisherige Ausrichtung mit ca. 60 % Türkei/Ägypten/Spanien/Griechenland wäre für einen Discovery-Kanal zu eng; 45 % ist der Kompromiss zwischen Reichweite und passenden Followern.
+
+### Drei feste Serien
+
+| Tag | Serie | Inhalt |
+| Montag | „Fakt oder Fake?“ mit Nummer | Entdeckung mit Paradox; die Auflösung ist der Payoff |
+| Mittwoch | „Was dir keiner sagt“ | Reiseirrtümer, Hotel-Wahrheiten, Instagram vs. Realität; hier laufen die 5 Hotel-Reels |
+| Freitag | „Reisewissen in 30 Sekunden“ | Warum-Erklärungen, Karten, Flug, Saison, Storytelling |
+
+### 8 Qualitätsregeln für Hooks
+- Sofort verständlich: Ein Gedanke, gesprochen max. 10 Wörter, Overlay 3–6 Wörter; funktioniert ohne Ton.
+
+- Behauptung statt Beschreibung: Zahl, Paradox oder Widerspruch. Als Hook-Anfang verboten: „Dieser/Diese/Dieses …“, „sieht aus wie“, „Würdest du …?“.
+
+- Visuell gedeckt: Sekunde 0–1 zeigt genau das Objekt der Behauptung, am richtigen Ort, mit dokumentierter Lizenz.
+
+- Wahr und belegt: Zwei Quellen, davon eine primär; Superlative nur mit „gilt als“; Saison und Zugang am Postingtag geprüft.
+
+- Nicht austauschbar: Würde der Hook unverändert bei Urlaubsguru oder einem internationalen Account laufen, wird er umgeschrieben (DACH-Anker oder Serienmarker).
+
+- DACH-Anker bis Sekunde 5: Flugzeit ab D/A/CH, Vergleich mit Bekanntem (Zugspitze, Saarland, Bodensee), deutscher Kalender.
+
+- Genau eine Emotion: Staunen, Fernweh, Ärger-Vermeidung oder Ekel-Faszination, ausgelöst in den ersten 2 Sekunden.
+
+- Klare Auflösung: Die Antwort kommt im Video, nicht in der Caption, spätestens bei 70 % der Laufzeit; danach ein Zusatznutzen statt Abspann.
+
+### Warum jemand haydi-weg folgen soll
+Versprechen in einem Satz: „haydi-weg zeigt dir die Orte, Fakten und Reise-Irrtümer, die du vor deiner nächsten Buchung kennen solltest, erklärt von Reiseprofis seit 2014.“
+- Gleiches Versprechen überall: Instagram-Name und Bio (heute „Reisebüro Minden & Hotel-Vlogs“), TikTok-Bio (heute „Türkei-Spezialisten … Beratung & Buchung“), Cover und Schlusszeile.
+
+- Vertrauen statt Verkauf: Die YouTube-Reichweite (laut eigener Angabe über 55.000 Abonnenten) und „seit 2014“ in die Bio; keine Buchungsaufforderung bis Ende 2026.
+
+- Serienlogik: Nummer im Cover, die Schlusszeile kündigt die nächste Folge konkret an („Freitag: Warum Flugzeuge scheinbar falsch fliegen“).
+
+- Profil als Beweis: 3 angepinnte Reels = je ein Serienpilot, damit ein Profilbesucher in 3 Sekunden sieht, was er bekommt.
+
+### Freigabe-Checkliste vor jedem Schnitt
+- Bildort über Stock-Metadaten verifiziert; kein Ersatzort, kein KI-Clip
+
+- Lizenz kommerziell, nicht „editorial use only“; bei Hotels schriftliche Freigabe
+
+- Hook-Fakt mit zwei Quellen belegt, Superlativ abgesichert
+
+- AA-Reise- und Sicherheitshinweise am Vortag des Postings geprüft
+
+- Saison und Zugang am Postingtag passen zum Bild
+
+- Thema bzw. Hotel nicht unter den Top-Videos von Urlaubsguru oder Urlaubspiraten
+
+- Datum, Wochentag, Feiertag geprüft
+
+- Serienmarker und nächste Folge eingeplant
+
+### Messung
+Zielgröße ist neue Follower pro Woche (Ziel ca. 294) und Follower pro Reel aus Instagram Insights, erst dann Views. Nach 3 Wochen wird ausgewertet, welche Serie am besten konvertiert, und der Mix verschoben.
+
+## Quellen
+Alle Seiten abgerufen am 06.11.2026. Einzelne Konkurrenz-Videos sind in Tabelle (A) verlinkt.
+Konkurrenz- und Eigenprofile: Urlaubsguru TikTok · Urlaubsguru Instagram · Urlaubspiraten TikTok · Urlaubspiraten Instagram · schauinsland-reisen · TUI Deutschland · TRAVELBOOK · worldtravelfox · yulesy · juliantravelstheworld · haydi-weg Instagram · haydi-weg TikTok
+Auswärtiges Amt: VAE · Jordanien · Jemen · Venezuela · Oman
+Faktencheck 39 Reels: Sørvågsvatn · Marina Bay Sands Pool · Lençóis · Deadvlei · Muraka · rosa Sand · Budelli · Sokotra-Touristen Jan. 2026 · Skylodge · Atolle · Salar de Uyuni · ICEHOTEL 37 · Polarlichter 2026 · Zao Juhyō · Kakslauttanen · Waitomo · Treehotel · Ilulissat · Jade Mountain · Palm Islands · Zhangjiajie/Avatar · Atlantis The Royal · Petra Schatzhaus · Roraima · Capella Ubud · Gili · Kelimutu · Zighy Bay Paragliding · Kelingking Lift · Kelingking Unfall · Kawah Ijen · Kawah Ijen Zugang · Giraffe Manor · Feenkamine · Derinkuyu · Milford Sound · Amangiri · Malediven Gästehäuser · Lofoten · Skrei · Alila Jabal Akhdar · Großkreis · Polarlichter rot über Deutschland · DWD-Niederschlag 791 mm
+Lizenzen und Stock: Pexels-Regeln · Pixabay-Lizenz · Shutterstock Editorial · Adobe Stock Lizenz · Storyblocks Preise · Envato Preise
+Ersatzkandidaten: Palma Licht-Acht · Abu Simbel · Düden-Wasserfall · Grüner See · La Geria
