@@ -1,22 +1,24 @@
-H39 · Fr 05.02.2027 · Reisewissen in 30 Sekunden #13 · Bad Gastein: Grandhotels, die fast 20 Jahre leer standen
-===============================================================================================================
+H39 · Fr 05.02.2027 · Reisewissen #13 · Bad Gastein: Grandhotels, die fast 20 Jahre leer standen
+================================================================================================
+Struktur C (Historischer Konflikt → Wendepunkt) · Themenwelt Hotel-Legenden · Ziel ca. 40 s
 
-Wörter: 82 · geschätzt ca. 34 s (vorläufig)
+Wörter: 88 · geschätzt ca. 36 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Zwei Grandhotels mitten im Ort – fast zwanzig Jahre leer.
-[curious] Bad Gastein im Salzburger Land: Belle-Époque-Fassaden am Wasserfall, einst Kurort der Kaiser.
-Doch Straubinger und Badeschloss am zentralen Platz standen fast zwei Jahrzehnte leer.
-Zweitausendachtzehn kaufte die Hirmer-Gruppe den Komplex – drei Jahre Sanierung.
-Seit Herbst zweitausenddreiundzwanzig sind beide wieder offen – das Badeschloss stammt im Kern von siebzehnhunderteinundneunzig.
-Heißt: Bad Gastein ist zurück – Thermalwasser, Skigebiet, und du kannst wieder im Grandhotel schlafen.
-Das war Staffel eins – welche Frage sollen wir in Staffel zwei beantworten?
+Ein Wasserfall mitten im Ort – und daneben Hotels, in denen zwanzig Jahre niemand schlief.
+[serious] Bad Gastein, Salzburger Land. Kaiser Wilhelm kam rund zwanzig Mal zur Kur, immer ins Hotel Straubinger.
+Achtzehnhundertfünfundsechzig teilten Preußen und Österreich hier sogar Schleswig und Holstein unter sich auf.
+Dann der lange Stillstand: Straubinger und Badeschloss am zentralen Platz, fast zwanzig Jahre leer, die Fenster blind.
+Zweitausendachtzehn kauft eine Münchner Unternehmerfamilie den ganzen Platz. Seit Herbst zweitausenddreiundzwanzig brennt in beiden Häusern wieder Licht.
+Der Wasserfall rauscht wie immer. Nur die Fenster schauen wieder zurück.
 
 --- NACH SZENEN ---
-Szene 1: Zwei Grandhotels mitten im Ort – fast zwanzig Jahre leer.
-Szene 2: [curious] Bad Gastein im Salzburger Land: Belle-Époque-Fassaden am Wasserfall, einst Kurort der Kaiser.
-Szene 3: Doch Straubinger und Badeschloss am zentralen Platz standen fast zwei Jahrzehnte leer.
-Szene 4: Zweitausendachtzehn kaufte die Hirmer-Gruppe den Komplex – drei Jahre Sanierung.
-Szene 5: Seit Herbst zweitausenddreiundzwanzig sind beide wieder offen – das Badeschloss stammt im Kern von siebzehnhunderteinundneunzig.
-Szene 6: Heißt: Bad Gastein ist zurück – Thermalwasser, Skigebiet, und du kannst wieder im Grandhotel schlafen.
-Szene 7: Das war Staffel eins – welche Frage sollen wir in Staffel zwei beantworten?
+Szene 1: Ein Wasserfall mitten im Ort – und daneben Hotels, in denen zwanzig Jahre niemand schlief.
+Szene 2: [serious] Bad Gastein, Salzburger Land. Kaiser Wilhelm kam rund zwanzig Mal zur Kur, immer ins Hotel Straubinger.
+Szene 3: Achtzehnhundertfünfundsechzig teilten Preußen und Österreich hier sogar Schleswig und Holstein unter sich auf.
+Szene 4: Dann der lange Stillstand: Straubinger und Badeschloss am zentralen Platz, fast zwanzig Jahre leer, die Fenster blind.
+Szene 5: Zweitausendachtzehn kauft eine Münchner Unternehmerfamilie den ganzen Platz. Seit Herbst zweitausenddreiundzwanzig brennt in beiden Häusern wieder Licht.
+Szene 6: Der Wasserfall rauscht wie immer. Nur die Fenster schauen wieder zurück.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #13 → 13 Wochen, 39 Orte – die ganze Reihe im Profil

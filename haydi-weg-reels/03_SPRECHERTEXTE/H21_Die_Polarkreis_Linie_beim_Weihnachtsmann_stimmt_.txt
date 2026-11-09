@@ -1,20 +1,22 @@
-H21 · Fr 25.12.2026 · Reisewissen in 30 Sekunden #7 · Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr
-================================================================================================================
+H21 · Fr 25.12.2026 · Reisewissen #7 · Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr
+=================================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Regeln & Realität · Ziel ca. 22 s
 
-Wörter: 76 · geschätzt ca. 31 s (vorläufig)
+Wörter: 55 · geschätzt ca. 22 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Die berühmte Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr.
-[curious] Im Santa Claus Village bei Rovaniemi springen Besucher über einen weißen Strich: hier, angeblich, der Polarkreis.
-Nur: Der Polarkreis wandert – rund vierzehn bis fünfzehn Meter pro Jahr nach Norden, etwa vier Zentimeter am Tag.
-Der Grund: Die Neigung der Erdachse schwankt in einem Zyklus von rund einundvierzigtausend Jahren.
-Der echte Polarkreis liegt heute also ein Stück weiter nördlich. Frohe Weihnachten trotzdem.
-Nächsten Freitag, an Neujahr: die Brückentage zweitausendsiebenundzwanzig.
+Hinter dieser Linie beginnt die Arktis. Angeblich.
+Im Weihnachtsmanndorf bei Rovaniemi fotografieren sich Besucher mit einem Fuß im Polarkreis.
+Nur: Der echte Polarkreis wandert, rund vierzehn Meter pro Jahr nach Norden. Die Linie bleibt.
+Schuld ist die Erdachse, die ganz langsam schwankt. Frohe Weihnachten trotzdem.
+Freitag, an Neujahr: Deutschlands höchstes Hotel gibt es nicht mehr.
 
 --- NACH SZENEN ---
-Szene 1: Die berühmte Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr.
-Szene 2: [curious] Im Santa Claus Village bei Rovaniemi springen Besucher über einen weißen Strich: hier, angeblich, der Polarkreis.
-Szene 3: Nur: Der Polarkreis wandert – rund vierzehn bis fünfzehn Meter pro Jahr nach Norden, etwa vier Zentimeter am Tag.
-Szene 4: Der Grund: Die Neigung der Erdachse schwankt in einem Zyklus von rund einundvierzigtausend Jahren.
-Szene 5: Der echte Polarkreis liegt heute also ein Stück weiter nördlich. Frohe Weihnachten trotzdem.
-Szene 6: Nächsten Freitag, an Neujahr: die Brückentage zweitausendsiebenundzwanzig.
+Szene 1: Hinter dieser Linie beginnt die Arktis. Angeblich.
+Szene 2: Im Weihnachtsmanndorf bei Rovaniemi fotografieren sich Besucher mit einem Fuß im Polarkreis.
+Szene 3: Nur: Der echte Polarkreis wandert, rund vierzehn Meter pro Jahr nach Norden. Die Linie bleibt.
+Szene 4: Schuld ist die Erdachse, die ganz langsam schwankt. Frohe Weihnachten trotzdem.
+Szene 5: Freitag, an Neujahr: Deutschlands höchstes Hotel gibt es nicht mehr.
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+REGELN & REALITÄT · Reisewissen #7 → Freitag (1.1.): Deutschlands höchstes Hotel gibt es nicht mehr

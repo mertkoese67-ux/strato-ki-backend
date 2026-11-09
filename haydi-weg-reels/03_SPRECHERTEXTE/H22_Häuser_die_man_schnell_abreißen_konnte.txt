@@ -1,22 +1,24 @@
 H22 · Mo 28.12.2026 · Fakt oder Fake? #8 · Häuser, die man schnell abreißen konnte?
 ===================================================================================
+Struktur A (Mystery → Enthüllung) · Themenwelt Alte Welten · Ziel ca. 30 s
 
-Wörter: 76 · geschätzt ca. 31 s (vorläufig)
+Wörter: 75 · geschätzt ca. 31 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Diese Häuser wurden gebaut, um Steuern zu sparen?
-[curious] Alberobello in Apulien: über tausend Trulli mit Kegeldächern.
-Fakt ist: Sie stehen typischerweise ohne Mörtel – Stein auf Stein, trocken gebaut.
-Die Legende: So ließen sie sich schnell abreißen, wenn die Steuereintreiber des Königs kamen.
-Bewiesen ist das nicht. Also: Ohne Mörtel – Fakt. Steuertrick – Legende.
-Sicher ist: Siebzehnhundertsiebenundneunzig wurde Alberobello freie Stadt, seit neunzehnhundertsechsundneunzig ist es Welterbe.
-Nächsten Montag: Sahen die Pyramiden schon immer so aus?
+Fakt oder Fake: Häuser, gebaut, damit man sie schnell abreißen kann?
+[curious] Alberobello, Apulien: über tausend Steinkegel, geschichtet ohne Mörtel.
+Der Grund ist ein Gesetz aus dem fünfzehnten Jahrhundert: Jede neue Siedlung musste Abgaben zahlen.
+Also ließ der Graf ohne Mörtel bauen. Was jederzeit einstürzen kann, ist offiziell kein Dorf.
+Fakt. Nur der Abriss, kurz bevor der Kontrolleur kommt – der ist bloß überliefert.
+Siebzehnhundertsiebenundneunzig befreite der König die Stadt. Die Trulli blieben – heute schläft man darin.
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Diese Häuser wurden gebaut, um Steuern zu sparen?
-Szene 2: [curious] Alberobello in Apulien: über tausend Trulli mit Kegeldächern.
-Szene 3: Fakt ist: Sie stehen typischerweise ohne Mörtel – Stein auf Stein, trocken gebaut.
-Szene 4: Die Legende: So ließen sie sich schnell abreißen, wenn die Steuereintreiber des Königs kamen.
-Szene 5: Bewiesen ist das nicht. Also: Ohne Mörtel – Fakt. Steuertrick – Legende.
-Szene 6: Sicher ist: Siebzehnhundertsiebenundneunzig wurde Alberobello freie Stadt, seit neunzehnhundertsechsundneunzig ist es Welterbe.
-Szene 7: Nächsten Montag: Sahen die Pyramiden schon immer so aus?
+Szene 1: Fakt oder Fake: Häuser, gebaut, damit man sie schnell abreißen kann?
+Szene 2: [curious] Alberobello, Apulien: über tausend Steinkegel, geschichtet ohne Mörtel.
+Szene 3: Der Grund ist ein Gesetz aus dem fünfzehnten Jahrhundert: Jede neue Siedlung musste Abgaben zahlen.
+Szene 4: Also ließ der Graf ohne Mörtel bauen. Was jederzeit einstürzen kann, ist offiziell kein Dorf.
+Szene 5: Fakt. Nur der Abriss, kurz bevor der Kontrolleur kommt – der ist bloß überliefert.
+Szene 6: Siebzehnhundertsiebenundneunzig befreite der König die Stadt. Die Trulli blieben – heute schläft man darin.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+ALTE WELTEN · Fakt oder Fake? #8 → Montag: Die Pyramiden sahen früher anders aus

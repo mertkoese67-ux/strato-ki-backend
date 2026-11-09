@@ -1,20 +1,24 @@
 H01 · Mo 09.11.2026 · Fakt oder Fake? #1 · Der Wasserfall, der direkt ins Meer stürzt
 =====================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Natur-Wunder · Ziel ca. 26 s
 
-Wörter: 75 · geschätzt ca. 31 s (vorläufig)
+Wörter: 61 · geschätzt ca. 25 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Ein Wasserfall, der direkt ins Meer stürzt?
-[curious] Normalerweise enden Wasserfälle in einem Fluss oder in einem See.
-Doch hier liegt unter der Gischt kein Fluss – sondern das Mittelmeer.
-Fakt. Der untere Düden-Wasserfall stürzt rund vierzig Meter von der Klippe direkt ins Meer – mitten im Stadtgebiet von Antalya, etwa acht Kilometer vom Zentrum.
-Am eindrucksvollsten wirkt er vom Wasser aus: Ausflugsboote fahren direkt vor die Klippe.
+Fakt oder Fake: Unter dieser Gischt liegt kein Fluss, sondern das Meer.
+[curious] Normalerweise fließt ein Wasserfall weiter. In einen See, in einen Fluss, irgendwohin.
+Hier nicht. Hier fällt der Düden vierzig Meter tief – direkt ins Mittelmeer. Fakt.
+Mitten in Antalya, acht Kilometer vom Lara Beach.
+Am schönsten vom Boot aus, direkt vor der Klippe.
 Nächsten Montag: Stammt das Matterhorn aus Afrika?
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Ein Wasserfall, der direkt ins Meer stürzt?
-Szene 2: [curious] Normalerweise enden Wasserfälle in einem Fluss oder in einem See.
-Szene 3: Doch hier liegt unter der Gischt kein Fluss – sondern das Mittelmeer.
-Szene 4: Fakt. Der untere Düden-Wasserfall stürzt rund vierzig Meter von der Klippe direkt ins Meer – mitten im Stadtgebiet von Antalya, etwa acht Kilometer vom Zentrum.
-Szene 5: Am eindrucksvollsten wirkt er vom Wasser aus: Ausflugsboote fahren direkt vor die Klippe.
+Szene 1: Fakt oder Fake: Unter dieser Gischt liegt kein Fluss, sondern das Meer.
+Szene 2: [curious] Normalerweise fließt ein Wasserfall weiter. In einen See, in einen Fluss, irgendwohin.
+Szene 3: Hier nicht. Hier fällt der Düden vierzig Meter tief – direkt ins Mittelmeer. Fakt.
+Szene 4: Mitten in Antalya, acht Kilometer vom Lara Beach.
+Szene 5: Am schönsten vom Boot aus, direkt vor der Klippe.
 Szene 6: Nächsten Montag: Stammt das Matterhorn aus Afrika?
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #1 → Montag: Stammt das Matterhorn aus Afrika?

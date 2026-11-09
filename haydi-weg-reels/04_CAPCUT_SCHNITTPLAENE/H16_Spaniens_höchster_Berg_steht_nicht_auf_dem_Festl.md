@@ -1,44 +1,58 @@
 # CapCut-Schnittplan H16 · Spaniens höchster Berg steht nicht auf dem Festland
 
-Mo 14.12.2026 · Fakt oder Fake? #6 · Spanien (Teneriffa) / Deutschland · Cluster Natur-WOW
+Mo 14.12.2026 · Fakt oder Fake? #6 · Spanien (Teneriffa, Teide) · Themenwelt Natur-Wunder · Struktur D (Visuelles Rätsel → Erklärung)
 
-**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:33:14 (33.5 s)
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:33:04 (33.1 s, Ziel ca. 30 s)
 
 > **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
 
-**Hook (Sieger):** Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland?  
-**Musik:** episch-trocken 85 BPM, Hit bei 7.500 m; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Serienkarte:** letzte Szene, Markenfarben, Logo weiß
+**Hook (Sieger):** Schnee auf dem Gipfel, Palmen am Strand. Und beides ist Spanien.  
+**Musik:** weit-episch 90 BPM ohne Drop, Akkord beim Reveal, Sternen-Pad ohne Beat am Ende; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext, nicht gesprochen
 
-| Szene | TC Start | TC Ende | Dauer s | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 00:00:00:00 | 00:00:04:07 | 4.2 | Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland? | Teide-Kegel über Lavafeldern unter tiefblauem Himmel – noch ohne Ortsangabe, Bild könnte Festland sein | Teide, Teneriffa (Ort noch nicht eingeblendet) | Drohne mittelhoch | Totale | langsamer Push-in | Mittag, hartes Licht | teide volcano lava field, teide national park aerial | Hard Cut (Kaltstart) | keiner | Hook-Overlay: FAKT ODER FAKE? · „auf dem Festland?“ (gelb: Festland) | episch-trocken, 85 BPM | Wind | keine Untertitel (Hook) |
-| 2 | 00:00:04:07 | 00:00:07:07 | 3.0 | [curious] Die Pyrenäen? Die Sierra Nevada? Klingt logisch. | Eigene Spanien-Karte: Festland leuchtet, Pyrenäen und Sierra Nevada als Punkte pulsieren | Grafik | Grafik | Vollbild | Punkte pulsieren | Markenfarben | eigene Karte Spanien | Grafik-Cut | Schnitt | Labels „Pyrenäen“ · „Sierra Nevada“ | Spannung | Klicks | 2 Zeilen, „logisch“ gelb |
-| 3 | 00:00:07:07 | 00:00:13:03 | 5.9 | Fake. Spaniens höchster Berg steht auf einer Insel: der Teide auf Teneriffa, dreitausendsiebenhundertfünfzehn Meter. | Karte zoomt zu den Kanaren, Teneriffa leuchtet; Schnitt auf Teide über Wolkenmeer | Teide, Teneriffa | Grafik → Drohne | Vollbild → Totale | Zoom → Flug über Wolken | Markenfarben → Abendlicht | eigene Karte, teide above clouds aerial, teide sea of clouds | Hard Cut auf „Fake“ | Schnitt | Stempel „FAKE“ · „3.715 m“ gelb | Auflösungsakkord | Stempel | 2 Zeilen, Zahl als Ziffer, „Fake“ gelb |
-| 4 | 00:00:13:03 | 00:00:16:28 | 3.8 | Das sind rund siebenhundertfünfzig Meter mehr als die Zugspitze. | Split-Screen: links Teide, rechts Zugspitze mit Eibsee im Winter; Höhenbalken 3.715 vs. 2.962 | Teide / Zugspitze (Eibsee) | Split | 50/50 | Balken wachsen | Mittag / Winter | teide volcano, zugspitze eibsee aerial winter | Split-Reveal | Wipe | Balken „3.715 m“ · „2.962 m“ · „+750 m“ | Beat | Wipe-Whoosh | 2 Zeilen, „Zugspitze“ gelb |
-| 5 | 00:00:16:28 | 00:00:21:29 | 5.0 | Und vom Meeresboden aus gemessen ragt der Vulkan rund siebentausendfünfhundert Meter auf. | Eigene Querschnitt-Grafik: Meeresboden → Insel → Gipfel, Maßlinie 7.500 m | Grafik | Grafik | Vollbild | Maßlinie wächst | Markenfarben | eigene Querschnittgrafik | Grafik-Cut | Schnitt | „~7.500 m ab Meeresboden“ | episch | tiefer Hit | 2 Zeilen, „7.500“ gelb |
-| 6 | 00:00:21:29 | 00:00:28:20 | 6.7 | Tipp: Für die letzten Meter zum Gipfel brauchst du eine kostenlose Genehmigung des Nationalparks – vorher online. | Gipfelweg/Krater in der Totale, Seilbahnstation klein; Icon „Permit“ | Teide-Gipfelbereich | Drohne | Totale | Orbit | Morgen | teide summit crater aerial, teide cable car station | Hard Cut | Schnitt | Nutzwert-Overlay „Gipfel: Genehmigung online, kostenlos“ | warm, Abschluss | – | 2 Zeilen, „Genehmigung“ gelb |
-| 7 | 00:00:28:20 | 00:00:33:14 | 4.8 | Nächsten Montag: Wurde der Winterurlaub mit einer Wette erfunden? | Serienkarte „Fakt oder Fake?“ #6 | – | Grafik | Vollbild | Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | FAKT ODER FAKE? #6 · Montag: Winterurlaub per Wette? | Outro | – | keine Untertitel (Grafiktext) |
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Teide-Gipfel über geschlossenem Wolkenmeer im Abendlicht | Envato Elements | Aerial View of Mount Teide Peak Above Sunset Clouds (BlackBoxGuild) | **gefunden** | Suche „teide parador“ (Envato): Titel nennt Gipfel über Wolken; Pexels „tenerife sea of clouds“: 19773521 „tenerife above the clouds“, 19842134 „above the clouds“ als Alternativen |
+| Story | Schneebedeckter Teide-Kegel in der Totale (Orbit) | Envato Elements | Scenic view of snowy Mount Teide, Canary Islands (kovalyovamar) | **gefunden** | Envato „teide parador“: Schnee-Teide gelistet; Pexels „teide“: 35648259 „majestic teide volcano landscape“, 15238954 „a mount teide under the blue sky“ |
+| Reveal | Küste mit Palmen/Stadt und Vulkan im selben Bild (Schnee + Strand) | Pexels | 30411032 | **gefunden** | Suche „teide“: 30411032 „aerial view of coastal city with ocean and mountain“, 38707286 „lush forest with volcano in background“; Envato „Mount Teide seen from the ocean“ (PD-media). Schnee auf dem Gipfel im Küstenclip nicht garantiert – ggf. Split mit Schnee-Teide |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:04:19 | 4.6 | hook | Schnee auf dem Gipfel, Palmen am Strand. Und beides ist Spanien. | Teide-Gipfel mit Schneeresten ragt aus einem geschlossenen Wolkenmeer, Abendlicht; kein Land sichtbar – nur Gipfel und Wolken | Teide, Teneriffa (Blick von oberhalb der Passatwolken) | Drohne hoch, frontal auf den Gipfel | Totale | sehr langsamer Push-in | goldene Stunde, Wolkenmeer orange/weiß | aerial view of mount teide peak above sunset clouds, tenerife above the clouds, teide sea of clouds drone | Hard Cut (Kaltstart ohne Logo) | keiner (Kaltstart) | Hook-Overlay: SPANIENS *DACH* (2 Zeilen, klein darunter: Fakt oder Fake?) | weit, episch-ruhig, 90 BPM, kein Drop | Wind, sehr leise | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:04:19 | 00:00:10:15 | 5.9 | body | [curious] Wo steht Spaniens höchster Berg? Nicht in den Pyrenäen. Nicht in der Sierra Nevada. | Eigene Kartengrafik Spanien: Pyrenäen und Sierra Nevada leuchten kurz auf und werden durchgestrichen; Karte zoomt nach Südwesten ins Leere (Atlantik) | Grafik (Karte Spanien → Atlantik) | Grafik | Vollbild | Zoom nach Südwesten | Markenfarben Navy/Gelb | eigene Kartengrafik | Grafik-Cut | Schnitt | Labels „Pyrenäen ✗“ · „Sierra Nevada ✗“ | Puls, fragend | zwei kurze UI-Klicks | 2 Zeilen, „höchster“ gelb |
+| 3 | 00:00:10:15 | 00:00:16:11 | 5.9 | reveal | Sondern hier: der Teide auf Teneriffa. Rund dreitausendsiebenhundert Meter, ein Vulkan über dem Wolkenmeer. | Reveal: Karte landet auf Teneriffa und löst sich in die reale Totale auf – Teide-Kegel mit Schnee, darunter das Wolkenmeer, am Bildrand Küste und Palmen angeschnitten | Teide / Las Cañadas, Teneriffa | Drohne, Orbit um den Kegel | Totale | Orbit 30° | Morgen, klare Luft, Schnee am Gipfel | scenic view of snowy mount teide canary islands, majestic teide volcano landscape, teide aerial orbit snow | Match-Cut Karte → Realbild | Morph 8 Frames | Faktenoverlay: „Teide · 3.715 m“ (navy 85 %) | Akkord öffnet sich beim Reveal | tiefer Impact leise | 2 Zeilen, „Teneriffa“ gelb |
+| 4 | 00:00:16:11 | 00:00:23:01 | 6.7 | body | Siebenhundertfünfzig Meter höher als die Zugspitze. Vom Strand bist du in gut einer Stunde im Schnee. | Split-Screen: links Zugspitze mit Gipfelkreuz (Winter), rechts Teide; dann Schnitt auf Küstenstadt mit Palmen und Vulkan im Hintergrund | Zugspitze (Bayern) / Teneriffa Südküste | Drohne beidseitig → Küsten-Drohne | Split 50/50 → Totale | beide Seiten laufen langsam → Flug entlang der Küste | Winterlicht / Mittag am Meer | zugspitze summit cross winter aerial, aerial view of coastal city with ocean and mountain tenerife, tenerife coast palms volcano | Split-Reveal → Hard Cut | Wipe (Trennlinie) → Schnitt | Balken-Grafik: Zugspitze 2.962 m · Teide 3.715 m | warm, Beat deutlicher | Wipe-Whoosh leise | 2 Zeilen, „750“ gelb |
+| 5 | 00:00:23:01 | 00:00:30:04 | 7.1 | body | Und mittendrin steht ein einziges Hotel: der Parador, auf über zweitausend Metern. Nachts gehört dir der Sternenhimmel. | Hochebene Las Cañadas mit Roques de García, kleines Hotelgebäude am Fuß des Teide (Parador) in der Totale; dann Nachthimmel-Timelapse über dem Vulkan | Parador de Las Cañadas del Teide, Teide-Nationalpark | Drohne weit → Timelapse-Stativ | Totale → Totale Nacht | langsamer Flug → Sternen-Timelapse | Nachmittag → Nacht, Milchstraße | mount teide roques de garcia aerial, teide national park night sky timelapse, el teide tenerife at night | Hard Cut | Schnitt, Tag→Nacht als Dip-to-Black 6 Frames | Overlay: „Parador de Las Cañadas · einziges Hotel im Nationalpark“ (klein, ohne Wertung) | ruhig, Sterne: Pad ohne Beat | Grillen? nein – Stille, Wind | 2 Zeilen, „einziges“ gelb |
+| 6 | 00:00:30:04 | 00:00:33:04 | 3.0 | end | – | Themenwelt-Endkarte „Natur-Wunder“: eingefrorener Sternenhimmel über dem Teide mit 70 % Navy, Teaser als Grafiktext, Logo weiß | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | NATUR-WUNDER · Fakt oder Fake? #6 → Montag: Winterurlaub wurde mit einer Wette erfunden? | Outro-Akzent, endet auf Beat | – | keine Untertitel (Grafiktext) |
 
 ## Stock & Quellen
 
-- **Teide** – Pexels 35648259 · Suche: teide volcano · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 1,4
-- **Teide unter blauem Himmel** – Pexels 15238954 · Suche: teide blue sky · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 3,6
-- **Eibsee und Zugspitze Winter** – Pexels 30402431 · Suche: zugspitze eibsee aerial winter · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 4
-- **Karten-/Querschnittgrafik** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 2,3,5
-- **Serienkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 7
+- **Teide über Wolkenmeer (Hook)** – Envato Elements Aerial View of Mount Teide Peak Above Sunset Clouds (BlackBoxGuild) · Suche: teide above clouds sunset aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1
+- **Teneriffa über den Wolken (Alternative Hook)** – Pexels 19773521 · Suche: tenerife above the clouds · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1 (Reserve)
+- **Schnee-Teide Totale** – Envato Elements Scenic view of snowy Mount Teide, Canary Islands (kovalyovamar) · Suche: snowy mount teide · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 3
+- **Teide Vulkanlandschaft** – Pexels 35648259 · Suche: teide, majestic teide volcano landscape · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 3
+- **Zugspitze Gipfelkreuz Winter** – Pexels 33592694 · Suche: zugspitze summit cross · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Küstenstadt mit Vulkan (Reveal Strand/Schnee)** – Pexels 30411032 · Suche: aerial view of coastal city with ocean and mountain · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Roques de García / Parador-Hochebene** – Envato Elements Mount Teide Rising Above Roques de García, Teide National Park (BlackBoxGuild) · Panorama of Mount Teide and Roques de Garcia (PD-media) · Suche: roques de garcia teide, parador canadas del teide · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 geöffnet: Roques-de-García-Clips gelistet, ob das Parador-Gebäude im Bild ist, nicht prüfbar (verfügbar, ungeprüft) – sonst Hotelgebäude nur im Overlay nennen · Szenen 5
+- **Sternenhimmel über dem Teide (Timelapse)** – Envato Elements El Teide in Tenerife Canary Islands at Night (dubassy) · Suche: teide night sky timelapse milky way · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Kartengrafik, Balken, Endkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 2,4,6
 
 ## Fakten
 
-- ✅ Teide 3.715 m (IGN 1983, Grafcan 2011); Zugspitze 2.962 m; ca. 7.500 m ab Meeresboden (teneriffa-news.com, zugspitze.de, Wikipedia)
-- ✅ Gipfelzugang (Telesforo-Bravo-Weg) nur mit kostenloser Genehmigung des Nationalparks, online (reservasparquesnacionales.es – vor Posting gegenlesen)
-- ⚠️ prüfen: 7.500 m als „vom Meeresboden aus“ formulieren
-- ⚠️ prüfen: Keine Höhe für Festlandgipfel nennen
-- ⚠️ prüfen: Genehmigungs-Tipp mit reservasparquesnacionales.es bestätigen (sonst Satz 6 streichen)
+- ✅ Teide 3.715 m (IGN), Zugspitze 2.962 m (teneriffa-news.com / IGN (aus v2), zugspitze.de)
+- ✅ Parador de Las Cañadas del Teide: einziges Hotel im Nationalpark, rund 2.150 m, 37 Zimmer (parador.es (Hotelseite))
+- ✅ Fahrzeit Südküste → Las Cañadas rund eine Stunde (Erfahrungswert/Routenplaner – im Reel als „gut eine Stunde“)
+- ⚠️ prüfen: „gut eine Stunde“ am Vortag per Routenplaner (Costa Adeje → Parador) gegenprüfen
+- ⚠️ prüfen: Parador im Clip nur benennen, wenn das Gebäude sichtbar ist – sonst Overlay-Nennung reicht
+- ⚠️ prüfen: Keine Angabe zu Zimmer-Verfügbarkeit oder Preisen
+- ⚠️ prüfen: Schnee am Gipfel im Dezember nicht garantiert – „Schnee“ bezieht sich auf das Hook-Bild
 
-Quellen: teneriffa-news.com · zugspitze.de · reservasparquesnacionales.es
+Quellen: parador.es · zugspitze.de · teneriffa-news.com · ign.es
 
 ## Vor Posting prüfen
 
-- [ ] Genehmigungs-Quelle
-- [ ] Formulierung Meeresboden
-- [ ] Keine Festlandhöhen
+- [ ] Fahrzeit Südküste → Parador prüfen
+- [ ] Clip-Orte (Teneriffa, nicht Chile/Gran Canaria) auf Detailseiten bestätigen
+- [ ] Parador-Overlay ohne Wertung/Preis
+- [ ] Logo weiß ab Sekunde 3, Endkarte 3 s

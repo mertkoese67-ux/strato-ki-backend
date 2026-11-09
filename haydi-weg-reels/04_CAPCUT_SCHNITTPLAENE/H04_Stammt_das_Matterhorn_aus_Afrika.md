@@ -1,45 +1,58 @@
 # CapCut-Schnittplan H04 · Stammt das Matterhorn aus Afrika?
 
-Mo 16.11.2026 · Fakt oder Fake? #2 · Schweiz (Zermatt) · Cluster Natur-WOW
+Mo 16.11.2026 · Fakt oder Fake? #2 · Schweiz (Zermatt) · Themenwelt Natur-Wunder · Struktur A (Mystery → Enthüllung)
 
-**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:29:12 (29.4 s)
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:32:22 (32.7 s, Ziel ca. 30 s)
 
 > **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
 
-**Hook (Sieger):** Fakt oder Fake: Das ganze Matterhorn stammt aus Afrika?  
-**Musik:** episch-ruhig, Streicher, 80 BPM; Grollen-Akzent bei der Plattengrafik; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Serienkarte:** letzte Szene, Markenfarben, Logo weiß
+**Hook (Sieger):** Am Fuß des Matterhorns zieht sich eine dunkle Linie durch den Fels. Alles darüber kommt von woanders.  
+**Musik:** episch-ruhig, Streicher, 80 BPM; Grollen-Akzent bei der Plattengrafik, weiches Ende ohne Drop; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext, nicht gesprochen
 
-| Szene | TC Start | TC Ende | Dauer s | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 00:00:00:00 | 00:00:03:25 | 3.8 | Fakt oder Fake: Das ganze Matterhorn stammt aus Afrika? | Matterhorn-Totale mit perfekter Spiegelung im Bergsee (Stellisee/Riffelsee-Typ), Morgenlicht, keine Personen | Matterhorn von Zermatt-Seite | Bodenkamera auf Seehöhe, zentral | Totale, Spiegelung füllt untere Hälfte | statisch, minimaler Push-in | Morgen, Alpenglühen am Gipfel | matterhorn reflection lake, matterhorn sunrise lake reflection | Hard Cut (Kaltstart) | keiner | Hook-Overlay: FAKT ODER FAKE? · „ganz aus Afrika?“ (gelb: Afrika) | episch-ruhig, Streicherpad | leiser Bergwind | keine Untertitel (Hook) |
-| 2 | 00:00:03:25 | 00:00:06:13 | 2.6 | [curious] Schau auf den Fuß des Berges. | Luftaufnahme, langsamer Zoom vom Gipfel hinunter Richtung Bergfuß und Geröllhänge | Matterhorn, Nordostflanke | Drohne/Helikopter, frontal | Totale → Halbtotale | Zoom-in nach unten | Vormittag, klare Sicht | matterhorn aerial, matterhorn helicopter view base | Hard Cut | Schnitt | Pfeil (gelb) deutet auf den Bergfuß | Pad hält, leiser Puls | – | 1 Zeile, „Fuß“ gelb |
-| 3 | 00:00:06:13 | 00:00:09:13 | 3.0 | Dort verläuft eine dunkle Linie im Gelände. | Standbild aus der Luftaufnahme, dunkle Gesteinsgrenze wird mit gelber Linie nachgezeichnet (eigene Grafik), Bild leicht entsättigt | Matterhorn Bergfuß | Standbild | Halbtotale | Linie zeichnet sich von links nach rechts | entsättigt, Linie leuchtet gelb | eigene Grafik über 34685189 | Freeze Frame | Schnitt | Linie + Label „Plattengrenze“ | Spannung, Puls lauter | Zeichen-Whoosh beim Linienzug | 1 Zeile, „Linie“ gelb |
-| 4 | 00:00:09:13 | 00:00:15:21 | 6.3 | Als Afrika und Europa zusammenstießen, wurde ein Stück der Afrikanisch-Adriatischen Platte über alten Meeresboden geschoben. | Eigene Plattengrafik in Navy/Hellblau: zwei Platten, obere (gelb umrandet, „Afrikanisch-Adriatische Platte“) schiebt sich über untere („alter Meeresboden“); Matterhorn-Silhouette als Ergebnis | Grafik | Grafik, Seitenansicht | Vollbild | Platten schieben sich 2 s lang | Markenfarben | eigene Plattengrafik | Grafik-Cut | Schnitt | Labels: „Afrikanisch-Adriatische Platte“ · „alter Meeresboden“ | erklärend, Puls bleibt | tiefes Grollen leise | 2 Zeilen, „Platte“ gelb |
-| 5 | 00:00:15:21 | 00:00:19:16 | 3.8 | Also: Fake. Das ganze Matterhorn stammt nicht aus Afrika. | Zurück zur Matterhorn-Totale mit Spiegelung, die gelbe Linie bleibt am Bergfuß eingeblendet | Matterhorn | Bodenkamera | Totale | statisch | Morgen | matterhorn reflection lake | Hard Cut | Schnitt | Stempel „FAKE“ (gelb) · Linie bleibt | Auflösungsakkord | Stempel-Whoosh | 1 Zeile, „Fake“ gelb |
-| 6 | 00:00:19:16 | 00:00:23:10 | 3.8 | Aber alles über dieser Linie – bis hinauf zum Gipfel. | Kamerafahrt vom Bergfuß hinauf zum Gipfel in Großaufnahme, Gipfelkreuz-Fels in Nahaufnahme | Matterhorn-Gipfel (4.478 m) | Drohne, Fahrt nach oben | Halbtotale → Nah | Tilt/Fahrt nach oben | Vormittag, Felsstruktur | matterhorn summit close aerial, matterhorn peak closeup | kein Schnitt | – | Overlay am Gipfel: „4.478 m · Gestein vom afrikanischen Sporn“ | episch öffnend | Windböe | 2 Zeilen, „Gipfel“ gelb |
-| 7 | 00:00:23:10 | 00:00:29:12 | 6.0 | Nächsten Montag: eine Wüste, in der es mehr regnet als bei uns. | Serienkarte „Fakt oder Fake?“ #2 | – | Grafik | Vollbild | Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | FAKT ODER FAKE? #2 · Montag: Wüste mit Regen | Outro | – | keine Untertitel (Grafiktext) |
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Luftaufnahme Matterhorn vom Bergfuß/Nordostflanke (für die nachgezeichnete Linie) | Pexels | 34685189 | **gefunden** | Suche „matterhorn“: 34685189 „majestic aerial view of matterhorn alps“, 34711323 „aerial view of winter alps and matterhorn“, 29057649 „aerial view of matterhorn in rural switzerland“; Envato „matterhorn zermatt“: „Aerial drone shot flying over the iconic Matterhorn“ (s_kawee), „Helicopter shot of the Matterhorn with AirZermatt“ (BlackBoxGuild). Linie wird als eigene Grafik über den Clip gelegt. |
+| Story | Matterhorn mit Spiegelung im Stellisee | Pexels | 33853660 | **gefunden** | Suche „matterhorn reflection“: 33853660 „breathtaking view of matterhorn reflected in lake“; Envato: „Scenic view on snowy Matterhorn peak and lake Stellisee, Zermatt“ (TravelFlow), „Aerial travel drone view of Zermatt at the Stellisee Lake“ (GoodSportVideo) – Ort im Titel. |
+| Reveal | Aufwärtsfahrt zum Gipfel im Alpenglühen | Envato Elements | „Aerial Reveal of the Matterhorn Above Zermatt in Valais at Alpenglow“ (Alex_Kane) | **gefunden** | Alternative Pexels 34685190 „stunning aerial view of matterhorn in winter“, 31262157 „majestic matterhorn timelapse in swiss alps“. |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:07:03 | 7.1 | hook | Am Fuß des Matterhorns zieht sich eine dunkle Linie durch den Fels. Alles darüber kommt von woanders. | Luftaufnahme der Nordostflanke vom Bergfuß aus: Geröllhänge, dann die dunkle Gesteinsgrenze; eine gelbe Linie zeichnet sie in Sekunde 1–2 nach (eigene Grafik über dem Clip), Gipfel oben angeschnitten | Matterhorn, Bergfuß Nordostflanke (Zermatt-Seite) | Drohne/Helikopter frontal, leicht erhöht | Halbtotale (Bergfuß füllt untere zwei Drittel) | statisch, Linie zeichnet sich von links nach rechts | Vormittag, klare Sicht, Fels dunkel/hell kontrastiert | matterhorn aerial base, majestic aerial view of matterhorn alps, matterhorn helicopter view | Hard Cut (Kaltstart ohne Logo) | keiner | Hook-Overlay: HIER ENDET *EUROPA* (Manrope ExtraBold, gelb: Europa) | episch-ruhig, tiefes Streicherpad | Zeichen-Whoosh beim Linienzug, leiser Bergwind | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:07:03 | 00:00:11:22 | 4.6 | body | [curious] Unter der Linie: alter Meeresboden. Vor Jahrmillionen lag hier ein Ozean. | Kamera kippt vom Bergfuß hinunter auf die Geröll- und Gletscherzone; kurze Doppelbelichtung mit Wellenbewegung (eigene Grafik, 1 s) über dem Fels | Matterhorn-Sockel, Zermatt | Drohne, Tilt nach unten | Totale | langsamer Tilt | Vormittag | matterhorn glacier aerial, breathtaking view of the swiss alps glaciers | Hard Cut auf Satzanfang | Schnitt | Label (klein): „alter Meeresboden“ | Pad hält, leiser Puls setzt ein | entferntes Wasserrauschen (sehr leise, 1 s) | 2 Zeilen, „Meeresboden“ gelb |
+| 3 | 00:00:11:22 | 00:00:18:00 | 6.3 | body | Darüber liegt Gestein aus dem Süden: Afrika drückte nach Norden und schob seine Platte obendrauf. | Eigene Plattengrafik in Navy/Hellblau: zwei Platten, die obere (gelb umrandet, „Rand Afrikas“) schiebt sich über die untere („Meeresboden“); Matterhorn-Silhouette wächst als Ergebnis heraus | Grafik | Grafik, Seitenansicht | Vollbild | Platten schieben sich 2 s, Silhouette wächst | Markenfarben | eigene Plattengrafik | Grafik-Cut | Schnitt | Labels: „Rand Afrikas“ · „Meeresboden“ | Grollen-Akzent, Puls lauter | tiefes Grollen | 2 Zeilen, „Afrika“ gelb |
+| 4 | 00:00:18:00 | 00:00:23:14 | 5.5 | reveal | Der Gipfel des Matterhorns ist also ein Stück vom Rand Afrikas. Geologisch gesehen. | Reveal: Aufwärtsfahrt vom Bergfuß bis zum Gipfel, Felsstruktur groß, Alpenglühen; gelbe Linie bleibt unten kurz stehen | Matterhorn-Gipfel, Zermatt | Drohne, Fahrt nach oben | Halbtotale → Nah (Gipfelfels) | Tilt/Fahrt nach oben | Alpenglühen, warmes Licht auf Fels | stunning aerial view of matterhorn in winter, matterhorn summit aerial, aerial reveal of the matterhorn alpenglow | kein Schnitt (Reveal in einem Take) | – | Stempel „FAKT – oberhalb der Linie“ (gelb, kurz) | Auflösung: Akkord öffnet sich | kurzer Whoosh beim Stempel | 2 Zeilen, „Afrikas“ gelb |
+| 5 | 00:00:23:14 | 00:00:29:22 | 6.3 | body | Steh am Stellisee, wenn er sich spiegelt. Du siehst Meeresboden und Afrika in einem Berg. | Matterhorn-Totale mit perfekter Spiegelung im Stellisee, Morgenlicht, keine Personen; die Linie wird ein letztes Mal zart eingeblendet und verblasst | Stellisee, Zermatt | Bodenkamera auf Seehöhe, zentral | Totale, Spiegelung füllt untere Hälfte | statisch, minimaler Push-in | Morgen, Alpenglühen, Windstille | matterhorn reflection lake stellisee, breathtaking view of matterhorn reflected in lake | Hard Cut | Schnitt | Zwei Labels: „Meeresboden“ (unten) · „Afrika“ (oben) – verblassen | warm, öffnend, Musik endet weich | – | 2 Zeilen, „Afrika“ gelb |
+| 6 | 00:00:29:22 | 00:00:32:22 | 3.0 | end | – | Endkarte Themenwelt NATUR-WUNDER: eingefrorene Spiegelungs-Totale mit 70 % Navy-Overlay, Logo weiß, Teaser als Grafiktext | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | NATUR-WUNDER · Fakt oder Fake? #2 → Montag: Die Wüste, in der es mehr regnet als bei uns | Outro-Akzent, Musik endet auf Beat | – | keine Untertitel (Grafiktext) |
 
 ## Stock & Quellen
 
-- **Matterhorn mit Spiegelung** – Pexels 33853660 · Suche: matterhorn reflection lake · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 1,5
-- **Matterhorn Luftaufnahme** – Pexels 34685189 · Suche: matterhorn aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen 2,3,6
-- **Wanderung am Matterhorn (Reserve, keine Personen groß)** – Pexels 33853657 · Suche: zermatt matterhorn hike · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: am 09.11.2026 nicht geöffnet – Plan-Recherche 06.11.2026 (Pexels/Pixabay) bzw. Suchbegriff für Envato Elements · Szenen Reserve
-- **Plattengrafik + Linie** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 3,4
-- **Serienkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion, keine Lizenz nötig · Szenen 7
+- **Luftaufnahme Bergfuß/Nordostflanke (Hook, Linie)** – Pexels 34685189 · Suche: matterhorn aerial, majestic aerial view of matterhorn alps · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1
+- **Gletscher-/Sockelzone (Tilt)** – Pexels 33853629 · Suche: breathtaking view of the swiss alps glaciers · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Gipfel-Reveal im Alpenglühen** – Envato Elements „Aerial Reveal of the Matterhorn Above Zermatt in Valais at Alpenglow“ (Alex_Kane) · Suche: matterhorn aerial reveal alpenglow, matterhorn winter aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Gipfel Winter (Alternative)** – Pexels 34685190 · Suche: stunning aerial view of matterhorn in winter · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Spiegelung Stellisee** – Pexels 33853660 · Suche: matterhorn reflection lake · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5,6
+- **Stellisee (Alternative mit Ortsnennung)** – Envato Elements „Scenic view on snowy Matterhorn peak and lake Stellisee, Zermatt“ (TravelFlow) · Suche: matterhorn stellisee · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Plattengrafik, Linien-Overlay, Labels** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 1,2,3,5
+- **Endkarte Natur-Wunder** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 6
 
 ## Fakten
 
-- ✅ Grenze Piemont-Ozean / Afrikanisch-Adriatische Platte verläuft durchs Matterhorn, sichtbar als schwarze Linie an der Basis; Hebung bis 1,5 mm/Jahr (SRF Infografik)
-- ✅ Gipfelgestein afrikanischen Ursprungs (Dent-Blanche-Decke) (planetoutdoor.de)
-- ✅ Höhe 4.478 m (Leica/Poretti-Vermessung, Wikipedia)
-- ⚠️ prüfen: „Afrika“ als Afrikanisch-Adriatische Platte / afrikanischer Sporn präzisieren, nicht „Kontinent Afrika“
-- ⚠️ prüfen: Dunkle Linie: SRF-Infografik als Bildbeleg nutzen
-- ⚠️ prüfen: Keine Bergsteiger-Unfallbilder
+- ✅ Grenze zwischen ehemaligem Piemont-Ozeanbecken und Afrikanisch-Adriatischer Platte verläuft durch das Matterhorn und ist als schwarze Linie an der Basis im Gelände erkennbar (SRF Infografik „So entstand das Matterhorn“ (srf.ch))
+- ✅ Gipfelbereich = Dent-Blanche-Decke (ostalpin), ostalpine Decken sind Fragmente der afrikanischen Platte; Unterlage: Ophiolithe der Zermatt-Saas-Zone (ozeanische Kruste) (Wikipedia „Dent Blanche nappe“ (gegengelesen), Geoführer Marthaler/Schlup „Matterhorn – vom Ozean nach Afrika“ (2023))
+- ✅ „Aus Afrika“ ist eine Vereinfachung: Gestein des afrikanischen Kontinentalrands/ostalpinen Ablagerungsraums (wissen.de „Matterhorn – Gottes Wanderstock“)
+- ⚠️ prüfen: Formulierung „Rand Afrikas“ beibehalten (nicht „Kontinent Afrika“) – Fachbegriff Afrikanisch-Adriatische Platte in der Caption nennen
+- ⚠️ prüfen: Stellisee-Clip: Ort auf der Detailseite bestätigen (sonst „Bergsee bei Zermatt“)
+- ⚠️ prüfen: Keine Bergsteiger-/Unfallbilder
+- ⚠️ prüfen: Linie im Luftbild vor dem Zeichnen mit der SRF-Grafik abgleichen
 
-Quellen: srf.ch · planetoutdoor.de
+Quellen: srf.ch · wissen.de · Marthaler/Schlup, Matterhorn – vom Ozean nach Afrika (LEP 2023) · en.wikipedia.org (Dent Blanche nappe)
 
 ## Vor Posting prüfen
 
-- [ ] Plattenbegriff präzise
-- [ ] SRF-Grafik als Beleg gesichert
+- [ ] Plattenbegriff präzise (Rand Afrikas / Afrikanisch-Adriatische Platte)
+- [ ] Linie im Standbild mit SRF-Grafik abgeglichen
+- [ ] Stellisee-Clip Ort bestätigt
 - [ ] Keine Unfallbilder
+- [ ] Hook ohne Ton verständlich (Linie + Overlay)

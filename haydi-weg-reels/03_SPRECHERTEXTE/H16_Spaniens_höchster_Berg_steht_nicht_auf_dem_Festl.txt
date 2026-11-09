@@ -1,22 +1,22 @@
 H16 · Mo 14.12.2026 · Fakt oder Fake? #6 · Spaniens höchster Berg steht nicht auf dem Festland
 ==============================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Natur-Wunder · Ziel ca. 30 s
 
-Wörter: 77 · geschätzt ca. 31 s (vorläufig)
+Wörter: 72 · geschätzt ca. 29 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland?
-[curious] Die Pyrenäen? Die Sierra Nevada? Klingt logisch.
-Fake. Spaniens höchster Berg steht auf einer Insel: der Teide auf Teneriffa, dreitausendsiebenhundertfünfzehn Meter.
-Das sind rund siebenhundertfünfzig Meter mehr als die Zugspitze.
-Und vom Meeresboden aus gemessen ragt der Vulkan rund siebentausendfünfhundert Meter auf.
-Tipp: Für die letzten Meter zum Gipfel brauchst du eine kostenlose Genehmigung des Nationalparks – vorher online.
-Nächsten Montag: Wurde der Winterurlaub mit einer Wette erfunden?
+Schnee auf dem Gipfel, Palmen am Strand. Und beides ist Spanien.
+[curious] Wo steht Spaniens höchster Berg? Nicht in den Pyrenäen. Nicht in der Sierra Nevada.
+Sondern hier: der Teide auf Teneriffa. Rund dreitausendsiebenhundert Meter, ein Vulkan über dem Wolkenmeer.
+Siebenhundertfünfzig Meter höher als die Zugspitze. Vom Strand bist du in gut einer Stunde im Schnee.
+Und mittendrin steht ein einziges Hotel: der Parador, auf über zweitausend Metern. Nachts gehört dir der Sternenhimmel.
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland?
-Szene 2: [curious] Die Pyrenäen? Die Sierra Nevada? Klingt logisch.
-Szene 3: Fake. Spaniens höchster Berg steht auf einer Insel: der Teide auf Teneriffa, dreitausendsiebenhundertfünfzehn Meter.
-Szene 4: Das sind rund siebenhundertfünfzig Meter mehr als die Zugspitze.
-Szene 5: Und vom Meeresboden aus gemessen ragt der Vulkan rund siebentausendfünfhundert Meter auf.
-Szene 6: Tipp: Für die letzten Meter zum Gipfel brauchst du eine kostenlose Genehmigung des Nationalparks – vorher online.
-Szene 7: Nächsten Montag: Wurde der Winterurlaub mit einer Wette erfunden?
+Szene 1: Schnee auf dem Gipfel, Palmen am Strand. Und beides ist Spanien.
+Szene 2: [curious] Wo steht Spaniens höchster Berg? Nicht in den Pyrenäen. Nicht in der Sierra Nevada.
+Szene 3: Sondern hier: der Teide auf Teneriffa. Rund dreitausendsiebenhundert Meter, ein Vulkan über dem Wolkenmeer.
+Szene 4: Siebenhundertfünfzig Meter höher als die Zugspitze. Vom Strand bist du in gut einer Stunde im Schnee.
+Szene 5: Und mittendrin steht ein einziges Hotel: der Parador, auf über zweitausend Metern. Nachts gehört dir der Sternenhimmel.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #6 → Montag: Winterurlaub wurde mit einer Wette erfunden?

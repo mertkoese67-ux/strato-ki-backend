@@ -1,22 +1,24 @@
 H32 · Mi 20.01.2027 · Was dir keiner sagt #11 · Das Drehkreuz auf der Seceda
 ============================================================================
+Struktur E (Außergewöhnliches Erlebnis → überraschender Haken) · Themenwelt Regeln & Realität · Ziel ca. 26 s
 
-Wörter: 81 · geschätzt ca. 33 s (vorläufig)
+Wörter: 68 · geschätzt ca. 28 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Sommer zweitausendfünfundzwanzig: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz.
-[curious] Bauern verlangten fünf Euro pro Person – als Protest.
-Die Seceda-Wiesen sind Almen, die Bauern mähen und pflegen – und an Spitzentagen kamen rund achttausend Menschen.
-Der Tourismusverband nannte es eine private Aktion; Land und Gemeinde wollten es weg.
-Für die Seilbahn wird inzwischen eine Tagesgrenze diskutiert.
-Heißt für dich: auf dem Weg bleiben, Müll mitnehmen, Seilbahn im Sommer vorab reservieren.
-Nächsten Mittwoch: die Algarve-Höhle, in der du nicht an Land darfst.
+Du denkst, das ist freie Natur. In Wahrheit ist es jemandes Wiese.
+[curious] Die Seceda, Dolomiten. Schiefe Zacken, grüne Wiese – das Foto.
+Sommer zweitausendfünfundzwanzig: achttausend Menschen an einem Tag, über Wiesen, die Bauern pflegen.
+Vier von ihnen bauten ein Drehkreuz auf den Weg: fünf Euro Eintritt. Als Protest.
+Gemeinde: keine Genehmigung. Land: Krisengipfel. Die Seilbahn vergibt im Sommer nur Zeitfenster.
+Also: vorab reservieren, auf dem Weg bleiben. Ihre Wiese.
 
 --- NACH SZENEN ---
-Szene 1: Sommer zweitausendfünfundzwanzig: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz.
-Szene 2: [curious] Bauern verlangten fünf Euro pro Person – als Protest.
-Szene 3: Die Seceda-Wiesen sind Almen, die Bauern mähen und pflegen – und an Spitzentagen kamen rund achttausend Menschen.
-Szene 4: Der Tourismusverband nannte es eine private Aktion; Land und Gemeinde wollten es weg.
-Szene 5: Für die Seilbahn wird inzwischen eine Tagesgrenze diskutiert.
-Szene 6: Heißt für dich: auf dem Weg bleiben, Müll mitnehmen, Seilbahn im Sommer vorab reservieren.
-Szene 7: Nächsten Mittwoch: die Algarve-Höhle, in der du nicht an Land darfst.
+Szene 1: Du denkst, das ist freie Natur. In Wahrheit ist es jemandes Wiese.
+Szene 2: [curious] Die Seceda, Dolomiten. Schiefe Zacken, grüne Wiese – das Foto.
+Szene 3: Sommer zweitausendfünfundzwanzig: achttausend Menschen an einem Tag, über Wiesen, die Bauern pflegen.
+Szene 4: Vier von ihnen bauten ein Drehkreuz auf den Weg: fünf Euro Eintritt. Als Protest.
+Szene 5: Gemeinde: keine Genehmigung. Land: Krisengipfel. Die Seilbahn vergibt im Sommer nur Zeitfenster.
+Szene 6: Also: vorab reservieren, auf dem Weg bleiben. Ihre Wiese.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+REGELN & REALITÄT · Was dir keiner sagt #11 → Mittwoch: Die Höhle, in der du nicht an Land darfst

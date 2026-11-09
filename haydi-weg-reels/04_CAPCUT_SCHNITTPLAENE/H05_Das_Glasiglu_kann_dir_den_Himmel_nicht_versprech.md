@@ -1,0 +1,60 @@
+# CapCut-Schnittplan H05 · Das Glasiglu kann dir den Himmel nicht versprechen
+
+Mi 18.11.2026 · Was dir keiner sagt #2 · Finnisch-Lappland (Saariselkä, Glasiglus) · Themenwelt Regeln & Realität · Struktur E (Außergewöhnliches Erlebnis → überraschender Haken)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:31:21 (31.7 s, Ziel ca. 30 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Glasdach, warmes Bett, Nordlichter versprochen. Der Himmel hat das nicht unterschrieben.  
+**Musik:** warm-kalter Ambient-Pad, 70 BPM, Beat setzt bei „In guten Nächten“ ein, bricht beim Haken, kehrt aufgeräumt zurück; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext + gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Innenansicht Glasiglu, Blick durch die Kuppel in den dunklen Himmel | Envato Elements | „Arctic Glass Igloos In Lapland (Circular)“ (EvalMiko) · „drone footage of glass top hotel in lapland“ (BlackBoxGuild) | **verfügbar, ungeprüft** | Suche „glass igloo lapland“/„glass igloo aurora“: Glasiglus in Lappland im Titel bestätigt, ob eine Innenansicht aus Bettperspektive dabei ist, zeigt erst die Vorschau. Pexels „glass igloo“: kein Iglu-Innenclip (nur 6607201 „a glass house covered with snow“). Fallback: Außenaufnahme Kuppel mit Schnee + Overlay. |
+| Story | Polarlicht über Glasiglus/Hütten | Envato Elements | „Aurora Borealis Lights Up Night Sky Over Igloos“ (sqofield) | **gefunden** | Titel nennt Iglus + Aurora; Alternative Pexels 31401354 „aurora borealis over snowy cabins at night“, 39885802 „stunning northern lights over nordic homes“ (Hütten statt Iglus, Ort prüfen). |
+| Reveal | Wolken schieben sich vor das Polarlicht / schneebedeckte Glaskuppel ohne Himmel | Pexels | 6607201 | **verfügbar, ungeprüft** | Pexels 6607201 „a glass house covered with snow“ (Glashaus, nicht sicher ein Iglu); Wolken-über-Aurora-Timelapse nicht gezielt gefunden → Umbau: Polarlicht-Clip (28492331 „northern lights timelapse“) in CapCut entsättigen + eigene Wolken-Overlay-Grafik, dann Kuppel mit Schnee. |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:04:19 | 4.6 | hook | Glasdach, warmes Bett, Nordlichter versprochen. Der Himmel hat das nicht unterschrieben. | Innenansicht eines Glasiglus: Bettkante unten im Bild, Blick durch die Glaskuppel nach oben – Schneekristalle am Glas, dahinter dunkler, sternenloser Himmel; keine Personen | Glasiglu, Kakslauttanen Arctic Resort, Saariselkä (Finnisch-Lappland) – nur so benennen, wenn der Clip das Resort zeigt, sonst „Glasiglu-Resort in Lappland“ | Bodenkamera aus Bettperspektive, Weitwinkel nach oben | Totale (Kuppel füllt 80 % des Bildes) | statisch, minimaler Push-in | Nacht, kaltes Blau, warmes Licht nur an der Bettkante | glass igloo interior night view, arctic glass igloos in lapland, glass igloo hotel lapland interior | Hard Cut (Kaltstart ohne Logo) | keiner | Hook-Overlay: NORDLICHT *GARANTIERT*? (gelb: garantiert) | warm-kalter Pad, sehr ruhig | Wind am Glas, leise | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:04:19 | 00:00:12:16 | 7.9 | body | [curious] In Saariselkä stehen Glasiglus im Schnee, gebaut für einen Zweck: Polarlicht vom Kopfkissen aus. In guten Nächten klappt das. | Drohne über der Glasiglu-Siedlung bei Dämmerung (warmes Licht in den Kuppeln), dann harter Schnitt: grünes Polarlichtband über den Iglus | Kakslauttanen Arctic Resort, Saariselkä | Drohne 45° → Bodenkamera Weitwinkel | Totale → Totale | langsamer Vorwärtsflug → Timelapse | Blaue Stunde → Nacht mit Grün | drone footage of glass top hotel in lapland, aurora borealis lights up night sky over igloos, glass igloos aurora lapland | Hard Cut auf „In guten Nächten“ | Schnitt | Label: „Saariselkä, Finnisch-Lappland“ | Pad öffnet sich, Beat setzt leise ein | Beat-Akzent beim Polarlicht | 2 Zeilen, „Polarlicht“ gelb |
+| 3 | 00:00:12:16 | 00:00:19:07 | 6.7 | reveal | Der Haken: Das Licht braucht Sonnenaktivität, Dunkelheit und klaren Himmel. Drei Dinge, die kein Hotel bucht. | Reveal: Wolken-Timelapse schiebt sich über das Polarlicht, Bild wird grau; drei Icons erscheinen nacheinander (Sonne · Mond · Wolke durchgestrichen); dann schneebedeckte Glaskuppel von außen, kein Himmel sichtbar | Glasiglu-Siedlung Lappland (Außen), Himmel | Bodenkamera Weitwinkel → Nah auf Kuppel | Totale → Nah | Timelapse → statisch | Nacht, Grün → Grau | night clouds timelapse aurora fading, a glass house covered with snow, glass dome snow covered night | Hard Cut auf „Der Haken“ | Schnitt | Drei Icons: SONNE · DUNKELHEIT · KLARER HIMMEL (eigene Grafik) · Stempel „Hotel: keins davon“ | Beat bricht, dissonanter Ton bei Grau | drei kurze UI-Klicks, Windböe | 2 Zeilen, „Haken“ gelb |
+| 4 | 00:00:19:07 | 00:00:22:07 | 3.0 | body | Also: mehrere Nächte, abends Wolkenradar, Nordlicht-Alarm anlassen. | Drei schnelle Nutzwert-Bilder: Kalenderstreifen mit drei markierten Nächten (Grafik) · Wolkenradar-Ausschnitt stilisiert (Grafik) · Nachttisch mit leuchtendem Telefon im Iglu (ohne Marke) | Grafik / Glasiglu innen | Grafik → Bodenkamera | Vollbild → Nah | Mini-Schnittfolge auf Beat (je ~1 s) | Markenfarben → warmes Nachtlicht | eigene Kalendergrafik, eigene Radargrafik, phone on nightstand glowing night cabin | 3 harte Schnitte auf Beat | Schnitt | Nutzwert-Overlay: „3+ Nächte · Wolkenradar · Alarm an“ | Beat zurück, aufgeräumt | drei Beat-Klicks | 2 Zeilen, „Wolkenradar“ gelb |
+| 5 | 00:00:22:07 | 00:00:26:26 | 4.6 | body | Das Iglu macht das Warten schön. Den Himmel macht es nicht. | Belohnungsbild: Polarlicht in voller Pracht über verschneiten Hütten/Iglus, Spiegelung im Schnee; Kamera hält | Finnisch-Lappland (Ort nur nennen, wenn Clip belegt) | Bodenkamera Weitwinkel | Totale | Timelapse, sehr ruhig | Nacht, kräftiges Grün | aurora borealis over snowy cabins at night, stunning northern lights over nordic homes, northern lights lapland timelapse | Hard Cut | Schnitt | keins (Bild wirkt allein) | warm, öffnend, Pad trägt aus | – | 1 Zeile, „Himmel“ gelb |
+| 6 | 00:00:26:26 | 00:00:31:21 | 4.8 | end | Nächsten Mittwoch: In Pamukkale schwimmst du über römischen Säulen. | Endkarte Themenwelt REGELN & REALITÄT: Polarlicht-Standbild mit 70 % Navy-Overlay, Logo weiß, Teaser als Grafiktext | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | REGELN & REALITÄT · Was dir keiner sagt #2 → Mittwoch: In Pamukkale schwimmst du über römischen Säulen | Outro-Akzent, Musik endet auf Beat | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Glasiglu innen / Kuppel (Hook)** – Envato Elements „Arctic Glass Igloos In Lapland (Circular)“ (EvalMiko) · Suche: glass igloo lapland interior, arctic glass igloos · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,4
+- **Glasiglu-Siedlung Drohne** – Envato Elements „drone footage of glass top hotel in lapland“ (BlackBoxGuild) · „topdown view of igloo hotel in lapland“ (BlackBoxGuild) · Suche: glass top hotel lapland drone · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Polarlicht über Iglus** – Envato Elements „Aurora Borealis Lights Up Night Sky Over Igloos“ (sqofield) · Suche: aurora igloos night sky · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Polarlicht über Hütten (Alternative/Belohnungsbild)** – Pexels 31401354 · Suche: aurora borealis snowy cabins · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2,5
+- **Polarlicht-Timelapse (für Grau-Umbau)** – Pexels 28492331 · Suche: northern lights timelapse · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 3
+- **Glashaus mit Schnee (Kuppel ohne Himmel)** – Pexels 6607201 · Suche: a glass house covered with snow · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 3
+- **Wolken über Polarlicht (Timelapse)** – Envato Elements Suche · Suche: clouds covering aurora timelapse, overcast night sky timelapse lapland · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: nur Suchbegriff – am 09.11.2026 kein passender Treffer gelistet · **FEHLT** – Alternative: Polarlicht-Clip entsättigen + eigene Wolken-Overlay-Grafik in CapCut · Szenen 3
+- **Icons, Kalender, Radar-Grafik** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 3,4
+- **Endkarte Regeln & Realität** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 6
+
+## Fakten
+
+- ✅ Kakslauttanen Arctic Resort (Saariselkä): gegründet 1973 von Jussi Eiramo, erste Glasiglus 1999 gebaut, Idee: Polarlicht vom Bett aus (archello.com (Projektseite Glass Igloos), kakslauttanen.fi)
+- ✅ Sichtbarkeit hängt von Dunkelheit, klarem Himmel und ausreichender geomagnetischer Aktivität ab; durch dichte Wolken keine Sicht, auch bei hohem Kp (aurora-nights.co.uk, auroraforecast.me (Reiseportale – FMI-Primärquelle nicht geöffnet))
+- ✅ Saison Finnisch-Lappland grob Ende August bis Anfang April; im Sommer fehlt die Dunkelheit (visitfinland.com, easeweather.com)
+- ✅ Kp-Index-Vorhersage frei verfügbar (NOAA SWPC), Wolkenradar frei (nationale Wetterdienste) (swpc.noaa.gov)
+- ⚠️ prüfen: Jahreszahl 1999 (erste Glasiglus) auf kakslauttanen.fi gegenlesen – eine Reiseseite nennt abweichend 1974; im Sprechtext steht deshalb keine Jahreszahl
+- ⚠️ prüfen: Resortname nur im Overlay/Caption, wenn der verwendete Clip tatsächlich Kakslauttanen zeigt
+- ⚠️ prüfen: „Nordlicht-Alarm“: anbieterabhängig – im Text als Möglichkeit formuliert, nicht als Leistung des Resorts
+- ⚠️ prüfen: Polarlicht-Clips: Ort prüfen; wenn nicht Lappland, nicht so benennen
+
+Quellen: archello.com · kakslauttanen.fi · visitfinland.com · swpc.noaa.gov · aurora-nights.co.uk
+
+## Vor Posting prüfen
+
+- [ ] Resortname nur bei passendem Clip
+- [ ] Jahreszahl nicht im Text
+- [ ] Polarlicht-Clips Ort geprüft
+- [ ] Nordlicht-Alarm als Möglichkeit formuliert
+- [ ] Hook ohne Ton verständlich (Schnee am Glas + Overlay)

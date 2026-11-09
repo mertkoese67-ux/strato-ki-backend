@@ -1,456 +1,507 @@
-# Alle 39 ElevenLabs-Sprechertexte (Stimme Mert_V2, Eleven v3)
+# Alle 39 ElevenLabs-Sprechertexte (Fassung v3 · Stimme Mert_V2, Eleven v3)
 
-Regeln: Text unverändert einfügen; eckige Klammern sind Audio-Tags und werden nicht gesprochen. Zahlen sind ausgeschrieben. Längen sind Schätzungen (2.45 Wörter/s) – maßgeblich ist die exportierte Audiodatei.
+Regeln: Text unverändert einfügen; eckige Klammern sind Audio-Tags und werden nicht gesprochen. Zahlen sind ausgeschrieben. Längen folgen der Geschichte (22–42 s) und sind Schätzungen (2.45 Wörter/s) – maßgeblich ist die exportierte Audiodatei.
 
 ## H01 · Mo 09.11.2026 · Fakt oder Fake? #1 · Der Wasserfall, der direkt ins Meer stürzt
 
-Fakt oder Fake: Ein Wasserfall, der direkt ins Meer stürzt?  
-[curious] Normalerweise enden Wasserfälle in einem Fluss oder in einem See.  
-Doch hier liegt unter der Gischt kein Fluss – sondern das Mittelmeer.  
-Fakt. Der untere Düden-Wasserfall stürzt rund vierzig Meter von der Klippe direkt ins Meer – mitten im Stadtgebiet von Antalya, etwa acht Kilometer vom Zentrum.  
-Am eindrucksvollsten wirkt er vom Wasser aus: Ausflugsboote fahren direkt vor die Klippe.  
+*Struktur D · Natur-Wunder · ca. 26 s*
+
+Fakt oder Fake: Unter dieser Gischt liegt kein Fluss, sondern das Meer.  
+[curious] Normalerweise fließt ein Wasserfall weiter. In einen See, in einen Fluss, irgendwohin.  
+Hier nicht. Hier fällt der Düden vierzig Meter tief – direkt ins Mittelmeer. Fakt.  
+Mitten in Antalya, acht Kilometer vom Lara Beach.  
+Am schönsten vom Boot aus, direkt vor der Klippe.  
 Nächsten Montag: Stammt das Matterhorn aus Afrika?
 
-*Wörter 75 · ca. 31 s (vorläufig)*
+*Wörter 61 · ca. 25 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #1 → Montag: Stammt das Matterhorn aus Afrika?*
 
-## H02 · Mi 11.11.2026 · Was dir keiner sagt #1 · Malediven ohne Resort – erlaubt, aber ohne Alkohol
+## H02 · Mi 11.11.2026 · Was dir keiner sagt #1 · Zwei Malediven: Resort oder Dorf
 
-Auf den bewohnten Malediven-Inseln gibt es keinen Alkohol.  
-[curious] Die Malediven kennt man so: eine Insel, ein Resort, ein Steg ins Türkis.  
-Seit zweitausendneun geht es auch anders: Gästehäuser auf Inseln, wo Einheimische leben.  
-Dort gelten lokale Regeln. Kein Alkohol. Badekleidung nur am ausgewiesenen Bikini Beach.  
-Dafür wohnst du mitten im Dorf – die günstigere Art, die Malediven zu sehen.  
-Zwei Malediven also. Was passt zu dir?  
-Nächsten Mittwoch: Warum dir kein Hotel Nordlichter garantieren kann.
+*Struktur B · Hotel-Legenden · ca. 34 s*
 
-*Wörter 74 · ca. 30 s (vorläufig)*
+Bis neunzehnhundertzweiundsiebzig gab es auf den Malediven kein einziges Hotel.  
+[curious] Dann eröffnete Kurumba: rund dreißig Hütten mit Palmdach, auf einer Kokosinsel vor Malé.  
+Daraus wurde das Bild, das du kennst: eine Insel, ein Resort.  
+Ein paar Bootsminuten weiter liegen die Dorfinseln. Seit gut fünfzehn Jahren darfst du dort wohnen.  
+Mitten im Dorf, zwischen Moschee und Hafen – mit anderen Regeln.  
+Kein Alkohol auf der ganzen Insel. Und Bikini nur am ausgewiesenen Strand.  
+Zwei Malediven. Dieselbe Lagune.  
+Nächsten Mittwoch: Warum dir kein Glasiglu Nordlichter versprechen kann.
 
-## H03 · Fr 13.11.2026 · Reisewissen in 30 Sekunden #1 · Warum türkische Hotels so riesig sind
+*Wörter 84 · ca. 34 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Was dir keiner sagt #1 → Mittwoch: Das Glasiglu kann dir den Himmel nicht versprechen*
 
-Seit zweitausendzwei hat sich die Zahl der Hotelbetten in Antalya vervierfacht.  
-[curious] Über sechshunderttausend Betten, meldet das Tourismusministerium – oft in Anlagen mit hunderten Zimmern.  
-Warum so groß? Ein Grund: ein Gesetz von neunzehnhundertzweiundachtzig.  
-Seitdem darf der Staat öffentliche Küstenflächen an Hotelinvestoren vergeben – ganze Zonen wie Belek entstanden so.  
-Große Grundstücke, lange Nutzungsrechte – daraus wurden Resorts mit Aquapark und eigenem Strand.  
-Riesig ist hier also normal. Wer es kleiner mag: Altstadt Kaleiçi.  
-Nächsten Freitag: Warum die Kanaren im Januar einundzwanzig Grad haben.
+## H03 · Fr 13.11.2026 · Reisewissen #1 · Der Palast, der ein Fußballstadion war
 
-*Wörter 80 · ca. 33 s (vorläufig)*
+*Struktur C · Hotel-Legenden · ca. 40 s*
+
+In diesem Palast hat Beşiktaş Fußball gespielt.  
+[serious] Neunzehnhundertzehn, eine Winternacht am Bosporus. Der Çırağan-Palast brennt, bis nur noch die Außenmauern stehen.  
+Der Sultan hatte ihn bauen lassen – der Palast war noch keine vierzig Jahre alt.  
+Zwanzig Jahre liegt die Ruine brach. Dann rollt ein Ball durch die Gärten.  
+Beşiktaş macht aus dem Palastgarten ein Stadion. Fast zwanzig Jahre lang.  
+Neunzehnhunderteinundneunzig dann die Wende: Der Palast wird Hotel – die Suiten liegen in den Mauern, die das Feuer überstanden haben.  
+Und wo die Tore standen, steht jetzt das Hotelgebäude. Der Bosporus ist derselbe geblieben.
+
+*Wörter 92 · ca. 38 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #1 → Freitag: Regenwald und Wüste – auf einer Insel*
 
 ## H04 · Mo 16.11.2026 · Fakt oder Fake? #2 · Stammt das Matterhorn aus Afrika?
 
-Fakt oder Fake: Das ganze Matterhorn stammt aus Afrika?  
-[curious] Schau auf den Fuß des Berges.  
-Dort verläuft eine dunkle Linie im Gelände.  
-Als Afrika und Europa zusammenstießen, wurde ein Stück der Afrikanisch-Adriatischen Platte über alten Meeresboden geschoben.  
-Also: Fake. Das ganze Matterhorn stammt nicht aus Afrika.  
-Aber alles über dieser Linie – bis hinauf zum Gipfel.  
-Nächsten Montag: eine Wüste, in der es mehr regnet als bei uns.
+*Struktur A · Natur-Wunder · ca. 30 s*
 
-*Wörter 67 · ca. 27 s (vorläufig)*
+Am Fuß des Matterhorns zieht sich eine dunkle Linie durch den Fels. Alles darüber kommt von woanders.  
+[curious] Unter der Linie: alter Meeresboden. Vor Jahrmillionen lag hier ein Ozean.  
+Darüber liegt Gestein aus dem Süden: Afrika drückte nach Norden und schob seine Platte obendrauf.  
+Der Gipfel des Matterhorns ist also ein Stück vom Rand Afrikas. Geologisch gesehen.  
+Steh am Stellisee, wenn er sich spiegelt. Du siehst Meeresboden und Afrika in einem Berg.
 
-## H05 · Mi 18.11.2026 · Was dir keiner sagt #2 · Kein Hotel kann dir Nordlichter garantieren
+*Wörter 71 · ca. 29 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #2 → Montag: Die Wüste, in der es mehr regnet als bei uns*
 
-Drei Dinge entscheiden, ob du in Lappland Nordlichter siehst. Das Hotel ist keins davon.  
-[curious] Erstens: Sonnenaktivität – ohne Teilchen von der Sonne kein Licht.  
-Zweitens: Dunkelheit. In Finnisch-Lappland geht die Saison grob von Ende August bis Anfang April.  
-Drittens: klarer Himmel. Das schönste Glasiglu nützt nichts, wenn Wolken davor hängen.  
-Das Hotel entscheidet nur, wie bequem du wartest.  
-Tipp: mehrere Nächte einplanen, abends Kp-Index und Wolkenradar prüfen – beides kostenlos.  
-Nächsten Mittwoch: Warum du in Pamukkale die Schuhe ausziehen musst.
+## H05 · Mi 18.11.2026 · Was dir keiner sagt #2 · Das Glasiglu kann dir den Himmel nicht versprechen
 
-*Wörter 78 · ca. 32 s (vorläufig)*
+*Struktur E · Regeln & Realität · ca. 30 s*
 
-## H06 · Fr 20.11.2026 · Reisewissen in 30 Sekunden #2 · Warum es auf den Kanaren im Januar 21 Grad hat
+Glasdach, warmes Bett, Nordlichter versprochen. Der Himmel hat das nicht unterschrieben.  
+[curious] In Saariselkä stehen Glasiglus im Schnee, gebaut für einen Zweck: Polarlicht vom Kopfkissen aus. In guten Nächten klappt das.  
+Der Haken: Das Licht braucht Sonnenaktivität, Dunkelheit und klaren Himmel. Drei Dinge, die kein Hotel bucht.  
+Also: mehrere Nächte, abends Wolkenradar, Nordlicht-Alarm anlassen.  
+Das Iglu macht das Warten schön. Den Himmel macht es nicht.  
+Nächsten Mittwoch: In Pamukkale schwimmst du über römischen Säulen.
 
-Graues Deutschland im Januar. Viereinhalb Flugstunden später: tagsüber rund einundzwanzig Grad an der Küste.  
-[curious] Der Grund: Die Kanaren liegen auf rund achtundzwanzig Grad Nord – wie die Sahara.  
-Trotzdem wird es selten glühend heiß: Passatwind und der kühle Kanarenstrom gleichen aus.  
-Die einundzwanzig Grad sind Tageshöchstwerte an der Küste – am Teide kann im Winter Schnee liegen.  
-Tipp: Im Winter ist die Südseite der Inseln meist sonniger.  
-Nächsten Freitag: Wie All Inclusive auf Mallorca erfunden wurde – in Zelten.
+*Wörter 73 · ca. 30 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #2 → Mittwoch: In Pamukkale schwimmst du über römischen Säulen*
 
-*Wörter 76 · ca. 31 s (vorläufig)*
+## H06 · Fr 20.11.2026 · Reisewissen #2 · Regenwald und Wüste – auf einer Insel
+
+*Struktur D · Natur-Wunder · ca. 28 s*
+
+Nebelwald und Wüste. Beides ist dieselbe Insel, am selben Tag.  
+[curious] Teneriffa. Im Nordosten tropft der Lorbeerwald von Anaga, Moos an jedem Ast.  
+Im Süden Lava, Kakteen, Sonne. Dazwischen ein Berg, der alles erklärt.  
+Der Passat drückt feuchte Luft von Nordosten gegen die Berge. Dort regnet sie sich ab.  
+Im Süden kommt trockene Luft an. Deshalb stehen die Hotels dort.  
+Im Januar heißt das: über einundzwanzig Grad im Süden, während du zu Hause Schnee kratzt.
+
+*Wörter 74 · ca. 30 s (vorläufig) · Endkarte: NATUR-WUNDER · Reisewissen #2 → Freitag: All Inclusive wurde auf Mallorca erfunden – in Zelten*
 
 ## H07 · Mo 23.11.2026 · Fakt oder Fake? #3 · Die Wüste, in der es mehr regnet als bei uns
 
-Fakt oder Fake: Das hier ist eine Wüste?  
-[curious] Weiße Dünen bis zum Horizont – im Nordosten Brasiliens. Sieht eindeutig aus.  
-Fake. Hier fallen rund zwölfhundert Millimeter Regen im Jahr. In Deutschland sind es im Schnitt siebenhunderteinundneunzig.  
-Das Regenwasser sammelt sich zwischen den Dünen – so entstehen Tausende Lagunen, in denen man schwimmen kann.  
-Am vollsten sind sie um Juli. Im November sind viele niedrig.  
-Nächsten Montag: Wo steht der älteste Weihnachtsmarkt wirklich?
+*Struktur A · Natur-Wunder · ca. 26 s*
 
-*Wörter 70 · ca. 29 s (vorläufig)*
+Weiße Dünen bis zum Horizont. Und jedes Jahr passiert hier etwas, das in keine Wüste gehört.  
+[curious] Nordosten Brasiliens. Sand, so weit die Drohne fliegt.  
+Dann kommt der Regen. Mehr als bei uns in Deutschland, jedes Jahr.  
+Unter dem Sand liegt eine Schicht, durch die nichts versickert. Das Wasser bleibt.  
+Tausende Lagunen zwischen den Dünen. Keine Wüste.  
+Am vollsten sind sie im Hochsommer. Jetzt im November liegen viele trocken.
 
-## H08 · Mi 25.11.2026 · Was dir keiner sagt #3 · In Pamukkale musst du barfuß gehen
+*Wörter 68 · ca. 28 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #3 → Montag: Wo steht der älteste Weihnachtsmarkt?*
 
-Pamukkale: barfuß Pflicht, Baden verboten – und trotzdem kannst du hier schwimmen.  
-[curious] Die weißen Kalkterrassen sind empfindlich: Schuhe aus, markierter Weg.  
-Und in den natürlichen Sinterbecken ist Baden seit neunzehnhundertsechsundneunzig verboten.  
-Schwimmen kannst du trotzdem: oben im antiken Becken von Hierapolis, zwischen alten Säulen – gegen Aufpreis.  
-Der Legende nach badete hier Kleopatra. Belegt ist das nicht.  
-Wintertipp: Der Kalk ist dann kalt und glatt – langsam gehen, Handtuch für die Füße.  
-Nächsten Mittwoch: Was ‚Meerseite‘ im Hotelprospekt wirklich heißt.
+## H08 · Mi 25.11.2026 · Was dir keiner sagt #3 · In Pamukkale schwimmst du über römischen Säulen
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+*Struktur E · Regeln & Realität · ca. 30 s*
 
-## H09 · Fr 27.11.2026 · Reisewissen in 30 Sekunden #3 · All Inclusive wurde auf Mallorca erfunden – in Zelten
+In Pamukkale schwimmst du im warmen Wasser über umgestürzten römischen Säulen.  
+[curious] Oben über den weißen Terrassen liegt Hierapolis, eine antike Kurstadt.  
+Ein Erdbeben warf ihre Säulen ins Thermalbecken. Niemand hat sie je herausgeholt.  
+Der Haken: In den weißen Becken unten ist Baden verboten. Schuhe auch.  
+Barfuß über warmen Kalk, der sich wie nasser Zucker anfühlt. Schwimmen gehst du oben, im antiken Becken.  
+Kleopatra soll hier gebadet haben. Belegt ist das nicht. Die Säulen sind echt.
 
-All Inclusive wurde auf Mallorca erfunden – in zweihundert Zelten.  
-[curious] Sommer neunzehnhundertfünfzig, Strand von Alcúdia: Gérard Blitz baut hier das erste Feriendorf des Club Méditerranée.  
-Rund zweihundert Zelte, Gemeinschaftsessen, Sport, Abende am Strand – alles im Preis.  
-Rund zweitausenddreihundert Gäste kamen in der ersten Saison.  
-Club Med gilt deshalb als Erfinder des Cluburlaubs – und als Vorläufer von All Inclusive.  
-Die Zelte wichen bald polynesischen Hütten – die Idee blieb.  
-Nächsten Freitag: Warum ins Rote Meer kein einziger Fluss fließt.
+*Wörter 75 · ca. 31 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #3 → Mittwoch: Meerseite heißt nicht Meerblick*
 
-*Wörter 76 · ca. 31 s (vorläufig)*
+## H09 · Fr 27.11.2026 · Reisewissen #3 · All Inclusive wurde auf Mallorca erfunden – in Zelten
+
+*Struktur C · Hotel-Legenden · ca. 36 s*
+
+All Inclusive wurde auf Mallorca erfunden. In Zelten.  
+[curious] Sommer neunzehnhundertfünfzig, Bucht von Alcúdia. Der Belgier Gérard Blitz will Menschen nach dem Krieg ans Meer bringen – ohne Hotel.  
+Also Zelte. Rund zweihundert, aus amerikanischen Armeebeständen, direkt im Sand.  
+Essen, Sport, Abende am Strand: alles inbegriffen. Über zweitausend Menschen kommen im ersten Sommer.  
+Im Herbst ersetzen Strohhütten die müden Zelte. Aus dem Zeltlager wird der Club Méditerranée.  
+Und aus ‚alles inbegriffen‘ wird das, was du heute All Inclusive nennst.  
+Nächsten Freitag: das Hotel, in dem Agatha Christie einen Mord erfand.
+
+*Wörter 88 · ca. 36 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #3 → Freitag: Das Hotel, in dem Agatha Christie einen Mord erfand*
 
 ## H10 · Mo 30.11.2026 · Fakt oder Fake? #4 · Wo steht der älteste Weihnachtsmarkt?
 
-Dresden sagt: Wir sind die Ältesten. Bautzen sagt: Nein, wir.  
-[curious] Fakt oder Fake: Der älteste Weihnachtsmarkt Deutschlands steht in Dresden?  
-Dresdens Striezelmarkt ist seit vierzehnhundertvierunddreißig urkundlich belegt.  
-Bautzen beruft sich auf dreizehnhundertvierundachtzig – damals ein Fleischmarkt bis in die Weihnachtszeit.  
-Und Frankfurt meldet sich mit dreizehnhundertdreiundneunzig.  
-Kommt drauf an, wie man zählt: ältester beurkundeter Weihnachtsmarkt – Dresden. Älteste Erwähnung in einer Chronik – Bautzen.  
-Team Dresden oder Team Bautzen? Schreib’s in die Kommentare. Nächsten Montag: Seen, die ihre Dämme selbst bauen.
+*Struktur A · Alte Welten · ca. 32 s*
 
-*Wörter 78 · ca. 32 s (vorläufig)*
+In Dresden steht der älteste Weihnachtsmarkt Deutschlands. Sagt Dresden. Bautzen sieht das anders.  
+[curious] Fakt oder Fake? Der Striezelmarkt ist seit vierzehnhundertvierunddreißig belegt – da hatte Kolumbus Amerika noch nicht entdeckt.  
+Bautzen hält dagegen: dreizehnhundertvierundachtzig. Damals erlaubte König Wenzel der Stadt einen freien Fleischmarkt – bis Weihnachten.  
+Die Auflösung: Beides stimmt. Dresden ist der älteste Markt mit Urkunde, Bautzen der älteste, der in einer Chronik steht.  
+Also: Fakt – wenn man zählt wie Dresden. Welche Seite bist du?
+
+*Wörter 74 · ca. 30 s (vorläufig) · Endkarte: ALTE WELTEN · Fakt oder Fake? #4 → Montag: Seen, die ihre Dämme selbst bauen*
 
 ## H11 · Mi 02.12.2026 · Was dir keiner sagt #4 · Meerseite heißt nicht Meerblick
 
-Meerseite heißt nicht Meerblick.  
-[curious] Meerblick heißt: Du siehst das Meer – nach gängiger Auslegung auch mal nur mit gedrehtem Kopf.  
-Meerseite heißt: Das Zimmer liegt zur Meerseite. Ob du Wasser siehst, ist offen.  
-Drei weitere Klassiker aus dem Katalogdeutsch: Zentrale Lage – kann laut sein. Aufstrebender Ort – oft Baustellen. Landestypische Bauweise – oft dünne Wände.  
-Was dir wichtig ist, muss in der Buchungsbestätigung stehen. Ein Katalogfoto reicht nicht.  
-Nächsten Mittwoch: Was Venedig zweitausendsiebenundzwanzig von Tagesgästen verlangen will.
+*Struktur B · Regeln & Realität · ca. 22 s*
 
-*Wörter 74 · ca. 30 s (vorläufig)*
+Vorhang auf. Hauswand.  
+[sighs] Gebucht: Zimmer zur Meerseite. Und genau das hast du bekommen.  
+Meerseite heißt nur: Das Zimmer liegt auf der Meerseite des Hauses. Ob du Wasser siehst, steht da nicht.  
+Meerblick heißt: Du siehst es. Zur Not mit gedrehtem Kopf.  
+Was dir wichtig ist, gehört in die Buchungsbestätigung. Nicht in den Prospekt.
 
-## H12 · Fr 04.12.2026 · Reisewissen in 30 Sekunden #4 · Rotes Meer: kein einziger Fluss – und trotzdem badewarm
+*Wörter 53 · ca. 22 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #4 → Mittwoch: Venedig steht auf einem Wald*
 
-In das Rote Meer fließt kein einziger Fluss.  
-[curious] Trotzdem ist es im Dezember badewarm – laut WDR selten unter zweiundzwanzig Grad.  
-Warm ist es wegen der Lage: weit im Süden, zwischen Wüsten, viel Sonne – auch im Winter.  
-Der fehlende Fluss erklärt das Salz: kein Süßwasser vom Land, starke Verdunstung – bis zu rund vier Prozent, eines der salzigsten Meere.  
-Die Wärme lieben Korallen – zu lange Hitze setzt ihnen aber zu.  
-Nächsten Freitag: Warum man in Kappadokien in Felsen schläft.
+## H12 · Fr 04.12.2026 · Reisewissen #4 · Das Hotel, in dem Agatha Christie einen Mord erfand
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+*Struktur A · Hotel-Legenden · ca. 38 s*
+
+In diesem Hotel wurde ein Mord geplant. Auf Papier.  
+[curious] Assuan, am ersten Katarakt des Nils. Neunzehnhundert eröffnet Thomas Cook hier ein Hotel für seine Nilreisenden: das Old Cataract.  
+Roter Sandstein, schwarze Granitfelsen, Feluken im Abendlicht. Auf dieser Terrasse soll neunzehnhundertsiebenunddreißig eine Engländerin an einem Roman geschrieben haben.  
+Agatha Christie. Der Roman: Tod auf dem Nil. Das Hotel kommt darin vor, der Mord passiert auf dem Schiff.  
+Vierzig Jahre später drehte Hollywood den Film genau hier – mit Peter Ustinov als Poirot.  
+Die Terrasse gibt es noch. Und ihre Suite trägt heute ihren Namen.
+
+*Wörter 92 · ca. 38 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #4 → Freitag: In Kappadokien schläfst du in tausend Jahre altem Fels*
 
 ## H13 · Mo 07.12.2026 · Fakt oder Fake? #5 · Seen, die ihre Dämme selbst bauen
 
-Die meisten Seen verlanden. Diese hier bauen ihre Dämme selbst.  
-[curious] Fakt oder Fake: Die Dämme der Plitvicer Seen wachsen jedes Jahr?  
-Fakt. Kalk setzt sich an Moosen ab und wird zu Stein – am Kozjak-Ausfluss rund fünf Zentimeter in zehn Jahren.  
-Klingt wenig. Aber so sind vor rund vierhundert Jahren zwei Seen zum heutigen Kozjak-See verschmolzen.  
-Baden ist im Park verboten. Tipp: früh morgens oder in der Nebensaison sind die Stege fast leer.  
-Nächsten Montag: Wo steht Spaniens höchster Berg?
+*Struktur D · Natur-Wunder · ca. 28 s*
 
-*Wörter 79 · ca. 32 s (vorläufig)*
+Unter diesem See liegt ein vierzig Meter hoher Wasserfall. Ertrunken.  
+[curious] Plitvice, Kroatien. Hier fließt Wasser über Dämme, die kein Mensch gebaut hat.  
+Kalk setzt sich an Moos ab und wird zu Stein – ein paar Millimeter im Jahr.  
+Vor rund vierhundert Jahren teilte so ein Damm den Kozjak-See – mit einem vierzig Meter hohen Wasserfall.  
+Der untere Damm wuchs schneller, der See stieg, der Wasserfall versank. Heute fährst du im Boot darüber.  
+Montag: Spaniens höchster Berg steht nicht auf dem Festland.
 
-## H14 · Mi 09.12.2026 · Was dir keiner sagt #5 · Venedig will 2027 an 72 Tagen Eintritt
+*Wörter 79 · ca. 32 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #5 → Montag: Spaniens höchster Berg steht nicht auf dem Festland*
 
-Tagesausflug vom Gardasee nach Venedig? Dann brauchst du zweitausendsiebenundzwanzig vielleicht vorher ein Ticket.  
-[curious] Venedig will zweitausendsiebenundzwanzig an zweiundsiebzig Tagen Eintritt verlangen: Freitag bis Sonntag, Ende März bis Mitte August.  
-Drei Dinge: Es gilt nur für die Altstadt, tagsüber.  
-Höchstens zehn Euro – Frühbucher zahlten zuletzt die Hälfte.  
-Wer übernachtet, zahlt keinen Eintritt, sondern Kurtaxe.  
-Rom muss noch zustimmen – vor der Reise die offizielle Seite prüfen.  
-Nächsten Mittwoch: siebenhundertvierzig Einwohner, bis zu zehntausend Besucher am Tag.
+## H14 · Mi 09.12.2026 · Was dir keiner sagt #5 · Venedig steht auf einem Wald
 
-*Wörter 74 · ca. 30 s (vorläufig)*
+*Struktur A · Alte Welten · ca. 34 s*
 
-## H15 · Fr 11.12.2026 · Reisewissen in 30 Sekunden #5 · Warum man in Kappadokien in Felsen schläft
+Venedig steht im Wasser. Aber worauf eigentlich?  
+[curious] Unter den Palästen liegt kein Fels. Nur Schlamm, weich wie ein Schwamm.  
+Also rammten die Venezianer Baumstämme hinein. Eiche, Erle, Lärche. Millionen, dicht an dicht.  
+Allein unter dieser Kirche sollen über eine Million Pfähle stecken. Die Stadt steht auf einem Wald.  
+Und der verrottet nicht, weil unter Wasser keine Luft ans Holz kommt. Seit Jahrhunderten.  
+Der Haken heute: Tagesgäste zahlen an vielen Tagen Eintritt für die Altstadt.  
+Nächsten Mittwoch: In Hallstatt sind die Schädel bemalt.
 
-In diesem Tal lebten Menschen noch bis neunzehnhundertzweiundfünfzig in Felshöhlen.  
-[curious] Kappadokien besteht aus Tuff, verfestigter Vulkanasche – weich genug, um Räume hineinzugraben.  
-So entstanden ganze Felsdörfer. In Zelve zogen die letzten Bewohner neunzehnhundertzweiundfünfzig aus – Einsturzgefahr.  
-Das Prinzip lebt weiter: Heute schläfst du in Höhlenhotels im selben Stein.  
-Heißt für dich: Fels hält die Temperatur stabil – aber die Fenster sind oft klein. Wer Licht braucht, fragt nach Terrasse.  
-Nächsten Freitag: Das Berliner Hotel, das neunzehnhundertfünfundvierzig abbrannte.
+*Wörter 82 · ca. 34 s (vorläufig) · Endkarte: ALTE WELTEN · Was dir keiner sagt #5 → Mittwoch: In Hallstatt sind die Schädel bemalt*
 
-*Wörter 74 · ca. 30 s (vorläufig)*
+## H15 · Fr 11.12.2026 · Reisewissen #5 · In Kappadokien schläfst du in tausend Jahre altem Fels
+
+*Struktur B · Alte Welten · ca. 30 s*
+
+Eine Höhle als Hotelzimmer klingt nach kalt, dunkel und feucht.  
+[curious] In Kappadokien ist es umgekehrt. Der Fels hier ist Tuff, gepresste Vulkanasche.  
+Weich genug zum Graben. Dick genug, dass die Temperatur das ganze Jahr fast gleich bleibt.  
+Kühl im Sommer, warm im Winter. Im Tal von Zelve lebten Menschen so bis in die fünfziger Jahre.  
+Heute schläfst du im selben Stein. In Uçhisar liegt das Argos in den Resten eines alten Klosters.
+
+*Wörter 72 · ca. 29 s (vorläufig) · Endkarte: ALTE WELTEN · Reisewissen #5 → Freitag: Hotel Adlon – 1945 abgebrannt, 1997 neu eröffnet*
 
 ## H16 · Mo 14.12.2026 · Fakt oder Fake? #6 · Spaniens höchster Berg steht nicht auf dem Festland
 
-Fakt oder Fake: Spaniens höchster Berg steht auf dem Festland?  
-[curious] Die Pyrenäen? Die Sierra Nevada? Klingt logisch.  
-Fake. Spaniens höchster Berg steht auf einer Insel: der Teide auf Teneriffa, dreitausendsiebenhundertfünfzehn Meter.  
-Das sind rund siebenhundertfünfzig Meter mehr als die Zugspitze.  
-Und vom Meeresboden aus gemessen ragt der Vulkan rund siebentausendfünfhundert Meter auf.  
-Tipp: Für die letzten Meter zum Gipfel brauchst du eine kostenlose Genehmigung des Nationalparks – vorher online.  
-Nächsten Montag: Wurde der Winterurlaub mit einer Wette erfunden?
+*Struktur D · Natur-Wunder · ca. 30 s*
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+Schnee auf dem Gipfel, Palmen am Strand. Und beides ist Spanien.  
+[curious] Wo steht Spaniens höchster Berg? Nicht in den Pyrenäen. Nicht in der Sierra Nevada.  
+Sondern hier: der Teide auf Teneriffa. Rund dreitausendsiebenhundert Meter, ein Vulkan über dem Wolkenmeer.  
+Siebenhundertfünfzig Meter höher als die Zugspitze. Vom Strand bist du in gut einer Stunde im Schnee.  
+Und mittendrin steht ein einziges Hotel: der Parador, auf über zweitausend Metern. Nachts gehört dir der Sternenhimmel.
 
-## H17 · Mi 16.12.2026 · Was dir keiner sagt #6 · 740 Einwohner, bis zu 10.000 Besucher
+*Wörter 72 · ca. 29 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #6 → Montag: Winterurlaub wurde mit einer Wette erfunden?*
 
-Rund siebenhundertvierzig Einwohner – und an Spitzentagen bis zu zehntausend Besucher.  
-[curious] Hallstatt in Oberösterreich. Reisebusse brauchen hier seit zweitausendneunzehn gebuchte Zeitfenster.  
-Was die wenigsten sehen: das Beinhaus neben der Kirche – hunderte bemalte Schädel, weil der Friedhof zu klein war.  
-Und im Winter ist das Dorf oft still, Nebel liegt auf dem See – der berühmte Blick gehört dann dir.  
-Tipp: vor neun Uhr oder nach siebzehn Uhr kommen. Und: Die Wohnhäuser sind privat.  
-Nächsten Mittwoch: Warum fünf Sterne nicht gleich fünf Sterne sind.
+## H17 · Mi 16.12.2026 · Was dir keiner sagt #6 · In Hallstatt sind die Schädel bemalt
 
-*Wörter 81 · ca. 33 s (vorläufig)*
+*Struktur A · Alte Welten · ca. 34 s*
 
-## H18 · Fr 18.12.2026 · Reisewissen in 30 Sekunden #6 · Hotel Adlon: 1945 abgebrannt, 1997 neu eröffnet
+Hinter der Kirche von Hallstatt liegen zwölfhundert Schädel.  
+[whispers] Sauber gestapelt, mit Namen beschriftet. Und über sechshundert davon sind bemalt. Blumen, Kränze, Kreuze.  
+Warum? Der Friedhof klebt am Hang, dazwischen See und Fels. Platz für neue Gräber gab es kaum.  
+Also öffnete man die Gräber nach Jahren wieder, bleichte die Schädel und bemalte sie. Seit dreihundert Jahren.  
+Der jüngste Schädel kam neunzehnhundertfünfundneunzig dazu.  
+Bis zu zehntausend Menschen am Tag drängen sich unten am See. Hier oben stehst du vor den Namen.  
+Nächsten Mittwoch: Santorinis teuerste Suiten waren einmal Armenhöhlen.
 
-Berlins Hotel-Legende am Brandenburger Tor ist erst knapp dreißig Jahre alt.  
-[curious] Das Adlon eröffnete neunzehnhundertsieben – der Kaiser war Gast.  
-Im Mai neunzehnhundertfünfundvierzig brannte es aus – bis auf einen Seitenflügel. Die Ursache: bis heute ungeklärt.  
-Der Rest war in der DDR noch Hotel – und wurde neunzehnhundertvierundachtzig gesprengt.  
-Was heute dort steht, ist ein Neubau nach altem Vorbild, eröffnet neunzehnhundertsiebenundneunzig.  
-Wer dort übernachtet, schläft also in Geschichte – aber nicht im Original.  
-Nächsten Freitag: Warum die Polarkreis-Linie beim Weihnachtsmann nicht mehr stimmt.
+*Wörter 88 · ca. 36 s (vorläufig) · Endkarte: ALTE WELTEN · Was dir keiner sagt #6 → Mittwoch: Santorinis teuerste Suiten waren Armenhöhlen*
 
-*Wörter 79 · ca. 32 s (vorläufig)*
+## H18 · Fr 18.12.2026 · Reisewissen #6 · Hotel Adlon: 1945 abgebrannt, 1997 neu eröffnet
+
+*Struktur C · Hotel-Legenden · ca. 38 s*
+
+Der Kaiser kam persönlich zur Eröffnung. Knapp vierzig Jahre später stand nur noch ein Flügel.  
+[serious] Berlin, neunzehnhundertsieben: Das Adlon öffnet am Brandenburger Tor, eines der modernsten Hotels seiner Zeit.  
+Es überstand den Krieg. Fast.  
+Anfang Mai neunzehnhundertfünfundvierzig, die Kämpfe in Berlin sind vorbei, bricht ein Feuer aus. Übrig bleibt ein Seitenflügel.  
+Die DDR betreibt ihn als kleines Hotel, dann wird er abgerissen. Jahrzehntelang bleibt der Platz leer.  
+Neunzehnhundertsiebenundneunzig öffnet das Adlon wieder. Gleiche Adresse, nach altem Vorbild – aber komplett neu gebaut.  
+Die Legende ist echt. Das Haus ist jünger, als du denkst.
+
+*Wörter 92 · ca. 38 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr*
 
 ## H19 · Mo 21.12.2026 · Fakt oder Fake? #7 · Winterurlaub wurde mit einer Wette erfunden?
 
-Fakt oder Fake: Den Winterurlaub hat eine Wette erfunden?  
-[curious] So erzählt es St. Moritz: Herbst achtzehnhundertvierundsechzig, Hotelier Johannes Badrutt wettet mit englischen Gästen.  
-Kommt im Winter wieder, sonst zahle ich die Reise. Sie kamen – und blieben bis Ostern.  
-Nur: Historiker finden keinen Beleg für diese Wette.  
-Also: kommt drauf an. Wette: Legende. Aber der Winter achtzehnhundertvierundsechzig auf fünfundsechzig gilt als Geburt des Wintertourismus.  
-Badrutts Hotel steht noch heute: das Kulm.  
-Nächsten Montag: Häuser, die gebaut wurden, um Steuern zu sparen?
+*Struktur B · Hotel-Legenden · ca. 34 s*
 
-*Wörter 80 · ca. 33 s (vorläufig)*
+Der ganze Winterurlaub soll mit einer Wette begonnen haben. Hier, in St. Moritz.  
+[curious] Herbst achtzehnhundertvierundsechzig. Hotelier Johannes Badrutt sitzt mit englischen Gästen am Kamin.  
+Kommt im Winter wieder. Gefällt es euch nicht, zahle ich die Reise.  
+Die Engländer kamen – und blieben bis Ostern.  
+Nur: Historiker finden für diese Wette keinen einzigen Beleg.  
+Sicher ist: Der Winter achtzehnhundertvierundsechzig auf fünfundsechzig gilt als Geburtsstunde des Wintertourismus.  
+Badrutts Haus steht noch heute: das Kulm in St. Moritz. Mit oder ohne Wette.
 
-## H20 · Mi 23.12.2026 · Was dir keiner sagt #7 · 5 Sterne sind nicht gleich 5 Sterne
+*Wörter 78 · ca. 32 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Fakt oder Fake? #7 → Montag: Häuser, die man schnell abreißen konnte?*
 
-Fünf Sterne sind nicht gleich fünf Sterne.  
-[curious] In Deutschland vergibt der Hotelverband die Sterne – freiwillig, seit neunzehnhundertsechsundneunzig.  
-Seit zweitausendneun gelten dieselben Kriterien in der Hotelstars Union – Deutschland, Österreich, Schweiz und weitere.  
-In der Türkei klassifiziert das Tourismusministerium – nach einem eigenen Punktesystem.  
-In Spanien entscheidet jede der siebzehn Regionen selbst – deshalb fehlt Spanien in der Hotelstars Union.  
-Heißt für dich: Sterne nur innerhalb eines Landes vergleichen – zwischen Ländern zählen Ausstattung und aktuelle Bewertungen.  
-Nächsten Mittwoch: Warum du im Riad keinen Ausblick hast.
+## H20 · Mi 23.12.2026 · Was dir keiner sagt #7 · Santorinis begehrteste Suiten waren Armenhöhlen
 
-*Wörter 81 · ca. 33 s (vorläufig)*
+*Struktur E · Alte Welten · ca. 30 s*
 
-## H21 · Fr 25.12.2026 · Reisewissen in 30 Sekunden #7 · Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr
+Die begehrtesten Zimmer Santorinis sind Höhlen.  
+[curious] Weiß gewölbte Decke, Bett im Fels, vor der Tür die Caldera.  
+Was die Kataloge weglassen: Ausgesucht hat sich diese Höhlen niemand.  
+Arme Familien und Seeleute gruben sie in den weichen Bimsstein. Für ein Haus fehlte das Geld.  
+[serious] Neunzehnhundertsechsundfünfzig zerstörte ein Erdbeben die Fassaden von Oia. Die Höhlen dahinter hielten.  
+Heute sind genau sie die gefragtesten Zimmer der Insel. Je ärmer der Bauherr, desto begehrter die Aussicht.
 
-Die berühmte Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr.  
-[curious] Im Santa Claus Village bei Rovaniemi springen Besucher über einen weißen Strich: hier, angeblich, der Polarkreis.  
-Nur: Der Polarkreis wandert – rund vierzehn bis fünfzehn Meter pro Jahr nach Norden, etwa vier Zentimeter am Tag.  
-Der Grund: Die Neigung der Erdachse schwankt in einem Zyklus von rund einundvierzigtausend Jahren.  
-Der echte Polarkreis liegt heute also ein Stück weiter nördlich. Frohe Weihnachten trotzdem.  
-Nächsten Freitag, an Neujahr: die Brückentage zweitausendsiebenundzwanzig.
+*Wörter 72 · ca. 29 s (vorläufig) · Endkarte: ALTE WELTEN · Was dir keiner sagt #7 → Mittwoch: Im Riad hast du keinen Ausblick – mit Absicht*
 
-*Wörter 76 · ca. 31 s (vorläufig)*
+## H21 · Fr 25.12.2026 · Reisewissen #7 · Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr
+
+*Struktur D · Regeln & Realität · ca. 22 s*
+
+Hinter dieser Linie beginnt die Arktis. Angeblich.  
+Im Weihnachtsmanndorf bei Rovaniemi fotografieren sich Besucher mit einem Fuß im Polarkreis.  
+Nur: Der echte Polarkreis wandert, rund vierzehn Meter pro Jahr nach Norden. Die Linie bleibt.  
+Schuld ist die Erdachse, die ganz langsam schwankt. Frohe Weihnachten trotzdem.  
+Freitag, an Neujahr: Deutschlands höchstes Hotel gibt es nicht mehr.
+
+*Wörter 55 · ca. 22 s (vorläufig) · Endkarte: REGELN & REALITÄT · Reisewissen #7 → Freitag (1.1.): Deutschlands höchstes Hotel gibt es nicht mehr*
 
 ## H22 · Mo 28.12.2026 · Fakt oder Fake? #8 · Häuser, die man schnell abreißen konnte?
 
-Fakt oder Fake: Diese Häuser wurden gebaut, um Steuern zu sparen?  
-[curious] Alberobello in Apulien: über tausend Trulli mit Kegeldächern.  
-Fakt ist: Sie stehen typischerweise ohne Mörtel – Stein auf Stein, trocken gebaut.  
-Die Legende: So ließen sie sich schnell abreißen, wenn die Steuereintreiber des Königs kamen.  
-Bewiesen ist das nicht. Also: Ohne Mörtel – Fakt. Steuertrick – Legende.  
-Sicher ist: Siebzehnhundertsiebenundneunzig wurde Alberobello freie Stadt, seit neunzehnhundertsechsundneunzig ist es Welterbe.  
-Nächsten Montag: Sahen die Pyramiden schon immer so aus?
+*Struktur A · Alte Welten · ca. 30 s*
 
-*Wörter 76 · ca. 31 s (vorläufig)*
+Fakt oder Fake: Häuser, gebaut, damit man sie schnell abreißen kann?  
+[curious] Alberobello, Apulien: über tausend Steinkegel, geschichtet ohne Mörtel.  
+Der Grund ist ein Gesetz aus dem fünfzehnten Jahrhundert: Jede neue Siedlung musste Abgaben zahlen.  
+Also ließ der Graf ohne Mörtel bauen. Was jederzeit einstürzen kann, ist offiziell kein Dorf.  
+Fakt. Nur der Abriss, kurz bevor der Kontrolleur kommt – der ist bloß überliefert.  
+Siebzehnhundertsiebenundneunzig befreite der König die Stadt. Die Trulli blieben – heute schläft man darin.
+
+*Wörter 75 · ca. 31 s (vorläufig) · Endkarte: ALTE WELTEN · Fakt oder Fake? #8 → Montag: Die Pyramiden sahen früher anders aus*
 
 ## H23 · Mi 30.12.2026 · Was dir keiner sagt #8 · Im Riad hast du keinen Ausblick – mit Absicht
 
-Draußen eine fensterlose Mauer. Drinnen ein Garten mit Brunnen.  
-[curious] Riad: arabisch für Garten – ein Stadthaus in der Medina, das sich nach innen öffnet.  
-Zur Gasse kaum Fenster – das schützt die Privatsphäre der Familie.  
-Und das Klima: Der Hof spendet Schatten, dicke Mauern halten Hitze und Lärm fern.  
-Heißt: ruhig schlafen mitten in der Medina, Ausblick nur auf der Dachterrasse. Hotel für Pool und Platz – Riad für Nähe und Stille.  
-Nächsten Mittwoch: Warum eine Flagge über deine Ballonfahrt entscheidet.
+*Struktur D · Hotel-Legenden · ca. 24 s*
 
-*Wörter 78 · ca. 32 s (vorläufig)*
+Von außen nur Mauer. Kein Fenster, keine Aussicht. Und genau das ist der Plan.  
+[curious] Marrakesch dreht das Haus um. Alles Schöne liegt innen: der Hof, der Brunnen, die Orangenbäume.  
+Riad heißt Garten. Die Gasse bleibt draußen – ihr Lärm, ihre Hitze, ihre Blicke.  
+Aussicht gibt es trotzdem: oben auf dem Dach, wenn die Sonne über der Medina untergeht.
 
-## H24 · Fr 01.01.2027 · Reisewissen in 30 Sekunden #8 · Brückentage 2027: so holst du das Maximum raus
+*Wörter 57 · ca. 23 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Was dir keiner sagt #8 → Mittwoch: Ob dein Ballon startet, entscheidet eine Flagge*
 
-Zweitausendsiebenundzwanzig fallen der erste Mai, der dritte Oktober und Weihnachten aufs Wochenende.  
-[curious] Schlechtes Feiertagsjahr? Mit vier Terminen holst du trotzdem das Maximum raus.  
-Ostern: vier Urlaubstage vom dreißigsten März bis zweiten April – zehn Tage frei.  
-Himmelfahrt: ein Tag, der siebte Mai – vier Tage frei.  
-Pfingsten: achtzehnter bis einundzwanzigster Mai – neun Tage frei.  
-Mit Fronleichnam, zum Beispiel in NRW: acht Urlaubstage – sechzehn Tage frei. In Niedersachsen gilt das nicht.  
-Speichern, weiterschicken. Nächsten Freitag: Übernachten mitten in der Alhambra.
+## H24 · Fr 01.01.2027 · Reisewissen #8 · Deutschlands höchstes Hotel gibt es nicht mehr
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+*Struktur B · Hotel-Legenden · ca. 28 s*
+
+Deutschlands höchstes Hotel gibt es nicht mehr. Dabei steht es noch.  
+[curious] Zweitausendsechshundertfünfzig Meter, direkt unter dem Zugspitzgipfel, in den Fels gebaut: das Schneefernerhaus.  
+Neunzehnhunderteinunddreißig eröffnet. Die Zahnradbahn hielt direkt im Haus, und die Gäste schliefen über den Wolken.  
+Neunzehnhundertzweiundneunzig war Schluss. Heute messen hier Forscher die Luft über Deutschland: eine Umweltforschungsstation statt Hotelzimmer.  
+Von der Gipfelplattform siehst du das Haus noch. Nur einchecken kannst du nicht mehr.
+
+*Wörter 67 · ca. 27 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #8 → Freitag: Die Stadt, für die sich Italien schämte*
 
 ## H25 · Mo 04.01.2027 · Fakt oder Fake? #9 · Die Pyramiden sahen früher anders aus
 
-Fakt oder Fake: Die Pyramiden von Gizeh sahen schon immer so aus?  
-[curious] Schau auf die Spitze der Chephren-Pyramide: Warum ist nur dort die Oberfläche glatt?  
-Fake. Die Große Pyramide und die Chephren-Pyramide trugen eine Hülle aus poliertem weißem Kalkstein – oben ist der Rest.  
-Dreizehnhundertdrei lockerte ein Erdbeben viele Verkleidungssteine; sie wurden in Kairo verbaut – übrig blieb der gestufte Kern.  
-Tipp: Vom Panorama-Punkt im Südwesten siehst du alle drei Pyramiden auf einem Bild.  
+*Struktur A · Alte Welten · ca. 34 s*
+
+Schau auf die Spitze der Chephren-Pyramide. Warum ist nur dort alles glatt?  
+[curious] Darunter nur Stufen. Oben eine helle, geschlossene Haut.  
+Fakt ist: So sah einmal die ganze Pyramide aus – poliert, weiß, leuchtend in der Sonne.  
+Ein Erdbeben dreizehnhundertdrei lockerte die Platten, Kairo baute daraus Moscheen. Übrig blieb der Kern.  
+Am Fuß der Pyramiden steht seit achtzehnhundertsechsundachtzig das Mena House. Churchill und Roosevelt planten hier im Krieg ihre nächsten Schritte – mit Blick auf genau diese Spitze.  
 Nächsten Montag: Liegt der größte Wasserfall Europas in der Schweiz?
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+*Wörter 85 · ca. 35 s (vorläufig) · Endkarte: ALTE WELTEN · Fakt oder Fake? #9 → Montag: Liegt der größte Wasserfall Europas in der Schweiz?*
 
 ## H26 · Mi 06.01.2027 · Was dir keiner sagt #9 · Ob dein Ballon startet, entscheidet eine Flagge
 
-Ballonfahrt gebucht. Ob du fliegst, entscheidet morgens eine Flagge.  
-[curious] In Kappadokien vergibt die türkische Luftfahrtbehörde jeden Morgen eine Farbe.  
-Grün: Start frei. Gelb: warten. Rot: Alle Flüge fallen aus.  
-Meist entscheidet der Wind.  
-Auch bei Grün darf der Pilot absagen – und wie viele Ballons gleichzeitig fahren, ist begrenzt.  
-Tipp: Fahrt für einen der ersten Tage planen – dann bleibt ein Ersatztag. Und vorher klären, was bei Absage mit dem Geld passiert.  
-Nächsten Mittwoch: der Filmstrand in Thailand, an dem Baden verboten ist.
+*Struktur E · Regeln & Realität · ca. 28 s*
 
-*Wörter 81 · ca. 33 s (vorläufig)*
+Alle Ballons liegen am Boden. Heute fliegt in Kappadokien keiner.  
+[curious] Der Grund ist eine Flagge: Jeden Morgen entscheidet die Luftfahrtbehörde. Grün: fliegen. Gelb: warten. Rot: alle bleiben unten.  
+Bei Grün zischen die Brenner, die Hüllen richten sich auf, und du steigst mit der Sonne.  
+Der Haken: Auch bei Grün darf dein Pilot absagen – meist wegen Wind in der Höhe.  
+Also: Fahrt auf die ersten Urlaubstage legen. Dann bleibt ein Ersatztag.  
+Mittwoch: der Filmstrand, an dem Baden verboten ist.
 
-## H27 · Fr 08.01.2027 · Reisewissen in 30 Sekunden #9 · Übernachten mitten in der Alhambra
+*Wörter 78 · ca. 32 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #9 → Mittwoch: Der Filmstrand, an dem Baden verboten ist*
 
-In Spanien vermietet der Staat Zimmer in Burgen, Klöstern und Palästen.  
-[curious] Knapp hundert Häuser gehören zur staatlichen Kette Paradores – seit neunzehnhundertachtundzwanzig.  
-Eines der bekanntesten liegt in Granada: mitten im Alhambra-Komplex, in einem ehemaligen Franziskanerkloster aus dem fünfzehnten Jahrhundert.  
-Du schläfst also innerhalb des Alhambra-Geländes – die Paläste selbst brauchen trotzdem ein Ticket.  
-Nicht jeder Parador ist eine Burg – manche sind moderne Häuser in der Natur.  
-Nächsten Freitag: Wie man früher zu den Klöstern von Meteora kam – im Netz.
+## H27 · Fr 08.01.2027 · Reisewissen #9 · Die Stadt, für die sich Italien schämte
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+*Struktur C · Alte Welten · ca. 42 s*
+
+Italien hat sich für diese Stadt geschämt. Heute ist sie Welterbe.  
+[serious] Matera, Süditalien. Die Sassi: Höhlenwohnungen, in den Fels gegraben, seit Jahrtausenden bewohnt.  
+Nach dem Krieg lebten hier Familien mit Esel und Hühnern in einem Raum, ohne Wasser, ohne Licht. Rom nannte es die Schande der Nation.  
+Neunzehnhundertzweiundfünfzig kam das Gesetz: Über fünfzehntausend Menschen mussten raus, in Neubauten am Stadtrand. Die Höhlen blieben leer.  
+Dann die Wende: Welterbe, Kulturhauptstadt Europas, Drehort für James Bond.  
+Und die leeren Höhlen? Heute Hotelzimmer. Im Sextantio schläfst du in Grotten, die bis in die Fünfziger bewohnt waren – Kerzen, Fels, Stille.  
+Die Schande Italiens ist heute sein Stolz.
+
+*Wörter 103 · ca. 42 s (vorläufig) · Endkarte: ALTE WELTEN · Reisewissen #9 → Freitag: Bis in die 1920er kam man nur per Netz hinauf*
 
 ## H28 · Mo 11.01.2027 · Fakt oder Fake? #10 · Liegt der größte Wasserfall Europas in der Schweiz?
 
-Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz?  
-[curious] Hoch ist er nicht: nur dreiundzwanzig Meter.  
-Aber hundertfünfzig Meter breit – und im Sommer stürzen rund sechshunderttausend Liter pro Sekunde hinab.  
-Also: Kommt drauf an, wie man misst.  
-Nach der Wassermenge gilt der Rheinfall als einer der größten Wasserfälle Europas. Höhere gibt es viele.  
-Tipp: Im Sommer führt er am meisten Wasser – und Boote bringen dich zum Felsen mitten im Fall.  
-Nächsten Montag: Machen auf den Malediven Fische Sand?
+*Struktur D · Natur-Wunder · ca. 30 s*
 
-*Wörter 80 · ca. 33 s (vorläufig)*
+Der größte Wasserfall Europas ist nur dreiundzwanzig Meter hoch. Wie geht das?  
+[curious] Rheinfall bei Schaffhausen, kurz hinter der deutschen Grenze.  
+Die Breite löst das Rätsel: hundertfünfzig Meter – und im Sommer sechshunderttausend Liter in jeder Sekunde.  
+Groß heißt hier mächtig, nicht hoch. Nach Wassermenge gilt er als der größte Europas. Fakt.  
+Direkt darüber Schloss Laufen: jahrzehntelang Jugendherberge, bald vielleicht Hotel. Schlafen über dem Donner.  
+Im Sommer bringt dich ein Boot auf den Felsen mitten im Fall.
+
+*Wörter 75 · ca. 31 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #10 → Montag: Wenn Fische Strand machen*
 
 ## H29 · Mi 13.01.2027 · Was dir keiner sagt #10 · Der Filmstrand, an dem Baden verboten ist
 
-Einer der berühmtesten Strände Thailands – und Baden ist verboten.  
-[curious] Die Maya Bay auf Koh Phi Phi Leh, bekannt aus ‚The Beach‘.  
-Zweitausendachtzehn wurde sie komplett gesperrt – fast vier Jahre, die Korallen waren schwer geschädigt.  
-Seit zweitausendzweiundzwanzig darfst du wieder hin, aber nicht ins Wasser – und die Besucherzahl ist begrenzt.  
-Die Pause wirkt: Heute schwimmen hier wieder Schwarzspitzen-Riffhaie.  
-Im August und September ist sie ganz zu. Tipp: die erste Tour des Tages nehmen.  
-Nächsten Mittwoch: das Drehkreuz auf einem Dolomiten-Wanderweg.
+*Struktur B · Regeln & Realität · ca. 30 s*
 
-*Wörter 79 · ca. 32 s (vorläufig)*
+Im Film schwimmt Leonardo DiCaprio hier. Du darfst nur bis zum Knie.  
+[curious] Maya Bay, Thailand. Das Bild kennt jeder – den Haken fast niemand.  
+Zu viele Boote, zu viele Füße – die Korallen starben. Thailand sperrte die Bucht, fast vier Jahre.  
+Heute kommst du nur von hinten: Anleger auf der Rückseite, Holzweg hinüber. Ins Wasser? Bis zum Knie.  
+Dafür ziehen im Flachwasser wieder Schwarzspitzen-Riffhaie ihre Kreise – ihre Kinderstube.  
+August und September: ganz zu. Am leersten ist die erste Tour.  
+Mittwoch: ein Drehkreuz mitten auf einem Dolomiten-Wanderweg.
 
-## H30 · Fr 15.01.2027 · Reisewissen in 30 Sekunden #10 · Bis in die 1920er kam man nur per Netz hinauf
+*Wörter 84 · ca. 34 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #10 → Mittwoch: Das Drehkreuz auf der Seceda*
 
-Bis in die neunzehnhundertzwanziger kam man zu vielen dieser Klöster nur per Leiter oder Netz.  
-[curious] Meteora: Klöster auf Felsnadeln, hunderte Meter über dem Tal.  
-Früher: Leitern – oder ein Netz an der Seilwinde, von Mönchen hochgezogen.  
-Erst in den neunzehnhundertzwanzigern wurden zu einigen Klöstern Stufen in den Fels gehauen.  
-Von einst vierundzwanzig Klöstern sind sechs bewohnt – vier von Mönchen, zwei von Nonnen.  
-Tipp: Schultern und Knie bedeckt – in manchen Klöstern gibt es Wickelröcke am Eingang.  
-Nächsten Freitag: die Hafenstadt, die ihr Meer verlor.
+## H30 · Fr 15.01.2027 · Reisewissen #10 · Bis in die 1920er kam man nur per Netz hinauf
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+*Struktur A · Alte Welten · ca. 34 s*
+
+Ein Kloster auf einer Felsnadel. Und nirgends ein Weg nach oben.  
+[curious] Meteora, Griechenland. Sechs Klöster, hunderte Meter über dem Tal.  
+Such mal den Eingang. Keine Straße, keine Brücke, keine Treppe. Jahrhundertelang war das Absicht.  
+Der einzige Weg nach oben: ein Netz am Seil. Von Hand hochgekurbelt – mit Mehl, Wein und Besuchern darin.  
+Ersetzt wurde das Seil, wenn es riss – sagt die Überlieferung. Stufen gibt es erst seit den neunzehnhundertzwanzigern.  
+Die Winde steht noch. Heute fährt damit nur noch der Einkauf nach oben.
+
+*Wörter 82 · ca. 34 s (vorläufig) · Endkarte: ALTE WELTEN · Reisewissen #10 → Freitag: Die Hafenstadt, die das Meer verloren hat*
 
 ## H31 · Mo 18.01.2027 · Fakt oder Fake? #11 · Wenn Fische Strand machen
 
-Fakt oder Fake: Auf den Malediven machen Fische Sand?  
-[curious] Das ist ein Papageifisch – das Knacken am Riff ist sein Gebiss am Korallenkalk.  
-Er raspelt Kalk ab, verdaut das Essbare – der Rest kommt als feiner weißer Sand wieder raus.  
-Fakt – zumindest dort, wo man es gemessen hat: An der Insel Vakkaru stammten über fünfundachtzig Prozent des neuen Riffsands von Papageifischen.  
-Ohne gesunde Papageifisch-Bestände, so die Forscher, fehlt solchen Inseln der Sandnachschub.  
-Nächsten Montag: Warum Griechenland einen Strand verlängern will – für ein Wrack.
+*Struktur D · Natur-Wunder · ca. 24 s*
 
-*Wörter 81 · ca. 33 s (vorläufig)*
+Hörst du das Knacken? Das ist ein Fisch, der Strand macht.  
+[curious] Ein Papageifisch. Sein Gebiss ist ein Schnabel. Er beißt Stücke aus der Koralle.  
+Das Essbare verdaut er. Der Rest kommt hinten wieder raus – als feiner, weißer Sand.  
+Forscher aus Exeter haben es auf den Malediven gemessen: Der meiste neue Sand am Riff kam vom Papageifisch.  
+Der Sand unter deinem Handtuch? Fischwerk. Fakt.
+
+*Wörter 63 · ca. 26 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #11 → Montag: Ein Strand soll wachsen – für ein Wrack*
 
 ## H32 · Mi 20.01.2027 · Was dir keiner sagt #11 · Das Drehkreuz auf der Seceda
 
-Sommer zweitausendfünfundzwanzig: Auf einem der bekanntesten Dolomiten-Wege stand plötzlich ein Drehkreuz.  
-[curious] Bauern verlangten fünf Euro pro Person – als Protest.  
-Die Seceda-Wiesen sind Almen, die Bauern mähen und pflegen – und an Spitzentagen kamen rund achttausend Menschen.  
-Der Tourismusverband nannte es eine private Aktion; Land und Gemeinde wollten es weg.  
-Für die Seilbahn wird inzwischen eine Tagesgrenze diskutiert.  
-Heißt für dich: auf dem Weg bleiben, Müll mitnehmen, Seilbahn im Sommer vorab reservieren.  
-Nächsten Mittwoch: die Algarve-Höhle, in der du nicht an Land darfst.
+*Struktur E · Regeln & Realität · ca. 26 s*
 
-*Wörter 81 · ca. 33 s (vorläufig)*
+Du denkst, das ist freie Natur. In Wahrheit ist es jemandes Wiese.  
+[curious] Die Seceda, Dolomiten. Schiefe Zacken, grüne Wiese – das Foto.  
+Sommer zweitausendfünfundzwanzig: achttausend Menschen an einem Tag, über Wiesen, die Bauern pflegen.  
+Vier von ihnen bauten ein Drehkreuz auf den Weg: fünf Euro Eintritt. Als Protest.  
+Gemeinde: keine Genehmigung. Land: Krisengipfel. Die Seilbahn vergibt im Sommer nur Zeitfenster.  
+Also: vorab reservieren, auf dem Weg bleiben. Ihre Wiese.
 
-## H33 · Fr 22.01.2027 · Reisewissen in 30 Sekunden #11 · Die Hafenstadt, die das Meer verloren hat
+*Wörter 68 · ca. 28 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #11 → Mittwoch: Die Höhle, in der du nicht an Land darfst*
 
-Früher lag hier ein Hafen. Heute ist das Meer rund sechs Kilometer weg.  
-[curious] Ephesus war eine der großen Hafenstädte der Antike.  
-Dann brachte der Fluss Küçük Menderes über Jahrhunderte Schlamm und Sand – der Hafen verlandete, die Küste wanderte nach Westen.  
-Die Stadt verlor ihren Handel – und ihre Bedeutung.  
-Heute liegen die Ruinen laut türkischen Behörden rund sechs Kilometer vom Meer.  
-Tipp: Lauf die Hafenstraße bis zum Ende – wo heute Felder sind, lagen die Schiffe.  
-Nächsten Freitag: Warum Agriturismo per Gesetz Bauernhof heißt.
+## H33 · Fr 22.01.2027 · Reisewissen #11 · Die Hafenstadt, die das Meer verloren hat
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+*Struktur A · Alte Welten · ca. 34 s*
+
+Eine Prachtstraße zum Hafen. Nur: Der Hafen ist weg. Das Meer auch.  
+[curious] Ephesos, Türkei. Weltstadt der Antike: Marmorstraßen, die Celsus-Bibliothek, ein Theater für Zehntausende.  
+Hier, am Ende der Hafenstraße, legten die Schiffe an. Heute: Felder.  
+Der Fluss Küçük Menderes brachte Jahrhundert für Jahrhundert Schlamm. Der Hafen verlandete, das Meer rückte ab – Kilometer um Kilometer.  
+Keine Armee hat diese Stadt besiegt. Ein Fluss hat sie erstickt.  
+Heute: rund sechs Kilometer bis zum Meer. Lauf die Hafenstraße bis zum Ende – dann verstehst du es.  
+Freitag: das Hotel, dem der Gletscher davonlief.
+
+*Wörter 89 · ca. 36 s (vorläufig) · Endkarte: ALTE WELTEN · Reisewissen #11 → Freitag: Das Hotel, dem der Gletscher davonlief*
 
 ## H34 · Mo 25.01.2027 · Fakt oder Fake? #12 · Ein Strand soll wachsen – für ein Wrack
 
-Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack?  
-[curious] Das Wrack liegt seit neunzehnhundertachtzig in dieser Bucht – nur noch rund fünfundzwanzig Meter vom Wasser.  
-Seitdem heißt die Bucht Navagio – Schiffswrack. Die Erosion setzt ihm zu.  
-Deshalb: Fakt – als Plan. Mit rund fünfundvierzigtausend Kubikmetern Kies soll der Strand dreißig Meter Richtung Meer wachsen.  
-Betreten darfst du ihn trotzdem nicht: Steinschlaggefahr, gesperrt – zuletzt auch vom Wasser aus. Der Blick von oben bleibt.  
-Nächsten Montag: Die Sonne malt eine Acht in Palmas Kathedrale.
+*Struktur B · Natur-Wunder · ca. 30 s*
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+Du buchst Zakynthos für dieses Bild. Und darfst nur von oben schauen.  
+[curious] Das Wrack liegt seit neunzehnhundertachtzig im Sand. Das Foto Nummer eins der Insel.  
+Nur: Die Klippe bröckelt. Der Strand ist seit Jahren gesperrt, zuletzt die ganze Bucht.  
+Trotzdem wird geplant: dreißig Meter mehr Strand, aufgeschüttet aus Kies. Damit das Wrack nicht ins Meer rutscht.  
+Ob der Kies bleibt, bezweifeln Fachleute. Von oben siehst du trotzdem alles.
+
+*Wörter 68 · ca. 28 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #12 → Montag: Malt die Sonne eine Acht in Palmas Kathedrale?*
 
 ## H35 · Mi 27.01.2027 · Was dir keiner sagt #12 · Die Höhle, in der du nicht an Land darfst
 
-Benagil: Du kannst hineinfahren – aber nicht an Land gehen.  
-[curious] Seit August zweitausendvierundzwanzig gelten für die Höhle an der Algarve neue Regeln der Hafenbehörde.  
-Kein Anlanden am Strand in der Höhle. Kein Hineinschwimmen, auch nicht mit Schwimmhilfe. Kajak nur mit Guide.  
-Rein geht es mit lizenzierter Bootstour – oder geführter Kajak- oder SUP-Tour.  
-Kostenlos: Vom Küstenwanderweg schaust du von oben durch das Loch in der Decke – am besten um die Mittagszeit.  
-Nächsten Mittwoch, Staffelfinale: der Pragser Wildsee im Sommer.
+*Struktur E · Regeln & Realität · ca. 26 s*
 
-*Wörter 77 · ca. 31 s (vorläufig)*
+Ein Loch in der Klippe – und darunter der Strand, den du nicht betreten darfst.  
+[excited] Von innen ein Dom aus Sandstein, das Licht fällt mittags auf den Sand.  
+Seit August zweitausendvierundzwanzig gilt: kein Anlanden, kein Hineinschwimmen, Kajak nur mit Guide.  
+Der Grund: zu viele Boote, zu viele Schwimmer dazwischen.  
+Rein kommst du mit lizenzierter Bootstour. Oder oben zum Loch, und schau hinunter.
 
-## H36 · Fr 29.01.2027 · Reisewissen in 30 Sekunden #12 · Agriturismo: per Gesetz an einen Hof gebunden
+*Wörter 61 · ca. 25 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #12 → Mittwoch: Pragser Wildsee – im Sommer nur mit Reservierung*
 
-Pool, Weinprobe, Frühstück vom Hof – und per Gesetz ein Bauernhof.  
-[curious] Agriturismo in Italien ist kein Marketingwort, sondern ein Gesetz von zweitausendsechs.  
-Betreiber muss Landwirt sein, die Landwirtschaft bleibt Haupttätigkeit – Gäste kommen dazu, nicht umgekehrt.  
-Wie viele Betten oder eigene Produkte, legen die Regionen fest.  
-Heißt für dich: Hinter jedem Agriturismo steht ein Hof – vom einfachen Betrieb bis zum Komforthaus mit Pool.  
-Ein Landhotel ohne Hof darf sich so nicht nennen.  
-Nächsten Freitag, Staffelfinale: Bad Gasteins Grandhotels nach zwanzig Jahren Leerstand.
+## H36 · Fr 29.01.2027 · Reisewissen #12 · Das Hotel, dem der Gletscher davonlief
 
-*Wörter 80 · ca. 33 s (vorläufig)*
+*Struktur C · Hotel-Legenden · ca. 36 s*
+
+Ein Hotel an der Serpentine – gebaut für einen Blick, den es nicht mehr gibt.  
+[serious] Achtzehnhundertzweiundachtzig baut die Hoteliersfamilie Seiler das Belvédère direkt an den Rhonegletscher. Das Eis liegt gegenüber.  
+Jeden Sommer schlägt man eine Grotte ins Eis. Neunzehnhundertvierundsechzig jagt James Bond in Goldfinger die Kurven hinauf.  
+Dann zieht sich der Gletscher zurück. Wo neunzehnhundertachtzig noch Eis vor dem Hotel lag, liegt heute ein See. Das Eis: hunderte Meter weiter oben.  
+Zweitausendfünfzehn schließt das Belvédère. Die Kurve ist geblieben – und das Hotel, als Denkmal für einen Blick.
+
+*Wörter 86 · ca. 35 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #12 → Freitag: Bad Gastein – Grandhotels, die fast 20 Jahre leer standen*
 
 ## H37 · Mo 01.02.2027 · Fakt oder Fake? #13 · Am 2. Februar malt die Sonne eine Acht in Palmas Kathedrale
 
-Am Dienstag, zweiten Februar, malt die Sonne eine Acht in diese Kathedrale – und dann erst wieder im November.  
-[curious] La Seu, die Kathedrale von Palma.  
-Kurz nach Sonnenaufgang fällt Licht durch die große Rosette im Osten …  
-… und wirft einen Lichtkreis genau unter die Rosette gegenüber – zusammen eine Acht.  
-Das klappt nur am zweiten Februar und elften November, früh morgens, bei klarem Himmel.  
-Also: Fakt. Am Dienstag früh in Palma? Dann hin da.  
-Das war Staffel eins – welche Folge war deine liebste?
+*Struktur A · Natur-Wunder · ca. 30 s*
 
-*Wörter 80 · ca. 33 s (vorläufig)*
+Fakt oder Fake: Die Kathedrale von Palma hat eine zweite Rosette aus Licht.  
+[curious] Morgen früh, kurz nach acht, stehen Hunderte im dunklen Kirchenschiff und schauen auf eine leere Wand.  
+Dann geht hinter ihnen die Sonne auf – genau in der Achse der großen Ostrosette.  
+Fakt. Das Licht fällt durch tausend bunte Scheiben – und zeichnet eine zweite Rosette genau unter die Rosette gegenüber. Eine Acht.  
+Nur zweimal im Jahr, nur bei klarem Himmel.  
+Dreizehn Wochen Fakt oder Fake – welche hast du falsch getippt?
+
+*Wörter 81 · ca. 33 s (vorläufig) · Endkarte: NATUR-WUNDER · Fakt oder Fake? #13 → 13 Wochen, 13 Fragen – alle im Profil*
 
 ## H38 · Mi 03.02.2027 · Was dir keiner sagt #13 · Pragser Wildsee: im Sommer nur mit Reservierung
 
-Seit einigen Jahren kommst du hier im Hochsommer tagsüber nur mit Reservierung ins Tal.  
-[curious] Der Pragser Wildsee in Südtirol.  
-Zweitausendsechsundzwanzig galt: Juli bis Mitte September, neun bis sechzehn Uhr nur mit Online-Reservierung.  
-Ohne Auto-Reservierung: zu Fuß, Rad oder Bus – der wird ebenfalls gebucht.  
-Vor neun und nach sechzehn Uhr ging es ohne Reservierung – und morgens ist das Licht am schönsten.  
-Regeln für zweitausendsiebenundzwanzig: vor der Reise auf der offiziellen Seite prüfen.  
-Das war Staffel eins. Welche Regel sollen wir als Nächstes erklären?
+*Struktur E · Regeln & Realität · ca. 28 s*
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+Spiegelglatt, Boote, Berge – und ab neun Uhr eine Schranke.  
+[curious] Morgens um sieben gehört der See dir. Das Bootshaus, das Licht, kein Mensch auf dem Steg.  
+Ab neun ist Schluss mit einfach hinfahren: Im Sommer kommst du tagsüber nur mit Online-Reservierung ins Tal. Auch mit dem Bus.  
+Für den See selbst: kein Eintritt. Das Hotel am Ufer steht seit achtzehnhundertneunundneunzig hier – länger als jede Regel.  
+Also: früh kommen. Das beste Licht ist sowieso vor neun.
 
-## H39 · Fr 05.02.2027 · Reisewissen in 30 Sekunden #13 · Bad Gastein: Grandhotels, die fast 20 Jahre leer standen
+*Wörter 74 · ca. 30 s (vorläufig) · Endkarte: REGELN & REALITÄT · Was dir keiner sagt #13 → 13 Regeln, die im Katalog fehlen – alle im Profil*
 
-Zwei Grandhotels mitten im Ort – fast zwanzig Jahre leer.  
-[curious] Bad Gastein im Salzburger Land: Belle-Époque-Fassaden am Wasserfall, einst Kurort der Kaiser.  
-Doch Straubinger und Badeschloss am zentralen Platz standen fast zwei Jahrzehnte leer.  
-Zweitausendachtzehn kaufte die Hirmer-Gruppe den Komplex – drei Jahre Sanierung.  
-Seit Herbst zweitausenddreiundzwanzig sind beide wieder offen – das Badeschloss stammt im Kern von siebzehnhunderteinundneunzig.  
-Heißt: Bad Gastein ist zurück – Thermalwasser, Skigebiet, und du kannst wieder im Grandhotel schlafen.  
-Das war Staffel eins – welche Frage sollen wir in Staffel zwei beantworten?
+## H39 · Fr 05.02.2027 · Reisewissen #13 · Bad Gastein: Grandhotels, die fast 20 Jahre leer standen
 
-*Wörter 82 · ca. 34 s (vorläufig)*
+*Struktur C · Hotel-Legenden · ca. 40 s*
+
+Ein Wasserfall mitten im Ort – und daneben Hotels, in denen zwanzig Jahre niemand schlief.  
+[serious] Bad Gastein, Salzburger Land. Kaiser Wilhelm kam rund zwanzig Mal zur Kur, immer ins Hotel Straubinger.  
+Achtzehnhundertfünfundsechzig teilten Preußen und Österreich hier sogar Schleswig und Holstein unter sich auf.  
+Dann der lange Stillstand: Straubinger und Badeschloss am zentralen Platz, fast zwanzig Jahre leer, die Fenster blind.  
+Zweitausendachtzehn kauft eine Münchner Unternehmerfamilie den ganzen Platz. Seit Herbst zweitausenddreiundzwanzig brennt in beiden Häusern wieder Licht.  
+Der Wasserfall rauscht wie immer. Nur die Fenster schauen wieder zurück.
+
+*Wörter 88 · ca. 36 s (vorläufig) · Endkarte: HOTEL-LEGENDEN · Reisewissen #13 → 13 Wochen, 39 Orte – die ganze Reihe im Profil*

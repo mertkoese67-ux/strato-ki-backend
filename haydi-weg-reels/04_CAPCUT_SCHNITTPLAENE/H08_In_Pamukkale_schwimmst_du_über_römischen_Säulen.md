@@ -1,0 +1,63 @@
+# CapCut-Schnittplan H08 · In Pamukkale schwimmst du über römischen Säulen
+
+Mi 25.11.2026 · Was dir keiner sagt #3 · Türkei (Pamukkale, Antiker Pool) · Themenwelt Regeln & Realität · Struktur E (Außergewöhnliches Erlebnis → überraschender Haken)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:34:15 (34.5 s, Ziel ca. 30 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** In Pamukkale schwimmst du im warmen Wasser über umgestürzten römischen Säulen.  
+**Musik:** mystisch-warm, 85 BPM, Pad + leiser Beat, Bruch beim Haken, endet auf dem letzten Wort; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext, nicht gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Antikes Becken: umgestürzte Säulen unter klarem Thermalwasser | Envato Elements | „Cleopatra's Ancient Pool - Pamukkale - Turkey.“ (bodrumsurf) · „Cleopatra's Pool In Antique Hierapolis, Pamukkale, Denizli, Turkey“ (AndrewLark) | **gefunden** | Suche „pamukkale antique pool“ / „pamukkale cleopatra pool columns“: Ort und Becken im Titel bestätigt; zusätzlich „People Swimming in a Thermal Pool with Ruins“ (anilelci) – Personen prüfen. Pexels „hierapolis pool“: kein Becken-Clip (nur Theater/Ruinen) → Pexels nicht gefunden. |
+| Story | Travertin-Terrassen aus der Luft im Morgenlicht, Aufstieg zum Hierapolis-Plateau | Pexels | 34940213 | **gefunden** | Suche „pamukkale“: 34940213 „aerial view of pamukkale hot springs at dawn“, 7038064 „drone footage of travertine terraces“, 34940178 „aerial view of ancient hierapolis ruins at sunset“; Envato: „Aerial View of Pamukkale Travertines at Golden Hour“ (stockfilmstudio). |
+| Reveal | Leere weiße Terrassenbecken (Baden verboten) + Kalk-Textur Nah | Pexels | 6047897 | **gefunden** | 6047897 „view of pamukkale thermal pools“, 6047896 „flowing waters of pamukkale thermal pools“, 7042191 „view of the water terraces“, 7045892 „travertine terraces under clear blue sky“ – Clips ohne Personen in Schuhen auswählen. |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:04:19 | 4.6 | hook | In Pamukkale schwimmst du im warmen Wasser über umgestürzten römischen Säulen. | Blick knapp über der Wasseroberfläche des Antiken Beckens: kanneliert e Marmorsäulen liegen unter glasklarem, leicht sprudelndem Thermalwasser, Sonnenlicht bricht sich; keine Personen groß | Antikes Becken (Kleopatra-Pool), Hierapolis/Pamukkale, Denizli | Bodenkamera knapp über Wasser / Halb-Unterwasser | Nah → Halbtotale | langsamer Push-in über die Säulen | Vormittag, Sonne im Wasser, Lichtflecken | cleopatra ancient pool pamukkale, hierapolis antique pool columns underwater, thermal pool with ruins pamukkale | Hard Cut (Kaltstart ohne Logo) | keiner | Hook-Overlay: SCHWIMMEN ÜBER *SÄULEN* (gelb: Säulen) | mystisch-warm, 85 BPM, Pad | Wasser sprudelt leise | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:04:19 | 00:00:08:26 | 4.2 | body | [curious] Oben über den weißen Terrassen liegt Hierapolis, eine antike Kurstadt. | Drohne steigt von den weißen Terrassen hinauf zum Plateau: Theater und Ruinen von Hierapolis erscheinen, Terrassen unten weiß | Pamukkale-Terrassen → Hierapolis-Plateau | Drohne, Aufstieg | Totale | Aufstieg mit Tilt | Morgen, weiß/goldenes Licht | aerial view of ancient hierapolis ruins at sunset, pamukkale travertine aerial sunrise, hierapolis amphitheater aerial | Hard Cut auf „Oben“ | Schnitt | Label: „Hierapolis – antike Kurstadt“ | Pad, Beat setzt leise ein | Wind | 2 Zeilen, „Hierapolis“ gelb |
+| 3 | 00:00:08:26 | 00:00:13:28 | 5.0 | body | Ein Erdbeben warf ihre Säulen ins Thermalbecken. Niemand hat sie je herausgeholt. | Säulenreste am Beckenrand, dann Blick ins Wasser auf die liegenden Säulen; kurzes Bildwackeln (0,3 s) als Erdbeben-Akzent | Antikes Becken, Hierapolis | Bodenkamera, leicht erhöht | Halbtotale → Nah | Schwenk vom Rand ins Wasser | Vormittag | cleopatra pool antique hierapolis columns, ancient roman ruins in hierapolis, ancient columns underwater pool | Hard Cut | Schnitt | Stempel „Erdbeben“ (kurz, zitternd) | tiefer Akzent beim Beben | kurzes Grollen, Steinknirschen | 2 Zeilen, „Erdbeben“ gelb |
+| 4 | 00:00:13:28 | 00:00:18:29 | 5.0 | reveal | Der Haken: In den weißen Becken unten ist Baden verboten. Schuhe auch. | Reveal des Hakens: leere Terrassenbecken ohne Menschen, Wasser spiegelt Himmel; zwei Icons nacheinander (Schwimmer durchgestrichen · Schuh durchgestrichen) | Travertin-Terrassen Pamukkale (natürliche Becken) | Drohne tief / Bodenkamera | Halbtotale | statisch, Icons blenden ein | Vormittag, weiß | view of pamukkale thermal pools, pamukkale terraces no people, flowing waters of pamukkale thermal pools | Hard Cut auf „Der Haken“ | Schnitt | Icons: BADEN ✗ · SCHUHE ✗ (eigene Grafik) | Beat bricht kurz | zwei UI-Klicks | 2 Zeilen, „verboten“ gelb |
+| 5 | 00:00:18:29 | 00:00:26:02 | 7.1 | body | Barfuß über warmen Kalk, der sich wie nasser Zucker anfühlt. Schwimmen gehst du oben, im antiken Becken. | Nahaufnahme Kalkoberfläche mit dünnem Wasserfilm und Rillen (Textur „nasser Zucker“); dann Pfeil-Grafik nach oben und Schnitt zurück ins Antike Becken (Totale, Personen nur klein) | Travertinweg Pamukkale → Antikes Becken | Bodenkamera tief → Bodenkamera erhöht | Nah → Totale | Slider über Kalk → statisch | Vormittag, Sonne | pamukkale travertine close up water texture, woman steps in water pamukkale terrace, people swimming in a thermal pool with ruins | Hard Cut | Schnitt | Pfeil „nach oben: Antikes Becken (Extra-Ticket)“ | Beat zurück, warm | Wasser rinnt | 2 Zeilen, „oben“ gelb |
+| 6 | 00:00:26:02 | 00:00:31:15 | 5.5 | body | Kleopatra soll hier gebadet haben. Belegt ist das nicht. Die Säulen sind echt. | Säulen unter Wasser in Nahaufnahme, Lichtbrechung, Luftbläschen steigen auf; Bild hält | Antikes Becken, Hierapolis | Halb-Unterwasser-Optik | Nah | statisch | Vormittag, Lichtflecken | ancient columns underwater pool close, cleopatra pool pamukkale columns | Hard Cut | Schnitt | Overlay „Legende“ (kursiv) → „echt“ (gelb) auf dem letzten Wort | ruhig, endet auf dem letzten Wort | Bläschen leise | 2 Zeilen, „echt“ gelb |
+| 7 | 00:00:31:15 | 00:00:34:15 | 3.0 | end | – | Endkarte Themenwelt REGELN & REALITÄT: Säulen-Standbild mit 70 % Navy-Overlay, Logo weiß, Teaser als Grafiktext | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | REGELN & REALITÄT · Was dir keiner sagt #3 → Mittwoch: Meerseite heißt nicht Meerblick | Outro-Akzent | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Antikes Becken mit Säulen (Hook, Szene 3, 6)** – Envato Elements „Cleopatra's Ancient Pool - Pamukkale - Turkey.“ (bodrumsurf) · Suche: cleopatra ancient pool pamukkale · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,3,6,7
+- **Antikes Becken Alternative** – Envato Elements „Cleopatra's Pool In Antique Hierapolis, Pamukkale, Denizli, Turkey“ (AndrewLark) · Suche: cleopatra pool antique hierapolis · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,5
+- **Schwimmer im Thermalbecken mit Ruinen (Personen klein?)** – Envato Elements „People Swimming in a Thermal Pool with Ruins“ (anilelci) · Suche: thermal pool ruins swimming · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Terrassen Drohne Morgen** – Pexels 34940213 · Suche: aerial view of pamukkale hot springs at dawn · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Hierapolis-Ruinen Drohne** – Pexels 34940178 · Suche: aerial view of ancient hierapolis ruins at sunset · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Terrassen Drohne** – Pexels 7038064 · Suche: drone footage of travertine terraces · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2,7
+- **Leere Terrassenbecken** – Pexels 6047897 · Suche: view of pamukkale thermal pools · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Fließendes Wasser Terrassen** – Pexels 6047896 · Suche: flowing waters of pamukkale thermal pools · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4,5
+- **Kalk-Textur Nah** – Pexels 7042191 · Suche: view of the water terraces · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Icons, Pfeil, Stempel** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 3,4,5
+- **Endkarte Regeln & Realität** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 7
+
+## Fakten
+
+- ✅ Schuhe (auch Sandalen/Wasserschuhe) müssen vor den Travertinen ausgezogen werden; Baden in den natürlichen weißen Becken verboten; Schwimmen nur im Antiken Becken (Kleopatra-Pool) gegen Aufpreis (guidedistanbultours.com (Pamukkale Visiting Rules 2026), excursionmania.com)
+- ✅ Die Säulen im Antiken Becken stürzten bei einem Erdbeben ins Wasser und wurden nie entfernt; die meisten Quellen datieren das Beben ins 7. Jahrhundert (finestresullarte.info, hotspringsguides.com, matadornetwork.com)
+- ✅ Kleopatra-Besuch ist Legende, kein Beleg (finestresullarte.info)
+- ✅ Hierapolis war eine antike Kur-/Thermalstadt über den Terrassen (whc.unesco.org (Hierapolis-Pamukkale))
+- ⚠️ prüfen: Erdbeben-Datum nicht im Sprechtext (Quellen nennen 7. Jh., einzelne 692 n. Chr.) – Caption nur „vor über tausend Jahren“
+- ⚠️ prüfen: „römische Säulen“: Portikus/Apollon-Tempel-Zuordnung bei der Museumsverwaltung oder UNESCO-Dossier bestätigen; sonst „antike Säulen“ sprechen
+- ⚠️ prüfen: Offizielle Regelseite (Denizli-Museumsverwaltung) öffnen; Jahr des Badeverbots (1996/1997) bleibt bewusst draußen
+- ⚠️ prüfen: Keine Clips mit Menschen in Schuhen auf den Terrassen; Personen im Becken nur klein
+
+Quellen: guidedistanbultours.com · finestresullarte.info · hotspringsguides.com · whc.unesco.org
+
+## Vor Posting prüfen
+
+- [ ] Säulen-Zuordnung (römisch/antik) geklärt
+- [ ] Regelseite der Museumsverwaltung geöffnet
+- [ ] Keine Schuhe auf Terrassen im Material
+- [ ] Personen im Becken nur klein
+- [ ] Hook ohne Ton verständlich (Säulen unter Wasser + Overlay)

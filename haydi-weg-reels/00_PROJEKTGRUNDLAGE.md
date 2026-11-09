@@ -157,3 +157,12 @@ Nutzerdaten im Browser (IndexedDB `haydiweg-reelstudio`, localStorage `hw-reelst
 6. Kalender, KPI, Scorecards, Änderungsprotokoll, offene Punkte, Bedienungsanleitung, ZIP.
 
 Alle Zahlen, die Einschätzungen sind (Scores, Hook-Noten, Sekunden ohne Audio, KPI-Szenarien), sind als Einschätzung gekennzeichnet. Erfolgsversprechen werden nicht gemacht.
+
+## 8 Zweiter Durchgang: Content-Upgrade v3 (09.11.2026, abends)
+
+- **Auftrag:** „Ultra Content Upgrade – von 7,6/10 zum 9+/10“. Die 51 Specials gehören nicht dazu und blieben unverändert.
+- **Basis:** Das im Auftrag genannte „haydi-weg Reel-Studio_Final(1).html“ lag in dieser Umgebung **nicht** vor (weder im Repository noch im Arbeitsverzeichnis). Grundlage ist deshalb das v38-Studio dieser Übergabe, das selbst auf dem byteidentisch gesicherten v37 aufsetzt. Frühere Chats waren weiterhin nicht zugänglich.
+- **Backups vor der Änderung:** `backup/reel-studio-v38-vor-upgrade.html`, `backup/reels_hauptplan_v2-vor-upgrade.json` (zusätzlich zu `backup/reel-studio-v37-original.html`). Nichts wurde unwiederbringlich gelöscht; v2-Daten und v38-Studio liegen weiter im Repository.
+- **Ergebnis:** 6 Themen ersetzt (03, 12, 20, 24, 27, 36), 12 radikal umgebaut, 21 behalten und neu geschrieben; 195 neue Hooks mit vier Komponenten; 117 Schlüsselaufnahmen mit Materialstatus aus Suchseiten-Recherche; 5 Storytelling-Strukturen; 4 Themenwelten; Studio v39 mit Playwright-Tests (37 Prüfungen). Details: `15_UPGRADE_AENDERUNGEN_ALT_NEU.md`, `16_QUALITAETSBEWERTUNG_KRITISCH.md`, `17_PRODUKTIONSPRIORITAETEN_1-12.md`.
+- **Arbeitsweise:** Spezifikation und Generatorkern zentral (`SPEC_V3`, `build.py`, `kalender.py`), die acht Inhaltsmodule parallel geschrieben, jedes mit eigener Web-Recherche (Fakten mit Quelle, Stock über Pexels-/Envato-Suchseiten); automatischer Lint (Floskeln, Ziffern, Längen, Hook-Komponenten, Sieger-Konsistenz, Preisangaben), danach Gesamtprüfung (Strukturwechsel, Einstiegsvielfalt, Längenstreuung) und Studio-Tests.
+- **Keine Käufe, keine Veröffentlichungen, kein produktives Deployment:** Das v38-Artefakt dieser Übergabe wurde auf v39 aktualisiert (gleiche private Adresse); das ursprüngliche v37-Artefakt blieb unangetastet.

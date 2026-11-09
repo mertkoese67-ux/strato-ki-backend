@@ -1,0 +1,60 @@
+# CapCut-Schnittplan H20 · Santorinis begehrteste Suiten waren Armenhöhlen
+
+Mi 23.12.2026 · Was dir keiner sagt #7 · Griechenland (Santorini, Oia) · Themenwelt Alte Welten · Struktur E (Außergewöhnliches Erlebnis → überraschender Haken)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:33:09 (33.3 s, Ziel ca. 30 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Die begehrtesten Zimmer Santorinis sind Höhlen.  
+**Musik:** elegant-warm 85 BPM, Ausdünnen bei „niemand“, Stopp beim Erdbeben-Stempel, warme Auflösung; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext, nicht gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Infinity-Pool an der Caldera-Kante in der Dämmerung | Pexels | 32131896 (elegant-santorini-infinity-pool-overlooking-caldera); Reserve 38299648, 38299702 | **gefunden** | Suche „santorini infinity pool“ 09.11.: 3 Pool-Treffer mit Santorini/Ägäis im Slug; Personen auf Detailseite prüfen. |
+| Story | Innenraum Höhlensuite mit gewölbter Decke und Tür zur Caldera | Envato Elements | „Walkthrough of the heart of Santorini cave cliffside view, Greece“ (BlackBoxGuild); „Cliffside villas with caldera view, Oia, Santorini“ (daniel_atw) | **verfügbar, ungeprüft** | Suche „santorini cave hotel“ 09.11.: Treffer nennen Höhle/Cliffside, ob ein Innenraum enthalten ist, zeigt erst die Vorschau. Alternative: Kamerafahrt durch eine Höhlentür von außen (Pexels 6250832 house-near-a-cliff, 6539965 buildings-in-oia). |
+| Reveal | Oia nach dem Erdbeben 1956 (Archivfoto) bzw. Ruinen am Kastell von Oia | Eigene Grafik | Historisches Foto – Rechte vor Nutzung klären (Wikimedia Commons/Public Domain prüfen); Drohnen-Alternative Kastell-Ruinen | **verfügbar, ungeprüft** | Keine Stocksuche liefert 1956; Ruinen am Kastell sind in Oia-Drohnenflügen enthalten (Pexels oia flight 20663589/20663590), aber nicht als solche betitelt. Ohne Archivfoto: Standbild der Ruinen mit Stempel „1956“. |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:02:18 | 2.6 | hook | Die begehrtesten Zimmer Santorinis sind Höhlen. | Infinity-Pool an der Caldera-Kante in der blauen Stunde, Wasserkante verschmilzt mit dem Meer, weiße Kuppeln angeschnitten; keine Personen | Oia/Imerovigli, Santorini (Caldera-Kante) | Bodenkamera auf Poolhöhe, leicht erhöht | Totale | langsamer Slider nach links | Dämmerung, Pool leuchtet türkis, Himmel orange-blau | santorini infinity pool caldera, santorini pool sunset cliff, oia pool dusk | Hard Cut (Kaltstart ohne Logo) | keiner | Hook-Overlay: SANTORINIS *HÖHLEN*-SUITEN (2 Zeilen) | elegant, warmes Pad, 85 BPM | leises Wasser, Wind | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:02:18 | 00:00:07:07 | 4.6 | body | [curious] Weiß gewölbte Decke, Bett im Fels, vor der Tür die Caldera. | Innenraum einer Höhlensuite: weiße gewölbte Decke, Bett in der Nische, offene Tür mit Blick auf die Caldera (Clip nur, wenn Innenraum belegt; sonst Kamerafahrt durch eine Höhlentür von außen) | Höhlensuite, Oia (Gattung, kein Hotelname) | Bodenkamera, Gimbal | Halbtotale → Totale durch die Tür | Fahrt von innen nach außen | weiches Innenlicht, grelles Außenlicht | santorini cave house interior, santorini cave suite vaulted ceiling, oia cave hotel room door view | Hard Cut | Schnitt | keins | elegant, ruhig | – | 2 Zeilen, „Caldera“ gelb |
+| 3 | 00:00:07:07 | 00:00:11:14 | 4.2 | body | Was die Kataloge weglassen: Ausgesucht hat sich diese Höhlen niemand. | Harter Wechsel: grober, unverputzter Bimsstein einer alten Höhlenwand, Werkzeugspuren, Staub im Gegenlicht | Oia, ältere unrestaurierte Höhle / Bimssteinhang | Bodenkamera Nah | Nah (Textur füllt das Bild) | langsamer Push-in | hart, staubig, Gegenlicht | santorini pumice rock wall close, volcanic tuff wall texture, oia old cave house abandoned | Hard Cut (Kontrast Glanz → Stein) | Schnitt | „niemand“ gelb klein | Musik dünnt aus, nur Pad | Staub/Wind leise | 2 Zeilen, „niemand“ gelb |
+| 4 | 00:00:11:14 | 00:00:18:05 | 6.7 | reveal | Arme Familien und Seeleute gruben sie in den weichen Bimsstein. Für ein Haus fehlte das Geld. | Eigene Grafik (gekennzeichnet): Querschnitt des Caldera-Hangs, eine Höhle wird Schicht für Schicht in den Bimsstein „gegraben“; danach Drohne über die weißen Kuppeln, die aus dem Hang wachsen | Oia, Caldera-Hang | Grafik → Drohne frontal am Hang | Vollbild → Totale | Grafik-Animation → langsamer Aufstieg entlang des Hangs | Markenfarben → Vormittag | eigene Grafik Querschnitt Höhle, oia cliff houses drone, santorini caldera cliff aerial | Grafik-Cut | Schnitt | „aus Not gegraben“ · Karte „Grafik“ | ernst, tiefer Puls | Grabgeräusch stilisiert leise | 2 Zeilen, „Bimsstein“ gelb |
+| 5 | 00:00:18:05 | 00:00:23:06 | 5.0 | body | [serious] Neunzehnhundertsechsundfünfzig zerstörte ein Erdbeben die Fassaden von Oia. Die Höhlen dahinter hielten. | Historisches Foto Oia nach 1956 (nur mit geklärten Rechten, Public Domain/Commons prüfen) – sonst: Drohne über die Ruinen der alten Kapitänshäuser am Kastell von Oia, Standbild mit Stempel „1956“ | Oia, Kastell/Ruinenzone | Archivfoto / Drohne | Totale | Ken-Burns bzw. langsamer Orbit | Archiv s/w bzw. Mittag, hart | oia castle ruins drone, oia ruins old captain houses, santorini earthquake 1956 archive photo | Hard Cut | Schnitt | Stempel „1956“ · „Fassaden zerstört · Höhlen hielten“ | Musikstopp 1 s, dann leiser Puls | tiefer Rumble beim Stempel | 2 Zeilen, „1956“ gelb |
+| 6 | 00:00:23:06 | 00:00:30:09 | 7.1 | body | Heute sind genau sie die gefragtesten Zimmer der Insel. Je ärmer der Bauherr, desto begehrter die Aussicht. | Zurück zum Caldera-Blick: Höhlenterrasse im Abendlicht, Sonne sinkt hinter Thirasia; Split kurz: alte Höhlenwand links / weiße Suite rechts | Oia, Caldera-Terrasse | Bodenkamera → Split | Totale → 50/50 | Schwenk zur Sonne → Wipe | Sonnenuntergang | oia sunset caldera view terrace, santorini sunset white houses | Hard Cut → Split | Wipe | Labels: „damals Not“ / „heute Sehnsucht“ | Auflösung, warm, öffnend | Akkord | 2 Zeilen, „begehrter“ gelb |
+| 7 | 00:00:30:09 | 00:00:33:09 | 3.0 | end | – | Endkarte Alte Welten: Navy, gelbe Linie, Logo weiß; „ALTE WELTEN · Was dir keiner sagt #7“; Teaser „Mittwoch: Im Riad hast du keinen Ausblick – mit Absicht“; Hintergrund eingefrorene Caldera-Totale 70 % Navy | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | ALTE WELTEN · WAS DIR KEINER SAGT #7 → Mittwoch: Im Riad hast du keinen Ausblick – mit Absicht | Outro-Akkord, Ende auf Beat | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Infinity-Pool Caldera Dämmerung (Hook, Cover)** – Pexels 32131896 · Suche: santorini infinity pool caldera, santorini pool sunset · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1
+- **Pool mit Ägäis-Blick (Reserve)** – Pexels 38299648; 38299702; 28156168 · Suche: aegean sea view infinity pool, santorini pool sunset · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1
+- **Höhlensuite innen / Cliffside-Walkthrough** – Envato Elements „Walkthrough of the heart of Santorini cave cliffside view, Greece“ (BlackBoxGuild) · Suche: santorini cave hotel interior, cave suite oia · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Haus an der Klippe / Gebäude in Oia (Tür-Fahrt von außen)** – Pexels 6250832; 6539965; 6192604 · Suche: oia cliff house, buildings in oia santorini · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2,4
+- **Oia-Drohnenflüge (Hang, Kuppeln, Kastell-Ruinen)** – Pexels 20663589; 20663590; 20621718; 20621738 · Suche: oia flight drone, santorini caldera cliff aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4,5,6
+- **Bimsstein-/Tuffwand Nahaufnahme** – Envato Elements Suche · Suche: santorini pumice wall close up, volcanic tuff texture, oia abandoned cave house · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: nur Suchbegriff – am 09.11.2026 kein passender Treffer gelistet · **FEHLT** – Alternative: Eigene Grafik-Textur im Querschnitt; oder Stein-Detail aus den Cliffside-Clips · Szenen 3
+- **Amoudi Bay / Sonnenuntergang Oia** – Pexels 34712396; 32558783 · Suche: santorini amoudi bay twilight, oia sunset · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 6
+- **Querschnitt-Grafik Höhle, Stempel 1956, Endkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 4,5,7
+
+## Fakten
+
+- ✅ Yposkafa = in den Bimsstein/Tuff gegrabene Häuser; ursprünglich Behausungen ärmerer Seeleute, Fischer und Arbeiter; viele heute Gästehäuser, Hotels, Restaurants (en.wikipedia.org/wiki/Oia,_Greece; europeanheritageawards-archive.eu (Oia village renewal scheme); travel.gr)
+- ✅ Erdbeben 9. Juli 1956 – Magnitude je nach Quelle 7,5 bis 7,8; schwere Zerstörungen in Oia, Auswanderungswelle, Wiederaufbau über Jahrzehnte, Tourismus erst spätes 20. Jh. (en.wikipedia.org (Oia); en.protothema.gr 10.02.2025 („The miracle of Santorini“))
+- ✅ Viele Höhlenfassaden wurden 1956 zerstört, die Höhlen selbst blieben weitgehend intakt (europeanheritageawards-archive.eu (Europa-Nostra-Dossier Oia) – zweite Quelle gegenlesen)
+- ⚠️ prüfen: Magnitude nicht nennen (Quellen 7,5–7,8)
+- ⚠️ prüfen: „Die Höhlen dahinter hielten“ an zweiter Quelle gegenlesen (Gemeinde Oia / Europa Nostra)
+- ⚠️ prüfen: Titel jetzt „begehrteste Suiten“ (Preisrekord nicht belegbar); „teuerste“ ist Hook-Zuspitzung – im Sprechtext nur „gefragteste Zimmer der Insel“, kein Preisrekord behaupten
+- ⚠️ prüfen: Keine Hotelnamen, keine Preise
+- ⚠️ prüfen: Archivfoto 1956 nur mit geklärten Rechten, sonst Ruinen-Standbild mit Stempel
+
+Quellen: en.wikipedia.org/wiki/Oia,_Greece · europeanheritageawards-archive.eu · en.protothema.gr · travel.gr
+
+## Vor Posting prüfen
+
+- [ ] Vorschau des Envato-Walkthroughs auf Innenraum prüfen
+- [ ] Rechte für Archivfoto 1956 oder Ruinen-Standbild
+- [ ] Keine Hotelnamen/Preise
+- [ ] „Höhlen hielten“ zweite Quelle
+- [ ] Endkarte 2 s

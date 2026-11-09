@@ -1,20 +1,24 @@
 H13 · Mo 07.12.2026 · Fakt oder Fake? #5 · Seen, die ihre Dämme selbst bauen
 ============================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Natur-Wunder · Ziel ca. 28 s
 
 Wörter: 79 · geschätzt ca. 32 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Die meisten Seen verlanden. Diese hier bauen ihre Dämme selbst.
-[curious] Fakt oder Fake: Die Dämme der Plitvicer Seen wachsen jedes Jahr?
-Fakt. Kalk setzt sich an Moosen ab und wird zu Stein – am Kozjak-Ausfluss rund fünf Zentimeter in zehn Jahren.
-Klingt wenig. Aber so sind vor rund vierhundert Jahren zwei Seen zum heutigen Kozjak-See verschmolzen.
-Baden ist im Park verboten. Tipp: früh morgens oder in der Nebensaison sind die Stege fast leer.
-Nächsten Montag: Wo steht Spaniens höchster Berg?
+Unter diesem See liegt ein vierzig Meter hoher Wasserfall. Ertrunken.
+[curious] Plitvice, Kroatien. Hier fließt Wasser über Dämme, die kein Mensch gebaut hat.
+Kalk setzt sich an Moos ab und wird zu Stein – ein paar Millimeter im Jahr.
+Vor rund vierhundert Jahren teilte so ein Damm den Kozjak-See – mit einem vierzig Meter hohen Wasserfall.
+Der untere Damm wuchs schneller, der See stieg, der Wasserfall versank. Heute fährst du im Boot darüber.
+Montag: Spaniens höchster Berg steht nicht auf dem Festland.
 
 --- NACH SZENEN ---
-Szene 1: Die meisten Seen verlanden. Diese hier bauen ihre Dämme selbst.
-Szene 2: [curious] Fakt oder Fake: Die Dämme der Plitvicer Seen wachsen jedes Jahr?
-Szene 3: Fakt. Kalk setzt sich an Moosen ab und wird zu Stein – am Kozjak-Ausfluss rund fünf Zentimeter in zehn Jahren.
-Szene 4: Klingt wenig. Aber so sind vor rund vierhundert Jahren zwei Seen zum heutigen Kozjak-See verschmolzen.
-Szene 5: Baden ist im Park verboten. Tipp: früh morgens oder in der Nebensaison sind die Stege fast leer.
-Szene 6: Nächsten Montag: Wo steht Spaniens höchster Berg?
+Szene 1: Unter diesem See liegt ein vierzig Meter hoher Wasserfall. Ertrunken.
+Szene 2: [curious] Plitvice, Kroatien. Hier fließt Wasser über Dämme, die kein Mensch gebaut hat.
+Szene 3: Kalk setzt sich an Moos ab und wird zu Stein – ein paar Millimeter im Jahr.
+Szene 4: Vor rund vierhundert Jahren teilte so ein Damm den Kozjak-See – mit einem vierzig Meter hohen Wasserfall.
+Szene 5: Der untere Damm wuchs schneller, der See stieg, der Wasserfall versank. Heute fährst du im Boot darüber.
+Szene 6: Montag: Spaniens höchster Berg steht nicht auf dem Festland.
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #5 → Montag: Spaniens höchster Berg steht nicht auf dem Festland

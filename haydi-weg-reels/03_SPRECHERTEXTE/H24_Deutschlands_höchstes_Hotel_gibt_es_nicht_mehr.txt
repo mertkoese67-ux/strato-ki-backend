@@ -1,0 +1,22 @@
+H24 · Fr 01.01.2027 · Reisewissen #8 · Deutschlands höchstes Hotel gibt es nicht mehr
+=====================================================================================
+Struktur B (Erwartung → überraschende Realität) · Themenwelt Hotel-Legenden · Ziel ca. 28 s
+
+Wörter: 67 · geschätzt ca. 27 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Deutschlands höchstes Hotel gibt es nicht mehr. Dabei steht es noch.
+[curious] Zweitausendsechshundertfünfzig Meter, direkt unter dem Zugspitzgipfel, in den Fels gebaut: das Schneefernerhaus.
+Neunzehnhunderteinunddreißig eröffnet. Die Zahnradbahn hielt direkt im Haus, und die Gäste schliefen über den Wolken.
+Neunzehnhundertzweiundneunzig war Schluss. Heute messen hier Forscher die Luft über Deutschland: eine Umweltforschungsstation statt Hotelzimmer.
+Von der Gipfelplattform siehst du das Haus noch. Nur einchecken kannst du nicht mehr.
+
+--- NACH SZENEN ---
+Szene 1: Deutschlands höchstes Hotel gibt es nicht mehr. Dabei steht es noch.
+Szene 2: [curious] Zweitausendsechshundertfünfzig Meter, direkt unter dem Zugspitzgipfel, in den Fels gebaut: das Schneefernerhaus.
+Szene 3: Neunzehnhunderteinunddreißig eröffnet. Die Zahnradbahn hielt direkt im Haus, und die Gäste schliefen über den Wolken.
+Szene 4: Neunzehnhundertzweiundneunzig war Schluss. Heute messen hier Forscher die Luft über Deutschland: eine Umweltforschungsstation statt Hotelzimmer.
+Szene 5: Von der Gipfelplattform siehst du das Haus noch. Nur einchecken kannst du nicht mehr.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #8 → Freitag: Die Stadt, für die sich Italien schämte

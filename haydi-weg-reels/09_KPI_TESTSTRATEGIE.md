@@ -84,3 +84,7 @@ Regeln: keine zwei Tests gleichzeitig auf demselben Reel; Varianten werden im St
 - Keine Benchmarks aus Wettbewerberzahlen abgeleitet (die Audit-Tabelle ist Beobachtung, keine Vergleichsbasis).
 - Keine Aussagen zu „Algorithmus bevorzugt …“; nur eigene Messwerte zählen.
 - Higgsfield-Vorabcheck > 80 (Plan-Regel) wurde in dieser Sitzung nicht ausgeführt; er bleibt freiwillige Zusatzprüfung, keine KPI.
+
+## 8 Ergänzung v3: Follow-Strategie messen, nicht versprechen
+
+Die Content-Identität (vier Themenwelten, fünf Strukturen, Endkarte mit Themenwelt-Zeile) steht in `02_MASTERPLAN_FINAL.md`, Abschnitt 2. Für die Auswertung gelten zusätzlich je Reel: Themenwelt und Struktur als Spalten im `KPI_Tracking`, damit nach 4–6 Wochen sichtbar wird, welche Themenwelt Follower je 1.000 Views bringt und welche Struktur die Wiedergabedauer hält. Vergleich nur innerhalb derselben Serie und mit mindestens drei Reels je Gruppe. Keine Zielzahlen für Reichweite, Shares oder Follower – gemessen wird, dann wird der Plan nachgeschärft (Reserveliste in `01_THEMENBEWERTUNG_60plus.md`).

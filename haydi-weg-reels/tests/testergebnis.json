@@ -1,9 +1,9 @@
 {
- "stand": "2026-11-09T03:49:46.690Z",
- "html": "/home/user/strato-ki-backend/haydi-weg-reels/studio/reel-studio-v38.html",
- "passed": 31,
+ "stand": "2026-11-09T18:59:30.160Z",
+ "html": "/home/user/strato-ki-backend/haydi-weg-reels/studio/reel-studio-v39.html",
+ "passed": 37,
  "failed": 0,
- "seconds": 18,
+ "seconds": 22,
  "results": [
   {
    "id": "T01",
@@ -27,13 +27,13 @@
    "id": "T03",
    "name": "Alle Studio-Karten vorhanden",
    "ok": true,
-   "detail": "Content-Studio – Konzept & Produktionsstatus | Hook-Studio – 5 Hooks, Bewertung, Sieger & 3 Cover | CapCut-Studio – vollständiger Schnittplan (16 Felder je Szene) | KI-Produktionsplan | Sprechtext für ElevenLabs | Fertiges Video aus CapCut | Voiceover – damit die Untertitel exakt sitzen | Audio-Analyse – reale Sprechdauer | Hook – Schlagzeile am Anfang | Untertitel | Beschreibung für Instagram, Ti"
+   "detail": "Content-Studio – Konzept & Produktionsstatus | Hook-Studio – 5 Hooks (Bild · Satz · Overlay · Frage), Bewertung, Sieger & 3 Cover | CapCut-Studio – vollständiger Schnittplan (16 Felder je Szene) | KI-Produktionsplan | Sprechtext für ElevenLabs | Fertiges Video aus CapCut | Voiceover – damit die Untertitel exakt sitzen | Audio-Analyse – reale Sprechdauer | Hook – Schlagzeile am Anfang | Untertitel "
   },
   {
    "id": "T04",
    "name": "Hook-Studio: 5 bewertete Hooks, Sieger wechselbar und gespeichert",
    "ok": true,
-   "detail": "rows=5 pick=2"
+   "detail": "rows=5 pick=3"
   },
   {
    "id": "T04b",
@@ -45,7 +45,7 @@
    "id": "T05",
    "name": "Cover: 3 Konzepte, Übernahme als Hook-Overlay wirkt auf Kopfzeile",
    "ok": true,
-   "detail": "hook=\"*×4* Hotelbetten seit 2002\""
+   "detail": "hook=\"1910 ausgebrannt, *1991* Hotel\""
   },
   {
    "id": "T05b",
@@ -55,7 +55,7 @@
   },
   {
    "id": "T06",
-   "name": "Sprechtexte: 39 vollständig, Zahlen ausgeschrieben, ≤3 Tags, keine Platzhalter, 50–95 Wörter",
+   "name": "Sprechtexte: 39 vollständig, Zahlen ausgeschrieben, ≤3 Tags, keine Platzhalter, 35–120 Wörter (Länge folgt der Geschichte)",
    "ok": true,
    "detail": "alle ok"
   },
@@ -69,7 +69,7 @@
    "id": "T07",
    "name": "CapCut-Plan: 16 Felder je Szene, Timecodes HH:MM:SS:FF, Status vorläufig ohne Audio",
    "ok": true,
-   "detail": "rows=7 cols=18 badge=Zeiten vorläufig"
+   "detail": "rows=8 cols=18 badge=Zeiten vorläufig"
   },
   {
    "id": "T07b",
@@ -87,25 +87,25 @@
    "id": "T09",
    "name": "Audio-Upload WAV: Datei gespeichert, reale Dauer erkannt, CapCut-Zeiten „aus Audio“",
    "ok": true,
-   "detail": "dur=20.043990929705217 badge=Zeiten aus Audio letzte Szene Ende=00:00:20:20"
+   "detail": "dur=20.043990929705217 badge=Zeiten aus Audio letzte Szene Ende=00:00:22:20"
   },
   {
    "id": "T09b",
    "name": "Audio-Analyse zeigt Segmente, Silbenkerne und Abweichung zur Schätzung",
    "ok": true,
-   "detail": "8Audio-Analyse – reale Sprechdauer & SynchronisationDateivo_test.wavReale Sprechdauer00:00:20:01 (20.04 s)Schätzung vorher00:00:33:26 → Abweichung −13.8 sSprechtempo4.14 Wörter/s (83 Wörter)Sprachsegmente6 erkannt · erstes ab 00:00:00:03Silbenkerne61 erkannt ("
+   "detail": "8Audio-Analyse – reale Sprechdauer & SynchronisationDateivo_test.wavReale Sprechdauer00:00:20:01 (20.04 s)Schätzung vorher00:00:38:11 → Abweichung −18.3 sSprechtempo4.69 Wörter/s (94 Wörter)Sprachsegmente6 erkannt · erstes ab 00:00:00:03Silbenkerne61 erkannt ("
   },
   {
    "id": "T11",
    "name": "Untertitel aus Audio: Zeilen monoton, erste ≥ Stimmstart, letzte ≤ Audioende",
    "ok": true,
-   "detail": "{\"n\":23,\"first\":0.2,\"last\":19.670000000000005,\"mono\":true,\"dur\":20.043990929705217,\"vs\":0.1}"
+   "detail": "{\"n\":20,\"first\":0.2,\"last\":19.670000000000005,\"mono\":true,\"dur\":20.043990929705217,\"vs\":0.1}"
   },
   {
    "id": "T12",
    "name": "Manuelle Zeitkorrektur je Zeile wird übernommen und gespeichert",
    "ok": true,
-   "detail": "{\"src\":\"manual\",\"n\":23,\"t2\":1.24}"
+   "detail": "{\"src\":\"manual\",\"n\":20,\"t2\":1.23}"
   },
   {
    "id": "T12b",
@@ -117,7 +117,7 @@
    "id": "T13",
    "name": "Speicherung: Audio, Notizen und Hook-Wahl überleben das Neuladen (localStorage + IndexedDB)",
    "ok": true,
-   "detail": "{\"cur\":\"H03\",\"vo\":\"vo_test.wav\",\"notes\":\"Testnotiz 123\",\"pick\":2,\"have\":true}"
+   "detail": "{\"cur\":\"H03\",\"vo\":\"vo_test.wav\",\"notes\":\"Testnotiz 123\",\"pick\":3,\"have\":true}"
   },
   {
    "id": "T10",
@@ -172,6 +172,42 @@
    "name": "Importierter Hauptplan überlebt Neuladen und lässt sich auf die eingebettete Fassung zurücksetzen",
    "ok": true,
    "detail": "TEST-IMPORT Matterhorn"
+  },
+  {
+   "id": "T20",
+   "name": "Themenwelt-Filter (4 Themenwelten) filtert die Liste",
+   "ok": true,
+   "detail": "chips=5 Hotel-Legenden=10"
+  },
+  {
+   "id": "T21",
+   "name": "Schlüsselaufnahmen: 3 je Reel (117) mit ehrlichem Status, Tabelle in Content-Studio",
+   "ok": true,
+   "detail": "{\"n\":117,\"valid\":true,\"roles\":39,\"found\":89,\"missing\":10,\"missNote\":true}"
+  },
+  {
+   "id": "T21b",
+   "name": "Materialstatus einer Schlüsselaufnahme wird gespeichert",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "id": "T22",
+   "name": "Hooks: 195 mit Bild + Satz + Overlay + Frage, 5 feste Typen, Overlay ins Video übernehmbar",
+   "ok": true,
+   "detail": "{\"n\":195,\"comp\":true,\"types\":true}"
+  },
+  {
+   "id": "T23",
+   "name": "Plan v3: Strukturen A–E, nie zweimal hintereinander gleich, Längen 22–42 s variabel, 4 Themenwelten, Freitag „Reisewissen“",
+   "ok": true,
+   "detail": "{\"structures\":\"ABCDE\",\"consecutive\":false,\"min\":24.2,\"max\":46.09,\"sd\":4.51,\"rw\":\"Reisewissen\",\"tw\":4}"
+  },
+  {
+   "id": "T24",
+   "name": "Studio-Zustand als JSON (Schema v39) exportierbar",
+   "ok": true,
+   "detail": "haydi-weg_studio_zustand.json"
   },
   {
    "id": "T17",

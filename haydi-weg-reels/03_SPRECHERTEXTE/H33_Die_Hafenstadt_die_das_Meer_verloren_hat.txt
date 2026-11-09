@@ -1,22 +1,26 @@
-H33 · Fr 22.01.2027 · Reisewissen in 30 Sekunden #11 · Die Hafenstadt, die das Meer verloren hat
-================================================================================================
+H33 · Fr 22.01.2027 · Reisewissen #11 · Die Hafenstadt, die das Meer verloren hat
+=================================================================================
+Struktur A (Mystery → Enthüllung) · Themenwelt Alte Welten · Ziel ca. 34 s
 
-Wörter: 82 · geschätzt ca. 34 s (vorläufig)
+Wörter: 89 · geschätzt ca. 36 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Früher lag hier ein Hafen. Heute ist das Meer rund sechs Kilometer weg.
-[curious] Ephesus war eine der großen Hafenstädte der Antike.
-Dann brachte der Fluss Küçük Menderes über Jahrhunderte Schlamm und Sand – der Hafen verlandete, die Küste wanderte nach Westen.
-Die Stadt verlor ihren Handel – und ihre Bedeutung.
-Heute liegen die Ruinen laut türkischen Behörden rund sechs Kilometer vom Meer.
-Tipp: Lauf die Hafenstraße bis zum Ende – wo heute Felder sind, lagen die Schiffe.
-Nächsten Freitag: Warum Agriturismo per Gesetz Bauernhof heißt.
+Eine Prachtstraße zum Hafen. Nur: Der Hafen ist weg. Das Meer auch.
+[curious] Ephesos, Türkei. Weltstadt der Antike: Marmorstraßen, die Celsus-Bibliothek, ein Theater für Zehntausende.
+Hier, am Ende der Hafenstraße, legten die Schiffe an. Heute: Felder.
+Der Fluss Küçük Menderes brachte Jahrhundert für Jahrhundert Schlamm. Der Hafen verlandete, das Meer rückte ab – Kilometer um Kilometer.
+Keine Armee hat diese Stadt besiegt. Ein Fluss hat sie erstickt.
+Heute: rund sechs Kilometer bis zum Meer. Lauf die Hafenstraße bis zum Ende – dann verstehst du es.
+Freitag: das Hotel, dem der Gletscher davonlief.
 
 --- NACH SZENEN ---
-Szene 1: Früher lag hier ein Hafen. Heute ist das Meer rund sechs Kilometer weg.
-Szene 2: [curious] Ephesus war eine der großen Hafenstädte der Antike.
-Szene 3: Dann brachte der Fluss Küçük Menderes über Jahrhunderte Schlamm und Sand – der Hafen verlandete, die Küste wanderte nach Westen.
-Szene 4: Die Stadt verlor ihren Handel – und ihre Bedeutung.
-Szene 5: Heute liegen die Ruinen laut türkischen Behörden rund sechs Kilometer vom Meer.
-Szene 6: Tipp: Lauf die Hafenstraße bis zum Ende – wo heute Felder sind, lagen die Schiffe.
-Szene 7: Nächsten Freitag: Warum Agriturismo per Gesetz Bauernhof heißt.
+Szene 1: Eine Prachtstraße zum Hafen. Nur: Der Hafen ist weg. Das Meer auch.
+Szene 2: [curious] Ephesos, Türkei. Weltstadt der Antike: Marmorstraßen, die Celsus-Bibliothek, ein Theater für Zehntausende.
+Szene 3: Hier, am Ende der Hafenstraße, legten die Schiffe an. Heute: Felder.
+Szene 4: Der Fluss Küçük Menderes brachte Jahrhundert für Jahrhundert Schlamm. Der Hafen verlandete, das Meer rückte ab – Kilometer um Kilometer.
+Szene 5: Keine Armee hat diese Stadt besiegt. Ein Fluss hat sie erstickt.
+Szene 6: Heute: rund sechs Kilometer bis zum Meer. Lauf die Hafenstraße bis zum Ende – dann verstehst du es.
+Szene 7: Freitag: das Hotel, dem der Gletscher davonlief.
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+ALTE WELTEN · Reisewissen #11 → Freitag: Das Hotel, dem der Gletscher davonlief

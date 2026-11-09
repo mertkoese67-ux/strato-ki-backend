@@ -1,0 +1,26 @@
+H03 · Fr 13.11.2026 · Reisewissen #1 · Der Palast, der ein Fußballstadion war
+=============================================================================
+Struktur C (Historischer Konflikt → Wendepunkt) · Themenwelt Hotel-Legenden · Ziel ca. 40 s
+
+Wörter: 92 · geschätzt ca. 38 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+In diesem Palast hat Beşiktaş Fußball gespielt.
+[serious] Neunzehnhundertzehn, eine Winternacht am Bosporus. Der Çırağan-Palast brennt, bis nur noch die Außenmauern stehen.
+Der Sultan hatte ihn bauen lassen – der Palast war noch keine vierzig Jahre alt.
+Zwanzig Jahre liegt die Ruine brach. Dann rollt ein Ball durch die Gärten.
+Beşiktaş macht aus dem Palastgarten ein Stadion. Fast zwanzig Jahre lang.
+Neunzehnhunderteinundneunzig dann die Wende: Der Palast wird Hotel – die Suiten liegen in den Mauern, die das Feuer überstanden haben.
+Und wo die Tore standen, steht jetzt das Hotelgebäude. Der Bosporus ist derselbe geblieben.
+
+--- NACH SZENEN ---
+Szene 1: In diesem Palast hat Beşiktaş Fußball gespielt.
+Szene 2: [serious] Neunzehnhundertzehn, eine Winternacht am Bosporus. Der Çırağan-Palast brennt, bis nur noch die Außenmauern stehen.
+Szene 3: Der Sultan hatte ihn bauen lassen – der Palast war noch keine vierzig Jahre alt.
+Szene 4: Zwanzig Jahre liegt die Ruine brach. Dann rollt ein Ball durch die Gärten.
+Szene 5: Beşiktaş macht aus dem Palastgarten ein Stadion. Fast zwanzig Jahre lang.
+Szene 6: Neunzehnhunderteinundneunzig dann die Wende: Der Palast wird Hotel – die Suiten liegen in den Mauern, die das Feuer überstanden haben.
+Szene 7: Und wo die Tore standen, steht jetzt das Hotelgebäude. Der Bosporus ist derselbe geblieben.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #1 → Freitag: Regenwald und Wüste – auf einer Insel

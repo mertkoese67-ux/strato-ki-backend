@@ -1,22 +1,26 @@
-H18 · Fr 18.12.2026 · Reisewissen in 30 Sekunden #6 · Hotel Adlon: 1945 abgebrannt, 1997 neu eröffnet
-=====================================================================================================
+H18 · Fr 18.12.2026 · Reisewissen #6 · Hotel Adlon: 1945 abgebrannt, 1997 neu eröffnet
+======================================================================================
+Struktur C (Historischer Konflikt → Wendepunkt) · Themenwelt Hotel-Legenden · Ziel ca. 38 s
 
-Wörter: 79 · geschätzt ca. 32 s (vorläufig)
+Wörter: 92 · geschätzt ca. 38 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Berlins Hotel-Legende am Brandenburger Tor ist erst knapp dreißig Jahre alt.
-[curious] Das Adlon eröffnete neunzehnhundertsieben – der Kaiser war Gast.
-Im Mai neunzehnhundertfünfundvierzig brannte es aus – bis auf einen Seitenflügel. Die Ursache: bis heute ungeklärt.
-Der Rest war in der DDR noch Hotel – und wurde neunzehnhundertvierundachtzig gesprengt.
-Was heute dort steht, ist ein Neubau nach altem Vorbild, eröffnet neunzehnhundertsiebenundneunzig.
-Wer dort übernachtet, schläft also in Geschichte – aber nicht im Original.
-Nächsten Freitag: Warum die Polarkreis-Linie beim Weihnachtsmann nicht mehr stimmt.
+Der Kaiser kam persönlich zur Eröffnung. Knapp vierzig Jahre später stand nur noch ein Flügel.
+[serious] Berlin, neunzehnhundertsieben: Das Adlon öffnet am Brandenburger Tor, eines der modernsten Hotels seiner Zeit.
+Es überstand den Krieg. Fast.
+Anfang Mai neunzehnhundertfünfundvierzig, die Kämpfe in Berlin sind vorbei, bricht ein Feuer aus. Übrig bleibt ein Seitenflügel.
+Die DDR betreibt ihn als kleines Hotel, dann wird er abgerissen. Jahrzehntelang bleibt der Platz leer.
+Neunzehnhundertsiebenundneunzig öffnet das Adlon wieder. Gleiche Adresse, nach altem Vorbild – aber komplett neu gebaut.
+Die Legende ist echt. Das Haus ist jünger, als du denkst.
 
 --- NACH SZENEN ---
-Szene 1: Berlins Hotel-Legende am Brandenburger Tor ist erst knapp dreißig Jahre alt.
-Szene 2: [curious] Das Adlon eröffnete neunzehnhundertsieben – der Kaiser war Gast.
-Szene 3: Im Mai neunzehnhundertfünfundvierzig brannte es aus – bis auf einen Seitenflügel. Die Ursache: bis heute ungeklärt.
-Szene 4: Der Rest war in der DDR noch Hotel – und wurde neunzehnhundertvierundachtzig gesprengt.
-Szene 5: Was heute dort steht, ist ein Neubau nach altem Vorbild, eröffnet neunzehnhundertsiebenundneunzig.
-Szene 6: Wer dort übernachtet, schläft also in Geschichte – aber nicht im Original.
-Szene 7: Nächsten Freitag: Warum die Polarkreis-Linie beim Weihnachtsmann nicht mehr stimmt.
+Szene 1: Der Kaiser kam persönlich zur Eröffnung. Knapp vierzig Jahre später stand nur noch ein Flügel.
+Szene 2: [serious] Berlin, neunzehnhundertsieben: Das Adlon öffnet am Brandenburger Tor, eines der modernsten Hotels seiner Zeit.
+Szene 3: Es überstand den Krieg. Fast.
+Szene 4: Anfang Mai neunzehnhundertfünfundvierzig, die Kämpfe in Berlin sind vorbei, bricht ein Feuer aus. Übrig bleibt ein Seitenflügel.
+Szene 5: Die DDR betreibt ihn als kleines Hotel, dann wird er abgerissen. Jahrzehntelang bleibt der Platz leer.
+Szene 6: Neunzehnhundertsiebenundneunzig öffnet das Adlon wieder. Gleiche Adresse, nach altem Vorbild – aber komplett neu gebaut.
+Szene 7: Die Legende ist echt. Das Haus ist jünger, als du denkst.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr

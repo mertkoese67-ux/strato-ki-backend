@@ -1,0 +1,24 @@
+H08 · Mi 25.11.2026 · Was dir keiner sagt #3 · In Pamukkale schwimmst du über römischen Säulen
+==============================================================================================
+Struktur E (Außergewöhnliches Erlebnis → überraschender Haken) · Themenwelt Regeln & Realität · Ziel ca. 30 s
+
+Wörter: 75 · geschätzt ca. 31 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+In Pamukkale schwimmst du im warmen Wasser über umgestürzten römischen Säulen.
+[curious] Oben über den weißen Terrassen liegt Hierapolis, eine antike Kurstadt.
+Ein Erdbeben warf ihre Säulen ins Thermalbecken. Niemand hat sie je herausgeholt.
+Der Haken: In den weißen Becken unten ist Baden verboten. Schuhe auch.
+Barfuß über warmen Kalk, der sich wie nasser Zucker anfühlt. Schwimmen gehst du oben, im antiken Becken.
+Kleopatra soll hier gebadet haben. Belegt ist das nicht. Die Säulen sind echt.
+
+--- NACH SZENEN ---
+Szene 1: In Pamukkale schwimmst du im warmen Wasser über umgestürzten römischen Säulen.
+Szene 2: [curious] Oben über den weißen Terrassen liegt Hierapolis, eine antike Kurstadt.
+Szene 3: Ein Erdbeben warf ihre Säulen ins Thermalbecken. Niemand hat sie je herausgeholt.
+Szene 4: Der Haken: In den weißen Becken unten ist Baden verboten. Schuhe auch.
+Szene 5: Barfuß über warmen Kalk, der sich wie nasser Zucker anfühlt. Schwimmen gehst du oben, im antiken Becken.
+Szene 6: Kleopatra soll hier gebadet haben. Belegt ist das nicht. Die Säulen sind echt.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+REGELN & REALITÄT · Was dir keiner sagt #3 → Mittwoch: Meerseite heißt nicht Meerblick

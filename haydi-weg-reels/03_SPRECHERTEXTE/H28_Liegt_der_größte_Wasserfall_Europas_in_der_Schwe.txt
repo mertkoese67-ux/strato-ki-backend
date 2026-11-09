@@ -1,22 +1,24 @@
 H28 · Mo 11.01.2027 · Fakt oder Fake? #10 · Liegt der größte Wasserfall Europas in der Schweiz?
 ===============================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Natur-Wunder · Ziel ca. 30 s
 
-Wörter: 80 · geschätzt ca. 33 s (vorläufig)
+Wörter: 75 · geschätzt ca. 31 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz?
-[curious] Hoch ist er nicht: nur dreiundzwanzig Meter.
-Aber hundertfünfzig Meter breit – und im Sommer stürzen rund sechshunderttausend Liter pro Sekunde hinab.
-Also: Kommt drauf an, wie man misst.
-Nach der Wassermenge gilt der Rheinfall als einer der größten Wasserfälle Europas. Höhere gibt es viele.
-Tipp: Im Sommer führt er am meisten Wasser – und Boote bringen dich zum Felsen mitten im Fall.
-Nächsten Montag: Machen auf den Malediven Fische Sand?
+Der größte Wasserfall Europas ist nur dreiundzwanzig Meter hoch. Wie geht das?
+[curious] Rheinfall bei Schaffhausen, kurz hinter der deutschen Grenze.
+Die Breite löst das Rätsel: hundertfünfzig Meter – und im Sommer sechshunderttausend Liter in jeder Sekunde.
+Groß heißt hier mächtig, nicht hoch. Nach Wassermenge gilt er als der größte Europas. Fakt.
+Direkt darüber Schloss Laufen: jahrzehntelang Jugendherberge, bald vielleicht Hotel. Schlafen über dem Donner.
+Im Sommer bringt dich ein Boot auf den Felsen mitten im Fall.
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Der größte Wasserfall Europas liegt in der Schweiz?
-Szene 2: [curious] Hoch ist er nicht: nur dreiundzwanzig Meter.
-Szene 3: Aber hundertfünfzig Meter breit – und im Sommer stürzen rund sechshunderttausend Liter pro Sekunde hinab.
-Szene 4: Also: Kommt drauf an, wie man misst.
-Szene 5: Nach der Wassermenge gilt der Rheinfall als einer der größten Wasserfälle Europas. Höhere gibt es viele.
-Szene 6: Tipp: Im Sommer führt er am meisten Wasser – und Boote bringen dich zum Felsen mitten im Fall.
-Szene 7: Nächsten Montag: Machen auf den Malediven Fische Sand?
+Szene 1: Der größte Wasserfall Europas ist nur dreiundzwanzig Meter hoch. Wie geht das?
+Szene 2: [curious] Rheinfall bei Schaffhausen, kurz hinter der deutschen Grenze.
+Szene 3: Die Breite löst das Rätsel: hundertfünfzig Meter – und im Sommer sechshunderttausend Liter in jeder Sekunde.
+Szene 4: Groß heißt hier mächtig, nicht hoch. Nach Wassermenge gilt er als der größte Europas. Fakt.
+Szene 5: Direkt darüber Schloss Laufen: jahrzehntelang Jugendherberge, bald vielleicht Hotel. Schlafen über dem Donner.
+Szene 6: Im Sommer bringt dich ein Boot auf den Felsen mitten im Fall.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #10 → Montag: Wenn Fische Strand machen

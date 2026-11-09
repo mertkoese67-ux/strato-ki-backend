@@ -1,20 +1,22 @@
 H35 · Mi 27.01.2027 · Was dir keiner sagt #12 · Die Höhle, in der du nicht an Land darfst
 =========================================================================================
+Struktur E (Außergewöhnliches Erlebnis → überraschender Haken) · Themenwelt Regeln & Realität · Ziel ca. 26 s
 
-Wörter: 77 · geschätzt ca. 31 s (vorläufig)
+Wörter: 61 · geschätzt ca. 25 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Benagil: Du kannst hineinfahren – aber nicht an Land gehen.
-[curious] Seit August zweitausendvierundzwanzig gelten für die Höhle an der Algarve neue Regeln der Hafenbehörde.
-Kein Anlanden am Strand in der Höhle. Kein Hineinschwimmen, auch nicht mit Schwimmhilfe. Kajak nur mit Guide.
-Rein geht es mit lizenzierter Bootstour – oder geführter Kajak- oder SUP-Tour.
-Kostenlos: Vom Küstenwanderweg schaust du von oben durch das Loch in der Decke – am besten um die Mittagszeit.
-Nächsten Mittwoch, Staffelfinale: der Pragser Wildsee im Sommer.
+Ein Loch in der Klippe – und darunter der Strand, den du nicht betreten darfst.
+[excited] Von innen ein Dom aus Sandstein, das Licht fällt mittags auf den Sand.
+Seit August zweitausendvierundzwanzig gilt: kein Anlanden, kein Hineinschwimmen, Kajak nur mit Guide.
+Der Grund: zu viele Boote, zu viele Schwimmer dazwischen.
+Rein kommst du mit lizenzierter Bootstour. Oder oben zum Loch, und schau hinunter.
 
 --- NACH SZENEN ---
-Szene 1: Benagil: Du kannst hineinfahren – aber nicht an Land gehen.
-Szene 2: [curious] Seit August zweitausendvierundzwanzig gelten für die Höhle an der Algarve neue Regeln der Hafenbehörde.
-Szene 3: Kein Anlanden am Strand in der Höhle. Kein Hineinschwimmen, auch nicht mit Schwimmhilfe. Kajak nur mit Guide.
-Szene 4: Rein geht es mit lizenzierter Bootstour – oder geführter Kajak- oder SUP-Tour.
-Szene 5: Kostenlos: Vom Küstenwanderweg schaust du von oben durch das Loch in der Decke – am besten um die Mittagszeit.
-Szene 6: Nächsten Mittwoch, Staffelfinale: der Pragser Wildsee im Sommer.
+Szene 1: Ein Loch in der Klippe – und darunter der Strand, den du nicht betreten darfst.
+Szene 2: [excited] Von innen ein Dom aus Sandstein, das Licht fällt mittags auf den Sand.
+Szene 3: Seit August zweitausendvierundzwanzig gilt: kein Anlanden, kein Hineinschwimmen, Kajak nur mit Guide.
+Szene 4: Der Grund: zu viele Boote, zu viele Schwimmer dazwischen.
+Szene 5: Rein kommst du mit lizenzierter Bootstour. Oder oben zum Loch, und schau hinunter.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+REGELN & REALITÄT · Was dir keiner sagt #12 → Mittwoch: Pragser Wildsee – im Sommer nur mit Reservierung

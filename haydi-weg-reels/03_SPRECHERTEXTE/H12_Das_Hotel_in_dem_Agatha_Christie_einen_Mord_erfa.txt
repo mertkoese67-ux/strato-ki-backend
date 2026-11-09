@@ -1,0 +1,24 @@
+H12 · Fr 04.12.2026 · Reisewissen #4 · Das Hotel, in dem Agatha Christie einen Mord erfand
+==========================================================================================
+Struktur A (Mystery → Enthüllung) · Themenwelt Hotel-Legenden · Ziel ca. 38 s
+
+Wörter: 92 · geschätzt ca. 38 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+In diesem Hotel wurde ein Mord geplant. Auf Papier.
+[curious] Assuan, am ersten Katarakt des Nils. Neunzehnhundert eröffnet Thomas Cook hier ein Hotel für seine Nilreisenden: das Old Cataract.
+Roter Sandstein, schwarze Granitfelsen, Feluken im Abendlicht. Auf dieser Terrasse soll neunzehnhundertsiebenunddreißig eine Engländerin an einem Roman geschrieben haben.
+Agatha Christie. Der Roman: Tod auf dem Nil. Das Hotel kommt darin vor, der Mord passiert auf dem Schiff.
+Vierzig Jahre später drehte Hollywood den Film genau hier – mit Peter Ustinov als Poirot.
+Die Terrasse gibt es noch. Und ihre Suite trägt heute ihren Namen.
+
+--- NACH SZENEN ---
+Szene 1: In diesem Hotel wurde ein Mord geplant. Auf Papier.
+Szene 2: [curious] Assuan, am ersten Katarakt des Nils. Neunzehnhundert eröffnet Thomas Cook hier ein Hotel für seine Nilreisenden: das Old Cataract.
+Szene 3: Roter Sandstein, schwarze Granitfelsen, Feluken im Abendlicht. Auf dieser Terrasse soll neunzehnhundertsiebenunddreißig eine Engländerin an einem Roman geschrieben haben.
+Szene 4: Agatha Christie. Der Roman: Tod auf dem Nil. Das Hotel kommt darin vor, der Mord passiert auf dem Schiff.
+Szene 5: Vierzig Jahre später drehte Hollywood den Film genau hier – mit Peter Ustinov als Poirot.
+Szene 6: Die Terrasse gibt es noch. Und ihre Suite trägt heute ihren Namen.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #4 → Freitag: In Kappadokien schläfst du in tausend Jahre altem Fels

@@ -1,0 +1,24 @@
+H06 · Fr 20.11.2026 · Reisewissen #2 · Regenwald und Wüste – auf einer Insel
+============================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Natur-Wunder · Ziel ca. 28 s
+
+Wörter: 74 · geschätzt ca. 30 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Nebelwald und Wüste. Beides ist dieselbe Insel, am selben Tag.
+[curious] Teneriffa. Im Nordosten tropft der Lorbeerwald von Anaga, Moos an jedem Ast.
+Im Süden Lava, Kakteen, Sonne. Dazwischen ein Berg, der alles erklärt.
+Der Passat drückt feuchte Luft von Nordosten gegen die Berge. Dort regnet sie sich ab.
+Im Süden kommt trockene Luft an. Deshalb stehen die Hotels dort.
+Im Januar heißt das: über einundzwanzig Grad im Süden, während du zu Hause Schnee kratzt.
+
+--- NACH SZENEN ---
+Szene 1: Nebelwald und Wüste. Beides ist dieselbe Insel, am selben Tag.
+Szene 2: [curious] Teneriffa. Im Nordosten tropft der Lorbeerwald von Anaga, Moos an jedem Ast.
+Szene 3: Im Süden Lava, Kakteen, Sonne. Dazwischen ein Berg, der alles erklärt.
+Szene 4: Der Passat drückt feuchte Luft von Nordosten gegen die Berge. Dort regnet sie sich ab.
+Szene 5: Im Süden kommt trockene Luft an. Deshalb stehen die Hotels dort.
+Szene 6: Im Januar heißt das: über einundzwanzig Grad im Süden, während du zu Hause Schnee kratzt.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+NATUR-WUNDER · Reisewissen #2 → Freitag: All Inclusive wurde auf Mallorca erfunden – in Zelten

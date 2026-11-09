@@ -1,0 +1,59 @@
+# CapCut-Schnittplan H36 · Das Hotel, dem der Gletscher davonlief
+
+Fr 29.01.2027 · Reisewissen #12 · Schweiz (Furkapass, Hotel Belvédère) · Themenwelt Hotel-Legenden · Struktur C (Historischer Konflikt → Wendepunkt)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:38:26 (38.9 s, Ziel ca. 36 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Ein Hotel an der Serpentine – gebaut für einen Blick, den es nicht mehr gibt.  
+**Musik:** Klavier + Pad 70 BPM, Tempo bei Bond kurz an, Moll beim Rückzug, Schlusston allein; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext, nicht gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Drohne frontal/schräg auf das Hotel Belvédère in der Haarnadelkurve | Envato Elements | „Drone shot of Belvédère Hotel at Furka Pass Switzerland“ (BlackBoxGuild) | **gefunden** | Envato „furka pass hotel“: außerdem „Aerial View of Hotel Belvedere, Furka Pass in Wallis“ (world_footage), „Aerial view of the abandoned Hotel Belvedere at Furka pass“ (kristianallin), „Drone shot of Abandoned Hotel Belvedere…“ (ewoldk); Pexels „furka pass“: 38912361 „historic-swiss-hotel-amidst-scenic-alps“, 39195162, 38790546. |
+| Story | Gletschersee und zurückgezogene Gletscherzunge (heute) | Envato Elements | „The rhone glacier receding in the swiss alps, creating a stunning glacial lake at its base“ (BlackBoxGuild) | **gefunden** | Envato „rhone glacier“: 30 Treffer, Ort im Titel; Pexels „rhone glacier“: 38790547, 38816937. Historisches Vorher-Bild (um 1900/1980): als eigene Grafik mit Rechteprüfung (ETH-Bibliothek e-pics / Wikimedia Commons) – Status „verfügbar, ungeprüft“. |
+| Reveal | Hotel und Gletscher/See in einem Bild (Orbit vom Hotel zum See) | Envato Elements | „Aerial drone view of Rhone Glacier at hotel Belvedere, Furkapass, Canton Valais, Switzerland“ (AmazingAerial) | **gefunden** | Titel nennt Hotel und Gletscher zusammen; Kadrage (Orbit) vor Download prüfen; Alternative „Aerial view of the Rhone Glacier at Furka pass“ (kristianallin). |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:05:26 | 5.9 | hook | Ein Hotel an der Serpentine – gebaut für einen Blick, den es nicht mehr gibt. | Drohne frontal auf das Hotel Belvédère in der Haarnadelkurve der Furkapassstraße; hinter dem Haus graues Geröll und Fels, kein Eis im Bild | Hotel Belvédère, Furkapassstraße, Obergoms, Wallis, Schweiz | Drohne frontal, Höhe Dachkante | Totale | langsamer Push-in auf das Hotel | Morgen, kühles Licht, Schatten im Tal | hotel belvedere furka pass drone, furka pass hotel hairpin aerial | Hard Cut (Kaltstart) | keiner | Hook-Overlay: GEBAUT FÜR EIS, DAS WEG IST (gelb: Eis) | ruhig, Klavier und Pad, 70 BPM | Wind, ferner Motor | keine Untertitel (Hook-Overlay steht) |
+| 2 | 00:00:05:26 | 00:00:12:04 | 6.3 | body | [serious] Achtzehnhundertzweiundachtzig baut die Hoteliersfamilie Seiler das Belvédère direkt an den Rhonegletscher. Das Eis liegt gegenüber. | Historische Aufnahme (gekennzeichnet): Hotel mit Gletscherzunge direkt gegenüber, Ken-Burns-Zoom; falls keine Rechte: heutige Drohne mit eingeblendeter Eiskante als Grafik („Eisrand um 1900, Rekonstruktion“) | Hotel Belvédère und Rhonegletscher, Furka (historisch) | Archivfoto / Grafik | Vollbild | Ken Burns langsam | Sepia / Markenfarben | rhone glacier historic photo belvedere, furka hotel glacier old photograph | Hard Cut | Schnitt | Faktenoverlay: „1882“ · „Rhonegletscher“ | Klavier, warm | leises Knacken (Eis) | 2 Zeilen, „1882“ gelb |
+| 3 | 00:00:12:04 | 00:00:19:07 | 7.1 | body | Jeden Sommer schlägt man eine Grotte ins Eis. Neunzehnhundertvierundsechzig jagt James Bond in Goldfinger die Kurven hinauf. | Eisgrotte innen (blaues Eis, Tunnel), dann Schnitt: Drohne folgt den Serpentinen der Passstraße bergauf, ein einzelnes Auto in der Kurve | Eisgrotte am Rhonegletscher · Furkapassstraße, Wallis | Bodenkamera in der Grotte → Drohne über der Straße | Nah → Totale | Vorwärts durch den Tunnel → Verfolgungsflug | Blau im Eis → Hochgebirgssonne | rhone glacier ice grotto inside blue, furka pass road car aerial | Hard Cut auf „Neunzehnhundert…“ | Schnitt | Overlay: „Eisgrotte seit 1894“ · „1964: Goldfinger-Dreh“ | Tempo zieht an, Beat kommt | Autoreifen leise | 2 Zeilen, „Goldfinger“ gelb |
+| 4 | 00:00:19:07 | 00:00:29:05 | 9.9 | reveal | Dann zieht sich der Gletscher zurück. Wo neunzehnhundertachtzig noch Eis vor dem Hotel lag, liegt heute ein See. Das Eis: hunderte Meter weiter oben. | Drohne hebt vom Hotel ab und dreht zum Gletschersee: milchiges Wasser, dahinter die zurückgezogene Gletscherzunge mit Abdeckplanen, Geröllhänge | Rhonegletscher mit Gletschersee, Furka, Wallis | Drohne, Orbit vom Hotel zum See | Totale | Orbit 90° + Höhengewinn | Mittag, kaltes Licht, Geröll grau, Eis weiß-blau | rhone glacier lake aerial, rhone glacier receding glacial lake drone | kein Schnitt (Reveal in einem Take) | – | Overlay auf dem See: „1980: Eis“ → „heute: See“ | Moll, Klavier bleibt allein | Wasser, Wind | 2 Zeilen, „See“ gelb |
+| 5 | 00:00:29:05 | 00:00:35:26 | 6.7 | body | Zweitausendfünfzehn schließt das Belvédère. Die Kurve ist geblieben – und das Hotel, als Denkmal für einen Blick. | Rückfahrt von der Hotelfassade (geschlossene Läden) in die weite Totale: Hotel klein in der Kurve, Gletscher nur noch als heller Streifen am Horizont | Hotel Belvédère, Furkapass, Wallis | Drohne, Pull-out | Nah → weite Totale | langsame Rückfahrt | Abend, langes Licht | abandoned hotel belvedere furka, furka pass hotel sunset aerial | Hard Cut | Schnitt | Overlay: „geschlossen seit 2015“ | Klavier endet auf einem Ton | Wind | 2 Zeilen, „2015“ gelb |
+| 6 | 00:00:35:26 | 00:00:38:26 | 3.0 | end | – | Endkarte Themenwelt Hotel-Legenden: eingefrorene Totale mit 70 % Navy, Logo weiß, Teaser | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | HOTEL-LEGENDEN · Reisewissen #12 → Freitag: Bad Gastein – Grandhotels, die fast 20 Jahre leer standen | Outro-Akzent | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Hotel in der Kurve (Hook, Endkarte)** – Envato Elements „Drone shot of Belvédère Hotel at Furka Pass Switzerland“ (BlackBoxGuild) · Suche: hotel belvedere furka pass drone · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,5,6
+- **Hotel-Alternative frei** – Pexels 38912361 · Suche: historic swiss hotel scenic alps furka · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,5
+- **Historisches Foto Hotel + Gletscher (um 1900 / 1980)** – Eigene Grafik Archiv (ETH-Bibliothek e-pics, Wikimedia Commons) – Rechte prüfen · Suche: Rhonegletscher Belvedere historisch, Furka Gletscher 1900 · Lizenz: historisches Foto – Rechte vor Nutzung klären (Wikimedia Commons / Archiv, Public Domain prüfen) · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · **FEHLT** – Alternative: heutige Drohne + eingezeichnete Eiskante als gekennzeichnete Rekonstruktion · Szenen 2
+- **Eisgrotte innen** – Envato Elements Suche „rhone glacier ice grotto“ – auf der Suchseite kein Grotten-Titel; Pexels 39664525 „exploring-majestic-ice-caves“ (Ort unklar!) · Suche: rhone glacier ice cave inside blue · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · **FEHLT** – Alternative: Blaue Eiswand aus Pexels 39664525 nur ohne Ortsbehauptung, oder Szene 3 mit Gletscher-Drohne + Overlay „Eisgrotte seit 1894“ · Szenen 3
+- **Passstraße mit Auto (Bond-Satz)** – Pexels 13126809 · Suche: furka pass road car aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 3
+- **Gletschersee + Zunge** – Envato Elements „The rhone glacier receding … glacial lake“ (BlackBoxGuild) · Suche: rhone glacier lake aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4
+- **Hotel + Gletscher Orbit** – Envato Elements „Aerial drone view of Rhone Glacier at hotel Belvedere, Furkapass“ (AmazingAerial) · Suche: rhone glacier hotel belvedere aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 4,5
+- **Endkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 6
+
+## Fakten
+
+- ✅ Bau 1882, Initiator Joseph Seiler (Sohn von Alexander Seiler I.); Familie Carlen kaufte 1988, Wiedereröffnung 1990, Schließung 2015, seitdem geschlossen (srf.ch (Lost Places), swissinfo.ch (Swiss lost places – Hotel Belvédère), amusingplanet.com)
+- ✅ Goldfinger (1964): Verfolgungsjagd mit Aston Martin auf der Furkapassstraße am Belvédère (swissinfo.ch, amusingplanet.com)
+- ✅ Gletscher lag 1980 noch gegenüber dem Hotel; 2022 stattdessen ein See, Eis hunderte Meter entfernt; Eisgrotte existiert weiter, Eingang fast einen Kilometer weiter als früher (swissinfo.ch (2023))
+- ✅ Eisgrotte seit 1894 jährlich neu geschlagen (Projektrecherche 09.11.2026 (SRF/gletscher.ch) – gegenlesen)
+- ✅ Rückzug 1880–2020 rund 1.575 m laut GLAMOS-Daten (Sekundärquelle); Diercke: ca. 2 km 1874–2014 (glacierchange.blog (GLAMOS 2021), diercke.de – im Text bewusst nur „hunderte Meter“ seit 1980)
+- ⚠️ prüfen: Seiler-Zuschreibung: SRF nennt Joseph Seiler, andere Alexander Seiler – im Text „Hoteliersfamilie Seiler“ (sicher)
+- ⚠️ prüfen: Rückzugszahl in Metern nur nennen, wenn glamos.ch direkt geprüft (Factsheet zeigte keine Daten)
+- ⚠️ prüfen: Abdeckplanen: gelten für die Eisgrotte – nicht als „ganzer Gletscher“ formulieren
+- ⚠️ prüfen: Bond-Filmmaterial nicht verwenden (Rechte) – nur Nennung
+
+Quellen: srf.ch · swissinfo.ch · amusingplanet.com · swisseduc.ch · glacierchange.blog (GLAMOS) · diercke.de
+
+## Vor Posting prüfen
+
+- [ ] Historisches Foto nur mit geklärten Rechten, sonst Rekonstruktions-Grafik
+- [ ] Eisgrotten-Clip nur mit Ortsbeleg, sonst Fallback
+- [ ] Kein Bond-Filmmaterial
+- [ ] Logo weiß ab Sekunde 3, Endkarte 3 s

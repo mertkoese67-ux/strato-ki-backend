@@ -1,20 +1,20 @@
 H23 · Mi 30.12.2026 · Was dir keiner sagt #8 · Im Riad hast du keinen Ausblick – mit Absicht
 ============================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Hotel-Legenden · Ziel ca. 24 s
 
-Wörter: 78 · geschätzt ca. 32 s (vorläufig)
+Wörter: 57 · geschätzt ca. 23 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Draußen eine fensterlose Mauer. Drinnen ein Garten mit Brunnen.
-[curious] Riad: arabisch für Garten – ein Stadthaus in der Medina, das sich nach innen öffnet.
-Zur Gasse kaum Fenster – das schützt die Privatsphäre der Familie.
-Und das Klima: Der Hof spendet Schatten, dicke Mauern halten Hitze und Lärm fern.
-Heißt: ruhig schlafen mitten in der Medina, Ausblick nur auf der Dachterrasse. Hotel für Pool und Platz – Riad für Nähe und Stille.
-Nächsten Mittwoch: Warum eine Flagge über deine Ballonfahrt entscheidet.
+Von außen nur Mauer. Kein Fenster, keine Aussicht. Und genau das ist der Plan.
+[curious] Marrakesch dreht das Haus um. Alles Schöne liegt innen: der Hof, der Brunnen, die Orangenbäume.
+Riad heißt Garten. Die Gasse bleibt draußen – ihr Lärm, ihre Hitze, ihre Blicke.
+Aussicht gibt es trotzdem: oben auf dem Dach, wenn die Sonne über der Medina untergeht.
 
 --- NACH SZENEN ---
-Szene 1: Draußen eine fensterlose Mauer. Drinnen ein Garten mit Brunnen.
-Szene 2: [curious] Riad: arabisch für Garten – ein Stadthaus in der Medina, das sich nach innen öffnet.
-Szene 3: Zur Gasse kaum Fenster – das schützt die Privatsphäre der Familie.
-Szene 4: Und das Klima: Der Hof spendet Schatten, dicke Mauern halten Hitze und Lärm fern.
-Szene 5: Heißt: ruhig schlafen mitten in der Medina, Ausblick nur auf der Dachterrasse. Hotel für Pool und Platz – Riad für Nähe und Stille.
-Szene 6: Nächsten Mittwoch: Warum eine Flagge über deine Ballonfahrt entscheidet.
+Szene 1: Von außen nur Mauer. Kein Fenster, keine Aussicht. Und genau das ist der Plan.
+Szene 2: [curious] Marrakesch dreht das Haus um. Alles Schöne liegt innen: der Hof, der Brunnen, die Orangenbäume.
+Szene 3: Riad heißt Garten. Die Gasse bleibt draußen – ihr Lärm, ihre Hitze, ihre Blicke.
+Szene 4: Aussicht gibt es trotzdem: oben auf dem Dach, wenn die Sonne über der Medina untergeht.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Was dir keiner sagt #8 → Mittwoch: Ob dein Ballon startet, entscheidet eine Flagge

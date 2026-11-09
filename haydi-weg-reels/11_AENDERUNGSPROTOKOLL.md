@@ -84,3 +84,21 @@ Backup: `backup/reel-studio-v37-original.html` (byteidentisch) – das bestehend
 | Startreel | nächstes Special nach heute | nächstes Hauptplan-Reel (einmalig beim ersten Start von v38) |
 
 Unverändert: Renderer, Untertitel-Design (Manrope, Keyword gelb, Zonenwahl), Alignment-Algorithmus, Auto-Schnitt, Exporte (MP4/WebM/PNG), Bibliothek, KI-Produktionsplan, Specials-Daten.
+
+## 4 Content-Upgrade v2 → v3 (09.11.2026, zweiter Durchgang)
+
+Vollständige Liste: `15_UPGRADE_AENDERUNGEN_ALT_NEU.md`. Backups vor der Änderung: `backup/reel-studio-v38-vor-upgrade.html`, `backup/reels_hauptplan_v2-vor-upgrade.json`. Die 51 Specials blieben unverändert.
+
+| Bereich | v2 | v3 |
+|---|---|---|
+| Themen | 39 (6 gegenüber 06.11. ersetzt) | 6 weitere ersetzt, 12 radikal umgebaut, 21 behalten und neu geschrieben |
+| Hooks | 195, Satz + Bild | 195 neu: Bild + Satz + Overlay + Frage, 5 neue Typen, Floskel-Lint |
+| Struktur | ein Bogen | A–E, nie zweimal hintereinander |
+| Längen | 29–35 s | 24–46 s |
+| Material | Stockliste | + 3 Schlüsselaufnahmen je Reel mit Recherche-Status (✅ 89 · 🟡 18 · ❌ 10) |
+| Themenwelten | Cluster | 4 Themenwelten (Endkarte, Studio-Filter) |
+| Serie Fr | „Reisewissen in 30 Sekunden“ | „Reisewissen“ |
+| Scorecard | Ø 8.43 | Ø 8.93 (streng, ≥ 2 Runden) |
+| Studio | v38 | v39: Themenwelt-Filter, Struktur in Liste/Kopf, Schlüsselaufnahmen-Tabelle mit Status (Content- und Qualitäts-Studio), Hook-Tabelle mit Overlay/Frage und „Overlay“-Übernahme, Hooks-CSV mit 4 Komponenten, Import liest v3 und v2, Zustand-Schema v39 |
+| Daten | reels_hauptplan_v2.json | reels_hauptplan_v3.json (+ Import-Tabellen v3 CSV/JSON/XLSX mit Tabs Hooks, Cover, Schlüsselaufnahmen, Schnittpläne, Stock, Änderungen) |
+| Tests | 31 Prüfungen | 31 Regression + 6 neue (T20–T24) |

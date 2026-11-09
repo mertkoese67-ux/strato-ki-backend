@@ -1,20 +1,22 @@
 H34 · Mo 25.01.2027 · Fakt oder Fake? #12 · Ein Strand soll wachsen – für ein Wrack
 ===================================================================================
+Struktur B (Erwartung → überraschende Realität) · Themenwelt Natur-Wunder · Ziel ca. 30 s
 
-Wörter: 82 · geschätzt ca. 34 s (vorläufig)
+Wörter: 68 · geschätzt ca. 28 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack?
-[curious] Das Wrack liegt seit neunzehnhundertachtzig in dieser Bucht – nur noch rund fünfundzwanzig Meter vom Wasser.
-Seitdem heißt die Bucht Navagio – Schiffswrack. Die Erosion setzt ihm zu.
-Deshalb: Fakt – als Plan. Mit rund fünfundvierzigtausend Kubikmetern Kies soll der Strand dreißig Meter Richtung Meer wachsen.
-Betreten darfst du ihn trotzdem nicht: Steinschlaggefahr, gesperrt – zuletzt auch vom Wasser aus. Der Blick von oben bleibt.
-Nächsten Montag: Die Sonne malt eine Acht in Palmas Kathedrale.
+Du buchst Zakynthos für dieses Bild. Und darfst nur von oben schauen.
+[curious] Das Wrack liegt seit neunzehnhundertachtzig im Sand. Das Foto Nummer eins der Insel.
+Nur: Die Klippe bröckelt. Der Strand ist seit Jahren gesperrt, zuletzt die ganze Bucht.
+Trotzdem wird geplant: dreißig Meter mehr Strand, aufgeschüttet aus Kies. Damit das Wrack nicht ins Meer rutscht.
+Ob der Kies bleibt, bezweifeln Fachleute. Von oben siehst du trotzdem alles.
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Griechenland will einen Strand verlängern – für ein Wrack?
-Szene 2: [curious] Das Wrack liegt seit neunzehnhundertachtzig in dieser Bucht – nur noch rund fünfundzwanzig Meter vom Wasser.
-Szene 3: Seitdem heißt die Bucht Navagio – Schiffswrack. Die Erosion setzt ihm zu.
-Szene 4: Deshalb: Fakt – als Plan. Mit rund fünfundvierzigtausend Kubikmetern Kies soll der Strand dreißig Meter Richtung Meer wachsen.
-Szene 5: Betreten darfst du ihn trotzdem nicht: Steinschlaggefahr, gesperrt – zuletzt auch vom Wasser aus. Der Blick von oben bleibt.
-Szene 6: Nächsten Montag: Die Sonne malt eine Acht in Palmas Kathedrale.
+Szene 1: Du buchst Zakynthos für dieses Bild. Und darfst nur von oben schauen.
+Szene 2: [curious] Das Wrack liegt seit neunzehnhundertachtzig im Sand. Das Foto Nummer eins der Insel.
+Szene 3: Nur: Die Klippe bröckelt. Der Strand ist seit Jahren gesperrt, zuletzt die ganze Bucht.
+Szene 4: Trotzdem wird geplant: dreißig Meter mehr Strand, aufgeschüttet aus Kies. Damit das Wrack nicht ins Meer rutscht.
+Szene 5: Ob der Kies bleibt, bezweifeln Fachleute. Von oben siehst du trotzdem alles.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #12 → Montag: Malt die Sonne eine Acht in Palmas Kathedrale?

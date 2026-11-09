@@ -1,22 +1,22 @@
 H10 · Mo 30.11.2026 · Fakt oder Fake? #4 · Wo steht der älteste Weihnachtsmarkt?
 ================================================================================
+Struktur A (Mystery → Enthüllung) · Themenwelt Alte Welten · Ziel ca. 32 s
 
-Wörter: 78 · geschätzt ca. 32 s (vorläufig)
+Wörter: 74 · geschätzt ca. 30 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Dresden sagt: Wir sind die Ältesten. Bautzen sagt: Nein, wir.
-[curious] Fakt oder Fake: Der älteste Weihnachtsmarkt Deutschlands steht in Dresden?
-Dresdens Striezelmarkt ist seit vierzehnhundertvierunddreißig urkundlich belegt.
-Bautzen beruft sich auf dreizehnhundertvierundachtzig – damals ein Fleischmarkt bis in die Weihnachtszeit.
-Und Frankfurt meldet sich mit dreizehnhundertdreiundneunzig.
-Kommt drauf an, wie man zählt: ältester beurkundeter Weihnachtsmarkt – Dresden. Älteste Erwähnung in einer Chronik – Bautzen.
-Team Dresden oder Team Bautzen? Schreib’s in die Kommentare. Nächsten Montag: Seen, die ihre Dämme selbst bauen.
+In Dresden steht der älteste Weihnachtsmarkt Deutschlands. Sagt Dresden. Bautzen sieht das anders.
+[curious] Fakt oder Fake? Der Striezelmarkt ist seit vierzehnhundertvierunddreißig belegt – da hatte Kolumbus Amerika noch nicht entdeckt.
+Bautzen hält dagegen: dreizehnhundertvierundachtzig. Damals erlaubte König Wenzel der Stadt einen freien Fleischmarkt – bis Weihnachten.
+Die Auflösung: Beides stimmt. Dresden ist der älteste Markt mit Urkunde, Bautzen der älteste, der in einer Chronik steht.
+Also: Fakt – wenn man zählt wie Dresden. Welche Seite bist du?
 
 --- NACH SZENEN ---
-Szene 1: Dresden sagt: Wir sind die Ältesten. Bautzen sagt: Nein, wir.
-Szene 2: [curious] Fakt oder Fake: Der älteste Weihnachtsmarkt Deutschlands steht in Dresden?
-Szene 3: Dresdens Striezelmarkt ist seit vierzehnhundertvierunddreißig urkundlich belegt.
-Szene 4: Bautzen beruft sich auf dreizehnhundertvierundachtzig – damals ein Fleischmarkt bis in die Weihnachtszeit.
-Szene 5: Und Frankfurt meldet sich mit dreizehnhundertdreiundneunzig.
-Szene 6: Kommt drauf an, wie man zählt: ältester beurkundeter Weihnachtsmarkt – Dresden. Älteste Erwähnung in einer Chronik – Bautzen.
-Szene 7: Team Dresden oder Team Bautzen? Schreib’s in die Kommentare. Nächsten Montag: Seen, die ihre Dämme selbst bauen.
+Szene 1: In Dresden steht der älteste Weihnachtsmarkt Deutschlands. Sagt Dresden. Bautzen sieht das anders.
+Szene 2: [curious] Fakt oder Fake? Der Striezelmarkt ist seit vierzehnhundertvierunddreißig belegt – da hatte Kolumbus Amerika noch nicht entdeckt.
+Szene 3: Bautzen hält dagegen: dreizehnhundertvierundachtzig. Damals erlaubte König Wenzel der Stadt einen freien Fleischmarkt – bis Weihnachten.
+Szene 4: Die Auflösung: Beides stimmt. Dresden ist der älteste Markt mit Urkunde, Bautzen der älteste, der in einer Chronik steht.
+Szene 5: Also: Fakt – wenn man zählt wie Dresden. Welche Seite bist du?
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+ALTE WELTEN · Fakt oder Fake? #4 → Montag: Seen, die ihre Dämme selbst bauen

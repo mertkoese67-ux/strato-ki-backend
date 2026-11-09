@@ -1,20 +1,24 @@
 H07 · Mo 23.11.2026 · Fakt oder Fake? #3 · Die Wüste, in der es mehr regnet als bei uns
 =======================================================================================
+Struktur A (Mystery → Enthüllung) · Themenwelt Natur-Wunder · Ziel ca. 26 s
 
-Wörter: 70 · geschätzt ca. 29 s (vorläufig)
+Wörter: 68 · geschätzt ca. 28 s (vorläufig)
 
 --- GESAMTTEXT (in ElevenLabs einfügen) ---
-Fakt oder Fake: Das hier ist eine Wüste?
-[curious] Weiße Dünen bis zum Horizont – im Nordosten Brasiliens. Sieht eindeutig aus.
-Fake. Hier fallen rund zwölfhundert Millimeter Regen im Jahr. In Deutschland sind es im Schnitt siebenhunderteinundneunzig.
-Das Regenwasser sammelt sich zwischen den Dünen – so entstehen Tausende Lagunen, in denen man schwimmen kann.
-Am vollsten sind sie um Juli. Im November sind viele niedrig.
-Nächsten Montag: Wo steht der älteste Weihnachtsmarkt wirklich?
+Weiße Dünen bis zum Horizont. Und jedes Jahr passiert hier etwas, das in keine Wüste gehört.
+[curious] Nordosten Brasiliens. Sand, so weit die Drohne fliegt.
+Dann kommt der Regen. Mehr als bei uns in Deutschland, jedes Jahr.
+Unter dem Sand liegt eine Schicht, durch die nichts versickert. Das Wasser bleibt.
+Tausende Lagunen zwischen den Dünen. Keine Wüste.
+Am vollsten sind sie im Hochsommer. Jetzt im November liegen viele trocken.
 
 --- NACH SZENEN ---
-Szene 1: Fakt oder Fake: Das hier ist eine Wüste?
-Szene 2: [curious] Weiße Dünen bis zum Horizont – im Nordosten Brasiliens. Sieht eindeutig aus.
-Szene 3: Fake. Hier fallen rund zwölfhundert Millimeter Regen im Jahr. In Deutschland sind es im Schnitt siebenhunderteinundneunzig.
-Szene 4: Das Regenwasser sammelt sich zwischen den Dünen – so entstehen Tausende Lagunen, in denen man schwimmen kann.
-Szene 5: Am vollsten sind sie um Juli. Im November sind viele niedrig.
-Szene 6: Nächsten Montag: Wo steht der älteste Weihnachtsmarkt wirklich?
+Szene 1: Weiße Dünen bis zum Horizont. Und jedes Jahr passiert hier etwas, das in keine Wüste gehört.
+Szene 2: [curious] Nordosten Brasiliens. Sand, so weit die Drohne fliegt.
+Szene 3: Dann kommt der Regen. Mehr als bei uns in Deutschland, jedes Jahr.
+Szene 4: Unter dem Sand liegt eine Schicht, durch die nichts versickert. Das Wasser bleibt.
+Szene 5: Tausende Lagunen zwischen den Dünen. Keine Wüste.
+Szene 6: Am vollsten sind sie im Hochsommer. Jetzt im November liegen viele trocken.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+NATUR-WUNDER · Fakt oder Fake? #3 → Montag: Wo steht der älteste Weihnachtsmarkt?
