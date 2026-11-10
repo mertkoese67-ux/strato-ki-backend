@@ -1,4 +1,4 @@
-# Bedienungsanleitung Reel-Studio v39 (Hauptplan v3)
+# Bedienungsanleitung Reel-Studio v39 (Hauptplan v4 · Final-Audit)
 
 Stand 09.11.2026 · Studio-Link (privat, aktualisiert auf v39): **https://claude.ai/artifact/8QEHxEEQYiNQizX9tXVzDz** · Dein bisheriges Studio (v37) bleibt unverändert unter seiner alten Adresse; v38 liegt als Sicherung in `backup/reel-studio-v38-vor-upgrade.html`.
 Lokal: `studio/reel-studio-v39.html` lässt sich direkt im Browser (Chrome/Edge) öffnen; alle Funktionen außer Cloud-Sync, Datei-Downloads über die Claude-Sicherung und KI-Produktionsplan laufen auch lokal.
@@ -39,6 +39,13 @@ Lokal: `studio/reel-studio-v39.html` lässt sich direkt im Browser (Chrome/Edge)
 - Timecodes ohne Audio = vorläufig (Kennzeichnung in Karte und Export). Keine framegenauen Zeiten werden vorgetäuscht.
 - Freigabe nur mit Faktencheck, Materialcheck, Vortags-Prüfung und Hook-QA.
 - Keine Preise, keine Verkaufs-CTAs, keine Links in Reels oder Captions (Qualitätsprüfung im Export warnt).
+
+## 5a Fassung v4 (Final-Audit, 10.11.2026)
+
+- Oberfläche und Funktionen sind unverändert; eingespielt wurden nur die Daten v4 (`data/reels_hauptplan_v4.json`). Die Scorecard-Gewichte liest das Studio jetzt aus den Daten (Final-Audit: Hook 25 · Visuell 25 · Story 20 · Share/Follow 15 · DACH 5 · Fakten 10).
+- Hook-Typen v4: Visueller Schock · Neugierlücke · Überraschende Behauptung · Erwartung gegen Realität · Emotionaler WOW-Moment.
+- Hotel-Reels zeigen im Content-Studio Hotel/Resort, DACH-Begründung und Dubletten-Status; Reels ohne nachgewiesenes Hotelmaterial stehen auf „Material offen – nicht produktionsbereit“ und lassen sich erst nach Materialnachweis freigeben.
+- Rückkehr zur v3-Fassung: `backup/reels_hauptplan_v3-vor-hotelaudit.json` über „Hauptplan-JSON importieren“.
 
 ## 6 Bekannte Grenzen
 
