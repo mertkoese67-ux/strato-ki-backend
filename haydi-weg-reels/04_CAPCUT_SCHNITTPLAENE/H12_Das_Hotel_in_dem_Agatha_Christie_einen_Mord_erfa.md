@@ -1,6 +1,6 @@
 # CapCut-Schnittplan H12 · Das Hotel, in dem Agatha Christie einen Mord erfand
 
-Fr 04.12.2026 · Reisewissen #4 · Ägypten (Assuan, Old Cataract) · Themenwelt Hotel-Legenden · Struktur A (Mystery → Enthüllung)
+Fr 04.12.2026 · Reisewissen #4 · Ägypten (Assuan, Sofitel Legend Old Cataract) · Themenwelt Hotel-Legenden · Struktur A (Mystery → Enthüllung)
 
 **Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:41:14 (41.5 s, Ziel ca. 38 s)
 

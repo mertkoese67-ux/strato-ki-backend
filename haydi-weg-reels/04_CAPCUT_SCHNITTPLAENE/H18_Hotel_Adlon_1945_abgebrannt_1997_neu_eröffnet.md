@@ -1,6 +1,6 @@
 # CapCut-Schnittplan H18 · Hotel Adlon: 1945 abgebrannt, 1997 neu eröffnet
 
-Fr 18.12.2026 · Reisewissen #6 · Deutschland (Berlin, Adlon) · Themenwelt Hotel-Legenden · Struktur C (Historischer Konflikt → Wendepunkt)
+Fr 18.12.2026 · Reisewissen #6 · Deutschland (Berlin, Hotel Adlon Kempinski) · Themenwelt Hotel-Legenden · Struktur C (Historischer Konflikt → Wendepunkt)
 
 **Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:41:18 (41.6 s, Ziel ca. 38 s)
 
@@ -26,7 +26,7 @@ Fr 18.12.2026 · Reisewissen #6 · Deutschland (Berlin, Adlon) · Themenwelt Hot
 | 5 | 00:00:21:12 | 00:00:28:03 | 6.7 | body | Die DDR betreibt ihn als kleines Hotel, dann wird er abgerissen. Jahrzehntelang bleibt der Platz leer. | Brandenburger Tor von Osten, entsättigt, Grafik-Umriss des leeren Grundstücks daneben (gestrichelt); Jahreslinie läuft weiter bis in die Neunziger | Pariser Platz, Berlin (Ostseite) | Bodenkamera/Drohne erhöht | Totale | statisch, Grafiklinie läuft | grau, kühl | brandenburg gate from east, brandenburg gate in winter berlin, berlin unter den linden aerial | Hard Cut | Schnitt | Gestrichelter Umriss „leer“ · Jahreslinie bis 1995 | Pad, kühl | Wind | 2 Zeilen, „leer“ gelb |
 | 6 | 00:00:28:03 | 00:00:33:29 | 5.9 | reveal | Neunzehnhundertsiebenundneunzig öffnet das Adlon wieder. Gleiche Adresse, nach altem Vorbild – aber komplett neu gebaut. | Wendepunkt: Farbe flutet zurück ins Bild – heutige Adlon-Fassade in goldenem Abendlicht, Fahnen, Portal; Drohne zieht hoch über Pariser Platz | Hotel Adlon Kempinski, Pariser Platz | Drohne, Hochziehen | Halbtotale → Totale | Craning up | goldene Stunde | hotel adlon building in berlin germany, berlin panoramic cityscape near pariser platz aerial, hotel adlon facade evening | Hard Cut auf die Jahreszahl | Farbe fährt ein (12 Frames) | Stempel „23. August 1997“ | Akkord öffnet sich, Walzer kehrt zurück | leiser Whoosh | 2 Zeilen, „1997“ gelb |
 | 7 | 00:00:33:29 | 00:00:38:18 | 4.6 | body | Die Legende ist echt. Das Haus ist jünger, als du denkst. | Letzte Totale Tor + Adlon bei Nacht, Lichter an; kurzer Hold | Pariser Platz, Berlin | Drohne hoch | Totale | statisch | Nacht, warm beleuchtet | night view of brandenburg gate in berlin, brandenburg gate night adlon | Hard Cut | Schnitt | keins | Schlussakkord | – | 1 Zeile, „jünger“ gelb |
-| 8 | 00:00:38:18 | 00:00:41:18 | 3.0 | end | – | Themenwelt-Endkarte „Hotel-Legenden“: eingefrorene Nacht-Totale mit 70 % Navy, Teaser als Grafiktext, Logo weiß | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr | Outro-Akzent, endet auf Beat | – | keine Untertitel (Grafiktext) |
+| 8 | 00:00:38:18 | 00:00:41:18 | 3.0 | end | – | Themenwelt-Endkarte „Hotel-Legenden“: eingefrorene Nacht-Totale mit 70 % Navy, Teaser als Grafiktext, Logo weiß | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Villen, die einen Kilometer vor der Insel stehen | Outro-Akzent, endet auf Beat | – | keine Untertitel (Grafiktext) |
 
 ## Stock & Quellen
 

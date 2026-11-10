@@ -102,3 +102,18 @@ Vollständige Liste: `15_UPGRADE_AENDERUNGEN_ALT_NEU.md`. Backups vor der Änder
 | Studio | v38 | v39: Themenwelt-Filter, Struktur in Liste/Kopf, Schlüsselaufnahmen-Tabelle mit Status (Content- und Qualitäts-Studio), Hook-Tabelle mit Overlay/Frage und „Overlay“-Übernahme, Hooks-CSV mit 4 Komponenten, Import liest v3 und v2, Zustand-Schema v39 |
 | Daten | reels_hauptplan_v2.json | reels_hauptplan_v3.json (+ Import-Tabellen v3 CSV/JSON/XLSX mit Tabs Hooks, Cover, Schlüsselaufnahmen, Schnittpläne, Stock, Änderungen) |
 | Tests | 31 Prüfungen | 31 Regression + 6 neue (T20–T24) |
+
+## 5 Final-Audit v3 → v4 (10.11.2026)
+
+Vollständige Liste: `18_FINAL_AUDIT_ALT_NEU.md`; Hotel-Audit: `19_FINAL_AUDIT_HOTELS.md`. Backups vor der Änderung: `backup/reel-studio-v39-vor-hotelaudit.html`, `backup/reels_hauptplan_v3-vor-hotelaudit.json`. Specials, Studio-Oberfläche und -Funktionen unverändert.
+
+| Bereich | v3 | v4 |
+|---|---|---|
+| Themen | 39 | 14 durch DACH-Hotel-/Resort-Reels ersetzt, 25 behalten |
+| Hooks | Typ 4 Konflikt / Typ 5 Erwartung | Typ 4 Erwartung gegen Realität / Typ 5 Emotionaler WOW-Moment; 195 Hooks neu |
+| Gewichte | 25/20/20/15/10/10 | 25/25/20/15/5/10 |
+| Hotel-Felder | – | hotel_reel, DACH-Begründung, Dubletten-Status, Produktionsbereitschaft |
+| Material | 89/18/10 | 78/32/7; 4 Hotel-Reels ohne Hotelnachweis (nicht produktionsbereit) |
+| Scorecard | Ø 8.93 | Ø 8.84 |
+| Studio | v39 | v39 mit Daten v4 (Beschriftung „Plan v4“, Gewichte aus Daten) |
+| Daten | reels_hauptplan_v3.json | reels_hauptplan_v4.json + Import-Tabellen v4 |

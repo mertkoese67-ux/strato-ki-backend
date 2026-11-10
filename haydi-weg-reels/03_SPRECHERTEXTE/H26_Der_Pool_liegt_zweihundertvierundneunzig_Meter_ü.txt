@@ -1,0 +1,24 @@
+H26 · Mi 06.01.2027 · Was dir keiner sagt #9 · Der Pool liegt zweihundertvierundneunzig Meter über dem Strand
+=============================================================================================================
+Struktur B (Erwartung → überraschende Realität) · Themenwelt Hotel-Legenden · Ziel ca. 28 s
+
+Wörter: 73 · geschätzt ca. 30 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Dein Pool liegt zweihundertvierundneunzig Meter über dem Strand.
+[curious] Du erwartest die Liege am Meer. Die gibt es, direkt vor der Tür.
+Doch das Hotel sind zwei Türme – oben durch eine Brücke verbunden.
+In dieser Brücke, im siebenundsiebzigsten Stock, liegt der Pool. Guinness-Rekord: der höchste Außen-Infinity-Pool in einem Gebäude.
+Der Haken: Vom Strand siehst du davon nur einen Strich am Himmel. Oben schwimmt, wer hier einzieht.
+Mittwoch: der Filmstrand, an dem Baden verboten ist.
+
+--- NACH SZENEN ---
+Szene 1: Dein Pool liegt zweihundertvierundneunzig Meter über dem Strand.
+Szene 2: [curious] Du erwartest die Liege am Meer. Die gibt es, direkt vor der Tür.
+Szene 3: Doch das Hotel sind zwei Türme – oben durch eine Brücke verbunden.
+Szene 4: In dieser Brücke, im siebenundsiebzigsten Stock, liegt der Pool. Guinness-Rekord: der höchste Außen-Infinity-Pool in einem Gebäude.
+Szene 5: Der Haken: Vom Strand siehst du davon nur einen Strich am Himmel. Oben schwimmt, wer hier einzieht.
+Szene 6: Mittwoch: der Filmstrand, an dem Baden verboten ist.
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+HOTEL-LEGENDEN · Was dir keiner sagt #9 → Mittwoch: Der Filmstrand, an dem Baden verboten ist

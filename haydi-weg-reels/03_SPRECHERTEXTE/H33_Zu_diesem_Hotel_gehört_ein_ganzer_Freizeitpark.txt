@@ -1,0 +1,24 @@
+H33 · Fr 22.01.2027 · Reisewissen #11 · Zu diesem Hotel gehört ein ganzer Freizeitpark
+======================================================================================
+Struktur E (Außergewöhnliches Erlebnis → überraschender Haken) · Themenwelt Hotel-Legenden · Ziel ca. 32 s
+
+Wörter: 78 · geschätzt ca. 32 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Zu diesem Hotel gehört ein ganzer Freizeitpark.
+[excited] Belek, bei Antalya. Du checkst im Rixos Premium ein. Der Pool ist groß. Aber er ist nicht das Highlight.
+Ein paar Kilometer weiter: The Land of Legends. Rutschen, Wellenbecken, Achterbahnen – für Hotelgäste ist der Eintritt drin, Shuttle inklusive.
+Von oben wirkt der Park wie eine eigene Stadt aus Rutschen.
+Der Haken: Das ist ein Tagesprogramm, kein Nachmittag. Früh fahren, sonst stehst du an.
+Nächsten Freitag: das Hotel, dem der Gletscher davonlief.
+
+--- NACH SZENEN ---
+Szene 1: Zu diesem Hotel gehört ein ganzer Freizeitpark.
+Szene 2: [excited] Belek, bei Antalya. Du checkst im Rixos Premium ein. Der Pool ist groß. Aber er ist nicht das Highlight.
+Szene 3: Ein paar Kilometer weiter: The Land of Legends. Rutschen, Wellenbecken, Achterbahnen – für Hotelgäste ist der Eintritt drin, Shuttle inklusive.
+Szene 4: Von oben wirkt der Park wie eine eigene Stadt aus Rutschen.
+Szene 5: Der Haken: Das ist ein Tagesprogramm, kein Nachmittag. Früh fahren, sonst stehst du an.
+Szene 6: Nächsten Freitag: das Hotel, dem der Gletscher davonlief.
+
+--- ENDKARTE (Grafiktext, gesprochen + Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #11 → Freitag: Das Hotel, dem der Gletscher davonlief

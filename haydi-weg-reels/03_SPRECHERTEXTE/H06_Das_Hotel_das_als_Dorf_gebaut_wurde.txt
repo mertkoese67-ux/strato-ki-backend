@@ -1,0 +1,24 @@
+H06 · Fr 20.11.2026 · Reisewissen #2 · Das Hotel, das als Dorf gebaut wurde
+===========================================================================
+Struktur C (Historischer Konflikt → Wendepunkt) · Themenwelt Hotel-Legenden · Ziel ca. 36 s
+
+Wörter: 87 · geschätzt ca. 36 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Das Dorf an diesem Strand ist jünger als die meisten seiner Gäste.
+[curious] Costa Adeje, Teneriffa. Anfang der Neunziger wachsen hier Hotelblöcke, einer neben dem anderen.
+Eine Familie baut etwas anderes: neunzehn Häuser im Stil alter Herrenhäuser, mit Plätzen, Gassen und einem Turm.
+Neunzehnhundertdreiundneunzig öffnet das Dorf als Hotel. Es gilt als das erste Luxushotel der Kanaren.
+Der Name kommt vom Strand: Playa del Duque, der Strand des Herzogs.
+Die Altstadt ist keine. Sie ist jünger als viele Gäste – und sieht aus, als wäre sie immer da gewesen.
+
+--- NACH SZENEN ---
+Szene 1: Das Dorf an diesem Strand ist jünger als die meisten seiner Gäste.
+Szene 2: [curious] Costa Adeje, Teneriffa. Anfang der Neunziger wachsen hier Hotelblöcke, einer neben dem anderen.
+Szene 3: Eine Familie baut etwas anderes: neunzehn Häuser im Stil alter Herrenhäuser, mit Plätzen, Gassen und einem Turm.
+Szene 4: Neunzehnhundertdreiundneunzig öffnet das Dorf als Hotel. Es gilt als das erste Luxushotel der Kanaren.
+Szene 5: Der Name kommt vom Strand: Playa del Duque, der Strand des Herzogs.
+Szene 6: Die Altstadt ist keine. Sie ist jünger als viele Gäste – und sieht aus, als wäre sie immer da gewesen.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Reisewissen #2 → Freitag: All Inclusive wurde auf Mallorca erfunden – in Zelten

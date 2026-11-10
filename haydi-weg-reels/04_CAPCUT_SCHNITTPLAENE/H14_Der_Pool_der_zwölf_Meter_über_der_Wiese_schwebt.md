@@ -1,0 +1,60 @@
+# CapCut-Schnittplan H14 · Der Pool, der zwölf Meter über der Wiese schwebt
+
+Mi 09.12.2026 · Was dir keiner sagt #5 · Italien (Südtirol, Olang – Alpin Panorama Hotel Hubertus) · Themenwelt Hotel-Legenden · Struktur A (Mystery → Enthüllung)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:33:14 (33.5 s, Ziel ca. 30 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Fünfundzwanzig Meter Wasser – und darunter nur Luft.  
+**Musik:** ruhig-kristallin 80 BPM, Puls ab Szene 2, Akkord beim Reveal, warmes Ende; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext + gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Glasstirnseite des Sky Pools über dem Hang, unter dem Becken nur Luft | Envato Elements | Aerial View of Luxury Hotel and Infinity Pool in South Tyrol Italy (Alex_Kane) | **verfügbar, ungeprüft** | Suche „sky pool dolomites“ (Audit 09./10.11.): Titel nennt Südtirol, nicht das Hotel – Vorschau muss das Hubertus zeigen; Envato „hubertus olang“ und „kronplatz winter aerial“ am 10.11.: keine passenden Treffer |
+| Story | Drohne seitlich: Pool kragt aus dem Hang, Wiese tief unten, Hotel links | Envato Elements | Infinity Pool Overlooking South Tyrolean Hills and Dolomites in Italy (Alex_Kane) | **verfügbar, ungeprüft** | gleiche Suche; Hotel nicht benannt – falls kein Hubertus: Pressematerial des Hotels/noa* anfragen |
+| Reveal | Blick von unten auf die hölzern verkleideten Stützen und die Wasserkante | Envato Elements | Alex_Kane-Clips (Tilt-up) + eigene Querschnitt-Grafik | **verfügbar, ungeprüft** | Stützen von unten in keinem Titel beschrieben; Reveal trägt über Luftbild + Grafik; Bodenfenster nur als Pressefoto (Rechte anfragen) |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:03:00 | 3.0 | hook | Fünfundzwanzig Meter Wasser – und darunter nur Luft. | Drohne tief vor der Glasstirnseite des Sky Pools: Wasserkante, Glas, dahinter Dolomiten; unter dem Becken nichts als Hang und Luft, keine Personen | Alpin Panorama Hotel Hubertus, Olang – Sky Pool | Drohne frontal auf Beckenhöhe | Nah → Halbtotale (Glaskante füllt das untere Drittel) | sehr langsamer Rückwärtsflug | Spätnachmittag, Winter, kaltes Licht auf dem Glas, warmer Dampf | infinity pool overlooking south tyrolean hills and dolomites, aerial view of luxury hotel and infinity pool in south tyrol, glass front infinity pool alps drone | Hard Cut (Kaltstart ohne Logo) | keiner (Kaltstart) | Hook-Overlay: POOL ÜBER DEM *NICHTS* (2 Zeilen) | ruhig, kristallin, 80 BPM, ein tiefer Ton | Wind leise, Wasser plätschert | keine Untertitel (Hook-Zeile steht) |
+| 2 | 00:00:03:00 | 00:00:09:08 | 6.3 | body | [curious] Der Pool des Hotels Hubertus in Olang beginnt am Haus – und endet über der Wiese. | Drohne seitlich: Hotelfassade links, der Pool kragt als langer Riegel aus dem Hang, unten die Wiese; Overlay nennt Hotel und Ort | Hotel Hubertus, Olang (Valdaora), Kronplatz | Drohne seitlich, leicht erhöht | Totale | Seitfahrt parallel zum Becken | Spätnachmittag, Schnee auf der Wiese, Dolomiten im Hintergrund | aerial view of luxury hotel and infinity pool in south tyrol, hotel infinity pool cantilever mountains aerial, kronplatz hotel pool aerial winter | Hard Cut auf „Pool“ | Schnitt | Label: „Alpin Panorama Hotel Hubertus · Olang, Südtirol“ (klein) | ruhig, Puls setzt ein | – | 2 Zeilen, „Hubertus“ gelb |
+| 3 | 00:00:09:08 | 00:00:13:28 | 4.6 | body | Vorne Glas. Im Boden ein Fenster – zwölf Meter über dem Gras. | Nahaufnahme der Glasstirnseite mit Wasserlinie, dann Pressefoto/Standbild des Bodenfensters von oben (Wiese tief unten) als Insert mit Rahmen | Sky Pool, Glasfront und Bodenfenster | Drohne nah → Insert (Pressefoto) | Nah → Insert Vollbild | Push-in → Standbild mit leichtem Zoom | Tageslicht, klares Wasser | glass edge infinity pool close up water line, hubertus sky pool floor window (Pressefoto), infinity pool glass wall mountains | Hard Cut | Schnitt | Pfeil-Grafik „Fenster im Boden“ · Zahl „12 m“ klein | Puls, Spannung hält | leiser Glas-Klang | 2 Zeilen, „12 m“ gelb |
+| 4 | 00:00:13:28 | 00:00:18:29 | 5.0 | reveal | Getragen von Stützen in Lärchenholz, die wie Stämme aus dem Hang wachsen. | Reveal: Drohne zieht unter das Becken – die hölzern verkleideten Stützen werden sichtbar, darüber die Wasserkante; Grafik-Querschnitt (Becken, Auskragung, Stützen) als kurzer Insert | Sky Pool von unten / Hang | Drohne von unten nach oben (Tilt-up) | Totale von unten | Tilt-up + Rückfahrt | Spätnachmittag, Gegenlicht am Glas | infinity pool overlooking south tyrolean hills and dolomites, cantilevered pool supports aerial from below, eigene Grafik Querschnitt | kein Schnitt (Reveal in einem Take, Grafik als Insert) | – | Grafik-Querschnitt: Becken · Auskragung · Stützen (ohne Zahlen) | Akkord öffnet sich | tiefer Impact-Hit leise bei „Stützen“ | 2 Zeilen, „Stämme“ gelb |
+| 5 | 00:00:18:29 | 00:00:25:19 | 6.7 | body | Das Wasser bleibt das ganze Jahr warm. Im Winter schwimmst du im Dampf über dem Schnee. | Dampf über dem Pool in der blauen Stunde, verschneite Wiese darunter, Dolomiten rosa; keine Personen groß | Sky Pool im Winter, Kronplatz/Dolomiten | Drohne erhöht, frontal | Halbtotale → Totale | langsames Hochziehen | blaue Stunde, Schnee, Dampf, Alpenglühen | steaming outdoor pool winter snow alps aerial, aerial view of snowy dolomite mountains in winter, aerial view of dolomites at sunset with snow | Hard Cut | Schnitt | Overlay: „ganzjährig beheizt“ | warm, öffnend | Dampf/Wind leise | 2 Zeilen, „Schnee“ gelb |
+| 6 | 00:00:25:19 | 00:00:29:02 | 3.4 | body | Der Haken: Rein dürfen nur Hausgäste. Kein Tagesticket. | Hoteleingang/Fassade im Schnee mit leuchtenden Fenstern, dann Totale Hotel am Hang mit Pool-Riegel | Hotel Hubertus, Olang | Bodenkamera → Drohne | Halbtotale → Totale | langsamer Schwenk → Orbit | Abend, Schnee, warmes Fensterlicht | alpine hotel exterior winter evening lights, aerial view of luxury hotel and infinity pool in south tyrol, south tyrol hotel snow aerial | Hard Cut | Schnitt | Icon: Schlüssel · „nur Hausgäste“ | ruhig, Pointe | – | 2 Zeilen, „Hausgäste“ gelb |
+| 7 | 00:00:29:02 | 00:00:33:14 | 4.4 | end | Nächsten Mittwoch: In Hallstatt sind die Schädel bemalt. | Themenwelt-Endkarte „Hotel-Legenden“: eingefrorene Pool-Totale mit 70 % Navy, Teaser als Grafiktext, Logo weiß | – | Grafik | Vollbild | sanfte Einblendung | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | HOTEL-LEGENDEN · Was dir keiner sagt #5 → Mittwoch: In Hallstatt sind die Schädel bemalt | Outro-Akzent, endet auf Beat | – | keine Untertitel (Grafiktext) |
+
+## Stock & Quellen
+
+- **Sky Pool Glasfront/Luftbild (Hook, Story)** – Envato Elements Aerial View of Luxury Hotel and Infinity Pool in South Tyrol Italy (Alex_Kane) · Suche: sky pool dolomites, infinity pool south tyrol aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,2,6
+- **Sky Pool seitlich/Hang (Reveal)** – Envato Elements Infinity Pool Overlooking South Tyrolean Hills and Dolomites in Italy (Alex_Kane) · Suche: sky pool dolomites · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2,4
+- **Bodenfenster von oben** – Eigene Grafik Pressefoto Hotel Hubertus / noa* – Rechte anfragen · Suche: hubertus sky pool floor window · Lizenz: Pressematerial – Nutzungsrecht schriftlich, Credit im Reel · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · **FEHLT** – Alternative: Grafik-Insert „Fenster im Boden“ über Glasfront-Nahaufnahme · Szenen 3
+- **Dolomiten Winter Luftbild** – Pexels 28963343 · Suche: dolomites winter snow aerial, aerial view of snowy dolomite mountains in winter · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Dolomiten Abendrot mit Schnee** – Pexels 28891498 · Suche: aerial view of dolomites at sunset with snow · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5
+- **Dolomiten Schnee (Reserve)** – Pexels 10832515 · Suche: majestic dolomites in snow · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 5 (Reserve)
+- **Kronplatz-Skigebiet (Ort ungeprüft)** – Pexels 35416883 · Suche: kronplatz · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 6 (Reserve)
+- **Querschnitt-Grafik, Icons, Endkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 4,6,7
+
+## Fakten
+
+- ✅ Sky Pool: 25 m lang, 5 m breit, 1,30 m tief, kragt 17 m aus dem Haus; Entwurf noa* (Bozen), fertiggestellt 2016 (archilovers.com (noa*: Hubertus Skypool), archdaily.com (Hubertus Pool / noa*), newatlas.com)
+- ✅ Rund 12 m über dem Boden; Glasfront; Fenster im Beckenboden; ganzjährig beheizt (33 °C); Zugang nur für Hausgäste, kein Day Spa (hotel-hubertus.com/en/relax/sky-pool-water-world, hospitalitynet.org/news/4080554, europeanspamagazine.com)
+- ✅ Tragwerk: Stahlstützen, mit Lärchenholz verkleidet (wie Baumstämme) – Presse spricht vereinfachend von „Lärchenstämmen“ (archello.com (10 outdoor pools), globaldesignnews.com (noa*/Hubertus), newatlas.com)
+- ⚠️ prüfen: Envato-Vorschau: zeigen die Alex_Kane-Clips wirklich das Hubertus? Sonst Pressematerial anfragen – ohne Hotelnachweis nicht produzieren
+- ⚠️ prüfen: Stützen: „Stützen in Lärchenholz, wie Baumstämme“ bleibt – nicht „echte Baumstämme“ behaupten
+- ⚠️ prüfen: Temperatur nur als „ganzjährig warm“ (33 °C Hotelangabe, nicht gesprochen)
+- ⚠️ prüfen: Keine Preise, kein Day-Spa-Hinweis als Werbung
+- ⚠️ prüfen: Spa-Erweiterung 2022 („Heaven & Hell“) nicht im Reel
+
+Quellen: hotel-hubertus.com · archilovers.com · archdaily.com · newatlas.com · hospitalitynet.org · archello.com · globaldesignnews.com · europeanspamagazine.com · falstaff-travel.com
+
+## Vor Posting prüfen
+
+- [ ] Envato-Vorschau: Hotelidentität der beiden Alex_Kane-Clips bestätigen
+- [ ] Pressefoto Bodenfenster: Nutzungsrecht schriftlich
+- [ ] Keine Preise, keine Werbesprache, keine Gäste groß im Bild
+- [ ] Hotel-Overlay klein, ohne Wertung
+- [ ] Logo weiß ab Sekunde 3, Endkarte 3 s

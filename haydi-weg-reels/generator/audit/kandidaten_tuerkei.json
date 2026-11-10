@@ -1,0 +1,457 @@
+[
+ {
+  "hotel": "Maxx Royal Bodrum Resort",
+  "ort": "Göltürkbükü (Cennet-Bucht), Bodrum-Halbinsel",
+  "land": "Türkei",
+  "eroeffnet": "Mai 2024",
+  "besonderheit": "Neuestes Haus der Maxx-Royal-Gruppe auf einer privaten Halbinsel; 282 Suiten und Villen in Hang-Architektur (Architekt Mahmut Anlar); Swim-up-Lagoon-Suiten mit Meerwasserpools und Veranden über der Bucht, Hügelvillen mit privaten Infinity-Pools; LEED-Gold-zertifiziert. Flächenangaben widersprüchlich (250.000 m² vs. 28 acres) – nicht nennen.",
+  "story": "Erwartung gegen Realität: Man sieht einen grünen Pinienhang – kein Hotel. Erst der Flug über die Bucht zeigt die Terrassen: Hunderte Suiten im Hang, jede mit eigener Meerwasser-Lagune. Haken: Die Halbinsel ist privat, das Meerwasser in den Pools ist echt (kein Chlor-Klischee).",
+  "dach": "Bodrum (BJV) mit Direktflügen aus Deutschland, Österreich, Schweiz; Maxx Royal ist in DACH-Katalogen als Top-Luxusmarke bekannt (touristik-aktuell berichtete zur Eröffnung); Zielgruppe Paare/Luxusfamilien.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „maxx royal bodrum“: nur Bodrum-Burg/Marina/Villen generisch; Pexels „bodrum hotel“: Küste/Burg. Hotel-spezifisches Bewegtbild nur über Pressematerial der Maxx Royal Resorts (anfragen).",
+  "footage_umfeld": "gefunden: Envato bodrumsurf/BlackBoxGuild/AmazingAerial/tolshin (Burg, Marina, Küste), „Aerial Video Bodrum Luxury Villas Near Coastline“ (Prodronemovie), „Aerial video of a pool at a resort in Bodrum“ (world_footage), „Aerial Top View of the Hotel with White Houses and Swimming Pool. Bodrum“ (KLYMENTII); Pexels 36948188, 40843731, 38774319, 15710128 (Güvercinlik-Bucht)",
+  "quellen": [
+   "forbestravelguide.com (Eröffnung Mai 2024, LEED Gold)",
+   "businesstraveller.com (Swim-up Lagoon Suites, Meerwasser)",
+   "afar.com (282 Suiten/Villen, Infinity-Pool-Villen)",
+   "hospitalitydesign.com (Architektur, GEO_ID)",
+   "touristik-aktuell.de 14.05.2024"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Visuell Spitzenklasse, aber ohne Hotel-Footage nicht produktionsbereit – nur mit Pressematerial oder eigener Drohne (Genehmigung) einplanen."
+ },
+ {
+  "hotel": "Maxx Royal Belek Golf Resort",
+  "ort": "Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "2011 (laut all-inclusive-guide; Hotelseite prüfen)",
+  "besonderheit": "Direkt am Montgomerie-Golfplatz (Design Colin Montgomerie, Austragungsort Turkish Airlines Open); Villen mit privaten Außenpools, 17 Zimmerkategorien, 7 Poolbereiche inkl. Aquapark und Adults-only-Pool, 3.000 m² Spa, 300 m Privatstrand; Zimmerzahl je Quelle 485–531.",
+  "story": "Mystery → Enthüllung: Ein Fairway, auf dem die Welt-Tour spielte – und am Rand stehen Villen mit eigenem Pool. Enthüllung: Hier übernachten Gäste quasi am 18. Loch; Pointe: In Belek liegen 15 Championship-Plätze auf 20 km (Zahl vorher prüfen).",
+  "dach": "Belek ist die wichtigste Golfdestination deutschsprachiger Reisender; Maxx Royal in allen großen DACH-Veranstalterkatalogen; starke Markenbekanntheit.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „maxx royal belek“: nur Belém-Turm/Kronen (Fuzzy-Treffer); Pexels: nichts Hotelspezifisches.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "golfbreaks.com (Montgomerie-Platz, Turkish Airlines Open)",
+   "nationalclubgolfer.com",
+   "oyster.com (Villen mit privaten Pools)",
+   "all-inclusive-guide.com (7 Poolbereiche, 300 m Strand, Eröffnung 2011)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 7,
+   "dach": 9
+  },
+  "empfehlung": "Starke Marke, aber Golf-Story visuell nur mit Hotel-/Platzmaterial – Pressekit anfragen; sonst als Nennung in einer Belek-Story."
+ },
+ {
+  "hotel": "Cullinan Belek",
+  "ort": "Kadriye/Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "Juni 2022",
+  "besonderheit": "13 Pools, im Winter beheizt; Aquapark 3.000 m² mit 13 Rutschen; 800 m Privatstrand; Gelände 170.000 m²; Spa/Gym 8.000 m² („eines der größten Europas“ laut Hotel-Pressemitteilung – als Eigenangabe kennzeichnen); 544–600 Zimmer je Quelle; Lagoon-Zimmer-Pools unbeheizt (schauinsland).",
+  "story": "Erwartung gegen Realität: Belek im Dezember – leere Liegen? Realität: 13 beheizte Pools dampfen in der Wintersonne. Haken: Nur die großen Pools sind beheizt, die Lagoon-Pools der Zimmer nicht – darauf kommt es bei der Winterbuchung an.",
+  "dach": "Bei schauinsland-reisen, Eurowings Holidays u. a. buchbar; Belek-Winterbuchungen sind DACH-Kernthema (Weihnachten/Silvester in der Sonne).",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „cullinan belek“: nur Belém-Turm/Bulgarien-Fuzzy; Pexels: nichts.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "hospitalitynet.org / cullinan-belek.prezly.com (Pressemitteilung: 13 beheizte Pools, 800 m Strand, 8.000 m² Spa, 600 Zimmer)",
+   "schauinsland-reisen.de (Lagoon-Pools unbeheizt, Outdoorpools/Aquapark beheizt)",
+   "cedok.cz (170.000 m², Baujahr 2022)",
+   "joinup.cz (544 Zimmer, 3.000 m² Aquapark/13 Rutschen)"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 8,
+   "story": 8,
+   "dach": 9
+  },
+  "empfehlung": "Beste Winter-Story der Gruppe; produktionsbereit erst mit Hotel-Footage (Pressekit) – Umfeldmaterial Belek liegt vor."
+ },
+ {
+  "hotel": "Rixos Premium Belek + The Land of Legends",
+  "ort": "Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "Rixos Premium Belek: Hotelseite prüfen; Land of Legends Themenpark 2016 (nicht bestätigt)",
+  "besonderheit": "Hotelgäste haben freien Zugang und Shuttle zum Themenpark The Land of Legends (Rixos-Angabe: über 40 Wasserrutschen, Wellenbecken, Achterbahnen, tägliche Shows); Rixy Kids Club mit 153 m² Kinderpool mit Rutschen (Hotel-FAQ).",
+  "story": "Erwartung gegen Realität: Du denkst, der Hotelpool ist das Highlight. Realität: Zum Hotel gehört ein ganzer Freizeitpark – mit Shuttle. Pointe: Der Park hat mehr Rutschen als mancher Ort Hotels.",
+  "dach": "Rixos Premium Belek ist Dauerbrenner in DACH-Familienkatalogen (TUI, DER, FTI-Nachfolger); Land of Legends in DACH-Medien bekannt.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „land of legends antalya“: „Aerial View of Luxury Resort Hotel and Amusement Park“ (egunes_) – Ort nicht im Titel, Vorschau prüfen; Pexels „land of legends“: nur Sazova-Park Eskişehir (12882396) – NICHT verwenden.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "rixos.com (Land-of-Legends-Zugang, FAQ Kinderpool 153 m², Rixy Kids Club 4–12 bzw. 0–16 – widersprüchlich)",
+   "britishairways.com Hotelinfo",
+   "jet2holidays.com (Kingdom Hotel)"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 8,
+   "story": 7,
+   "dach": 9
+  },
+  "empfehlung": "Familien-Topthema; Park-Footage (egunes_) vor Produktion in der Envato-Vorschau verifizieren, Hotelansichten nur über Pressekit."
+ },
+ {
+  "hotel": "The Land of Legends Kingdom Hotel",
+  "ort": "Kadriye/Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "nicht bestätigt (Park 2016)",
+  "besonderheit": "Schlosshotel mitten im Themenpark; Fantasy-Themenzimmer mit PlayStation; Zimmerzahl widersprüchlich (380 Deluxe + 20 Suiten / 400 / 219) – nicht nennen; Parkzugang inklusive.",
+  "story": "Außergewöhnliches Erlebnis → Haken: Übernachten im Märchenschloss, der Park vor der Tür. Haken: Das Schloss ist laut – Ruhe gibt es nicht, dafür Abend-Shows am Fenster (Formulierung nur mit Quelle).",
+  "dach": "Jet2/Thomas Cook-Listungen; deutschsprachige Veranstalter prüfen; Familienziel Belek.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "wie Rixos Premium Belek (egunes_-Clip); Schloss-Fassade spezifisch nicht gefunden.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "jet2holidays.com",
+   "luxtripper.co.uk",
+   "booking.com (Kadriye, Parkzugang)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 6,
+   "dach": 7
+  },
+  "empfehlung": "Eher als Teil der Rixos/Land-of-Legends-Story als eigenes Reel."
+ },
+ {
+  "hotel": "Lara-Palastmeile: Kremlin Palace · Venezia Palace · Titanic Deluxe Lara",
+  "ort": "Lara/Kundu (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "2000er (je Haus prüfen)",
+  "besonderheit": "Auf wenigen Kilometern Strand stehen Nachbauten von Moskauer Kreml (Kremlin Palace), Venedig (Venezia Palace) und ein Hotel in Kreuzfahrtschiff-Form (Titanic Deluxe Lara, 586–589 Zimmer, 6.000 m² Poolfläche als „vor Anker liegendes Schiff“). Topkapi Palace (Swandor) gehört dazu, ist aber ausgeschlossen – nicht nennen.",
+  "story": "Visuelles Rätsel → Erklärung: Kreml-Türme am Mittelmeer? Rückfahrt zeigt: Lara-Strand. Erklärung: Themenhotels der 2000er für den Massenmarkt; Reveal: dahinter die Titanic. Pointe: ein Strand, drei Weltstädte, alles All Inclusive.",
+  "dach": "Lara ist das meistgebuchte Antalya-Hotelgebiet aus DACH; Themenhotels sind Gesprächsstoff in Reisebüros; eigener Kanalbezug (Antalya-Kernkompetenz).",
+  "dubletten_status": "neu als Thema; Topkapi Palace ausgeschlossen (Specials) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Pexels 18253595 „cramlin-palace-antalya“ (vermutlich Kremlin Palace – Detailseite/Ort prüfen); Pexels 33512899 Antalya-Beachfront-Hotel (Hotel prüfen); Envato „kremlin palace antalya“/„venezia palace antalya“/„titanic hotel lara“: keine hotelspezifischen Treffer.",
+  "footage_umfeld": "gefunden: Envato „Antalya Turkey Aerial v34 … rows of luxury beachfront resorts“ (BlackBoxGuild), „Beach Infrastructure Aerial View Turkey Antalya 4K“ (Prodronemovie), „Incekum Turkey Hotels And Mediterranean“ (Great_bru); Pexels 33512899 (aerial-view-of-luxurious-beachfront-hotel-resort, Antalya – Hotel prüfen), 38412818, 38054504, 39078562, 33228721, 33128149 (colorful-hotel-facade-at-sunset-by-the-sea)",
+  "quellen": [
+   "abcnews.go.com (Titanic Hotel: 589 Zimmer, Schiffsform)",
+   "thomascook.com (Kreuzfahrtschiff-Design)",
+   "livingtheturkishdream.com (586 Zimmer, 6.000 m² Pool als Schiff)",
+   "Kremlin/Venezia Palace: Hotelseiten vor Produktion prüfen"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 8,
+   "story": 8,
+   "dach": 10
+  },
+  "empfehlung": "Stärkster Kandidat der Gruppe: echtes Bild-Rätsel, DACH-Kernziel, Teilmaterial vorhanden – Kremlin-Clip verifizieren, Rest über Lara-Luftbilder und Pressefotos."
+ },
+ {
+  "hotel": "Titanic Deluxe Lara",
+  "ort": "Lara (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "Hotelseite prüfen (Berichte ab 2003)",
+  "besonderheit": "Hotelgebäude in Form eines Kreuzfahrtschiffs mit Bullaugenfenstern, 586–589 Zimmer, 6.000 m² Poollandschaft, die das Schiff „vor Anker“ zeigt; Aquapark; 12 km zum Flughafen.",
+  "story": "Visueller Schock: Drohne frontal auf den Bug – ein Schiff im Sand. Reveal von oben: Der Pool ist das Meer, in dem das Schiff liegt.",
+  "dach": "Lara, Pauschalklassiker in DACH-Katalogen; hohe Bekanntheit.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „titanic hotel lara“: Belfast/Kreuzfahrtschiffe; Pexels: nichts Spezifisches.",
+  "footage_umfeld": "gefunden: Envato „Antalya Turkey Aerial v34 … rows of luxury beachfront resorts“ (BlackBoxGuild), „Beach Infrastructure Aerial View Turkey Antalya 4K“ (Prodronemovie), „Incekum Turkey Hotels And Mediterranean“ (Great_bru); Pexels 33512899 (aerial-view-of-luxurious-beachfront-hotel-resort, Antalya – Hotel prüfen), 38412818, 38054504, 39078562, 33228721, 33128149 (colorful-hotel-facade-at-sunset-by-the-sea)",
+  "quellen": [
+   "abcnews.go.com",
+   "thomascook.com",
+   "eurowings holidays Hotelseite"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 9,
+   "story": 6,
+   "dach": 9
+  },
+  "empfehlung": "Als Teil der Lara-Palastmeile stärker als allein; Schiffs-Totale nur über Pressefoto/eigene Drohne."
+ },
+ {
+  "hotel": "Calista Luxury Resort",
+  "ort": "Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "19.05.2007 (Hotelseite); Bauabschluss Mai 2008 laut Özdoğan",
+  "besonderheit": "Außenarchitektur vom Hamburger Büro gmp (von Gerkan, Marg und Partner), Innenarchitektur Frank Solano; preisgekrönte Architektur; Investor Ali Özdoğan. Obama-Besuch 2015 nur auf einer Reiseseite – nicht verwenden.",
+  "story": "Überraschende Behauptung: Beleks ungewöhnlichstes Resort hat ein deutsches Architekturbüro gezeichnet – dasselbe, das den Berliner Hauptbahnhof plante (gmp-Referenz vor Produktion prüfen). Reveal: Dachlandschaft aus der Luft.",
+  "dach": "Direkter DACH-Bezug über das Architekturbüro; Belek-Kernziel; in DACH-Katalogen (Eurowings Holidays).",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „calista luxury resort“: nur generische Resort-Pools; Pexels: nichts.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "calista.com.tr/en/corporate/about-us (Eröffnung 19.05.2007, gmp als Außenarchitekt)",
+   "ozdogan.com.tr (Fertigstellung 2008)",
+   "gtspirit.com (Design)"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 7,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Gute Story mit DACH-Haken, aber Architektur braucht Hotel-Luftbilder – Pressekit."
+ },
+ {
+  "hotel": "Kempinski Hotel The Dome Belek",
+  "ort": "Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "nicht bestätigt (2004 unbelegt)",
+  "besonderheit": "Seldschukischer Architekturstil mit Kuppel; Gelände ca. 70.000 m²; Zimmerzahl widersprüchlich (157 + 18 Villen / 139 + 18 + 18 / 214); Thalasso-Spa im Seldschuken-Stil; 25 km zum Flughafen.",
+  "story": "Mystery: Eine Karawanserei am Strand? Enthüllung: ein Hotel, das Architektur des 13. Jahrhunderts zitiert; Haken: das größte Thalasso-Bad der Region (Behauptung prüfen).",
+  "dach": "Kempinski = deutsch verwurzelte Marke, in DACH-Luxuskatalogen; Belek.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „kempinski dome belek“: nur Kuppelbauten weltweit; Pexels: nichts.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "kempinski.com/en/hotel-the-dome (Seldschuken-Stil, 70.000 m²)",
+   "oyster.com",
+   "theluxuryeditor.com"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 7,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Solide, aber ohne Hotelmaterial und mit schwacher Zahlbasis – Reserve."
+ },
+ {
+  "hotel": "Adam & Eve Hotel (Adults only)",
+  "ort": "Belek (Antalya)",
+  "land": "Türkei",
+  "eroeffnet": "2006 (Aggregator – prüfen)",
+  "besonderheit": "Adults only (ab 16); komplett weißes Design mit Spiegelwänden und raumhohen Fenstern; 497 Zimmer; Hinweis auf „eine der längsten Bars und Pools der Welt“ (oyster.com – Eigen-/Medienbehauptung, prüfen); 9 Restaurants, Hamam.",
+  "story": "Erwartung gegen Realität: Du erwartest Orient-Ornamente in Belek – und stehst in einem Spiegelkabinett in Weiß. Haken: kein Kind, keine Farbe, nur Spiegel; Pointe: der Pool, der kein Ende hat (nur mit belegter Länge).",
+  "dach": "Adults-only-Hotels an der Riviera sind in DACH stark nachgefragt; Belek.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato/Pexels: nichts Hotelspezifisches.",
+  "footage_umfeld": "gefunden: Envato „Aerial Panoramic View of Resort Town of Belek, Turkey“ (stockfilmstudio), „Aerial View 4K Majestic Shores of Belek Beachfront Paradise“ (BlackBoxGuild), „Beautiful Panorama of a Hotel at Belek, Turkey“ (stockfilmstudio, Hotel unbenannt); Pexels belek: 38412837, 38457651, 38413404, 33512901 (coastal-resort-with-water-park, Ort prüfen)",
+  "quellen": [
+   "airshop.gr (Baujahr 2006, Weiß/Spiegel/Glas)",
+   "oyster.com (Design, Bar/Pool-Behauptung)",
+   "thomascook.com (+16)"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 8,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Visuell eigenständig; nur mit Pressematerial, Poollängen-Behauptung ohne Quelle streichen."
+ },
+ {
+  "hotel": "Utopia World Hotel",
+  "ort": "Kargıcak, Alanya",
+  "land": "Türkei",
+  "eroeffnet": "Hotelseite prüfen",
+  "besonderheit": "Resort auf einer Klippe über dem Mittelmeer; eigener Blue-Flag-Strand unten mit zwei Stegen; Verbindung per Aufzug (plus Shuttle/Weg); Mittelklasse-Preisniveau – visuell außergewöhnlich.",
+  "story": "Visuelles Rätsel → Erklärung: Ein Pool scheint über dem Meer zu schweben, der Strand liegt Dutzende Meter tiefer. Erklärung: Klippenlage; Reveal: Der Aufzug fährt in den Fels zum Strand.",
+  "dach": "Alanya ist DACH-Massenziel (Gazipaşa und Antalya Flughafen); Preis-Leistungs-Hotel – passt zur Regel „außergewöhnlich statt teuer“.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „alanya hotel cliff aerial“: „Aerial View of Cliffs and Luxury Resort by Ocean“ (Baldasaridstock) – Ort im Titel nicht genannt, Vorschau prüfen; Envato „utopia world alanya“: nur Alanya-Stadt.",
+  "footage_umfeld": "gefunden: Envato Prodronemovie/kocozcan07/tolshin (Burg, Marina, Küste, „Aerial drone footage of Alanya“ BlackBoxGuild); Pexels 37213868, 37213870, 30583362, 37213869, 31390528",
+  "quellen": [
+   "booking.com (Blue-Flag-Privatstrand, 2 Stege, Aufzug als Ausstattung)",
+   "roomertravel.com (Klippenlage)",
+   "Gästebewertungen (Aufzug/Shuttle) – Hotel vor Produktion anfragen"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Zweitstärkster Kandidat: starkes Bild-Rätsel und bezahlbar; Klippen-Clip verifizieren, sonst Pressefoto."
+ },
+ {
+  "hotel": "D Maris Bay",
+  "ort": "Hisarönü-Bucht, Datça-Halbinsel bei Marmaris",
+  "land": "Türkei",
+  "eroeffnet": "20.04.2012 (als D-Hotel Maris; Umbenennung später)",
+  "besonderheit": "Fünf Privatstrände (Blue-Flag-Status je Quelle unterschiedlich), Standseilbahn vom Haupthaus zu den Stränden, 196–200 Zimmer, einige Strände ab 12 Jahren; 130 km von Dalaman.",
+  "story": "Überraschende Behauptung: Ein Hotel mit fünf Stränden – und einer Bahn, weil man sie zu Fuß nicht alle schafft. Haken: 130 km Transfer vom Flughafen.",
+  "dach": "Marmaris/Dalaman mit DACH-Direktflügen; Luxus-Nische, weniger Katalogpräsenz als Belek.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „d maris bay marmaris“: nur Marmaris-Bucht; „hisaronu bay aerial“: fremde Buchten (Vietnam, Taiwan) – nicht verwenden.",
+  "footage_umfeld": "gefunden (Marmaris-Bucht): Envato tolshin/AmazingAerial/antonpetrus/efeeylul; Hisarönü/Datça-spezifisch nicht gefunden",
+  "quellen": [
+   "luxurytravelmagazine.com (Eröffnung 20.04.2012)",
+   "tripplo.co.uk (Datça, 35 km Marmaris, 130 km Dalaman)",
+   "elegantresorts.co.uk (5 Strände, Funicular)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 7,
+   "dach": 6
+  },
+  "empfehlung": "Schöne Story, aber geringe Katalogrelevanz und kein Material – Reserve."
+ },
+ {
+  "hotel": "Hillside Beach Club",
+  "ort": "Kalemya-Bucht, Fethiye",
+  "land": "Türkei",
+  "eroeffnet": "nicht bestätigt (1994 unbelegt)",
+  "besonderheit": "Drei Strände in einer Privatbucht, zwei davon adults only: am Silent Beach sind Handys aus und Reden unerwünscht, Serenity Beach ebenfalls nur für Erwachsene; Nature Spa am Silent Beach; 28 km von Dalaman.",
+  "story": "Außergewöhnliches Erlebnis → Haken: Ein Strand, an dem niemand spricht. Haken: Handy aus, Kinder draußen – und genau deshalb ist er der beliebteste Strand des Resorts.",
+  "dach": "Fethiye/Ölüdeniz mit DACH-Flügen nach Dalaman; Hillside in deutschen Medien (Presseportal-Factsheet) präsent.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „hillside beach club fethiye“: „Aerial View of Beach Club by Rocky Coastline“ (world_footage), „Aerial View of a Scenic Beach Club on a Mediterranean Coast“ (BlackBoxGuild) – Ort im Titel nicht genannt, Vorschau prüfen.",
+  "footage_umfeld": "gefunden: Pexels oludeniz 32844438, 33107708, 33107701, 30956674, 30982011 (Paragliding), 29838495, 18996779 (Schmetterlingstal); Envato „4k Top view of Oludeniz beach in Fethiye“ (aissahaffar), „Aerial View of Butterfly Valley, Fethiye“ (nurisaral/megafilm)",
+  "quellen": [
+   "presseportal.de Factsheet Hillside Nov. 2023",
+   "womanandhome.com (Silent Beach: Handys aus, kinderfrei)",
+   "aspiretravelclub.co.uk (3 Strände, 2 adults only)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 7,
+   "story": 8,
+   "dach": 7
+  },
+  "empfehlung": "Beste Regel-Story der Gruppe („Reden verboten“); Material nur plausibel – Vorschau prüfen oder Pressekit."
+ },
+ {
+  "hotel": "Lujo Hotel Bodrum",
+  "ort": "Güvercinlik, Bodrum",
+  "land": "Türkei",
+  "eroeffnet": "nicht bestätigt (2020 unbelegt)",
+  "besonderheit": "„Art & Joy“-Konzept: Kunst im ganzen Resort, Modenschauen und Ausstellungen; 6 Außenpools (5 im Maki-Bereich, 1 adults only) + Indoorpool; Indigo Beach Club nur für Erwachsene; 239 Zimmer; Kijo-Kinderclub.",
+  "story": "Erwartung gegen Realität: Sieht aus wie eine Kunstmesse – ist ein All-Inclusive-Resort. Haken: Abends Laufsteg statt Animation.",
+  "dach": "Bodrum DACH-Flüge; Lujo in deutschen Luxus-Katalogen, mittlere Bekanntheit.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „lujo bodrum“: nur Bodrum-Burg/Marina; Pexels: nichts.",
+  "footage_umfeld": "gefunden: Envato bodrumsurf/BlackBoxGuild/AmazingAerial/tolshin (Burg, Marina, Küste), „Aerial Video Bodrum Luxury Villas Near Coastline“ (Prodronemovie), „Aerial video of a pool at a resort in Bodrum“ (world_footage), „Aerial Top View of the Hotel with White Houses and Swimming Pool. Bodrum“ (KLYMENTII); Pexels 36948188, 40843731, 38774319, 15710128 (Güvercinlik-Bucht)",
+  "quellen": [
+   "forbestravelguide.com (Art-inspired All-inclusive)",
+   "expedia.com (6 Außenpools, Indigo Beach Club)",
+   "britishairways.com (239 Zimmer)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 7,
+   "story": 6,
+   "dach": 6
+  },
+  "empfehlung": "Nur Reserve – Konzept ohne Bild schwer zu zeigen."
+ },
+ {
+  "hotel": "Six Senses Kaplankaya",
+  "ort": "Bozbük, Milas (nördliche Bodrum-Bucht)",
+  "land": "Türkei",
+  "eroeffnet": "2018 (Vorgänger Canyon Ranch schloss 2017)",
+  "besonderheit": "Sechs Kilometer Küste mit drei Buchten/Privatstränden für ein Hotel; Spa 10.000 m² mit 38 Behandlungsräumen, Meditationshöhle, Watsu-Pool; 141 Zimmer, 6 Suiten, 66 Ridge Villas; World Travel Awards 2025 „Türkiye's Leading Luxury Resort“.",
+  "story": "Überraschende Behauptung: Sechs Kilometer Küste – für ein einziges Hotel. Reveal: aus der Luft die Buchten ohne Nachbarn; Haken: eine Stunde vom Flughafen, bewusst abgelegen.",
+  "dach": "Bodrum-Flüge; Wellness-Luxus für DACH-Paare; geringere Katalogpräsenz.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „six senses kaplankaya“: Esoterik-Fuzzy; Pexels: nichts.",
+  "footage_umfeld": "gefunden: Envato bodrumsurf/BlackBoxGuild/AmazingAerial/tolshin (Burg, Marina, Küste), „Aerial Video Bodrum Luxury Villas Near Coastline“ (Prodronemovie), „Aerial video of a pool at a resort in Bodrum“ (world_footage), „Aerial Top View of the Hotel with White Houses and Swimming Pool. Bodrum“ (KLYMENTII); Pexels 36948188, 40843731, 38774319, 15710128 (Güvercinlik-Bucht)",
+  "quellen": [
+   "robbreport.com.my (Eröffnung nach Canyon Ranch, 141 Zimmer, 66 Villen)",
+   "boatinternational.com (6 km Küste)",
+   "britishairways.com (Spa 10.000 m², 38 Räume)",
+   "forbestravelguide.com"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 6,
+   "dach": 6
+  },
+  "empfehlung": "Reserve – spektakulär, aber Nische und kein Material."
+ },
+ {
+  "hotel": "Mandarin Oriental, Bodrum",
+  "ort": "Cennet Koyu (Paradise Bay), Göltürkbükü",
+  "land": "Türkei",
+  "eroeffnet": "2014",
+  "besonderheit": "Zwei Privatstrände, vier Außenpools, dreistöckiges Spa, Joggingpfad um die Bucht; Flächen- und Zimmerangaben widersprüchlich (60–150 acres, 109–129 Zimmer).",
+  "story": "Mystery: Eine Bucht heißt Paradies – und zwei Hotels teilen sie sich (Nachbar Maxx Royal Bodrum). Enthüllung: Cennet Koyu, Pinien, zwei Strände.",
+  "dach": "Bodrum-Flüge; Luxusmarke bekannt, aber wenig Pauschalrelevanz.",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „mandarin oriental bodrum“: nur Mandarinen (Frucht).",
+  "footage_umfeld": "gefunden: Envato bodrumsurf/BlackBoxGuild/AmazingAerial/tolshin (Burg, Marina, Küste), „Aerial Video Bodrum Luxury Villas Near Coastline“ (Prodronemovie), „Aerial video of a pool at a resort in Bodrum“ (world_footage), „Aerial Top View of the Hotel with White Houses and Swimming Pool. Bodrum“ (KLYMENTII); Pexels 36948188, 40843731, 38774319, 15710128 (Güvercinlik-Bucht)",
+  "quellen": [
+   "meetings-conventions.com (Baujahr 2014)",
+   "mandarinoriental.com (2 Privatstrände)",
+   "guide.michelin.com"
+  ],
+  "score": {
+   "hook": 6,
+   "visual": 8,
+   "story": 6,
+   "dach": 6
+  },
+  "empfehlung": "Nur als Nebenfigur in einer Bodrum-Halbinsel-Story."
+ },
+ {
+  "hotel": "Liberty Lykia (ehem. Lykia World)",
+  "ort": "Ölüdeniz, Fethiye",
+  "land": "Türkei",
+  "eroeffnet": "Hotelseite prüfen (Lykia World 1990er)",
+  "besonderheit": "Familienresort mit 645 Zimmern (ältere Quelle 583), kostenlosem Wasserpark mit Piratenwald, Schatzinsel, Höhle und Kinder-Amphitheater; 650 m Privatstrand; 3,5 km zur Ölüdeniz-Lagune (Paragliding-Welthotspot).",
+  "story": "Außergewöhnliches Erlebnis → Haken: Vom Hotelstrand aus siehst du die berühmteste Lagune der Türkei – und Hunderte Gleitschirme am Himmel. Haken: Der Wasserpark ist inklusive, die Lagune selbst ist Nationalpark mit Eintritt (prüfen).",
+  "dach": "Ölüdeniz/Fethiye bei DACH-Familien beliebt (Dalaman-Flüge); Liberty Lykia in TUI/alltours-Katalogen (prüfen).",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Hotelspezifisch nichts; Umfeld sehr stark.",
+  "footage_umfeld": "gefunden: Pexels oludeniz 32844438, 33107708, 33107701, 30956674, 30982011 (Paragliding), 29838495, 18996779 (Schmetterlingstal); Envato „4k Top view of Oludeniz beach in Fethiye“ (aissahaffar), „Aerial View of Butterfly Valley, Fethiye“ (nurisaral/megafilm)",
+  "quellen": [
+   "booking.com / all-inclusive-guide.com (Namenshistorie, Wasserpark, 645 Zimmer, 650 m Strand)",
+   "travelocity (3,5 km Ölüdeniz Nature Park)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Umfeld (Lagune, Paragliding) trägt das Reel auch ohne Hotel-Footage – als Natur-plus-Hotel-Story produktionsnah."
+ },
+ {
+  "hotel": "Rixos Sungate",
+  "ort": "Beldibi, Kemer",
+  "land": "Türkei",
+  "eroeffnet": "Hotelseite prüfen (ex Sungate Port Royal)",
+  "besonderheit": "1.045 Zimmer; 12 Pools (10 außen); Aquapark mit 11 Rutschen; 1.000 m Privatstrand; eigene Marina und zwei private Anleger; zwischen Taurus-Bergen und Meer.",
+  "story": "Überraschende Behauptung: Ein Hotel mit eigenem Hafen. Reveal: Marina, Strand, zwölf Pools – und dahinter 2.000-Meter-Berge.",
+  "dach": "Kemer/Beldibi DACH-Klassiker; Rixos in allen DACH-Katalogen (Lidl Reisen, Eurowings Holidays).",
+  "dubletten_status": "neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „Aerial View Hotels Beldibi Village Turkey“ und „Aerial View Golden Sun Hotel Beldibi Village“ (FootageStock) – zeigen Beldibi-Hotels, Rixos Sungate nicht benannt; Vorschau prüfen.",
+  "footage_umfeld": "gefunden: Envato „Aerial Drone Shot of the Ocean Beach and Mountain Coast in Antalya Kemer“ (aerialviewworld), „Aerial View of Kemer City … Resort Town“ (MicroscopeStudio), „Flying along the beautiful beachline … Kemer“ (megafilm), „people swimming … pier at a hotel beach in Kemer“ (PhilipNordling – Menschen klein); Pexels 39054607 (Tahtalı), 31913634, 25857994",
+  "quellen": [
+   "lastminute.co.nz (1.045 Zimmer)",
+   "britishairways.com (12 Pools, Aquapark 11 Rutschen)",
+   "rixos.com (1.000 m Strand, Marina, 2 Anleger)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 6,
+   "dach": 8
+  },
+  "empfehlung": "Gute Größen-Story; Beldibi-Clips prüfen, Hotelansichten über Pressekit."
+ }
+]

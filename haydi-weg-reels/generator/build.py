@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Generator v3 (Content-Upgrade 09.11.2026): baut aus den Reel-Definitionen (r*.py) alle Lieferdateien.
+"""Generator v4 (Final-Audit 09.11.2026: DACH-Luxushotels, Visual WOW): baut aus den Reel-Definitionen (r*.py) alle Lieferdateien.
 Timecodes sind VORLÄUFIG (Schätzung 2,45 Wörter/s + 0,35 s je '…'); erst das Reel-Studio berechnet nach Audio-Upload reale Zeiten."""
 import json, re, csv, os, importlib, glob, datetime, statistics
 from kalender import FINAL, SERIE, SERIE_HINWEIS, STRUKTUR, THEMENWELTEN, kw
@@ -8,9 +8,9 @@ FPS = 30
 WPS = 2.45
 OUT = "/home/user/strato-ki-backend/haydi-weg-reels/"
 STAND = "09.11.2026"
-HOOK_TYPES = ["Visueller Schock","Neugierlücke","Überraschende Behauptung","Emotionaler Konflikt","Erwartung gegen Realität"]
+HOOK_TYPES = ["Visueller Schock","Neugierlücke","Überraschende Behauptung","Erwartung gegen Realität","Emotionaler WOW-Moment"]
 HOOK_CRIT = ["scrollstop","verstaendlich","originalitaet","emotion","visuell","glaubwuerdig","dach"]
-QS_W = {"hook":25,"visual":20,"story":20,"share":15,"dach":10,"facts":10}
+QS_W = {"hook":25,"visual":25,"story":20,"share":15,"dach":5,"facts":10}
 KS_ROLES = ["Scroll-Stop","Story","Reveal"]
 KS_STATUS = ["gefunden","verfügbar, ungeprüft","nicht gefunden"]
 TAG_RE = re.compile(r"\[[^\]]+\]")
@@ -19,6 +19,8 @@ BANNED = ["das musst du sehen","du wirst nicht glauben","unglaublich","krass","g
           "das wird dich","verrückt","wahnsinn","unfassbar","magisch","paradies","traumhaft","must-see","muss man gesehen haben","schock","schockierend",
           "was dann passiert","bis zum ende","warte bis","niemand erzählt dir","mind-blowing","nicht glauben, was"]
 CAL = {r[0]: dict(zip(["nr","date","wd","serie","ep","title","place","themenwelt","decision","alt_title","structure","target_sec","why"], r)) for r in FINAL}
+PROD_READY = "Vorprüfung bestanden – Freigabe erst nach Materialcheck, Faktencheck am Vortag"
+NOT_READY = "Material offen – nicht produktionsbereit (Schlüsselaufnahme fehlt), erst nach Materialnachweis freigeben"
 
 def words(t):
     t = TAG_RE.sub(" ", t)
@@ -100,7 +102,7 @@ def build_reel(d):
         themenwelt=cal["themenwelt"], themenwelt_text=THEMENWELTEN[cal["themenwelt"]],
         decision_v3=cal["decision"], title_v2=cal["alt_title"], decision_reason=cal["why"],
         structure=structure, structure_name=STRUKTUR[structure], target_sec=cal["target_sec"],
-        hotel=d.get("hotel", ""),
+        hotel=d.get("hotel", ""), hotel_reel=bool(d.get("hotel_reel", False)), dubletten_status=d.get("dubletten", "neu – gegen Specials v37, Oktober-Skripte und Plan v3 geprüft; gegen Live-Konto ungeprüft"), dach_begruendung=d.get("dach_begruendung", ""),
         claim=d["claim"], answer=d.get("answer", ""), dach_anchor=d["dach"], emotion=d["emotion"],
         story_arc=d["arc"],
         teaser_spoken=bool(d.get("teaser_spoken", False)), end_card=d["end_card"],
@@ -117,8 +119,8 @@ def build_reel(d):
         stock=d["stock"],
         facts=dict(secured=[dict(fact=f, source=s) for f, s in d["facts"]], to_check=d["check"], sources=d["sources"], checked_on=STAND),
         scorecard=dict(weights=QS_W, scores=sc, total=total, iterations=d["iterations"], label="Einschätzung Redaktion nach Nacharbeit, keine Messwerte; Score ersetzt keine Rechte-, Fakten- oder Materialprüfung"),
-        approval=dict(status=d.get("approval", "Vorprüfung bestanden – Freigabe erst nach Materialcheck, Faktencheck am Vortag"), pre_post_checks=d["prepost"],
-                      requirements=["Fakten am Vortag geprüft", "alle Clips lizenziert und dem Ort/Hotel zugeordnet", "Hook ohne Ton verständlich (erstes Bild + Overlay)", "keine Personen vor der Kamera, keine Gesichter groß", "kein Verkaufs-CTA (bis Ende 2026)"]),
+        approval=dict(status=d.get("approval", NOT_READY if any(k["status"] == "nicht gefunden" and k["role"] in ("Scroll-Stop","Reveal") for k in d["key_shots"]) else PROD_READY), pre_post_checks=d["prepost"],
+                      requirements=["Fakten am Vortag geprüft", "alle Clips lizenziert und dem Ort/Hotel zugeordnet (keine falschen Hotelaufnahmen)", "Hook ohne Ton verständlich (erstes Bild + Overlay)", "keine Personen vor der Kamera, keine Gesichter groß", "kein Verkaufs-CTA, keine Preise (bis Ende 2026)", "Hotel-Reels: Schlüsselaufnahme des Hotels nachgewiesen"]),
         captions=dict(ig=d["cap_ig"], tt=d["cap_tt"], yt_title=d["cap_yt"]),
         changelog_vs_plan=d["changelog"], open_points=d["open"],
     )
@@ -158,6 +160,12 @@ def lint(reel):
         if words(h["overlay"]) > 7: errs.append("Overlay > 7 Wörter: %s" % h["overlay"])
         if re.search(r"\d", h["spoken"]): errs.append("Ziffer im gesprochenen Hook: %s" % h["spoken"])
     if not reel["end_card"].strip(): errs.append("Endkarte leer")
+    if reel["hotel_reel"]:
+        if not reel["hotel"]: errs.append("Hotel-Reel ohne Hotelname")
+        if not reel["dach_begruendung"]: errs.append("Hotel-Reel ohne DACH-Begründung")
+        if all(k["status"] == "nicht gefunden" for k in reel["key_shots"]): errs.append("Hotel-Reel ohne jeden Footage-Nachweis")
+    for ph in ("zimmer, restaurants und", "bietet ihnen", "verwöhnt", "exklusiv", "luxuriös", "erstklassig", "traumurlaub", "buchbar", "ab sofort"):
+        if ph in plain.lower(): errs.append("Werbesprache im Sprechtext: %s" % ph)
     _norm = lambda t: re.sub(r"\s+", " ", TAG_RE.sub("", t)).strip().rstrip(".!?…").lower()
     _w = [h for h in reel["hooks"] if h["winner"]][0]
     if _norm(_w["spoken"]) != _norm(reel["cut"]["scenes"][0]["vo"]): errs.append("Sieger-Hook ≠ gesprochener Satz der Hook-Szene")
@@ -206,12 +214,12 @@ def fname(reel):
 def write_outputs(reels):
     os.makedirs(OUT+"data", exist_ok=True); os.makedirs(OUT+"03_SPRECHERTEXTE", exist_ok=True); os.makedirs(OUT+"04_CAPCUT_SCHNITTPLAENE", exist_ok=True)
     for f in glob.glob(OUT+"03_SPRECHERTEXTE/*") + glob.glob(OUT+"04_CAPCUT_SCHNITTPLAENE/*"): os.remove(f)
-    json.dump(dict(meta=dict(stand=STAND, plan="haydi-weg Reel-Masterplan 09.11.2026–05.02.2027, Fassung v3 (Content-Upgrade)", count=len(reels), fps=FPS, wps=WPS,
-                             timing="Alle Timecodes vorläufig; reale Zeiten erst nach Audio-Upload im Reel-Studio", schema="reels_hauptplan_v3",
+    json.dump(dict(meta=dict(stand=STAND, plan="haydi-weg Reel-Masterplan 09.11.2026–05.02.2027, Fassung v4 (Final-Audit: DACH-Luxushotels, Visual WOW)", count=len(reels), fps=FPS, wps=WPS,
+                             timing="Alle Timecodes vorläufig; reale Zeiten erst nach Audio-Upload im Reel-Studio", schema="reels_hauptplan_v4",
                              series=SERIE, series_note=SERIE_HINWEIS, structures=STRUKTUR, themenwelten=THEMENWELTEN, hook_types=HOOK_TYPES, key_shot_status=KS_STATUS), reels=reels),
-              open(OUT+"data/reels_hauptplan_v3.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)
+              open(OUT+"data/reels_hauptplan_v4.json","w",encoding="utf-8"), ensure_ascii=False, indent=1)
     # Sprechertexte
-    allvo = ["# Alle 39 ElevenLabs-Sprechertexte (Fassung v3 · Stimme Mert_V2, Eleven v3)\n", "Regeln: Text unverändert einfügen; eckige Klammern sind Audio-Tags und werden nicht gesprochen. Zahlen sind ausgeschrieben. Längen folgen der Geschichte (22–42 s) und sind Schätzungen (%.2f Wörter/s) – maßgeblich ist die exportierte Audiodatei.\n" % WPS]
+    allvo = ["# Alle 39 ElevenLabs-Sprechertexte (Fassung v4 · Stimme Mert_V2, Eleven v3)\n", "Regeln: Text unverändert einfügen; eckige Klammern sind Audio-Tags und werden nicht gesprochen. Zahlen sind ausgeschrieben. Längen folgen der Geschichte (22–42 s) und sind Schätzungen (%.2f Wörter/s) – maßgeblich ist die exportierte Audiodatei.\n" % WPS]
     for r in reels:
         head = "%s · %s %s · %s #%d · %s" % (r["id"], r["weekday"], r["date_de"], r["series_name"], r["episode"], r["title"])
         body = "%s\n%s\nStruktur %s (%s) · Themenwelt %s · Ziel ca. %d s\n\nWörter: %d · geschätzt ca. %.0f s (vorläufig)\n\n--- GESAMTTEXT (in ElevenLabs einfügen) ---\n%s\n\n--- NACH SZENEN ---\n%s\n\n--- ENDKARTE (Grafiktext, %s) ---\n%s\n" % (
@@ -252,7 +260,7 @@ def write_outputs(reels):
         for r in reels:
             for h in r["hooks"]:
                 w.writerow([r["id"], r["date_de"], r["title"], h["typ"], h["spoken"], h["first_frame"], h["overlay"], h["question"]] + [h["scores"][c] for c in HOOK_CRIT] + [h["total"], "★" if h["winner"] else "", h["reason"]])
-    L = ["# 195 Hooks (Fassung v3 · 5 je Reel · 4 Komponenten)", "", "Jeder Hook ist die Kombination aus **erstem sichtbaren Bild** (muss ohne Ton funktionieren), **gesprochenem Einstieg**, **Text-Overlay** und der **offenen Frage**, die im Kopf des Zuschauers entsteht. Fünf Typen je Reel: Visueller Schock · Neugierlücke · Überraschende Behauptung · Emotionaler Konflikt · Erwartung gegen Realität. Kriterien je 1–10 (Einschätzung): Scroll-Stop · Verständlichkeit · Originalität · Emotion · visuelle Umsetzbarkeit · Glaubwürdigkeit · DACH-Fit. ★ = Sieger mit Begründung (nicht immer der Punktbeste, wenn Faktentreue oder Material dagegen sprechen). Keine Floskeln, keine leeren Superlative, keine Fake-Cliffhanger (automatisch geprüft).", ""]
+    L = ["# 195 Hooks (Fassung v4 · 5 je Reel · 4 Komponenten)", "", "Jeder Hook ist die Kombination aus **erstem sichtbaren Bild** (muss ohne Ton funktionieren), **gesprochenem Einstieg**, **Text-Overlay** und der **offenen Frage**, die im Kopf des Zuschauers entsteht. Fünf Typen je Reel: Visueller Schock · Neugierlücke · Überraschende Behauptung · Erwartung gegen Realität · Emotionaler WOW-Moment. Kriterien je 1–10 (Einschätzung): Scroll-Stop · Verständlichkeit · Originalität · Emotion · visuelle Umsetzbarkeit · Glaubwürdigkeit · DACH-Fit. ★ = Sieger mit Begründung (nicht immer der Punktbeste, wenn Faktentreue oder Material dagegen sprechen). Keine Floskeln, keine leeren Superlative, keine Fake-Cliffhanger (automatisch geprüft).", ""]
     for r in reels:
         L += ["## %s · %s (%s %s · Struktur %s)" % (r["id"], r["title"], r["weekday"], r["date_de"], r["structure"]), "", "| Typ | Gesprochen | Erstes Bild (ohne Ton) | Overlay | Offene Frage | " + " | ".join(HOOK_CRIT) + " | Ø | Bewertung |", "|---|---|---|---|---|" + "---|"*len(HOOK_CRIT) + "---|---|"]
         for h in r["hooks"]:
@@ -264,7 +272,7 @@ def write_outputs(reels):
         w = csv.writer(f, delimiter=";"); w.writerow(["Reel","Datum","Titel","Cover #","Headline (Manrope ExtraBold, ≤2 Zeilen)","Gelbes Keyword (#FBDC15)","Bild","Variante"])
         for r in reels:
             for i, c in enumerate(r["covers"]): w.writerow([r["id"], r["date_de"], r["title"], i+1, c["headline"], c["yellow"], c["image"], c["variant"]])
-    L = ["# 117 Cover-Konzepte (Fassung v3 · 3 je Reel)", "", "Design: Navy #1C2C5C, Gelb #FBDC15, Weiß; Headline Manrope ExtraBold ≤ 2 Zeilen, ein Schlüsselwort gelb; Bild mit ruhiger Zone für den Text (Zonenwahl macht das Studio automatisch). Variante A = Frage, B = Zahl/Behauptung, C = Themenwelt/Bild.", ""]
+    L = ["# 117 Cover-Konzepte (Fassung v4 · 3 je Reel)", "", "Design: Navy #1C2C5C, Gelb #FBDC15, Weiß; Headline Manrope ExtraBold ≤ 2 Zeilen, ein Schlüsselwort gelb; Bild mit ruhiger Zone für den Text (Zonenwahl macht das Studio automatisch). Variante A = Frage, B = Zahl/Behauptung, C = Themenwelt/Bild.", ""]
     for r in reels:
         L += ["## %s · %s" % (r["id"], r["title"]), "", "| # | Headline | gelb | Bild | Variante |", "|---|---|---|---|---|"] + ["| %d | %s | %s | %s | %s |" % (i+1, c["headline"], c["yellow"], c["image"], c["variant"]) for i, c in enumerate(r["covers"])] + [""]
     open(OUT+"06_COVER_117.md", "w", encoding="utf-8").write("\n".join(L))
@@ -279,7 +287,7 @@ def write_outputs(reels):
             for k in r["key_shots"]: w.writerow([r["id"], r["date_de"], r["title"], k["role"], k["motif"], k["source"], k["ref"], k["status"], k["note"]])
     cnt = {s: sum(1 for r in reels for k in r["key_shots"] if k["status"] == s) for s in KS_STATUS}
     miss = [(r, st) for r in reels for st in r["stock"] if st["missing"]]
-    L = ["# Stock- und Quellenliste (Fassung v3)", "", "Stand %s. **Prüfstand ehrlich:** Für jede Schlüsselaufnahme wurde am %s die Suchergebnisseite von Pexels bzw. Envato Elements aus dieser Umgebung geöffnet und ein passender Treffer (Titel/ID) protokolliert – die Detailseite mit Lizenztext, Urheber und Ort konnte nicht geöffnet werden (Pexels-Detailseiten liefern HTTP 403, Envato-Vorschau braucht ein Konto). Deshalb gilt: **„gefunden“** = Treffer mit passendem Titel/Motiv gelistet, vor Download Ort/Urheber/Personen prüfen · **„verfügbar, ungeprüft“** = Treffer plausibel, Motiv nicht sicher · **„nicht gefunden“** = keine passende Suche – Alternative oder Umbau steht dabei. Keine erfundenen Clipverfügbarkeiten. Lizenz Pexels/Pixabay: kommerziell ohne Pflichtnennung (Urheber trotzdem protokollieren); Envato Elements: Abo-Lizenz je Download registrieren. Zusätzliches Stockbudget max. 50 €/Monat, Käufe nur nach Freigabe." % (STAND, STAND), "",
+    L = ["# Stock- und Quellenliste (Fassung v4)", "", "Stand %s. **Prüfstand ehrlich:** Für jede Schlüsselaufnahme wurde am %s die Suchergebnisseite von Pexels bzw. Envato Elements aus dieser Umgebung geöffnet und ein passender Treffer (Titel/ID) protokolliert – die Detailseite mit Lizenztext, Urheber und Ort konnte nicht geöffnet werden (Pexels-Detailseiten liefern HTTP 403, Envato-Vorschau braucht ein Konto). Deshalb gilt: **„gefunden“** = Treffer mit passendem Titel/Motiv gelistet, vor Download Ort/Urheber/Personen prüfen · **„verfügbar, ungeprüft“** = Treffer plausibel, Motiv nicht sicher · **„nicht gefunden“** = keine passende Suche – Alternative oder Umbau steht dabei. Keine erfundenen Clipverfügbarkeiten. Lizenz Pexels/Pixabay: kommerziell ohne Pflichtnennung (Urheber trotzdem protokollieren); Envato Elements: Abo-Lizenz je Download registrieren. Zusätzliches Stockbudget max. 50 €/Monat, Käufe nur nach Freigabe." % (STAND, STAND), "",
          "## Schlüsselaufnahmen – Gesamtbild", "", "| Status | Anzahl von %d |" % (3*len(reels)), "|---|---|"] + ["| %s | %d |" % (s, cnt[s]) for s in KS_STATUS] + ["",
          "## Nicht gefundene Schlüsselaufnahmen (mit Umbau/Alternative)", "", "| Reel | Rolle | Motiv | Alternative/Umbau |", "|---|---|---|---|"] + \
         ["| %s %s | %s | %s | %s |" % (r["id"], r["title"], k["role"], k["motif"], k["note"]) for r in reels for k in r["key_shots"] if k["status"] == "nicht gefunden"] + ["",
@@ -290,11 +298,11 @@ def write_outputs(reels):
     open(OUT+"07_STOCK_QUELLEN.md", "w", encoding="utf-8").write("\n".join(L))
     # Scorecards
     with open(OUT+"10_QUALITAET_SCORECARDS.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f, delimiter=";"); w.writerow(["Reel","Datum","Titel","Entscheidung v3","Struktur","Hook 25","Visuell 20","Story 20","Share 15","DACH 10","Fakten 10","Gesamt","Freigabestatus","Überarbeitungen"])
+        w = csv.writer(f, delimiter=";"); w.writerow(["Reel","Datum","Titel","Entscheidung v4","Struktur","Hook 25","Visuell 25","Story 20","Share 15","DACH 5","Fakten 10","Gesamt","Freigabestatus","Überarbeitungen"])
         for r in reels:
             s = r["scorecard"]["scores"]; w.writerow([r["id"], r["date_de"], r["title"], r["decision_v3"], r["structure"], s["hook"], s["visual"], s["story"], s["share"], s["dach"], s["facts"], r["scorecard"]["total"], r["approval"]["status"], len(r["scorecard"]["iterations"])])
     avg = sum(r["scorecard"]["total"] for r in reels)/len(reels)
-    L = ["# Qualitäts-Scorecards (39 Reels · Fassung v3)", "", "Gewichtung laut Auftrag: Hook/erstes Bild 25 % · Visuelle Stärke 20 % · Storytelling 20 % · Shareability 15 % · DACH-Relevanz 10 % · Fakten/Umsetzbarkeit 10 %. Noten 1–10 sind **Einschätzungen der Redaktion nach mindestens zwei Überarbeitungsrunden** (Soll-Zustand des Konzepts), keine Messwerte und keine Erfolgsversprechen. Ein Score ersetzt keine Rechte-, Fakten- oder Materialprüfung. Ziel ≥ 9,0 – wo es nicht erreicht wird, steht der Grund im Protokoll.", "",
+    L = ["# Qualitäts-Scorecards (39 Reels · Fassung v4 · Final-Audit)", "", "Gewichtung laut Final-Audit: Hook/erster Frame 25 % · Visuelle Faszination 25 % · Storytelling 20 % · Share-/Follow-Potenzial 15 % · DACH-Relevanz 5 % · Fakten/Umsetzbarkeit 10 %. Noten 1–10 sind **Einschätzungen der Redaktion nach mindestens zwei Überarbeitungsrunden** (Soll-Zustand des Konzepts), keine Messwerte und keine Erfolgsversprechen. Ein Score ersetzt keine Rechte-, Fakten- oder Materialprüfung. Ziel ≥ 9,0 – wo es nicht erreicht wird, steht der Grund im Protokoll.", "",
          "Durchschnitt: **%.2f** · ≥ 9,0: %d Reels · 8,5–8,99: %d · < 8,5: %d" % (avg, sum(1 for r in reels if r["scorecard"]["total"] >= 9), sum(1 for r in reels if 8.5 <= r["scorecard"]["total"] < 9), sum(1 for r in reels if r["scorecard"]["total"] < 8.5)), "",
          "| Reel | Titel | v3 | Str. | Hook | Vis | Story | Share | DACH | Fakt | **Gesamt** | Freigabe |", "|---|---|---|---|---|---|---|---|---|---|---|---|"]
     for r in reels:

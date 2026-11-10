@@ -1,0 +1,21 @@
+# DACH-Hotel-Audit (Phase 3 · Final Ultra-Premium Content Audit) – Recherche-Brief für Kandidaten
+
+Ziel: mindestens 30 neue, DACH-relevante Hotel-/Resort-Kandidaten mit **außergewöhnlichem visuellem Potenzial** (Infinity-/Rooftop-Pools, riesige Poollandschaften, Swim-up-Suiten, private Poolvillen, außergewöhnliche Architektur, Strand-/Lagunenanlagen, Familien-Luxuskonzepte, überraschende Erlebnisse). Nicht teuer = gut, sondern außergewöhnlich = gut; auch günstigere Resorts, wenn visuell außergewöhnlich.
+
+## Harte Regeln
+- Nur Hotels, die für Urlauber aus Deutschland/Österreich/Schweiz tatsächlich attraktiv und touristisch relevant sind (Pauschal-/Veranstalterangebot, Direktflüge, Bekanntheit, Nachfrage). Prioritäre Ziele: Türkei (Antalya, Belek, Lara, Side, Kemer, Bodrum), Griechenland (Kreta, Rhodos, Kos, Korfu), Spanien (Mallorca, Kanaren, Ibiza), Ägypten (Hurghada, Makadi Bay, Marsa Alam, Sharm el-Sheikh), VAE (Dubai, Abu Dhabi, Ras Al Khaimah), Malediven; weitere Ziele nur mit klar begründeter DACH-Relevanz. **Keine beliebigen Hotels in China oder abgelegenen Regionen**, nur weil sie spektakulär aussehen. Fernreisen erlaubt, wenn für die Zielgruppe wirklich interessant (z. B. Mauritius, Thailand, Bali, Dom Rep – begründen).
+- **Ausgeschlossen (bereits behandelt – Specials v37, Oktober-Reels, aktueller Plan v3):** Regnum The Crown (Belek) · Spice Hotel & Spa (Belek) · NG Phaselis Bay (Kemer) · Selectum Luxury Resort Belek · Quattro Family Club Dem (Alanya) · Swandor Topkapi Palace · Swandor Hotels Kemer · Mirage Park Resort · Ela Excellence Resort Belek · Susesi Luxury Resort · Mardan Palace / Titanic Mardan Palace · Marina Bay Sands · Burj Al Arab · Pera Palace Istanbul · Ciel Dubai Marina · Çırağan Palace Kempinski · Kurumba Maldives · Kakslauttanen · Parador de Las Cañadas del Teide · Hotel Adlon · Kulm Hotel St. Moritz · Argos in Cappadocia · Mena House · Sextantio Le Grotte della Civita · Schneefernerhaus · Hotel Belvédère Furka · Hotel Pragser Wildsee · Straubinger/Badeschloss Bad Gastein · Sofitel Legend Old Cataract · Schloss Laufen. Ein ausgeschlossenes Hotel darf nur mit ausdrücklich neuem, substanziell anderem Thema erscheinen – dann als „Dublette mit neuem Thema“ kennzeichnen.
+- Dublettenstatus je Kandidat: „neu (gegen Specials/Oktober-Skripte/Plan v3 geprüft)“ – tatsächliche Instagram-/TikTok-Veröffentlichungen sind nicht einsehbar → zusätzlich immer „gegen Live-Konto ungeprüft“.
+- Keine erfundenen Fakten, keine erfundenen Clips. Jede Besonderheit mit Quelle (WebSearch: Hotelseite, Veranstalter, seriöse Medien). Keine Preise.
+- Keine Personen vor der Kamera im Konzept; Stock darf Menschen klein/anonym enthalten (vermerken).
+
+## Footage-Check (Pflicht je Kandidat)
+- Envato Elements: WebFetch `https://elements.envato.com/stock-video/<hotelname+ort mit + verbunden>` → Titel + Autor der Treffer. Treffer mit Hotelname im Titel = „gefunden“; nur Ort/Resort generisch = „verfügbar, ungeprüft“; nichts = „nicht gefunden“.
+- Pexels: WebFetch `https://www.pexels.com/search/videos/<hotelname oder ort>/` → `/video/<slug>-<id>/`-Slugs; ID notieren.
+- Zusätzlich generisches Destinationsmaterial (Ort/Strand/Skyline) prüfen, damit Story- und Umfeldszenen gesichert sind.
+- Ein Hotel ohne hotel-spezifischen Footage-Nachweis ist **nicht produktionsbereit** (trotzdem listen, Status klar markieren).
+
+## Ausgabe (zwei Dateien im Ordner `audit/`)
+1. `kandidaten_<gruppe>.md` – Tabelle: Hotel | Ort/Land | eröffnet/renoviert | Was ist außergewöhnlich (konkret, belegt) | Story-Idee (keine Hotelwerbung, mit Wendung/Reveal) | DACH-Relevanz (Begründung: Veranstalter, Flüge, Bekanntheit) | Dubletten-Status | Footage Hotel (Status + Belege) | Footage Umfeld | Quellen | Vorab-Score (Hook 1–10, Visuell 1–10, Story 1–10, DACH 1–10) | Empfehlung (1 Satz).
+2. `kandidaten_<gruppe>.json` – Liste von Objekten mit Schlüsseln: hotel, ort, land, eroeffnet, besonderheit, story, dach, dubletten_status, footage_hotel_status ("gefunden"/"verfügbar, ungeprüft"/"nicht gefunden"), footage_hotel_belege, footage_umfeld, quellen (Liste), score (dict hook/visual/story/dach), empfehlung.
+Mindestens 8 Kandidaten je Gruppe, bewusst gemischt (Top-Luxus und visuell außergewöhnliche Mittelklasse). Rückmeldung an den Koordinator kurz: Top-5 der Gruppe mit Footage-Status, Pfade der Dateien, Probleme.

@@ -1,7 +1,7 @@
 {
- "stand": "2026-11-09T18:59:30.160Z",
+ "stand": "2026-11-10T23:12:17.869Z",
  "html": "/home/user/strato-ki-backend/haydi-weg-reels/studio/reel-studio-v39.html",
- "passed": 37,
+ "passed": 38,
  "failed": 0,
  "seconds": 22,
  "results": [
@@ -177,13 +177,13 @@
    "id": "T20",
    "name": "Themenwelt-Filter (4 Themenwelten) filtert die Liste",
    "ok": true,
-   "detail": "chips=5 Hotel-Legenden=10"
+   "detail": "chips=5 Hotel-Legenden=20"
   },
   {
    "id": "T21",
    "name": "Schlüsselaufnahmen: 3 je Reel (117) mit ehrlichem Status, Tabelle in Content-Studio",
    "ok": true,
-   "detail": "{\"n\":117,\"valid\":true,\"roles\":39,\"found\":89,\"missing\":10,\"missNote\":true}"
+   "detail": "{\"n\":117,\"valid\":true,\"roles\":39,\"found\":78,\"missing\":7,\"missNote\":true}"
   },
   {
    "id": "T21b",
@@ -201,13 +201,19 @@
    "id": "T23",
    "name": "Plan v3: Strukturen A–E, nie zweimal hintereinander gleich, Längen 22–42 s variabel, 4 Themenwelten, Freitag „Reisewissen“",
    "ok": true,
-   "detail": "{\"structures\":\"ABCDE\",\"consecutive\":false,\"min\":24.2,\"max\":46.09,\"sd\":4.51,\"rw\":\"Reisewissen\",\"tw\":4}"
+   "detail": "{\"structures\":\"ABCDE\",\"consecutive\":false,\"min\":26.51,\"max\":46.09,\"sd\":4.31,\"rw\":\"Reisewissen\",\"tw\":4}"
   },
   {
    "id": "T24",
    "name": "Studio-Zustand als JSON (Schema v39) exportierbar",
    "ok": true,
    "detail": "haydi-weg_studio_zustand.json"
+  },
+  {
+   "id": "T25",
+   "name": "Qualitäts-Studio rechnet mit den Audit-Gewichten aus den Daten",
+   "ok": true,
+   "detail": "{\"w\":{\"hook\":25,\"visual\":25,\"story\":20,\"share\":15,\"dach\":5,\"facts\":10},\"d\":{\"hook\":25,\"visual\":25,\"story\":20,\"share\":15,\"dach\":5,\"facts\":10},\"tot\":9,\"ref\":9}"
   },
   {
    "id": "T17",

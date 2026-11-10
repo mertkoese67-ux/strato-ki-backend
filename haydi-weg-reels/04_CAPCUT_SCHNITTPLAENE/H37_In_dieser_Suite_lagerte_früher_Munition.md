@@ -1,0 +1,56 @@
+# CapCut-Schnittplan H37 · In dieser Suite lagerte früher Munition
+
+Mo 01.02.2027 · Fakt oder Fake? #13 · Spanien (Mallorca, Cala Blava – Cap Rocat) · Themenwelt Hotel-Legenden · Struktur A (Mystery → Enthüllung)
+
+**Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:32:03 (32.1 s, Ziel ca. 34 s)
+
+> **Timecode-Regel:** VORLÄUFIG – geschätzt aus Wortzahl; nach Audio-Upload im Reel-Studio neu berechnen
+
+**Hook (Sieger):** Fakt oder Fake: In dieser Suite lagerte früher Munition.  
+**Musik:** spannend-leise 78 BPM, tiefes Pad und ferne Trommel, Dur-Öffnung beim „Fakt“, Schmunzel-Akzent bei den Türgriffen; −18 dB unter VO · **Logo:** weiß, klein, unten rechts, ab 00:00:03:00 · **Endkarte:** letzte Szene: Themenwelt-Karte (Markenfarben, Logo weiß) – Teaser als Grafiktext + gesprochen
+
+## Schlüsselaufnahmen (Material zuerst)
+
+| Rolle | Motiv | Quelle | Referenz | Status | Hinweis |
+|---|---|---|---|---|---|
+| Scroll-Stop | Festung in der Klippe von der Meerseite / von oben | Pexels | 37961055 „aerial-view-of-scenic-coastal-fortress“ · 37961031 „scenic-aerial-view-of-coastal-clifftop-fortress“ | **verfügbar, ungeprüft** | Pexels „cap rocat“ (Audit 09./10.11.): Slugs nennen den Ort nicht – auf der Detailseite als Cap Rocat/Cala Blava bestätigen; weitere Option 34232279 „scenic-view-of-historic-stone-fortress-by-the-sea“ (Suche „fortress mallorca“, Ort prüfen). Envato „cap rocat“ 10.11.: 70 Treffer, keiner Cap Rocat (Capri, Cabo da Roca, Cap de Creus, Cap d'Ail) → nicht nutzbar. Umfeld belegt: Envato BlackBoxGuild „Spanish Hotels And Resorts, Bay Of Palma“, „Aerial View Of Resorts And Hotels In Bay Of Palma“. |
+| Story | Zugbrücke, Gewölbe, Munitionslager innen (Festungsdetails) | Eigene Grafik | Pressematerial Cap Rocat (caprocat.com/press) – nur mit schriftlicher Freigabe; sonst Grundriss-Grafik über Luftbild | **nicht gefunden** | Kein Stock mit Cap-Rocat-Innenräumen (Envato/Pexels). Umbau: Grafik „Mauerring – Graben – Gewölbe“ über der Top-down-Luftaufnahme, Overlays „Zugbrücke · Bunker · Gewölbe“; Pressematerial anfragen (Hotel hat eigene Pressesektion). |
+| Reveal | Suite im ehemaligen Munitionslager / Pool auf der Festungsmauer | Pexels | 37961031 (Pool auf der Mauer von oben – nur falls der Clip Cap Rocat zeigt) · Pressematerial | **verfügbar, ungeprüft** | Ob der Pool auf der Mauerkrone im Pexels-Clip sichtbar ist, zeigt erst die Detailseite; Suite innen nur über Pressematerial (gekennzeichnet). Fallback: Match-Cut als Grafik „Gewölbe → Suite“ über Luftbild – dann Visuell höchstens 7. |
+
+| Szene | TC Start | TC Ende | Dauer s | Rolle | Sprechtext (exakt) | Motiv (detailliert) | Ort/Hotel (exakt) | Kameraperspektive | Bildausschnitt | Bewegung | Licht/Atmosphäre | Stock-Suchbegriffe | Schnittart | Übergang | Text-Overlay | Musikstimmung | SFX | Untertitel-Hinweis |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 00:00:00:00 | 00:00:03:25 | 3.8 | hook | Fakt oder Fake: In dieser Suite lagerte früher Munition. | Luftaufnahme von der Meerseite: graue Festungsmauern verschmelzen mit der Klippe am Eingang der Bucht von Palma, türkises Wasser davor, kein Hotelzeichen, kein Mensch | Cap Rocat, Cala Blava, Bucht von Palma, Mallorca (Clip-Ort vor Download bestätigen) | Drohne tief über dem Wasser, frontal auf die Klippe | Totale | langsamer Push-in auf die Mauern | Morgen, warmes Streiflicht auf dem Kalkstein | cap rocat aerial fortress, coastal fortress cliff mallorca aerial | Hard Cut (Kaltstart) | keiner | Hook-Overlay: FAKT ODER FAKE? · MUNITION → SUITE (gelb: Suite) | spannend-leise, 78 BPM, tiefes Pad, Trommel fern | Wellen, Wind | keine Untertitel (Hook-Overlay steht) |
+| 2 | 00:00:03:25 | 00:00:10:03 | 6.3 | body | [curious] Am Eingang der Bucht von Palma liegt eine Festung, die vom Meer aus niemand sieht. | Drohne steigt über die Klippe: erst jetzt werden Grundriss, Gräben und Mauerringe sichtbar, dahinter die Bucht mit Palma am Horizont | Cap Rocat, Cala Blava / Bucht von Palma | Drohne, Aufstieg mit Tilt nach unten | Totale → Top-down | Aufstieg + Tilt | Vormittag, klares Licht, Bucht blau | bay of palma aerial, mallorca clifftop fortress top down | Hard Cut | Schnitt | Overlay: „Bucht von Palma“ | Pad hält, Trommel näher | Wind | 2 Zeilen, „niemand“ gelb |
+| 3 | 00:00:10:03 | 00:00:15:29 | 5.9 | body | Zugbrücke, Bunker, Gewölbe für Waffen – gebaut im neunzehnten Jahrhundert, um die Bucht zu bewachen. | Festungsdetails: Tor mit Zugbrücke, Mauerwerk, dunkler Gewölbegang; falls kein Cap-Rocat-Innenmaterial: eigene Grundriss-Grafik (Mauerring, Graben, Gewölbe markiert) über der Top-down-Luftaufnahme | Cap Rocat – Tor, Graben, Gewölbe (nur mit Pressematerial), sonst Grafik über Luftbild | Bodenkamera / Grafik | Nah → Halbtotale | langsamer Vorwärtsgang → Grafik-Animation | Schatten, kühler Stein | fortress drawbridge gate stone, old fort vaulted corridor | Hard Cut auf „Zugbrücke“ | Schnitt | Drei Overlays nacheinander: „Zugbrücke“ · „Bunker“ · „Gewölbe“ · klein: „19. Jh.“ | Trommel-Akzente | drei kurze Steinschläge/Klicks | 2 Zeilen, „19. Jahrhundert“ als Ziffer gelb |
+| 4 | 00:00:15:29 | 00:00:22:07 | 6.3 | reveal | Fakt. Zweitausendzehn wird daraus ein Hotel: Die dickwandigen Munitionslager sind heute Suiten, die Geschützstellungen Dachterrassen. | Match-Cut vom dunklen Gewölbe in die helle Suite mit meterdicken Mauern und Bett; dann Dachterrasse auf der ehemaligen Geschützstellung mit Blick über die Bucht (Pressematerial – sonst Grafik „Gewölbe → Suite“ über Luftbild) | Cap Rocat – Suite im ehemaligen Munitionslager / Dachterrasse (nur mit Hotel-Pressematerial, gekennzeichnet) | Bodenkamera, Augenhöhe | Halbtotale | Match-Cut, dann langsamer Schwenk zur Terrasse | Innen weich, außen Mittagssonne | cap rocat suite interior, fortress hotel suite thick walls terrace | Match Cut auf „Fakt“ | Licht-Reveal (dunkel → hell) | Stempel „FAKT“ (gelb) · „seit 2010 Hotel“ · klein: Cap Rocat | Auflösung: Dur, Pad öffnet sich | tiefer Impact leise beim Stempel | 2 Zeilen, „Suiten“ gelb |
+| 5 | 00:00:22:07 | 00:00:26:26 | 4.6 | body | Der Salzwasserpool liegt auf der Festungsmauer. Und die Türgriffe sind Gewehrkugeln. | Drohne über dem länglichen Pool auf der Mauerkrone, dahinter die ganze Bucht; Schnitt auf Detail: Türgriff aus einer Gewehrkugel (Pressematerial oder eigene Makro-Grafik, gekennzeichnet) | Cap Rocat – Pool auf der Festungsmauer / Türgriff-Detail | Drohne Top-down → Makro | Totale → Detail | langsamer Überflug → statisch | Nachmittag, Pool türkis, Mauer ocker | pool on fortress wall sea view aerial, bullet door handle detail | Hard Cut | Schnitt | Overlay: „Pool: Salzwasser, auf der Mauer“ · „Türgriff: Gewehrkugel“ | warm, Schmunzel-Akzent | Wasser, ein metallischer Klick | 2 Zeilen, „Gewehrkugeln“ gelb |
+| 6 | 00:00:26:26 | 00:00:32:03 | 5.2 | end | Dreizehn Wochen Fakt oder Fake – welche hast du falsch getippt? | Endkarte Themenwelt Hotel-Legenden: Raster mit 13 kleinen Standbildern der Montagsfolgen, Logo weiß, Abschlusszeile | – | Grafik | Vollbild | Raster baut sich auf | Markenfarben | eigene Endcard | Hard Cut | Fade 6 Frames | HOTEL-LEGENDEN · Fakt oder Fake? #13 → 13 Wochen, 13 Fragen – alle im Profil | Outro-Akzent, Musik endet auf Beat | – | keine Untertitel (Teaser steht als Grafiktext) |
+
+## Stock & Quellen
+
+- **Festung von der Meerseite / von oben (Hook, Szene 2)** – Pexels 37961055 / 37961031 – Ort auf Detailseite bestätigen · Suche: cap rocat, coastal fortress mallorca aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1,2
+- **Bucht von Palma (Umfeld, Horizont)** – Envato Elements „Aerial View Of Resorts And Hotels In Bay Of Palma“ (BlackBoxGuild) · Suche: bay of palma aerial · Lizenz: Abo (Envato Elements, kommerzielle Nutzung inkl. Social Media – Lizenz je Download registrieren) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 2
+- **Mallorca-Klippen (Umfeld, Reserve)** – Pexels 36532524 / 36519545 · Suche: mallorca cliffs aerial · Lizenz: frei (Pexels-Lizenz: kommerziell, ohne Pflichtnennung) · Prüfung: Suchergebnisseite am 09.11.2026 aus dieser Umgebung geöffnet (Treffer gelistet, Detailseite/Lizenz nicht geöffnet) – vor Download Ort, Urheber, Personen prüfen · Szenen 1 (Reserve)
+- **Tor/Zugbrücke, Gewölbe, Suite, Pool, Türgriff (Hotel innen)** – Nutzungsrecht anfragen Pressematerial Cap Rocat (caprocat.com/press) – nur mit schriftlicher Freigabe, Credit im Reel · Suche: cap rocat suite, cap rocat pool, cap rocat drawbridge · Lizenz: ungeklärt – nur mit schriftlicher Freigabe · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · **FEHLT** – Alternative: Grundriss-/Match-Cut-Grafik über Luftbild, gekennzeichnet · Szenen 3,4,5
+- **Grundriss-Grafik, Overlays, 13er-Raster, Endkarte** – Eigene Grafik CapCut · Suche: – · Lizenz: eigene Grafik (CapCut, Markenfarben) – keine Lizenz nötig · Prüfung: eigene Produktion/Grafik, keine Lizenz nötig · Szenen 3,4,6
+
+## Fakten
+
+- ✅ Festung aus dem 19. Jahrhundert, in die Klippen gebaut und vom Land wie vom Meer kaum sichtbar; gebaut zur Überwachung der Bucht von Palma; Boutique-Hotel seit 2010, 24 Zimmer; Umbau Antonio Obrador (archilovers.com/projects/167235 (Projektseite Obrador, 2010), guide.michelin.com (Cap Rocat), caprocat.com/en/press („built for the surveillance of the Bay of Palma“))
+- ✅ Ehemalige Munitionslager/Arsenale zu dickwandigen Suiten umgebaut, Geschützstellungen heute Dachterrassen, Festungsküche heute Privatküche; erhalten: Zugbrücke, Bunker, Gräben, Waffengewölbe; Gewehrkugeln als Türgriffe, Lafetten als Couchtische; Salzwasser-Naturpool auf den alten Festungsmauern (archilovers.com/projects/167235)
+- ✅ Denkmalstatus (Heritage Asset / National Monument), Europa-Nostra-Preis; Wachtürme und Wehrgänge in den Fels gehauen und zu Zimmern umgebaut (caprocat.com/en/press (Once upon a time in Majorca))
+- ⚠️ prüfen: Titel sagt „Schießpulver“: Quellen belegen „Munitionslager/Arsenale“ (Munition = Geschosse + Treibladung) – falls die Pressestelle keine Pulverkammer bestätigt, Titel auf „Munition“ ändern (Koordinator/Kalender)
+- ⚠️ prüfen: Zimmerzahl schwankt (24 Michelin/Archilovers, 30 andere) – nicht gesprochen
+- ⚠️ prüfen: „Nie ein Schuss abgegeben“ nicht belegt – nicht verwenden
+- ⚠️ prüfen: Adults only (ab 15/16) nur erwähnen, wenn caprocat.com es aktuell bestätigt
+- ⚠️ prüfen: Pexels 37961055/37961031 auf der Detailseite als Cap Rocat bestätigen; sonst Hook-Bild = Bucht-Luftbild mit Markierung und Status „nicht produktionsbereit“
+
+Quellen: archilovers.com · caprocat.com · guide.michelin.com · yatzer.com · eldebate.com
+
+## Vor Posting prüfen
+
+- [ ] Pexels-Clips als Cap Rocat bestätigt oder Pressematerial mit schriftlicher Freigabe?
+- [ ] Titel-Wortlaut „Schießpulver“ vs. „Munition“ mit Pressestelle geklärt
+- [ ] Keine Preise, kein Buchungshinweis
+- [ ] Keine Gesichter; Grafiken als „Darstellung“ gekennzeichnet
+- [ ] Logo weiß ab Sekunde 3, Endkarte 3 s

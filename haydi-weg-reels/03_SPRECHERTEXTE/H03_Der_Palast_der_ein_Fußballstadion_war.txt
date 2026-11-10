@@ -23,4 +23,4 @@ Szene 6: Neunzehnhunderteinundneunzig dann die Wende: Der Palast wird Hotel – 
 Szene 7: Und wo die Tore standen, steht jetzt das Hotelgebäude. Der Bosporus ist derselbe geblieben.
 
 --- ENDKARTE (Grafiktext, nur Grafik) ---
-HOTEL-LEGENDEN · Reisewissen #1 → Freitag: Regenwald und Wüste – auf einer Insel
+HOTEL-LEGENDEN · Reisewissen #1 → Freitag: Das Hotel, das als Dorf gebaut wurde

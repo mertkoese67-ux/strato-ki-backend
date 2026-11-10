@@ -1,0 +1,611 @@
+[
+ {
+  "hotel": "Rixos Premium Magawish Suites & Villas (+ Rixos Premium Magawish Bay View)",
+  "ort": "Hurghada (Magawish)",
+  "land": "Ägypten",
+  "eroeffnet": "Suites & Villas: 15. März 2021; Bay View nebenan: Eröffnung 18. Juni 2026 (442 Zimmer/Suiten/Villen, teilt Anlagen)",
+  "besonderheit": "Erstes Rixos in Hurghada; 410 Einheiten, Lagoon-Swim-up-Suiten ca. 130 m² mit Terrassenzugang zum Pool, Executive Pool Villen mit Privatpool, Butler und eigenem Koch (eine Villa mit 944 m² angegeben); Veranstalter nennen bis zu 30 teils beheizte Pools (Zahl widersprüchlich: Entertainment-Pool, Lagoon-Pool, Lotus-Pool, Kinderpools); 7 km vom Flughafen; nur Familien und Paare",
+  "story": "Struktur B: Erwartung „Hurghada = Bettenburg der 90er“ → Realität: eine Lagune, die bis an die Zimmertür führt – und 2026 baut Rixos direkt daneben gleich noch eins. Reveal: Luftbild der Lagunen-Suiten; Haken: Zahl der Pools je nach Quelle 30 – im Text nur „Dutzende“",
+  "dach": "Hurghada ist Ägyptens meistgebuchter DACH-Badeort (1,7 Mio. deutsche Ägypten-Urlauber 2024, +5 %); Hotel bei schauinsland, alltours, sonnenklar.tv, TUI, ITS gelistet; 4 h Direktflug",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Hurghada als Ort kam in den Oktober-Reels vor (Orts-Guide), das Hotel nicht",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „rixos premium magawish“ (09.11.): nur Papageien-Clips (Macaw), kein Treffer; Pexels Hotelname nicht gesucht (keine Erwartung). Produktion nur mit Rixos-Pressematerial (Medienfreigabe anfragen) oder eigener Aufnahme",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "rixos.com (Hotelseite)",
+   "schauinsland-reisen.de Hotel 16650",
+   "alltours.de hrg193",
+   "touristik-aktuell.de „Ägypten: Erstes Rixos in Hurghada“",
+   "zawya.com Pressemitteilung Eröffnung 15.03.2021",
+   "ftnnews.com / hospitalitynet.org (Bay View Juni 2026, 442 Zimmer)",
+   "Business Wire / Reiseportale: 1,7 Mio. deutsche Ägypten-Gäste 2024"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 7,
+   "story": 7,
+   "dach": 9
+  },
+  "empfehlung": "Starkes DACH-Thema mit Neuigkeitswert (zweites Rixos 2026), aber ohne hotelspezifischen Stock – nur produktionsbereit, wenn Rixos Pressematerial freigibt; sonst Reserve."
+ },
+ {
+  "hotel": "Baron Palace Sahl Hasheesh",
+  "ort": "Sahl Hasheesh (bei Hurghada)",
+  "land": "Ägypten",
+  "eroeffnet": "2014 (nur eine Quelle)",
+  "besonderheit": "Palastarchitektur nach arabischen Vorbildern auf 100.000 m² (80.000 m² Gärten), 615 Zimmer, Infinity-Pools (teils winterbeheizt), privater Strand (Angabe 600 m bzw. 600 m² – Einheit unklar); von Veranstaltern als „6 Sterne“ vermarktet (offiziell 5)",
+  "story": "Struktur A: Mystery „Ein Palast, in dem nie ein Sultan wohnte“ → Enthüllung: gebaut 2014 als Hotel; Reveal Pool-Terrassen zum Roten Meer. Schwach: Geschichte ist dünn, Zahlen widersprüchlich",
+  "dach": "Sahl Hasheesh ist DACH-Pauschalgebiet (schauinsland, ltur, FTI-Nachfolger); 20 Min. vom Flughafen Hurghada",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „baron palace sahl hasheesh“: nur fremde Paläste (Ishak Pasha, Qasr Al Watan …); Envato „sahl hasheesh“: irrelevante Treffer (Feiertags-Clips); Pexels nicht erwartet",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "corinthiantravel.co.uk",
+   "schauinsland-reisen.de Hotel 241548",
+   "ltur.com Blog",
+   "cyplon.co.uk"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 7,
+   "story": 5,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen: visuell nur über Palast-Klischee, kein Footage, Story ohne Wendung."
+ },
+ {
+  "hotel": "The Oberoi Beach Resort, Sahl Hasheesh",
+  "ort": "Sahl Hasheesh",
+  "land": "Ägypten",
+  "eroeffnet": "2001 (Hotelangabe gegenlesen); All-Suite-Resort",
+  "besonderheit": "Nur 102 Suiten auf 850 m Privatstrand (vier Kategorien; Grand und Royal Suites mit eigenem Pool, Marmorbad mit versenkter Wanne, Innenhof); 43-m-Infinity-Pool über dem Strand; 20 Min. südlich von Hurghada – Gegenentwurf zu den 600-Zimmer-Anlagen",
+  "story": "Struktur B: Erwartung „Ägypten = Riesenresort mit Buffet-Schlange“ → Realität: 102 Suiten, eigener Pool im Innenhof, Stille; Reveal: Drohne über die Suiten-Höfe. Haken: Kinder sind willkommen, aber es gibt keinen Kinderclub/Aquapark (prüfen)",
+  "dach": "Hurghada-Region, aber Nischen-Luxus; bei DERTOUR Deluxe/Oberoi-Direktvertrieb; eher Paare – DACH-Relevanz mittel",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „oberoi sahl hasheesh“: 70 irrelevante Treffer (jüdische Feiertage); Pexels nicht erwartet",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "oberoihotels.com (Suiten, Privatpool)",
+   "fleewinter.com (102 Suiten)",
+   "scottdunn.com (43-m-Infinity-Pool, 850 m Strand)",
+   "audleytravel.com"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 7,
+   "story": 8,
+   "dach": 7
+  },
+  "empfehlung": "Gute Kontrast-Story, aber ohne Footage und mit mittlerer DACH-Breite – Reserve; produktionsbereit nur mit Oberoi-Pressematerial."
+ },
+ {
+  "hotel": "Kempinski Hotel Soma Bay",
+  "ort": "Soma Bay (Safaga, Rotes Meer)",
+  "land": "Ägypten",
+  "eroeffnet": "2008/2009 (Quellen widersprüchlich)",
+  "besonderheit": "Halbinsel-Lage mit Meer auf drei Seiten, 400 m Privatstrand; Pools als Lagunenlandschaft, die sich mit Wasserfällen, Palmen und maurischen Arkaden durch die Gärten zieht, Lazy River; laut Pre-Opening-Mitteilung 7 ha Wasserflächen (Pools, Lagunen, Wasserfälle) auf 17,6 ha; 320–359 Zimmer",
+  "story": "Struktur D: Visuelles Rätsel – ein Fluss, der durch ein Hotel fließt (Lazy River/Lagunen) → Erklärung: 7 Hektar Wasser auf einer Wüstenhalbinsel; Reveal Luftbild der Halbinsel. Haken: Wasser in der Wüste – Hotel bezieht Entsalzung (prüfen, sonst weglassen)",
+  "dach": "Soma Bay ist DACH-Hochburg (Robinson Club Soma Bay, Sheraton, Kempinski; Golf/Kite); Hurghada-Flughafen 45 Min.",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „kempinski soma bay“ und „soma bay egypt“: keine Soma-Bay-Treffer (nur generische Küsten, Fische im Roten Meer, Giza-Hotels); Pexels nicht erwartet",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen); zusätzlich Envato frimufilms „Arabian surgeon fish swimming in Red Sea in Egypt“ (Unterwasser)",
+  "quellen": [
+   "easyjet.com/de Hotelbeschreibung (Lagunenlandschaft)",
+   "distantjourneys.co.uk (Lagunen, Lazy River)",
+   "asiatraveltips.com 2007 (7 ha Wasserflächen, 17,6 ha)",
+   "frommers.com (Eröffnung 2009)",
+   "journaldespalaces.com"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 8,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Visuell die stärkste Ägypten-Idee (Lagunen/Lazy River), aber ohne Footage – nur mit Kempinski-Pressematerial produktionsbereit; sonst Reserve."
+ },
+ {
+  "hotel": "Steigenberger Alcazar",
+  "ort": "Sharm el-Sheikh (Nabq Bay)",
+  "land": "Ägypten",
+  "eroeffnet": "Juni 2017",
+  "besonderheit": "584–610 Zimmer, drei große Außenpools (Reisemagazin: „massive pool sanctuary“), 35.000 m² Privatstrand, Nabq Bay 10–15 Min. vom Flughafen; der oft behauptete „größte Pool“ ist nicht belegt (keine Flächenangabe gefunden)",
+  "story": "Struktur B: Erwartung „Alcazar = Burg in Sevilla“ → Realität: ein Steigenberger am Sinai; schwach, weil die einzige Pointe (Poolgröße) nicht belegbar ist",
+  "dach": "Sharm ist DACH-Winterziel (Ägypten-Einreise/Hurghada-vs-Sharm waren bereits Specials); Steigenberger als deutsche Marke bekannt",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Sharm el-Sheikh als Ort kam in Specials V-D07/V-D14/V-J02 vor (Hotel dort unbenannt)",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „steigenberger alcazar“: nur Alpen-/Schloss-Clips; „nabq bay sharm“: nur Küste/Ras Muhammad ohne Hotelname",
+  "footage_umfeld": "Sharm/Sinai generisch gefunden: Envato proler2 „Egypt Sharm El Sheikh … Swimming Pool with Blue Clear Water in the Hotel“, BlackBoxGuild „Time lapse of the sun rising over Sharm El Sheikh exotic resort“, „Breathtaking View of Sharm El-Sheikh's Desert Coast and Red Sea Mountains“, ronedya Ras Muhammad; Pexels 4185242, 4185230, 4185244, 4185243, 4185237, 4185239, 4185333 (Sharm-Resorts Drohne), 28215911/12 Sinai-Wüste, 40440905 Riff",
+  "quellen": [
+   "hospitalitynet.org 4074580 (Eröffnung)",
+   "hoteldesigns.net",
+   "presseportal.de Factsheet (PDF)",
+   "eti.at"
+  ],
+  "score": {
+   "hook": 6,
+   "visual": 7,
+   "story": 4,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen: Kernbehauptung „größter Pool“ nicht belegbar, kein Footage."
+ },
+ {
+  "hotel": "Hilton Marsa Alam Nubian Resort",
+  "ort": "Abu Dabbab Bay, Marsa Alam",
+  "land": "Ägypten",
+  "eroeffnet": "2011",
+  "besonderheit": "Nubisches Dorf als Hotel (Kuppeln, Bögen, zweigeschossige Blöcke in Gärten), 395 Zimmer, 4 Pools; liegt direkt an der Abu-Dabbab-Bucht – Seegraswiesen, in denen Dugongs (Seekühe) und Meeresschildkröten grasen, eines der bekanntesten Schnorchelreviere des Roten Meeres",
+  "story": "Struktur E: Erlebnis – vor dem Hotel grast eine Seekuh → Haken: sie kommt nicht jeden Tag, Schnorcheln nur mit Abstand/Regeln; zweites Aha: die Kuppeln sind nubische Klimaarchitektur (nur mit Quelle, sonst „nubisch inspiriert“)",
+  "dach": "Marsa Alam ist das wachsende DACH-Ägyptenziel (Direktflüge, Riff vor der Tür; Hurghada-vs-Marsa-Alam war Oktober-Reel – Dugong-Thema ist neu); Hotel bei hotelplan.ch, DERTOUR, TUI",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Marsa Alam als Ort im Oktober-Reel „Hurghada oder Marsa Alam?“ (Ortsvergleich, kein Hotel)",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „hilton marsa alam nubian“ und „abu dabbab marsa alam“: kein Hotel-/Bucht-Treffer; einziges Marsa-Alam-Video generisch (SkyFilmStudio). Dugong-/Schildkröten-Unterwasserclips (Envato „dugong red sea“) noch nicht geprüft",
+  "footage_umfeld": "Marsa Alam generisch: Envato SkyFilmStudio „Sunset Timelapse over Resort in Marsa Alam, Egypt“, duckdivetales „Red Sea Coastline Aerial View with Swimmers“; Pexels 4185263 (Resort), 7320527/7320532/7320535 (leere Strandresorts, Ort prüfen), 37189691; Dugong/Schildkröten-Clips nicht gesucht → vor Produktion prüfen",
+  "quellen": [
+   "all-inclusive-guide.com (2011, Lage Abu Dabbab)",
+   "hotelplan.ch",
+   "hotels.com (395 Zimmer, 4 Pools)",
+   "outoria.com (Riff/Seegras)"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 7,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Starke Natur-Hotel-Kombination, aber Hotel- und Dugong-Footage offen – Reserve, bis Envato „dugong“/„abu dabbab“ und Hilton-Material geprüft sind."
+ },
+ {
+  "hotel": "Rixos Premium Seagate",
+  "ort": "Sharm el-Sheikh (Nabq)",
+  "land": "Ägypten",
+  "eroeffnet": "2015 (Veranstalterangabe prüfen)",
+  "besonderheit": "8 Außenpools + Innenpool (Listings nennen 8–14), Aquapark mit Rutschen, Ultra-All-Inclusive; keine Größen- oder Rekordangaben belegbar",
+  "story": "Keine tragfähige Wendung gefunden – Poolzahl allein ist Aufzählung (vom Auftraggeber ausdrücklich unerwünscht)",
+  "dach": "Sharm/DACH-Winterziel; Rixos ist in DACH-Katalogen stark",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „rixos seagate sharm“: nur Häfen/Piers weltweit, ein generischer Rotes-Meer-Steg (RoStVision)",
+  "footage_umfeld": "Sharm/Sinai generisch gefunden: Envato proler2 „Egypt Sharm El Sheikh … Swimming Pool with Blue Clear Water in the Hotel“, BlackBoxGuild „Time lapse of the sun rising over Sharm El Sheikh exotic resort“, „Breathtaking View of Sharm El-Sheikh's Desert Coast and Red Sea Mountains“, ronedya Ras Muhammad; Pexels 4185242, 4185230, 4185244, 4185243, 4185237, 4185239, 4185333 (Sharm-Resorts Drohne), 28215911/12 Sinai-Wüste, 40440905 Riff",
+  "quellen": [
+   "booking.com (8 Pools, Aquapark)",
+   "hotels.com/orbitz (Innenpool, 8 Außenpools)",
+   "turkishairlinesholidays.com"
+  ],
+  "score": {
+   "hook": 6,
+   "visual": 7,
+   "story": 4,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen (Hotelwerbung ohne Geschichte, kein Footage)."
+ },
+ {
+  "hotel": "Jaz Aquaviva (Madinat Makadi, Makadi Water World)",
+  "ort": "Makadi Bay (bei Hurghada)",
+  "land": "Ägypten",
+  "eroeffnet": "Hotel 2016/17 (prüfen); Makadi Water World 2017 (prüfen)",
+  "besonderheit": "Hotel direkt am Makadi Water World, laut Veranstaltern „Ägyptens größter Aquapark“: rund 50 Rutschen auf ca. 40.000 m², unbegrenzter Zugang für Hotelgäste inklusive; Tagesgäste zahlen extra (unabhängig nicht belegt, nur Veranstalter/Hotel)",
+  "story": "Struktur B: Erwartung „Ägypten = Ruhe am Riff“ → Realität: 50 Rutschen in der Wüste; Reveal: Drohne über den Rutschentürmen zwischen Wüste und Meer; Haken: Schmuckverbot im Park (Gästebericht) und „größter“ nur Veranstalterbehauptung → im Text „einer der größten“",
+  "dach": "Makadi Bay ist DACH-Familiengebiet (schauinsland, alltours, 5vorflug, ltur, TUI); Rutschen = Familien-Teilimpuls",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „makadi bay“ (nur fremde Küsten) und „hurghada aqua park“ (nur Eilat-Wasserpark): kein Treffer; Pexels nicht erwartet",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "schauinsland-reisen.de Hotel 409279",
+   "easyjet.com/ch-de (50 Rutschen, 40.000 m²)",
+   "holidaydiscounter.de",
+   "alltours.de hrg174"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 8,
+   "story": 6,
+   "dach": 9
+  },
+  "empfehlung": "Visuell sehr stark und sehr DACH, aber kein Footage und Rekord nur behauptet – nur mit Jaz-/Madinat-Makadi-Pressematerial; sonst Reserve."
+ },
+ {
+  "hotel": "Pickalbatros White Beach Resort",
+  "ort": "Hurghada",
+  "land": "Ägypten",
+  "eroeffnet": "2016",
+  "besonderheit": "473 Zimmer, 6 Außenpools, kostenloser Kinder-Aquapark mit Burg- und Piratenschiff-Rutschen; visuell nett, aber nicht außergewöhnlich",
+  "story": "Keine tragfähige Wendung – Familienresort-Standard",
+  "dach": "Hurghada/DACH-Familienziel (nix-wie-weg, DERTOUR, CHECK24)",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Nicht hotelspezifisch gesucht (Envato „hurghada aqua park“ ohne Treffer); keine Erwartung",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "pickalbatros.com",
+   "dertour.de 1118ZW",
+   "hotels.com ho576042"
+  ],
+  "score": {
+   "hook": 5,
+   "visual": 6,
+   "story": 3,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen."
+ },
+ {
+  "hotel": "Cleopatra Luxury Resort Makadi Bay",
+  "ort": "Makadi Bay",
+  "land": "Ägypten",
+  "eroeffnet": "unbelegt (2020 nicht bestätigt)",
+  "besonderheit": "530 Zimmer, 7–8 Außenpools; keine belegbare Besonderheit (Schwesterhotel Adults-only nicht verwechseln)",
+  "story": "keine",
+  "dach": "Makadi Bay DACH-Gebiet",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "nicht gesucht (keine Besonderheit, die eine Suche rechtfertigt)",
+  "footage_umfeld": "Hurghada/Rotes Meer generisch gefunden: Envato BlackBoxGuild „Beautiful resort in Egypt, Hurghada … at sunset“, RoStVision „Sunny Hotel Resort with Luxury Blue Swimming Pool … in Egypt“ / „Beach in Egypt. Resort Red Sea Coast“, BlackBoxGuild „Outdoor Luxury Hotel Resort Swimming Pool walkthrough … in Egypt“, „Giftoun Island Red Sea Egypt“; Pexels 4185334, 4185336, 4185267, 4185262, 35013799, 36720422, 35568591 (Resort-/Pool-Drohnen, Ort laut Slug Ägypten – auf Detailseite prüfen)",
+  "quellen": [
+   "easyjet.com/de",
+   "expedia.com",
+   "hotels.com"
+  ],
+  "score": {
+   "hook": 4,
+   "visual": 6,
+   "story": 3,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen."
+ },
+ {
+  "hotel": "Atlantis The Royal",
+  "ort": "Palm Jumeirah, Dubai",
+  "land": "VAE",
+  "eroeffnet": "Grand-Opening-Wochenende 21. Januar 2023 (Beyoncé-Konzert), offizielle Eröffnung 10. Februar 2023",
+  "besonderheit": "43 Stockwerke/178 m, sechs wie gestapelte Blöcke versetzte Türme (Kohn Pedersen Fox), oben verbunden durch eine 90 × 33 m große Himmelsbrücke; 795 Zimmer/Suiten + 231 Residenzen; 90–92 Pools; Cloud 22: 90-m-Skypool im 22. Stock (~96 m Höhe) mit sechs Acryl-„Trompeten“ im Dunstschleier, 10–11 Cabanas mit eigenen Plunge-Pools, seit 4. Dezember 2023 auch für externe Gäste (21+); Baukosten ca. 1,4 Mrd. $, 14 Jahre Planung/Bau",
+  "story": "Struktur D: Visuelles Rätsel – ein Hochhaus, das aussieht, als hätte jemand Bauklötze schief gestapelt, und oben schwimmt jemand → Erklärung: die Lücken sind Absicht (Wind, Licht, Terrassen), die Brücke trägt einen Pool; Haken: der berühmteste Pool ist ab 21 und kostet Externe Eintritt – Gäste schwimmen woanders (Zahl 90 Pools als Pointe)",
+  "dach": "Dubai ist das meistgebuchte DACH-Fernziel mit Direktflügen aus allen Hubs; Atlantis The Royal in allen DACH-Katalogen (TUI, DERTOUR, schauinsland); 16,79 Mio. Dubai-Besucher 2024",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Burj Al Arab (Special V-D01) und Ciel (Oktober) sind andere Hotels; Dubai-Budget-Themen (A6, 22.10.) betreffen nicht dieses Haus",
+  "footage_hotel_status": "gefunden",
+  "footage_hotel_belege": "Envato „atlantis the royal dubai“: AmazingAerial „Dubai, 01 June 2024: Aerial view of luxurious Atlantis The Royal“, PD-media „Atlantis The Royal hotel on Palm Jumeirah in Dubai after dark“ + „Aerial view of Atlantis The Royal Hotel on Palm Jumeirah“, BlackBoxGuild „… Palm Jumeirah island, showcasing the iconic Atlantis The Royal“ (×2); Pexels „atlantis the royal“: 37896450 „stunning drive-by view of atlantis dubai resort“, 29794530/29794534 (Atlantis hotel, vermutlich The Palm) – Cloud-22-Poolaufnahme selbst nicht im Stock (Pressematerial Kerzner oder Grafik)",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar)",
+  "quellen": [
+   "gulfnews.com (Eröffnung 10.02.2023)",
+   "thenationalnews.com (Design, 795 Zimmer, KPF)",
+   "brecorder.com (1,4 Mrd. $, 14 Jahre)",
+   "kerznercommunications.com (Cloud 22 für externe Gäste 04.12.2023, 90 m, 21+)",
+   "factmagazines.com (Cloud 22 Review)",
+   "connectingtravel.com (Moonlight Sessions 2025)",
+   "gulfbusiness.com (16,79 Mio. Dubai-Besucher 2024)"
+  ],
+  "score": {
+   "hook": 10,
+   "visual": 10,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Top-Kandidat: stärkstes Bild der Gruppe, Footage gefunden, echte Architektur-Geschichte; Pool-Innenaufnahme nur als Pressebild/Grafik."
+ },
+ {
+  "hotel": "Atlantis, The Palm (mit Aquaventure und The Lost Chambers)",
+  "ort": "Palm Jumeirah, Dubai",
+  "land": "VAE",
+  "eroeffnet": "September 2008; Aquaventure-Erweiterung 2021 („größte Wasserpark-Erweiterung der Geschichte“, Betreiberwording)",
+  "besonderheit": "Das Hotel auf der Palm-Spitze; Aquaventure wird als größter Wasserpark der Welt vermarktet (17–22 ha, 18 Mio. Liter, „weltgrößte Röhrenrutsche“ – ohne unabhängige Zertifizierung), The Lost Chambers Aquarium; Unterwasser-Suiten mit Aquariumfenster (Neptune/Poseidon – vor Nutzung prüfen); seit 2008 Dubais Postkarten-Hotel",
+  "story": "Struktur A: Mystery „Warum ist das Hotel kleiner als sein eigener Pool?“ → Enthüllung: Aquaventure ist größer als das Hotelgelände, die Rutschen führen durch Haifischbecken (Leap of Faith – prüfen); Haken: Hotelgäste haben freien Eintritt, Tagesgäste zahlen – und an Spitzentagen ist es voll",
+  "dach": "Bekanntestes Dubai-Resort in DACH-Katalogen (TUI Family), Direktflüge; Aquaventure wird von TUI als Ausflug verkauft",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · nicht mit Atlantis The Royal verwechseln (eigenes Thema: Wasserpark statt Architektur)",
+  "footage_hotel_status": "gefunden",
+  "footage_hotel_belege": "Envato „atlantis aquaventure dubai“: AmazingAerial „Aerial view of Atlantis the palm resort, Dubai“ (mehrfach), PD-media „Drone shot of waterpark on Palm Jumeirah“, BlackBoxGuild „Extreme Waterpark Adventure In Atlantis Aquapark In Dubai … Giant Pool Slide“, EvalMiko „Tourist Enjoy Views Of Aquaventure Water Park, Dubai“, daniel_atw „Lost Chambers Aquarium, Atlantis The Palm“ (×3), collab_media Nacht-Timelapse; Pexels 8396980 „drone footage of aquaventure waterpark“, 8396975/8396979/8396982 „drone footage of atlantis the palm dubai“, 8243345 tracking shot, 19259380, 19462597",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar)",
+  "quellen": [
+   "blooloop.com (Erweiterung, „world's largest“ Ziel)",
+   "gulfnews.com (Erweiterung März 2021)",
+   "whitewaterwest.com (Projektseite)",
+   "tui.co.uk (Ausflug)",
+   "nomadotravel.app (2008)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 10,
+   "story": 8,
+   "dach": 9
+  },
+  "empfehlung": "Top-Kandidat (Familien-WOW mit reichlich Footage); Rekordbehauptungen nur als „vermarktet als“, Hai-Rutsche vorher belegen."
+ },
+ {
+  "hotel": "One&Only One Za'abeel (The Link, Tapasake)",
+  "ort": "Za'abeel, Dubai (Stadt)",
+  "land": "VAE",
+  "eroeffnet": "Buchbar ab 1. Dezember 2023, offiziell Januar/Februar 2024",
+  "besonderheit": "Zwillingstürme, verbunden durch „The Link“: 230 m lang, 100 m über einer sechsspurigen Autobahn, Auskragung 67,3–67,5 m = Guinness-Rekord „längstes auskragendes Gebäude“ (Nikken Sekkei); obenauf der 120-m-Infinity-Pool des Pool-Clubs Tapasake (längster hängender Infinity-Pool der VAE; Dezeen: „der Welt“)",
+  "story": "Struktur D: Visuelles Rätsel – ein Schwimmbad, das über einer Stadtautobahn schwebt → Erklärung: 67 Meter freitragend, Weltrekord; Haken: der Pool gehört einem Adults-only-Club, Kinder bleiben unten im Hotelpool",
+  "dach": "Dubai-Direktflüge, aber Stadt-Luxushotel ohne Strand – für DACH-Pauschalurlauber eher Ausflugs-/Staun-Thema als Buchungsziel",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „one zaabeel dubai“: BlackBoxGuild „A breathtaking view of Dubai skyline form Zabeel One Towers“ und „Dubai One Za'abeel Building Displays Changing Colors“ (Gebäude gefunden, Pool nicht sichtbar); Pexels Gebäude nicht gesucht",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar); Pexels 31020335 Burj-Khalifa-Spiegelung, 37525555 Skyline im Wasser",
+  "quellen": [
+   "gulfnews.com (Guinness 67,277 m)",
+   "dezeen.com (Nikken Sekkei, 230 m, 100 m Höhe)",
+   "cnn.com (Pool 120 m)",
+   "factmagazines.com (Tapasake)",
+   "gulfbusiness.com (Eröffnung Dezember 2023)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 8,
+   "dach": 7
+  },
+  "empfehlung": "Aufnehmen als Staun-Thema (Rekord belegt, Gebäude-Footage da); Pool-Aufnahme nur über One&Only-Pressematerial."
+ },
+ {
+  "hotel": "Address Beach Resort",
+  "ort": "Jumeirah Beach Residence (JBR), Dubai",
+  "land": "VAE",
+  "eroeffnet": "2020/21; Guinness-Rekord 24. März 2021",
+  "besonderheit": "Guinness: höchster Außen-Infinity-Pool in einem Gebäude – 293,9 m, 77. Stock, 560 m² Wasserfläche; zweiter Rekord: höchste begehbare Skybridge-Etage; Zwillingstürme mit verbindender Brücke direkt am JBR-Strand",
+  "story": "Struktur B: Erwartung „Dubai-Strandhotel = Liege am Meer“ → Realität: der Pool liegt 294 m über dem Strand, im Brückenstock zwischen zwei Türmen; Reveal: Drohne hoch an der Fassade bis zur Brücke; Haken: Pool nur für Hausgäste/Erwachsene (prüfen), Kinder-Pool unten",
+  "dach": "JBR ist DACH-Pauschal-Klassiker; Address Beach Resort bei TUI/DERTOUR/schauinsland; Guinness-Rekord ist DACH-tauglicher Fakt",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "gefunden",
+  "footage_hotel_belege": "Envato „address beach resort dubai“: daniel_atw „Address Beach Resort, Dubai“ und „Cityscape of Dubai with the Address Beach Resort“, PD-media „Address Beach Resort in Dubai Marina district in Dubai UAE“, daniel_atw „Dubai Marina with 52|42 - Emaar, Address Beach Resort …“ (Außenansichten); Pool im 77. Stock nicht im Stock (Pressematerial Emaar/Address)",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar)",
+  "quellen": [
+   "guinnessworldrecords.com 610275 (293,90 m, 24.03.2021)",
+   "thenationalnews.com (77. Stock)",
+   "cnn.com (Rekord)",
+   "esquireme.com (560 m²)",
+   "traveller.com.au"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Aufnehmen: belegter Weltrekord + Außen-Footage; Poolbild als Pressefoto."
+ },
+ {
+  "hotel": "Emirates Palace Mandarin Oriental",
+  "ort": "Abu Dhabi (Corniche West)",
+  "land": "VAE",
+  "eroeffnet": "November 2005 (Kempinski bis 2020, seit 2020 Mandarin Oriental)",
+  "besonderheit": "114 Kuppeln, Hauptkuppel 72 m (innen 42 m), 1,3 km Privatstrand, 394 Zimmer; Blattgold-Dekor (Angaben 6.000 m² 22 Karat bis „über 1 Mio. m²“ – unbelegt, im Text nur „Blattgold“), hauseigener Blattgold-Restaurator; bekannt für Gold-Cappuccino und Gold-Automaten",
+  "story": "Struktur E: Erlebnis – ein Hotel mit eigenem Vergolder, der täglich nachbessert → Haken: das Gold ist hauchdünn und muss ständig ersetzt werden; zweites Aha: Hotel wurde als Staatsgästehaus gebaut (prüfen) und ist für Tagesgäste zugänglich (Café)",
+  "dach": "Abu Dhabi per Etihad-Direktflug, beliebter Tagesausflug von Dubai; Hotel in DACH-Luxuskatalogen",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "gefunden",
+  "footage_hotel_belege": "Envato „emirates palace abu dhabi“: AmazingAerial „Aerial view of the Emirates Palace, a luxury hotel in Abu Dhabi“ (7 Clips) und „Aerial view of Emirates Palace and skyline, UAE“; Innen (Kuppel, Gold) nicht im Stock → Pressematerial Mandarin Oriental; Pexels „emirates palace“: kein Treffer (nur Qasr Al Watan 32177434, 40470474 Palastinterieur anderer Ort)",
+  "footage_umfeld": "Abu Dhabi generisch gefunden: Envato BlackBoxGuild/StockSeller/FootageLab Sheikh-Zayed-Moschee, PD-media Qasr Al Watan, microstockerscity Skyline/Corniche; Pexels 29114919, 16998220 (Moschee), 31545089, 32115512, 31404057 (Corniche/Skyline), 32177434 (Qasr Al Watan), 28000434 (Al Reem Timelapse)",
+  "quellen": [
+   "forbestravelguide.com (114 Kuppeln)",
+   "mandarinoriental.com Press Kit (Blattgold-Spezialist)",
+   "businesstraveller.com (394 Zimmer)",
+   "philstar.com (6.000 m² Gold, 2023)",
+   "dominikgehl.com (2005, Kempinski→MO 2020)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Aufnehmen: Footage gefunden, Geschichte mit Haken (Vergolder), DACH-tauglich über Dubai-Ausflug."
+ },
+ {
+  "hotel": "Qasr Al Sarab Desert Resort by Anantara",
+  "ort": "Liwa, Rub al Khali (Abu Dhabi)",
+  "land": "VAE",
+  "eroeffnet": "November 2009",
+  "besonderheit": "Wüstenfort-Architektur am Rand des Rub al Khali (größte zusammenhängende Sandwüste der Welt), ca. 200 Schlüssel inkl. 51 Pool-Villen, Pool mit Blick auf die Dünen, 200 km/2 h von Abu Dhabi, Bauinvestition 176 Mio. $",
+  "story": "Struktur A: Mystery – ein Palast mitten im größten Sandmeer der Erde, wo es keinen Grund für ein Hotel gibt → Enthüllung: gebaut 2009 als Staatsprojekt für den Wüstentourismus, Dünen bis 300 m; Haken: 2 Stunden Fahrt, kein Meer – dafür Sterne",
+  "dach": "DACH-Rundreise-/Kombiziel (Abu Dhabi + Wüste), Nische; Thema trägt über das Bild, nicht über Buchungsvolumen",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „qasr al sarab“: kein Treffer; Liwa-Dünen gefunden: Alex_Kane „Empty Quarter Desert Dunes at Liwa Abu Dhabi“, aerostocklab „Sand dunes in Arabian desert aerial view. Liwa, Abu Dhabi“ + icetray Dünen-Serie (Slug Liwa) → Umbau: Dünen-Totale + Grafik/Pressebild des Resorts",
+  "footage_umfeld": "Liwa/Empty Quarter gefunden (s. o.); Pexels „liwa desert“: nur generische Wüste/Dubai (26792455, 34392959, 8397874)",
+  "quellen": [
+   "thenational.ae 2009 (Eröffnung, 176 Mio. $)",
+   "guide.michelin.com",
+   "livawards.com (Zimmerzahlen 2022)",
+   "etihad.com Hotelseite"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 8,
+   "dach": 7
+  },
+  "empfehlung": "Reserve: visuell top, Dünen-Footage da, Resort selbst nicht im Stock – nur mit Anantara-Pressematerial produktionsbereit."
+ },
+ {
+  "hotel": "The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert",
+  "ort": "Wadi Khadeja, Ras Al Khaimah",
+  "land": "VAE",
+  "eroeffnet": "2009 als Banyan Tree Al Wadi, seit 2016 Ritz-Carlton (prüfen)",
+  "besonderheit": "Reines Villen-Resort (101–109 Villen), jede mit eigenem temperierten Pool, kein Gemeinschaftspool; 500 ha (1.235 Acres) Wüstenreservat mit Arabischen Oryx, Sandgazellen (2020: über 135 Tiere), Wüstenfüchsen; 1 h von Dubai",
+  "story": "Struktur E: Erlebnis – beim Frühstück steht eine Oryx am Pool → Haken: Tiere nicht füttern, Pool ist deiner allein, denn einen großen Hotelpool gibt es nicht; zweites Aha: RAK ist Deutschlands neuer Emirate-Favorit",
+  "dach": "Ras Al Khaimah wächst im deutschen Markt am stärksten (RAK TDA: deutscher Markt „zentrale Rolle“, 1,28 Mio. Ankünfte 2024); Hotel bei DERTOUR/TUI Deluxe",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „al wadi desert ras al khaimah“ und „ras al khaimah resort“: kein Resort-Treffer (nur Wadi Rum/Jordanien); RAK-Umfeld gefunden: AmazingAerial „Aerial view of Jebel Jais mountains, Ras Al Khaimah“; Oryx-/Gazellen-Clips nicht geprüft (Envato „arabian oryx“ offen)",
+  "footage_umfeld": "Ras Al Khaimah generisch: Envato AmazingAerial „Aerial view of Jebel Jais mountains, Ras Al Khaimah“, „Aerial view of rugged desert mountains and valley, UAE“; Pexels „ras al khaimah“ ohne RAK-Treffer (nur Dubai/Jeddah/Baku) → Küste/Al Marjan nicht belegt",
+  "quellen": [
+   "arabnews.pk 1729041 (Gazellen 2020)",
+   "audleytravel.com (Villen, Pools)",
+   "wingedboots.co.uk (Reservat)",
+   "factmagazines.com Review",
+   "agbi.com (RAK 1,28 Mio. 2024)",
+   "touristik-aktuell.de (deutscher Markt RAK)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Starke Story für DACH (RAK-Boom), aber Hotel- und Tier-Footage offen – Reserve bis Marriott-Pressematerial/Oryx-Clips geprüft."
+ },
+ {
+  "hotel": "Anantara Mina Al Arab Ras Al Khaimah Resort",
+  "ort": "Mina Al Arab, Ras Al Khaimah",
+  "land": "VAE",
+  "eroeffnet": "Ende 2023 (Q4; Meldungen Januar 2024)",
+  "besonderheit": "Erste Überwasservillen der Emirate im Malediven-Stil, jede mit Plunge-Pool und eigener Strand-Cabana; 174 Zimmer/Suiten/Villen auf aufgeschütteter Landzunge; 45 Min. vom Flughafen Dubai",
+  "story": "Struktur B: Erwartung „Wasservilla = Malediven, 10 Flugstunden“ → Realität: 6 Stunden nach Dubai, 45 Minuten Transfer, Mangroven statt Riff; Haken: Lagune, kein Korallenriff – schnorcheln fährt man woanders",
+  "dach": "RAK/Dubai-Direktflüge, Malediven-Alternative für Winterferien; Hotel bei DERTOUR, TUI",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Malediven-Themen (H02, H31 im Plan v3) sind Naturthemen, keine Dublette",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „anantara mina al arab“: nur Wüsten-/Minen-Clips; „al marjan island“: nur Marjan-Insel Saudi-Arabien; Pexels „ras al khaimah“: keine RAK-Treffer",
+  "footage_umfeld": "Ras Al Khaimah generisch: Envato AmazingAerial „Aerial view of Jebel Jais mountains, Ras Al Khaimah“, „Aerial view of rugged desert mountains and valley, UAE“; Pexels „ras al khaimah“ ohne RAK-Treffer (nur Dubai/Jeddah/Baku) → Küste/Al Marjan nicht belegt",
+  "quellen": [
+   "touristik-aktuell.de „Ras Al Khaimah mit ersten Overwater-Villen“",
+   "arabianbusiness.com",
+   "anantara.com (Over Water Pool Villa)",
+   "luxurytravelmag.com.au (174 Schlüssel, 45 Min. DXB)",
+   "factmagazines.com"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Reserve: Thema perfekt für DACH-Winter, aber ohne jegliches Footage (auch Umfeld schwach) nicht produktionsbereit."
+ },
+ {
+  "hotel": "Jumeirah Marsa Al Arab",
+  "ort": "Jumeirah Beach, Dubai (neben Burj Al Arab)",
+  "land": "VAE",
+  "eroeffnet": "14. März 2025",
+  "besonderheit": "Vollendet die Dubai-Trilogie Welle (Jumeirah Beach Hotel) – Segel (Burj Al Arab) – Superyacht (Marsa Al Arab, Architekt Shaun Killa, auch Museum of the Future); 386 Zimmer/Suiten + 82 Residenzen, alle mit Terrasse zum Golf; 82-Liegeplatz-Superyacht-Marina mit eigener Zoll-/Einreiseabfertigung; 5 Pools, zwei Privatstrände, 3.500 m² Spa",
+  "story": "Struktur A: Mystery – drei Gebäude am selben Strand erzählen eine Geschichte: Welle, Segel, … was fehlt? → Enthüllung: die Yacht, 2025 eröffnet, 28 Jahre nach dem Segel; Haken: Terrassen, die aus der Fassade kippen (einziehbare Glaswände)",
+  "dach": "Jumeirah-Strand ist DACH-Dubai-Kern; Neueröffnung 2025 = Neuigkeitswert; Burj Al Arab war bereits Special (V-D01) – neues Thema ist die Trilogie/das dritte Haus",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · Burj Al Arab ausgeschlossen; hier nur als Nachbar im Bild",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „marsa al arab jumeirah“: nur Burj-Al-Arab-/Jumeirah-Beach-Clips (tampatra, CineGeek, imger, DroneCaptain); neues Gebäude nicht im Titel → Stand 2025/26 in Drohnen-Totalen vermutlich im Bild, aber unbelegt; Pressematerial Jumeirah nötig",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar); Envato Burj-Al-Arab-Umfeld (PD-media „Burj Al Arab luxury hotel in Dubai“, tampatra Luftbilder); Pexels 36432567 „scenic dubai marina with burj al arab“",
+  "quellen": [
+   "khaleejtimes.com (Eröffnung, Raten)",
+   "thenationalnews.com 2021/2023 (Trilogie, Killa)",
+   "theluxuryeditor.com (386 Zimmer, 82 Residenzen, Marina)",
+   "scenetraveller.com (Eröffnung 14.03.2025)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 8,
+   "dach": 8
+  },
+  "empfehlung": "Sehr gute Geschichte (Trilogie), Footage des neuen Hauses aber ungesichert – Reserve bis Jumeirah-Pressematerial oder aktuelle Drohnentotale geprüft."
+ },
+ {
+  "hotel": "SLS Dubai Hotel & Residences (Privilege-Pools)",
+  "ort": "Business Bay, Dubai",
+  "land": "VAE",
+  "eroeffnet": "5. April 2021; Rooftop-Club Privilege Dezember 2021",
+  "besonderheit": "Zwei Infinity-Pools im 75. Stock auf 325 m – laut Hotel Guinness-Rekord „höchste Überlaufpools“; Nutzung ab 21, Kinderpool im 6. Stock; Nachtclub im Dach",
+  "story": "Struktur B: Erwartung „Pool auf dem Dach = Hotelgast schwimmt oben“ → Realität: oben nur ab 21 und mit Mindestverzehr, Familien schwimmen im 6. Stock; schwächer als Address (Rekord konkurriert, Hotel ohne Strand)",
+  "dach": "Dubai-Stadt, Business Bay – DACH eher Städtereise; Pool-Rekord konkurriert mit Address Beach Resort (Verwirrung „höchster Pool“)",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "verfügbar, ungeprüft",
+  "footage_hotel_belege": "Envato „sls dubai“: BlackBoxGuild „Underview from the street of the SLS Building Residences and Hotel in Business Bay, Dubai“ (Gebäude von unten); Pool nicht gefunden",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar); Envato CineHut „TimeLapse of Business Bay“, Stockagent_io Kanal",
+  "quellen": [
+   "slshotels.com (325 m, Level 75, Altersregel)",
+   "press.accor.com (Eröffnung 05.04.2021)",
+   "businesstraveller.com 12.12.2021 (Privilege)",
+   "whatson.ae"
+  ],
+  "score": {
+   "hook": 8,
+   "visual": 9,
+   "story": 6,
+   "dach": 7
+  },
+  "empfehlung": "Nicht aufnehmen – Address Beach Resort deckt das Rekordpool-Thema stärker ab (Strandlage, Guinness-Dokument, Footage)."
+ },
+ {
+  "hotel": "Aura Skypool (Palm Tower; St. Regis Dubai, The Palm im selben Turm)",
+  "ort": "Palm Jumeirah, Dubai",
+  "land": "VAE",
+  "eroeffnet": "15. November 2021",
+  "besonderheit": "Welthöchster 360°-Infinity-Pool: 50. Stock, 200 m Höhe, 750 m² Wasserfläche rund um den Turm, auch für Nicht-Hotelgäste (Tickets); Rekordstreit mit Address Beach Resort („höchster Pool“ vs. „höchster 360°-Pool“); Betreiber Sunset Hospitality, Entwickler Nakheel",
+  "story": "Struktur C/B: Zwei Hotels streiten, wer den höchsten Pool hat → Wendung: beide haben recht (Rekorddefinitionen) – Pointe: Dubai hat sogar einen Rekord für den Rekordstreit; nutzbar als Doppel-Reel mit Address",
+  "dach": "Palm Jumeirah/Dubai-Ausflug; Ticketangebot für Tagesgäste = Nutzwert für DACH-Urlauber",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „aura skypool dubai“ und „dubai rooftop infinity pool“: kein Aura-/Palm-Tower-Treffer (nur Stockagent_io „Skyscrapers with Pool in Cityscape of Dubai“, BlackBoxGuild „Vida Emirates Hills pool“); Pexels „dubai infinity pool“: generische Rooftop-Pools 29186857, 31387522, 11782814, 38401076 (Ort unklar)",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar)",
+  "quellen": [
+   "cnn.com (Eröffnung, 200 m, 360°)",
+   "thenationalnews.com (50. Stock, Palm Tower)",
+   "factmagazines.com (750 m²)",
+   "nzherald.co.nz (Rekordstreit mit Address)"
+  ],
+  "score": {
+   "hook": 9,
+   "visual": 9,
+   "story": 7,
+   "dach": 8
+  },
+  "empfehlung": "Nur als Zusatzbeat im Address-Reel (Rekordstreit) verwenden, solange kein Aura-Footage vorliegt."
+ },
+ {
+  "hotel": "Hampton by Hilton Marjan Island",
+  "ort": "Al Marjan Island, Ras Al Khaimah",
+  "land": "VAE",
+  "eroeffnet": "1. Juli 2021",
+  "besonderheit": "Größtes Hampton by Hilton der Welt (515 Zimmer, die Hälfte verbindbar), 750 m Strand, Infinity-Pool; Entwicklungswert 450 Mio. AED – Budgetmarke am Strand",
+  "story": "Struktur B: Erwartung „Hampton = Autobahnhotel“ → Realität: 750 m Strand und Infinity-Pool am Golf; Pointe schwach, weil visuell nicht außergewöhnlich",
+  "dach": "RAK/Preis-Leistung für DACH-Familien – Thema überschneidet sich mit den Oktober-Budget-Reels (Dubai mit kleinem Budget, 5 Dubai-Hotels günstiger als gedacht)",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft · thematische Nähe zu Oktober-Reel „Dubai mit kleinem Budget“ (22.10.) und Serie A6",
+  "footage_hotel_status": "nicht gefunden",
+  "footage_hotel_belege": "Envato „al marjan island“: nur Marjan-Insel Saudi-Arabien; nicht hotelspezifisch gefunden",
+  "footage_umfeld": "Ras Al Khaimah generisch: Envato AmazingAerial „Aerial view of Jebel Jais mountains, Ras Al Khaimah“, „Aerial view of rugged desert mountains and valley, UAE“; Pexels „ras al khaimah“ ohne RAK-Treffer (nur Dubai/Jeddah/Baku) → Küste/Al Marjan nicht belegt",
+  "quellen": [
+   "businesstraveller.com 12.07.2021",
+   "thenationalnews.com 04.10.2021",
+   "gulfbusiness.com (Dhs450m)",
+   "hospitalitynet.org 41006617"
+  ],
+  "score": {
+   "hook": 6,
+   "visual": 6,
+   "story": 5,
+   "dach": 8
+  },
+  "empfehlung": "Nicht aufnehmen (nicht außergewöhnlich, kein Footage, Budget-Thema bereits bespielt)."
+ },
+ {
+  "hotel": "FIVE Palm Jumeirah",
+  "ort": "Palm Jumeirah, Dubai",
+  "land": "VAE",
+  "eroeffnet": "2017 (nicht bestätigt; ex Viceroy Palm Jumeirah)",
+  "besonderheit": "470–477 Zimmer, 60-m-„Social Pool“ als Mittelpunkt, 150-m-Beach-Club mit Glaspool; bekannt als Party-Hotel (Pool-Partys, DJ)",
+  "story": "Struktur B: Erwartung Palm-Luxus → Realität Dauerparty; passt nicht zur Familien-/Premium-Positionierung von haydi-weg",
+  "dach": "Bei schauinsland/TUI gelistet, aber Zielgruppe Party/Adults – geringe Passung",
+  "dubletten_status": "neu (gegen Specials v37, Oktober-Skripte und Plan v3 geprüft) · gegen Live-Konto ungeprüft",
+  "footage_hotel_status": "gefunden",
+  "footage_hotel_belege": "Envato „five palm jumeirah“: world_footage „Aerial video of a hotel located on the Palm Island in Dubai, FIVE Palm Jumeirah Hotel“ (4 Clips)",
+  "footage_umfeld": "Dubai/Palm generisch gefunden: Envato PD-media „Drone shot of Palm Jumeirah outer crescent“, AmazingAerial Palm/Marina, Reinis-Kaspars Palm-Sonnenaufgang, BlackBoxGuild JBR/Marina; Pexels 35548964, 35355476 (Marina + Palm aerial), 18084228, 19608046 (Palm Jumeirah), 32200866, 34470151, 35396365/66, 31942008/09 (Skyline), 29186857/31387522/11782814/38401076 (Rooftop-Pools in Dubai, Hotel unklar)",
+  "quellen": [
+   "schauinsland-reisen.de Hotel 599714",
+   "dotwnews.com (60-m-Pool)",
+   "onthebeach.co.uk (Beach by FIVE 150 m)",
+   "Intourist Fact Sheet (PDF, 470 Zimmer)"
+  ],
+  "score": {
+   "hook": 7,
+   "visual": 8,
+   "story": 4,
+   "dach": 6
+  },
+  "empfehlung": "Nicht aufnehmen (Party-Positionierung passt nicht zur Marke), trotz vorhandenem Footage."
+ }
+]

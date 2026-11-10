@@ -1,0 +1,22 @@
+H10 · Mo 30.11.2026 · Fakt oder Fake? #4 · Am Strand von Antalya steht der Kreml
+================================================================================
+Struktur D (Visuelles Rätsel → Erklärung) · Themenwelt Hotel-Legenden · Ziel ca. 28 s
+
+Wörter: 60 · geschätzt ca. 24 s (vorläufig)
+
+--- GESAMTTEXT (in ElevenLabs einfügen) ---
+Fakt oder Fake: Am Strand von Antalya steht der Kreml.
+[curious] Rote Mauern, goldene Kuppeln, Zwiebeltürme. Und davor: Liegen, Sand, Mittelmeer.
+Das ist Lara. Hier haben Hoteliers ganze Weltstädte nachgebaut – als Hotels.
+Ein paar Hundert Meter weiter liegt Venedig: Markusplatz, Dogenpalast, ein Campanile – mit Bar.
+Und dann das Schiff: ein Kreuzfahrtschiff, das nie ablegt. Mit Bullaugen – und Pool statt Meer. Fakt.
+
+--- NACH SZENEN ---
+Szene 1: Fakt oder Fake: Am Strand von Antalya steht der Kreml.
+Szene 2: [curious] Rote Mauern, goldene Kuppeln, Zwiebeltürme. Und davor: Liegen, Sand, Mittelmeer.
+Szene 3: Das ist Lara. Hier haben Hoteliers ganze Weltstädte nachgebaut – als Hotels.
+Szene 4: Ein paar Hundert Meter weiter liegt Venedig: Markusplatz, Dogenpalast, ein Campanile – mit Bar.
+Szene 5: Und dann das Schiff: ein Kreuzfahrtschiff, das nie ablegt. Mit Bullaugen – und Pool statt Meer. Fakt.
+
+--- ENDKARTE (Grafiktext, nur Grafik) ---
+HOTEL-LEGENDEN · Fakt oder Fake? #4 → Montag: Seen, die ihre Dämme selbst bauen

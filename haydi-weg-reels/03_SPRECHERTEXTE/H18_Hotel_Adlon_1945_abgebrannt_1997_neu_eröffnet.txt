@@ -23,4 +23,4 @@ Szene 6: Neunzehnhundertsiebenundneunzig öffnet das Adlon wieder. Gleiche Adres
 Szene 7: Die Legende ist echt. Das Haus ist jünger, als du denkst.
 
 --- ENDKARTE (Grafiktext, nur Grafik) ---
-HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Polarkreis-Linie beim Weihnachtsmann stimmt nicht mehr
+HOTEL-LEGENDEN · Reisewissen #6 → Freitag: Die Villen, die einen Kilometer vor der Insel stehen

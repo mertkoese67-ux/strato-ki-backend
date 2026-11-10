@@ -1,6 +1,6 @@
 # CapCut-Schnittplan H20 · Santorinis begehrteste Suiten waren Armenhöhlen
 
-Mi 23.12.2026 · Was dir keiner sagt #7 · Griechenland (Santorini, Oia) · Themenwelt Alte Welten · Struktur E (Außergewöhnliches Erlebnis → überraschender Haken)
+Mi 23.12.2026 · Was dir keiner sagt #7 · Griechenland (Santorini, Oia) · Themenwelt Alte Welten · Struktur B (Erwartung → überraschende Realität)
 
 **Format:** 9:16 · 1080×1920 · 30 fps · **Timecode:** HH:MM:SS:FF · **Gesamt (vorläufig):** 00:00:33:09 (33.3 s, Ziel ca. 30 s)
 
