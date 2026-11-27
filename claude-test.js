@@ -62,7 +62,17 @@ function makeServer(call = globalThis.fetch) {
           messages:[{role:'user',content:[{type:'document',source:{type:'base64',media_type:'application/pdf',data}},{type:'text',text:'Lies dieses Avis aus.'}]}],
           output_config:{format:{type:'json_schema',schema}}})
       });
-      if (!response.ok) return fail(res,502,`Claude-API meldet HTTP ${response.status}.`);
+      if (!response.ok) {
+        // Diagnose nur an den bereits authentifizierten Pilot-Client senden.
+        const info = await response.json().catch(() => ({}));
+        let detail = typeof info?.error?.message === 'string' ? info.error.message : 'Keine weitere JSON-Fehlerbeschreibung.';
+        for (const secret of [process.env.ANTHROPIC_API_KEY, process.env.CLAUDE_TEST_TOKEN]) {
+          if (secret) detail = detail.split(secret).join('[ENTFERNT]');
+        }
+        detail = detail.replace(/sk-ant-[A-Za-z0-9_-]+/g, '[ENTFERNT]').slice(0, 1000);
+        return send(res,502,{erfolg:false,fehler:`Claude-API meldet HTTP ${response.status}.`,
+          anthropic_status:response.status, detail});
+      }
       const reply=await response.json();
       if (reply.stop_reason!=='end_turn') return fail(res,502,'Analyse nicht vollständig abgeschlossen.');
       const result=JSON.parse(reply.content.filter(x=>x.type==='text').map(x=>x.text).join(''));
